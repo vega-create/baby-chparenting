@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby names", "names meaning warrior", "fighter baby names", "fierce names", "boy names", "girl names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/9423868/pexels-photo-9423868.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,9 +15,11 @@ Warrior names carry an unmistakable energy. They speak of battles won, obstacles
 
 From the Norse battlefields to the samurai traditions of Japan, warrior names come from every corner of the globe. These names are not limited to boys — many of the most powerful warrior names belong to girls, honoring the fierce women who fought alongside men throughout history. The 40 names below celebrate the warrior spirit in all its forms.
 
-> 📌 **Key Takeaway:** Warrior and fighter names come from dozens of cultures and carry meanings that go beyond physical combat. They represent inner strength, determination, and the courage to stand up for what matters.
+> 📌 **Key Takeaway:** Warrior and fighter names come from dozens of cultures and carry meanings that go beyond physical combat. They represent inner strength, determination, and the courage to stand up for what matters. For more powerful name options, see our companion lists of [baby names meaning brave](/blog/names-meaning-brave/) and [baby names meaning strength](/blog/names-meaning-strength/).
 
-![Strong little baby](https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=800)
+Norse and Celtic warrior names are especially popular --- explore our guides to [Scandinavian baby names](/blog/scandinavian-baby-names/) and [Irish baby names](/blog/irish-baby-names/).
+
+![Strong little baby](https://images.pexels.com/photos/9423868/pexels-photo-9423868.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names That Mean Warrior or Fighter
 

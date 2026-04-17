@@ -7,7 +7,7 @@ category: "sleep"
 tags: ["sleep training", "Ferber method", "cry it out", "gentle sleep training", "baby sleep methods"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662947/pexels-photo-3662947.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/6392892/pexels-photo-6392892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,11 +15,11 @@ Choosing a sleep training method is one of the biggest decisions new parents fac
 
 > 📌 **Key Takeaway:** All evidence-based sleep training methods work when applied consistently. The AAP confirms that sleep training does not cause long-term harm to babies. Most families see significant improvement within 3–7 days regardless of the method chosen, as long as they remain consistent.
 
-![Baby sleeping peacefully in crib](https://images.pexels.com/photos/3662947/pexels-photo-3662947.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Baby sleeping peacefully in crib](https://images.pexels.com/photos/6392892/pexels-photo-6392892.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## When Can You Start Sleep Training?
 
-Most pediatricians and sleep consultants recommend starting sleep training between 4 and 6 months of age. Before 4 months, babies lack the neurological maturity to self-soothe effectively, and their sleep architecture is still developing (the 4-month sleep regression marks the permanent shift to adult-style sleep cycles).
+Most pediatricians and sleep consultants recommend starting sleep training between 4 and 6 months of age. Before 4 months, babies lack the neurological maturity to self-soothe effectively, and their sleep architecture is still developing (the [4-month sleep regression](/blog/baby-sleep-regression-guide/) marks the permanent shift to adult-style sleep cycles).
 
 ### Sleep Training Readiness Checklist
 
@@ -41,8 +41,8 @@ Here is a comprehensive comparison of the six most popular sleep training method
 | Method | Crying Level | Parent Involvement | Typical Timeline | Best For | Age Range |
 |--------|-------------|-------------------|------------------|----------|-----------|
 | **Cry It Out (Extinction)** | High initially | Minimal — leave room | 3–5 days | Decisive parents, resilient babies | 6+ months |
-| **Ferber (Graduated Extinction)** | Moderate-high | Timed check-ins | 4–7 days | Parents who need structure | 4–6+ months |
-| **Chair Method (Camping Out)** | Low-moderate | Stay in room, gradually move away | 2–3 weeks | Anxious parents, sensitive babies | 4+ months |
+| **[Ferber (Graduated Extinction)](/blog/ferber-method-guide/)** | Moderate-high | Timed check-ins | 4–7 days | Parents who need structure | 4–6+ months |
+| **[Chair Method (Camping Out)](/blog/chair-method-sleep-training/)** | Low-moderate | Stay in room, gradually move away | 2–3 weeks | Anxious parents, sensitive babies | 4+ months |
 | **Pick Up Put Down** | Low-moderate | Pick up to calm, put down when calm | 1–3 weeks | Hands-on parents, younger babies | 4–8 months |
 | **No Cry (Pantley)** | Minimal | High — gentle removal of sleep associations | 4–12 weeks | Parents who want no crying | 4+ months |
 | **Fading (Gentle Removal)** | Low | Gradually reduce help over time | 2–6 weeks | Parents who want slow transition | 4+ months |
@@ -212,7 +212,7 @@ Absolutely. Sleep training and breastfeeding are not mutually exclusive. You can
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/3662947/pexels-photo-3662947.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://images.pexels.com/photos/6392892/pexels-photo-6392892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750",
         "width": 1200,
         "height": 630
       },

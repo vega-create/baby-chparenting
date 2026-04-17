@@ -7,15 +7,15 @@ category: "sleep"
 tags: ["breastfeeding", "sleep training", "night weaning", "dream feed", "milk supply", "nursing and sleep"]
 author: "Hannah Lewis"
 authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
-image: "https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/7491270/pexels-photo-7491270.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
-One of the most common fears breastfeeding mothers have about sleep training is that it will hurt their milk supply or force premature weaning. The truth is that sleep training and breastfeeding are completely compatible — thousands of families successfully do both every day. With the right approach, your baby can learn to fall asleep independently while maintaining a strong breastfeeding relationship and protecting your milk production.
+One of the most common fears breastfeeding mothers have about sleep training is that it will hurt their milk supply or force premature weaning. The truth is that sleep training and breastfeeding are completely compatible — thousands of families successfully do both every day. With the right approach, your baby can learn to fall asleep independently while maintaining a strong [breastfeeding](/blog/breastfeeding-basics-for-beginners/) relationship and protecting your milk production.
 
 > 📌 **Key Takeaway:** Sleep training does not require night weaning. You can teach your baby to fall asleep independently at bedtime while still offering nighttime feeds. Separating the feeding-to-sleep association from actual nighttime nutrition is the key. Most breastfed babies can drop night feeds between 6 and 9 months when they're getting adequate daytime calories.
 
-![Mother with baby in nursery](https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Mother with baby in nursery](https://images.pexels.com/photos/7491270/pexels-photo-7491270.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Sleep Training vs. Night Weaning: They're Different
 
@@ -26,7 +26,7 @@ This distinction is critical and often misunderstood:
 | **Sleep training** | Teaching baby to fall asleep independently at bedtime | 4–6 months |
 | **Night weaning** | Eliminating nighttime feeds | 6–9 months (with pediatrician approval) |
 
-You can do one without the other. Many families sleep train at 4–5 months while continuing 1–2 night feeds, then gradually night wean later when baby is ready.
+You can do one without the other. Many families sleep train at 4–5 months while continuing 1–2 [night feeds](/blog/night-feeding-tips-and-schedule/), then gradually night wean later when baby is ready.
 
 > 💡 **Tip:** The goal of sleep training for breastfeeding moms is NOT to eliminate night feeds immediately. It's to break the feed-to-sleep association so that baby can fall asleep without nursing at bedtime. Nighttime feeds can continue as needed — you just want to make sure baby isn't using nursing as a sleep tool at the beginning of the night.
 
@@ -181,7 +181,7 @@ Most healthy, full-term breastfed babies who are gaining weight well can sleep 1
       "dateModified": "2026-04-17T00:00:00Z",
       "author": {"@id": "https://baby.chparenting.com/author/hannah-lewis/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
-      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
+      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/7491270/pexels-photo-7491270.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/breastfeeding-and-sleep-training/"},
       "wordCount": 2500,
       "articleSection": "Sleep",

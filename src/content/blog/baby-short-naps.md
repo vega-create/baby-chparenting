@@ -7,15 +7,15 @@ category: "sleep"
 tags: ["short naps", "nap cycles", "nap extending", "baby napping", "30 minute naps"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/10998327/pexels-photo-10998327.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
 You finish the feed, the rocking, the careful transfer — and exactly 30 minutes later, your baby's eyes pop open. Every. Single. Nap. The 30-minute nap is one of the most common and frustrating sleep challenges parents face, and it's rooted in how baby sleep cycles work. Understanding the science behind short naps is the first step to fixing them — or accepting them when they're age-appropriate.
 
-> 📌 **Key Takeaway:** Baby sleep cycles are 30–45 minutes long. Short naps happen when a baby can't transition between sleep cycles independently. Before 5–6 months, short naps are developmentally normal. After 6 months, they can usually be extended with the right techniques — primarily teaching independent sleep skills and optimizing the sleep environment.
+> 📌 **Key Takeaway:** Baby sleep cycles are 30–45 minutes long. Short naps happen when a baby can't transition between sleep cycles independently. Before 5–6 months, short naps are developmentally normal. After 6 months, they can usually be extended with the right techniques — primarily teaching independent sleep skills and optimizing the [sleep environment](/blog/baby-sleep-environment/).
 
-![Sleeping baby in peaceful setting](https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Sleeping baby in peaceful setting](https://images.pexels.com/photos/10998327/pexels-photo-10998327.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## The Science of Baby Sleep Cycles
 
@@ -28,7 +28,7 @@ Unlike adult sleep cycles (which last 90–120 minutes), baby sleep cycles are m
 | 6–12 months | 45–60 minutes | Similar to adult pattern — light sleep between cycles |
 | 12+ months | 60–90 minutes | Approaching adult cycle length |
 
-At the end of each sleep cycle, every human — baby and adult — briefly rouses to a near-waking state. Adults transition seamlessly to the next cycle because we've learned to self-soothe (adjusting the pillow, rolling over). Babies who haven't learned this skill wake up fully instead.
+At the end of each sleep cycle, every human — baby and adult — briefly rouses to a near-waking state. Adults transition seamlessly to the next cycle because we've learned to self-soothe (adjusting the pillow, rolling over). Babies who haven't learned this skill wake up fully instead. This is where [sleep training](/blog/baby-sleep-training-methods/) can help.
 
 ### Why the 30-Minute Mark?
 
@@ -147,7 +147,7 @@ Yes, this is very common and completely normal for babies 7+ months. Many babies
       "dateModified": "2026-04-12T00:00:00Z",
       "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
-      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
+      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/10998327/pexels-photo-10998327.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/baby-short-naps/"},
       "wordCount": 2000,
       "articleSection": "Sleep",

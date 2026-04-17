@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby name Theodore", "Theodore meaning", "Theodore origin", "boy names", "popular baby names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/14169652/pexels-photo-14169652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Theodore is the gentle giant of baby names --- a name that means "gift of God" a
 
 > 📌 **Key Takeaway:** Theodore is a Greek name meaning "gift of God" from *theos* (God) and *doron* (gift). It has surged into the US top 10 in recent years and offers the beloved nicknames Theo, Ted, and Teddy.
 
-![Sweet baby in a warm blanket](https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Sweet baby in a warm blanket](https://images.pexels.com/photos/14169652/pexels-photo-14169652.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Name Meaning and Origin
 
@@ -23,7 +23,9 @@ Theodore comes from the Greek name Theodoros (Θεόδωρος), composed of two
 
 The name has been used since the early Christian era. Multiple saints bore the name Theodore, including Theodore of Amasea, a Roman soldier martyred for his faith. The name was also common in the Byzantine Empire, where several emperors were named Theodoros.
 
-In American history, Theodore Roosevelt (1858--1919) is the name's most famous bearer. The 26th president was known for his boundless energy, conservation work, and the origin of the "teddy bear" --- which was named after him. This presidential association gives Theodore a connotation of vigor, adventure, and strong leadership.
+In American history, Theodore Roosevelt (1858--1919) is the name's most famous bearer. The 26th president was known for his boundless energy, conservation work, and the origin of the "teddy bear" --- which was named after him. This presidential association gives Theodore a connotation of vigor, adventure, and strong leadership. For more Greek-origin names, explore our guide to [Greek baby names](/blog/greek-baby-names/).
+
+Parents who love Theodore's dignified feel may also enjoy [the name Oliver](/blog/name-oliver/) and our list of [baby names meaning wisdom](/blog/names-meaning-wisdom/).
 
 ### Pronunciation Guide
 

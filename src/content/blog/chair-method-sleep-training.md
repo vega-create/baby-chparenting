@@ -7,15 +7,15 @@ category: "sleep"
 tags: ["chair method", "gradual retreat", "gentle sleep training", "camping out", "baby sleep"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3661263/pexels-photo-3661263.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/207799/pexels-photo-207799.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
 The Chair Method — also called "Camping Out" or "Gradual Retreat" — is one of the gentlest structured sleep training approaches available. It allows you to stay in the room with your baby while they learn to fall asleep independently. Over the course of 2–3 weeks, you gradually move your chair farther from the crib until you're no longer in the room. For parents who feel anxious about leaving their baby alone to cry, this method offers a comforting middle ground.
 
-> 📌 **Key Takeaway:** The Chair Method works by gradually reducing your presence at sleep onset over 2–3 weeks. You start sitting right next to the crib and slowly move farther away every 3 nights until you're outside the room. It produces less crying than Ferber or CIO but takes 2–3 weeks instead of 3–7 days.
+> 📌 **Key Takeaway:** The Chair Method works by gradually reducing your presence at sleep onset over 2–3 weeks. You start sitting right next to the crib and slowly move farther away every 3 nights until you're outside the room. It produces less crying than [Ferber](/blog/ferber-method-guide/) or CIO but takes 2–3 weeks instead of 3–7 days.
 
-![Nursery with crib and chair](https://images.pexels.com/photos/3661263/pexels-photo-3661263.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Nursery with crib and chair](https://images.pexels.com/photos/207799/pexels-photo-207799.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Why the Chair Method Works for Anxious Parents
 
@@ -24,7 +24,7 @@ The Chair Method — also called "Camping Out" or "Gradual Retreat" — is one o
 | "I can't leave my baby to cry alone" | You don't — you're in the room the entire time (initially) |
 | "I need to see that my baby is safe" | You can observe baby throughout the process |
 | "I'm worried about attachment damage" | Gradual withdrawal maintains connection while building independence |
-| "Other methods feel too abrupt" | This is the most gradual structured approach available |
+| "Other methods feel too abrupt" | This is the most gradual structured approach available — see also [gentle sleep training](/blog/gentle-sleep-training/) |
 | "My baby has separation anxiety" | Your presence reduces anxiety while teaching independent sleep |
 
 > 📊 **Key Data:** A study published in *Sleep Medicine Reviews* found that parental presence-based interventions (including the Chair Method) produced equivalent long-term sleep outcomes compared to extinction-based methods, with lower parental stress during the training period.
@@ -159,7 +159,7 @@ Yes, but it requires patience. Start with the twin who is the better sleeper (th
       "dateModified": "2026-04-15T00:00:00Z",
       "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
-      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3661263/pexels-photo-3661263.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
+      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/207799/pexels-photo-207799.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/chair-method-sleep-training/"},
       "wordCount": 2000,
       "articleSection": "Sleep",

@@ -7,15 +7,15 @@ category: "sleep"
 tags: ["sleep schedule", "baby schedule by age", "wake windows", "nap transitions", "sleep training schedule"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/10814610/pexels-photo-10814610.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
-Having the right schedule is the foundation of successful sleep training. A schedule that's too advanced (wake windows too long) or too conservative (wake windows too short) will undermine any sleep training method. This guide provides month-by-month schedules from 4 to 12 months, covering wake windows, nap counts, nap transitions, and sample daily routines. Use these as starting points and adjust based on your baby's individual cues.
+Having the right schedule is the foundation of successful sleep training. A schedule that's too advanced (wake windows too long) or too conservative (wake windows too short) will undermine any [sleep training method](/blog/baby-sleep-training-methods/). This guide provides month-by-month schedules from 4 to 12 months, covering wake windows, nap counts, nap transitions, and sample daily routines. Use these as starting points and adjust based on your baby's individual cues.
 
 > 📌 **Key Takeaway:** The ideal sleep schedule changes every 1–2 months as your baby grows. Wake windows gradually lengthen from 1.5–2 hours at 4 months to 3.5–4 hours at 12 months. The last wake window before bedtime should always be the longest of the day. Getting the schedule right makes every sleep training method work better.
 
-![Baby sleeping peacefully](https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Baby sleeping peacefully](https://images.pexels.com/photos/10814610/pexels-photo-10814610.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Master Schedule Reference Table
 
@@ -33,7 +33,7 @@ Having the right schedule is the foundation of successful sleep training. A sche
 
 ## 4-Month Schedule
 
-This is when most babies are ready to start sleep training. The 4-month sleep regression has begun or recently ended, and sleep cycles have matured.
+This is when most babies are ready to start sleep training. The [4-month sleep regression](/blog/baby-sleep-regression-guide/) has begun or recently ended, and sleep cycles have matured.
 
 ### Sample 4-Month Schedule
 
@@ -232,7 +232,7 @@ Yes, in most cases. Capping naps helps protect bedtime and ensures your baby has
       "dateModified": "2026-04-17T00:00:00Z",
       "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
-      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
+      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/10814610/pexels-photo-10814610.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/sleep-training-schedule-by-age/"},
       "wordCount": 2500,
       "articleSection": "Sleep",

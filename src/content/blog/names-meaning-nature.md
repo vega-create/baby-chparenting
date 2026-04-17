@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby names", "nature baby names", "earthy names", "botanical names", "boy names", "girl names"]
 author: "Hannah Lewis"
 authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
-image: "https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/34572610/pexels-photo-34572610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,9 +15,11 @@ Nature has always been one of the richest sources of baby name inspiration. From
 
 These names carry a built-in sense of beauty and wonder. A child named Willow, River, or Jasper grows up with a name that evokes imagery and emotion every time it is spoken. Whether you are drawn to floral names, earthy names, celestial names, or names inspired by animals and landscapes, this collection of 50 nature names offers a diverse range of options for every taste.
 
-> 📌 **Key Takeaway:** Nature-inspired names are among the fastest-growing categories in baby naming. They feel fresh, timeless, and meaningful, connecting your child to the beauty of the natural world from day one.
+> 📌 **Key Takeaway:** Nature-inspired names are among the fastest-growing categories in baby naming. They feel fresh, timeless, and meaningful, connecting your child to the beauty of the natural world from day one. For more elemental options, explore our lists of [baby names meaning ocean](/blog/names-meaning-ocean/) and [baby names meaning fire](/blog/names-meaning-fire/).
 
-![Cute baby in natural light](https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=800)
+Hawaiian culture is particularly rich in nature names --- check out our guide to [Hawaiian baby names](/blog/hawaiian-baby-names/) for more options inspired by the natural world.
+
+![Cute baby in natural light](https://images.pexels.com/photos/34572610/pexels-photo-34572610.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names Inspired by Nature
 

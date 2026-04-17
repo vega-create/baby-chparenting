@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby names", "names meaning peace", "peaceful baby names", "serene names", "boy names", "girl names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662770/pexels-photo-3662770.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/7282807/pexels-photo-7282807.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,9 +15,11 @@ In a world that often feels chaotic, naming your baby after peace is a profound 
 
 A name meaning peace does not have to sound quiet or subdued. Many of these names are vibrant and energetic, carrying their serene meaning beneath a bold exterior. Whether you want a name that whispers calm or one that boldly declares your hope for a harmonious world, this list of 35 peaceful names offers something for every family.
 
-> 📌 **Key Takeaway:** Peace-inspired names are found in virtually every language and culture on earth. They carry profound meaning without feeling heavy, making them excellent choices for parents who value calm, harmony, and hope.
+> 📌 **Key Takeaway:** Peace-inspired names are found in virtually every language and culture on earth. They carry profound meaning without feeling heavy, making them excellent choices for parents who value calm, harmony, and hope. For more serene-themed names, explore our lists of [baby names meaning nature](/blog/names-meaning-nature/) and [baby names meaning grace](/blog/names-meaning-grace/).
 
-![Peaceful sleeping baby](https://images.pexels.com/photos/3662770/pexels-photo-3662770.jpeg?auto=compress&cs=tinysrgb&w=800)
+One of the most popular peace-connected names today is Oliver, meaning "olive tree" --- read our full guide to [the name Oliver](/blog/name-oliver/).
+
+![Peaceful sleeping baby](https://images.pexels.com/photos/7282807/pexels-photo-7282807.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names That Mean Peace
 

@@ -7,7 +7,7 @@ category: "sleep"
 tags: ["newborn sleep", "baby sleep guide", "safe sleep", "sleep cues", "swaddling"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/11517553/pexels-photo-11517553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Bringing your newborn home is one of life's most magical moments — and one of 
 
 > 📌 **Key Takeaway:** Newborns sleep 14–17 hours per day in short bursts of 2–4 hours. Day-night confusion is normal and typically resolves by 6–8 weeks. Following the ABCs of safe sleep — Alone, on their Back, in a Crib — is the most critical thing you can do for your baby's safety.
 
-![Newborn baby sleeping peacefully](https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Newborn baby sleeping peacefully](https://images.pexels.com/photos/11517553/pexels-photo-11517553.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## How Much Do Newborns Sleep?
 
@@ -34,7 +34,7 @@ Newborns (0–3 months) sleep between 14 and 17 hours per day, according to the 
 
 ## Understanding Day-Night Confusion
 
-One of the most frustrating newborn sleep challenges is day-night confusion. In the womb, your baby was lulled to sleep by your daytime movements and became active when you were still at night. After birth, it takes time for their circadian rhythm to develop.
+One of the most frustrating newborn sleep challenges is [day-night confusion](/blog/baby-day-night-confusion/). In the womb, your baby was lulled to sleep by your daytime movements and became active when you were still at night. After birth, it takes time for their circadian rhythm to develop.
 
 ### How to Fix Day-Night Confusion
 
@@ -50,7 +50,7 @@ Day-night confusion typically resolves on its own by 6–8 weeks, but you can he
 
 ## The ABCs of Safe Sleep
 
-The AAP updated its safe sleep guidelines in 2022, and every new parent needs to know them. The ABCs are the simplest way to remember:
+The AAP updated its [safe sleep guidelines](/blog/baby-sleep-safety-sids-prevention/) in 2022, and every new parent needs to know them. The ABCs are the simplest way to remember:
 
 - **A — Alone:** Baby should sleep alone, without blankets, pillows, stuffed animals, or bumper pads.
 - **B — Back:** Always place baby on their back for every sleep, including naps.
@@ -117,7 +117,7 @@ Swaddling recreates the snug feeling of the womb and helps suppress the Moro (st
 
 ## Creating the Ideal Sleep Environment
 
-Your baby's sleep environment can make or break their sleep quality. Here's how to set up the perfect space:
+Your baby's [sleep environment](/blog/baby-sleep-environment/) can make or break their sleep quality. Here's how to set up the perfect space:
 
 ### Temperature
 Keep the room between 68–72°F (20–22°C). Overheating is a risk factor for SIDS. Dress your baby in one layer more than what you're comfortable wearing.
@@ -204,7 +204,7 @@ Newborns are used to the constant warmth, pressure, and motion of the womb. Bein
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://images.pexels.com/photos/11517553/pexels-photo-11517553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750",
         "width": 1200,
         "height": 630
       },

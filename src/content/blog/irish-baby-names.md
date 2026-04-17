@@ -13,7 +13,9 @@ draft: false
 
 Irish baby names are renowned for their lyrical beauty, rich mythology, and deep connection to the Gaelic language. From ancient warrior kings to beloved saints, Ireland's naming traditions reflect a culture steeped in storytelling, nature, and spiritual devotion. While some Irish names have become globally popular, many remain delightfully distinctive, offering parents a chance to give their child a name that is both meaningful and memorable. The key challenge for parents outside Ireland is often pronunciation, which is why we have included detailed phonetic guides for every name on this list.
 
-> 📌 **Key Takeaway:** Irish baby names draw from Gaelic language, Celtic mythology, and Christian saints. Pronunciation can differ dramatically from spelling (Siobhan is "shih-VAWN," not "see-oh-bahn"), so phonetic guides are essential. These names carry centuries of cultural heritage and storytelling tradition.
+> 📌 **Key Takeaway:** Irish baby names draw from Gaelic language, Celtic mythology, and Christian saints. Pronunciation can differ dramatically from spelling (Siobhan is "shih-VAWN," not "see-oh-bahn"), so phonetic guides are essential. These names carry centuries of cultural heritage and storytelling tradition. Liam, Ireland's most famous export name, has its own guide --- read more about [the name Liam](/blog/name-liam/).
+
+For more Celtic heritage names, explore our guides to [Scottish baby names](/blog/scottish-baby-names/) and [Welsh baby names](/blog/welsh-baby-names/).
 
 ![Happy baby smiling](https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=800)
 

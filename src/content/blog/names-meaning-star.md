@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby names", "names meaning star", "celestial baby names", "stellar names", "boy names", "girl names"]
 author: "Hannah Lewis"
 authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
-image: "https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/16557643/pexels-photo-16557643.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,9 +15,11 @@ Stars have captivated humanity since the beginning of time. They represent guida
 
 Celestial names come from ancient astronomy, mythology, and languages from every continent. Some names refer directly to specific stars or constellations, while others carry the broader meaning of light, sky, or heavenly body. Whether you picture your child as a steadfast North Star or a brilliant shooting star, this collection of 35 celestial names will help you find the perfect match.
 
-> 📌 **Key Takeaway:** Star and celestial names blend science, mythology, and poetry into a single beautiful choice. They carry a sense of wonder and aspiration that makes them perfect for parents who dream big for their little ones.
+> 📌 **Key Takeaway:** Star and celestial names blend science, mythology, and poetry into a single beautiful choice. They carry a sense of wonder and aspiration that makes them perfect for parents who dream big for their little ones. The name Luna, meaning "moon," is one of the most popular celestial names --- read our full guide to [the name Luna](/blog/name-luna/).
 
-![Baby looking upward](https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=800)
+For more cosmic-inspired options, see our lists of [baby names meaning light](/blog/names-meaning-light/) and [baby names meaning nature](/blog/names-meaning-nature/).
+
+![Baby looking upward](https://images.pexels.com/photos/16557643/pexels-photo-16557643.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names That Mean Star or Celestial
 

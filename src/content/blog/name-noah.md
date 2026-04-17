@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby name Noah", "Noah meaning", "Noah origin", "boy names", "popular baby names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662770/pexels-photo-3662770.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/7973585/pexels-photo-7973585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Noah is a name that carries the weight of ancient scripture and the lightness of
 
 > 📌 **Key Takeaway:** Noah is a Hebrew name meaning "rest" or "comfort." It has been a US top 3 boy name for over a decade, holding the number 1 position multiple times. Noah is universally recognized, easy to spell, and works across many cultures.
 
-![Sweet baby in a cozy setting](https://images.pexels.com/photos/3662770/pexels-photo-3662770.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Sweet baby in a cozy setting](https://images.pexels.com/photos/7973585/pexels-photo-7973585.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Name Meaning and Origin
 
@@ -23,7 +23,9 @@ Noah comes from the Hebrew name Noach (נֹחַ), derived from the root *nacham*
 
 The biblical Noah is best known as the righteous man chosen by God to build an ark and preserve life during the Great Flood. This narrative appears not only in the Hebrew Bible and Christian Old Testament but also in the Quran (where Noah is called Nuh) and in ancient Mesopotamian flood myths. The story has made Noah one of the most universally recognized names in human history.
 
-Beyond its biblical fame, Noah has a gentle, calming quality that reflects its meaning of rest and comfort. This combination of spiritual depth and soothing sound has made it irresistible to modern parents.
+Beyond its biblical fame, Noah has a gentle, calming quality that reflects its meaning of rest and comfort. This combination of spiritual depth and soothing sound has made it irresistible to modern parents. For more scripture-inspired options, see our guide to [biblical baby names](/blog/biblical-baby-names/).
+
+Parents who love the peaceful feeling of Noah may also appreciate our collection of [baby names meaning peace](/blog/names-meaning-peace/) and [baby names meaning hope](/blog/names-meaning-hope/).
 
 ### Pronunciation Guide
 

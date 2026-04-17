@@ -7,15 +7,15 @@ category: "sleep"
 tags: ["pick up put down", "PUPD method", "gentle sleep training", "Tracy Hogg", "baby sleep"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/13071792/pexels-photo-13071792.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
-The Pick Up Put Down (PUPD) method, developed by Tracy Hogg in her book *The Baby Whisperer*, is one of the most hands-on sleep training approaches available. The concept is simple: when your baby cries, you pick them up to comfort them. The moment they stop crying, you put them back down. You repeat this cycle until baby falls asleep in the crib. It's physically demanding but involves minimal sustained crying, making it a popular choice for parents who want to actively comfort their baby through the learning process.
+The Pick Up Put Down (PUPD) method, developed by Tracy Hogg in her book *The Baby Whisperer*, is one of the most hands-on sleep training approaches available. The concept is simple: when your baby cries, you pick them up to comfort them. The moment they stop crying, you put them back down. You repeat this cycle until baby falls asleep in the crib. It's physically demanding but involves minimal sustained crying, making it a popular choice for parents who want to actively comfort their baby through the learning process. For a comparison of all approaches, see our [complete sleep training methods guide](/blog/baby-sleep-training-methods/).
 
 > 📌 **Key Takeaway:** The Pick Up Put Down method teaches independent sleep by picking baby up when they cry and putting them down the instant they calm. It works best for babies 4–8 months old and typically takes 1–3 weeks. It's more physically demanding than other methods but offers continuous comfort.
 
-![Parent comforting baby](https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Parent comforting baby](https://images.pexels.com/photos/13071792/pexels-photo-13071792.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Who Is PUPD Best For?
 
@@ -143,7 +143,7 @@ PUPD is generally most effective for babies 4–8 months. Older babies (9+ month
       "dateModified": "2026-04-15T00:00:00Z",
       "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
-      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
+      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/13071792/pexels-photo-13071792.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/pick-up-put-down-method/"},
       "wordCount": 2000,
       "articleSection": "Sleep",

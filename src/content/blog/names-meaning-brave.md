@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby names", "names meaning brave", "courageous baby names", "fearless names", "boy names", "girl names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/5082645/pexels-photo-5082645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,9 +15,11 @@ Bravery is one of the most admired human qualities, and it is no surprise that p
 
 These names are not just about physical bravery. Many convey moral courage, inner resolve, and the willingness to stand up for what is right. Whether you are drawn to the classic strength of a name like Richard or the modern appeal of Koa, this collection of 45 names offers fearless options for every taste. Each entry includes its cultural origin and complete meaning to guide your decision.
 
-> 📌 **Key Takeaway:** Names meaning brave span cultures from Celtic and Germanic to Hawaiian and Japanese. They carry timeless appeal because courage never goes out of fashion, making them excellent choices for both traditional and modern families.
+> 📌 **Key Takeaway:** Names meaning brave span cultures from Celtic and Germanic to Hawaiian and Japanese. They carry timeless appeal because courage never goes out of fashion, making them excellent choices for both traditional and modern families. For more heroic options, see our lists of [baby names meaning warrior](/blog/names-meaning-warrior/) and [baby names meaning strength](/blog/names-meaning-strength/).
 
-![Sweet baby looking up](https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=800)
+Celtic bravery names have a particularly rich heritage --- discover more in our guide to [Irish baby names](/blog/irish-baby-names/) and [Scottish baby names](/blog/scottish-baby-names/).
+
+![Sweet baby looking up](https://images.pexels.com/photos/5082645/pexels-photo-5082645.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names That Mean Brave or Courageous
 

@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby name Charlotte", "Charlotte meaning", "Charlotte origin", "girl names", "popular baby names"]
 author: "Hannah Lewis"
 authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
-image: "https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/28680598/pexels-photo-28680598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Charlotte is a name that wears a crown without ever feeling pretentious. Regal y
 
 > 📌 **Key Takeaway:** Charlotte is the French feminine form of Charles, meaning "free woman" or "petite." It currently ranks in the US top 5 and received a royal boost from Princess Charlotte of Cambridge in 2015.
 
-![Baby resting in a warm blanket](https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Baby resting in a warm blanket](https://images.pexels.com/photos/28680598/pexels-photo-28680598.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Name Meaning and Origin
 
@@ -23,7 +23,9 @@ Charlotte is the French feminine diminutive of Charles, which derives from the G
 
 Charlotte first became fashionable in royal circles. Queen Charlotte of Mecklenburg-Strelitz (1744--1818), wife of King George III, brought the name to prominence in Britain. The city of Charlotte, North Carolina, was named in her honor. The name continued its aristocratic tradition into the 21st century when Prince William and Catherine Middleton named their daughter Princess Charlotte in 2015.
 
-The literary pedigree is equally impressive. Charlotte Bronte, one of the great Victorian novelists, and the character Charlotte in E.B. White's *Charlotte's Web* have both contributed to the name's beloved status in English-speaking culture.
+The literary pedigree is equally impressive. Charlotte Bronte, one of the great Victorian novelists, and the character Charlotte in E.B. White's *Charlotte's Web* have both contributed to the name's beloved status in English-speaking culture. Charlotte's French heritage pairs beautifully with other names in our [French baby names](/blog/french-baby-names/) collection.
+
+For more names associated with freedom and independence, see our list of [baby names meaning brave](/blog/names-meaning-brave/) and our guide to [the name Amelia](/blog/name-amelia/).
 
 ### Pronunciation Guide
 

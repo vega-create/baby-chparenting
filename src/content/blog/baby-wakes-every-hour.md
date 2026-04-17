@@ -7,15 +7,15 @@ category: "sleep"
 tags: ["frequent waking", "baby waking at night", "night wakings", "baby sleep problems", "sleep solutions"]
 author: "Dr. Michael Torres"
 authorUrl: "https://baby.chparenting.com/author/dr-michael-torres/"
-image: "https://images.pexels.com/photos/3662947/pexels-photo-3662947.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/3617843/pexels-photo-3617843.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
 Waking once or twice at night is normal for most babies. Waking every single hour is not — and it's absolutely exhausting for parents. If your baby is waking every hour (or more frequently), there is a reason. The key is identifying whether the cause is medical, behavioral, environmental, or developmental, and then addressing it systematically. As a pediatrician, I see this complaint frequently, and the good news is that most cases have clear, fixable causes.
 
-> 📌 **Key Takeaway:** Babies who wake every hour at night are typically dealing with one of four issues: a sleep association dependency (most common after 4 months), an environmental problem, a medical issue (reflux, allergies, ear infections), or a developmental regression. Identifying the cause is essential before choosing a solution.
+> 📌 **Key Takeaway:** Babies who wake every hour at night are typically dealing with one of four issues: a sleep association dependency (most common after 4 months), an environmental problem, a medical issue (reflux, allergies, ear infections), or a [developmental regression](/blog/baby-sleep-regression-guide/). Identifying the cause is essential before choosing a solution.
 
-![Baby awake in crib at night](https://images.pexels.com/photos/3662947/pexels-photo-3662947.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Baby awake in crib at night](https://images.pexels.com/photos/3617843/pexels-photo-3617843.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Medical vs. Behavioral Causes
 
@@ -23,7 +23,7 @@ The first step is distinguishing between medical and behavioral causes. Here's h
 
 | Factor | Medical Cause | Behavioral Cause |
 |--------|--------------|-----------------|
-| Onset | Gradual or coincides with illness | Often sudden, tied to routine change or regression |
+| Onset | Gradual or coincides with illness | Often sudden, tied to routine change or regression — [sleep training methods](/blog/baby-sleep-training-methods/) can help |
 | During the day too? | Yes — fussy, poor feeding, other symptoms | No — happy and normal during the day |
 | Responds to comfort? | Briefly or not at all | Quickly calms when held, fed, or rocked |
 | Other symptoms? | Fever, excessive spitting, pulling ears, rash | No other symptoms |
@@ -152,7 +152,7 @@ See your pediatrician if: waking is accompanied by fever, breathing issues, or o
       "dateModified": "2026-04-09T00:00:00Z",
       "author": {"@id": "https://baby.chparenting.com/author/dr-michael-torres/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
-      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3662947/pexels-photo-3662947.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
+      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3617843/pexels-photo-3617843.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/baby-wakes-every-hour/"},
       "wordCount": 2000,
       "articleSection": "Sleep",

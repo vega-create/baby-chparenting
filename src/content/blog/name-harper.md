@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby name Harper", "Harper meaning", "Harper origin", "girl names", "popular baby names"]
 author: "Hannah Lewis"
 authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
-image: "https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/4997378/pexels-photo-4997378.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,13 +15,15 @@ Harper is a name that bridges the worlds of literature and music with modern coo
 
 > 📌 **Key Takeaway:** Harper is an English occupational surname meaning "harp player." It shot into the US top 10 after the Beckhams named their daughter Harper in 2011 and has remained a top choice ever since, currently ranking around number 10.
 
-![Sweet baby in a peaceful moment](https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Sweet baby in a peaceful moment](https://images.pexels.com/photos/4997378/pexels-photo-4997378.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Name Meaning and Origin
 
 Harper originates as an Old English occupational surname, derived from the word *hearpere*, meaning "one who plays the harp." In medieval times, harp players held an honored position in courts and great halls, providing entertainment and preserving oral history through song. The harp itself has been a symbol of artistry, elegance, and Irish culture for centuries.
 
-As a given name, Harper was virtually unused until the late 20th century. Its transition from surname to first name follows the broader trend of surname-names (like Madison, Addison, and Emerson) becoming popular for girls. The literary connection to Harper Lee, author of *To Kill a Mockingbird*, gave the name intellectual cachet, while David and Victoria Beckham's choice of Harper for their daughter in 2011 launched it into the stratosphere.
+As a given name, Harper was virtually unused until the late 20th century. Its transition from surname to first name follows the broader trend of surname-names (like Madison, Addison, and Emerson) becoming popular for girls. The literary connection to Harper Lee, author of *To Kill a Mockingbird*, gave the name intellectual cachet, while David and Victoria Beckham's choice of Harper for their daughter in 2011 launched it into the stratosphere. For a similar mix of strength and femininity, explore [the name Charlotte](/blog/name-charlotte/) and [the name Luna](/blog/name-luna/).
+
+If you are drawn to names with artistic roots, you may enjoy our guide to [baby names meaning happy](/blog/names-meaning-happy/).
 
 ### Pronunciation Guide
 

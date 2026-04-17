@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby name Oliver", "Oliver meaning", "Oliver origin", "boy names", "popular baby names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/13016264/pexels-photo-13016264.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,13 +15,13 @@ Oliver is a name that brims with old-world charm and modern energy. From Dickens
 
 > 📌 **Key Takeaway:** Oliver likely derives from the Old French *olivier* meaning "olive tree," a symbol of peace and dignity. It currently ranks in the US top 5 for boys and holds the number 1 spot in England and Australia.
 
-![Baby with a gentle smile](https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Baby with a gentle smile](https://images.pexels.com/photos/13016264/pexels-photo-13016264.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Name Meaning and Origin
 
 Oliver's etymology has been debated by scholars for centuries. The most widely accepted theory traces it to the Old French name *Olivier*, derived from the Latin *olivarius* meaning "olive tree planter" or simply from *oliva* meaning "olive tree." The olive tree is an ancient symbol of peace, fruitfulness, and wisdom throughout Mediterranean cultures.
 
-An alternative theory connects Oliver to the Old Norse name *Aleifr* (ancestor of the Scandinavian Olaf), meaning "ancestor's relic" or "elf army." Through the centuries, these two name traditions likely merged in medieval France.
+An alternative theory connects Oliver to the Old Norse name *Aleifr* (ancestor of the Scandinavian Olaf), meaning "ancestor's relic" or "elf army." Through the centuries, these two name traditions likely merged in medieval France. If you are drawn to Scandinavian roots, explore our guide to [Scandinavian baby names](/blog/scandinavian-baby-names/) for more Nordic-inspired options.
 
 Oliver became famous throughout medieval Europe through the *Chanson de Roland* (Song of Roland), an 11th-century French epic poem in which Olivier is one of Charlemagne's greatest knights and Roland's closest companion. This literary association gave the name a heroic quality that endures today.
 
@@ -51,7 +51,9 @@ Oliver's popularity story is one of dramatic fall and even more dramatic rise.
 
 Oliver is currently a top 5 boy name in the US and holds the number 1 position in England, Wales, and Australia. It is also highly ranked across Scandinavia and Canada.
 
-> 💡 **Tip:** Oliver and Olivia share the same root --- both connect to the Latin olive tree. This makes them a popular (if bold) choice for boy-girl twins or close-in-age siblings.
+> 💡 **Tip:** Oliver and Olivia share the same root --- both connect to the Latin olive tree. This makes them a popular (if bold) choice for boy-girl twins or close-in-age siblings. Learn more about [the name Olivia](/blog/name-olivia/) in our dedicated guide.
+
+If you love names that carry a sense of peace, you may also enjoy our collection of [baby names meaning peace](/blog/names-meaning-peace/).
 
 ## Famous People Named Oliver
 

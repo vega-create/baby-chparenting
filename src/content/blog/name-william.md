@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby name William", "William meaning", "William origin", "boy names", "popular baby names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/161709/pexels-photo-161709.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ William is the patriarch of English boy names. It has been borne by conquerors, 
 
 > 📌 **Key Takeaway:** William is a Germanic name meaning "resolute protector" from the elements *wil* (will, desire) and *helm* (helmet, protection). It has ranked in the US top 10 almost continuously since records began and is the parent name of today's number 1 pick, Liam.
 
-![Content baby in a cozy wrap](https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Content baby in a cozy wrap](https://images.pexels.com/photos/161709/pexels-photo-161709.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Name Meaning and Origin
 
@@ -23,7 +23,9 @@ William derives from the Old German name *Willahelm*, composed of *wil* ("will, 
 
 The name was brought to England by William the Conqueror following the Norman Conquest of 1066. After the Conquest, William rapidly became the most popular male name in England, a position it held for centuries. The Normans had adopted the Germanic name and brought it to France as Guillaume before carrying it across the English Channel.
 
-William's royal legacy in England is unmatched. Four English kings named William sat on the throne, and the name continues in the current royal family with Prince William, the Prince of Wales. In literature, William Shakespeare remains perhaps the most famous bearer of the name in all of history.
+William's royal legacy in England is unmatched. Four English kings named William sat on the throne, and the name continues in the current royal family with Prince William, the Prince of Wales. In literature, William Shakespeare remains perhaps the most famous bearer of the name in all of history. William's Irish short form Liam is now the most popular boy name in America --- read more in our guide to [the name Liam](/blog/name-liam/).
+
+If royal names appeal to you, browse our collection of [baby names meaning royal](/blog/names-meaning-royal/) and our list of [French baby names](/blog/french-baby-names/).
 
 ### Pronunciation Guide
 

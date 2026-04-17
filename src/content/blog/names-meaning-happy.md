@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby names", "names meaning happy", "blessed baby names", "joyful names", "boy names", "girl names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/5215517/pexels-photo-5215517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,9 +15,11 @@ Happiness and blessedness are among the most heartfelt wishes a parent can expre
 
 These names carry an infectious positivity that brightens every introduction. They are conversation starters, mood lifters, and constant reminders of the joy a child brings. Whether you are drawn to classic options with centuries of history or modern names with fresh energy, this collection of 40 happy and blessed names has something for every family.
 
-> 📌 **Key Takeaway:** Happy and blessed names are among the most universally appealing baby name categories. They carry uplifting meanings that serve a child well throughout life, from the first day of school to the last day of a career.
+> 📌 **Key Takeaway:** Happy and blessed names are among the most universally appealing baby name categories. They carry uplifting meanings that serve a child well throughout life, from the first day of school to the last day of a career. For more positive-meaning names, check out our lists of [baby names meaning love](/blog/names-meaning-love/) and [baby names meaning hope](/blog/names-meaning-hope/).
 
-![Happy baby with bright eyes](https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=800)
+If you enjoy biblical blessed names like Asher and Isaac, you will love our full guide to [biblical baby names](/blog/biblical-baby-names/).
+
+![Happy baby with bright eyes](https://images.pexels.com/photos/5215517/pexels-photo-5215517.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names That Mean Happy or Blessed
 

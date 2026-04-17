@@ -7,15 +7,15 @@ category: "sleep"
 tags: ["gentle sleep training", "no cry method", "baby sleep", "pick up put down", "fading method"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/8910219/pexels-photo-8910219.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
-Not every family is comfortable with cry-it-out or even the Ferber method — and that's perfectly valid. Gentle sleep training methods offer an alternative path to independent sleep with minimal to no crying. These approaches take longer (2–6 weeks vs. 3–7 days), but they're grounded in the same principle: gradually teaching your baby to fall asleep without parental assistance at sleep onset. Research shows that gentler methods produce the same long-term results as more intensive approaches.
+Not every family is comfortable with cry-it-out or even the [Ferber method](/blog/ferber-method-guide/) — and that's perfectly valid. Gentle sleep training methods offer an alternative path to independent sleep with minimal to no crying. These approaches take longer (2–6 weeks vs. 3–7 days), but they're grounded in the same principle: gradually teaching your baby to fall asleep without parental assistance at sleep onset. Research shows that gentler methods produce the same long-term results as more intensive approaches.
 
 > 📌 **Key Takeaway:** Gentle sleep training methods work by gradually reducing parental involvement at sleep onset rather than removing it abruptly. They take longer (2–6 weeks) but result in less crying. The most important factor is consistency — whichever gentle method you choose, commit to it fully for at least 3 weeks before evaluating.
 
-![Parent with sleeping baby](https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Parent with sleeping baby](https://images.pexels.com/photos/8910219/pexels-photo-8910219.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Gentle vs. Cry-Based Methods: A Comparison
 
@@ -30,7 +30,7 @@ Not every family is comfortable with cry-it-out or even the Ferber method — an
 
 > 📊 **Key Data:** A meta-analysis published in *Sleep Medicine Reviews* (Mindell et al., 2006) found that all behavioral interventions for infant sleep — including no-cry methods — produced clinically meaningful improvements in sleep outcomes. The specific method mattered less than consistent implementation.
 
-## Method 1: The Chair Method (Gradual Retreat)
+## Method 1: The [Chair Method](/blog/chair-method-sleep-training/) (Gradual Retreat)
 
 The Chair Method is ideal for parents who need to be present while their baby learns to fall asleep. You sit in a chair near the crib and gradually move it farther away over 2–3 weeks.
 
@@ -193,7 +193,7 @@ Yes. Many families use a hybrid approach — for example, combining bedtime fadi
       "dateModified": "2026-04-14T00:00:00Z",
       "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
-      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
+      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/8910219/pexels-photo-8910219.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/gentle-sleep-training/"},
       "wordCount": 2500,
       "articleSection": "Sleep",

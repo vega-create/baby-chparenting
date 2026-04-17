@@ -7,15 +7,17 @@ category: "names"
 tags: ["Welsh names", "baby names", "Celtic names", "Welsh baby names", "Cymraeg names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662770/pexels-photo-3662770.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/11369379/pexels-photo-11369379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
 Welsh baby names are treasures of the Celtic world, carrying the music, myth, and mountain-born spirit of one of Europe's oldest living cultures. The Welsh language, or Cymraeg, is a Brythonic Celtic language that has been spoken continuously in Wales for over 1,500 years, and its names reflect this extraordinary depth of history. From the heroes of the Mabinogion (Wales' medieval mythological tales) to names inspired by the rugged Welsh landscape, these names offer parents a connection to a living tradition that is both ancient and vibrantly modern. Welsh names are known for their distinctive letter combinations, particularly the letters "ll" and "dd," which produce sounds not found in English.
 
-> 📌 **Key Takeaway:** Welsh baby names derive from one of Europe's oldest living languages and draw on mythology, nature, and Celtic tradition. Pronunciation follows Welsh language rules, where "ll" is a voiceless lateral fricative and "dd" sounds like the English "th." Wales has seen a strong revival of traditional Welsh names as part of its thriving cultural renaissance.
+> 📌 **Key Takeaway:** Welsh baby names derive from one of Europe's oldest living languages and draw on mythology, nature, and Celtic tradition. Pronunciation follows Welsh language rules, where "ll" is a voiceless lateral fricative and "dd" sounds like the English "th." Wales has seen a strong revival of traditional Welsh names as part of its thriving cultural renaissance. For more Celtic naming heritage, explore our guides to [Scottish baby names](/blog/scottish-baby-names/) and [Irish baby names](/blog/irish-baby-names/).
 
-![Baby resting peacefully](https://images.pexels.com/photos/3662770/pexels-photo-3662770.jpeg?auto=compress&cs=tinysrgb&w=800)
+If you love nature-inspired Welsh names, see our full list of [nature-inspired baby names](/blog/names-meaning-nature/) and [baby names meaning brave](/blog/names-meaning-brave/).
+
+![Baby resting peacefully](https://images.pexels.com/photos/11369379/pexels-photo-11369379.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names
 

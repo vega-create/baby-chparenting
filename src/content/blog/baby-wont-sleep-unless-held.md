@@ -7,15 +7,15 @@ category: "sleep"
 tags: ["baby won't sleep", "contact napping", "independent sleep", "baby sleep solutions", "held to sleep"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/3845419/pexels-photo-3845419.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
 If your baby only sleeps in your arms and screams the moment you try to put them down, you're not alone — and you're not doing anything wrong. This is one of the most common sleep challenges parents face, especially in the first 3–4 months. Newborns are biologically wired to crave closeness; for nine months, your body was their entire world. The transition to sleeping independently takes time and patience, but it is absolutely achievable.
 
-> 📌 **Key Takeaway:** Babies who only sleep when held are responding to a biological need for closeness and security. This is normal, especially under 4 months. With gradual, gentle strategies, most babies can learn to sleep independently in their crib by 4–6 months without excessive crying.
+> 📌 **Key Takeaway:** Babies who only sleep when held are responding to a biological need for closeness and security. This is normal, especially under 4 months. With gradual, gentle strategies, most babies can learn to sleep independently in their crib by 4–6 months using [gentle sleep training](/blog/gentle-sleep-training/) without excessive crying.
 
-![Parent gently holding sleeping baby](https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Parent gently holding sleeping baby](https://images.pexels.com/photos/3845419/pexels-photo-3845419.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Why Your Baby Only Sleeps When Held
 
@@ -28,7 +28,7 @@ Understanding why your baby needs to be held to sleep helps you address the root
 | Temperature change | Any age | The transfer from warm arms to a cooler crib surface triggers waking |
 | Sleep cycle transition | Any age | Baby wakes at the end of a light sleep cycle and needs the same conditions to fall back asleep |
 | Reflux or discomfort | Any age | Upright position in arms relieves discomfort |
-| Habit/association | 3+ months | Being held has become the required condition for sleep |
+| Habit/association | 3+ months | Being held has become the required condition for sleep — see [baby cries when put down](/blog/baby-cries-when-put-down/) |
 | Separation anxiety | 6+ months | Baby is distressed when separated from caregiver |
 
 > 📊 **Key Data:** A 2017 study in *Current Biology* found that infants' heart rates decrease and crying stops within seconds of being held and carried, suggesting that the calming response to being held is a deeply embedded biological mechanism, not a learned behavior.
@@ -150,7 +150,7 @@ While it's within the range of normal, by 6 months most babies are developmental
       "dateModified": "2026-04-07T00:00:00Z",
       "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
-      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
+      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3845419/pexels-photo-3845419.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/baby-wont-sleep-unless-held/"},
       "wordCount": 2000,
       "articleSection": "Sleep",

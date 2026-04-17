@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby name Amelia", "Amelia meaning", "Amelia origin", "girl names", "popular baby names"]
 author: "Hannah Lewis"
 authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
-image: "https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/294173/pexels-photo-294173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Amelia is a name that radiates determination and grace in equal measure. With ro
 
 > 📌 **Key Takeaway:** Amelia is a Germanic name meaning "work" or "industrious." It ranks in the US top 5 for girls and is the number 1 name in the UK. Its association with Amelia Earhart gives it an adventurous spirit that parents love.
 
-![Beautiful baby with curious eyes](https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Beautiful baby with curious eyes](https://images.pexels.com/photos/294173/pexels-photo-294173.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Name Meaning and Origin
 
@@ -23,7 +23,9 @@ Amelia has a dual etymology that sometimes causes confusion. The name derives fr
 
 The name gained popularity in English-speaking countries through the House of Hanover. When German-speaking royals arrived on the British throne in the 18th century, they brought the name Amelia with them. Princess Amelia, the youngest daughter of King George II, helped establish it in English aristocratic circles.
 
-The name received its greatest cultural boost from Amelia Earhart (1897--1937), the pioneering American aviator who became the first woman to fly solo across the Atlantic Ocean. Her courage and independence forever linked the name with adventure and boundary-breaking achievement.
+The name received its greatest cultural boost from Amelia Earhart (1897--1937), the pioneering American aviator who became the first woman to fly solo across the Atlantic Ocean. Her courage and independence forever linked the name with adventure and boundary-breaking achievement. If Amelia's spirit of bravery inspires you, explore our list of [baby names meaning brave](/blog/names-meaning-brave/).
+
+For more names with Germanic heritage, see our guide to [Scandinavian baby names](/blog/scandinavian-baby-names/) and [the name Charlotte](/blog/name-charlotte/).
 
 ### Pronunciation Guide
 

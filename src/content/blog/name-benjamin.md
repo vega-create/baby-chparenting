@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby name Benjamin", "Benjamin meaning", "Benjamin origin", "boy names", "popular baby names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/325690/pexels-photo-325690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Benjamin is the name that has it all --- biblical gravitas, founding-father pres
 
 > 📌 **Key Takeaway:** Benjamin is a Hebrew name meaning "son of the right hand" or "son of the south." It ranks in the US top 10 and has been a steady favorite for over a century, offering exceptional nickname versatility with Ben, Benny, and Benji.
 
-![Baby with a sweet curious gaze](https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Baby with a sweet curious gaze](https://images.pexels.com/photos/325690/pexels-photo-325690.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Name Meaning and Origin
 
@@ -23,7 +23,9 @@ Benjamin comes from the Hebrew name Binyamin (בִּנְיָמִין), meaning "
 
 In the Book of Genesis, Benjamin is the youngest of Jacob's twelve sons and the second son of Rachel. His birth was bittersweet --- Rachel died in childbirth, initially naming him Ben-oni ("son of my sorrow"), but Jacob renamed him Benjamin ("son of the right hand"), transforming grief into hope. The Tribe of Benjamin became one of the twelve tribes of Israel.
 
-In American history, Benjamin Franklin and Benjamin Harrison brought the name into the political mainstream. Benjamin Franklin, in particular, gave the name an association with ingenuity, wit, and democratic ideals that endures to this day.
+In American history, Benjamin Franklin and Benjamin Harrison brought the name into the political mainstream. Benjamin Franklin, in particular, gave the name an association with ingenuity, wit, and democratic ideals that endures to this day. For more names with biblical roots, see our collection of [biblical baby names](/blog/biblical-baby-names/).
+
+Parents who love Benjamin might also enjoy [the name Henry](/blog/name-henry/) and our list of [baby names meaning strength](/blog/names-meaning-strength/).
 
 ### Pronunciation Guide
 

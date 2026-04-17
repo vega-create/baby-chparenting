@@ -7,15 +7,17 @@ category: "names"
 tags: ["Italian names", "baby names", "Italian baby names", "Roman names", "Mediterranean names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/3569597/pexels-photo-3569597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
 Italian baby names evoke romance, passion, and the timeless elegance of one of the world's most beloved cultures. Rooted in Latin, shaped by the Catholic Church, and refined through centuries of art and literature, Italian names carry a musicality that is instantly recognizable. Whether you have Italian heritage or simply adore the melodic sound of the Italian language, these names offer a perfect blend of tradition and beauty. From classic favorites like Marco and Sofia to less common gems like Alessio and Fiora, Italian naming offers an extraordinary range of choices.
 
-> 📌 **Key Takeaway:** Italian baby names are characterized by their musical vowel endings, deep Catholic roots, and strong family naming traditions. Most Italian boy names end in -o or -e, while girl names typically end in -a, giving them their signature melodic quality. Family honor plays a central role in Italian naming customs.
+> 📌 **Key Takeaway:** Italian baby names are characterized by their musical vowel endings, deep Catholic roots, and strong family naming traditions. Most Italian boy names end in -o or -e, while girl names typically end in -a, giving them their signature melodic quality. Family honor plays a central role in Italian naming customs. Isabella, one of the most beloved Italian-origin names, has its own guide --- see [the name Isabella](/blog/name-isabella/).
 
-![Adorable baby in a cozy setting](https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=800)
+For more Romance-language naming traditions, explore [Spanish baby names](/blog/spanish-baby-names/) and [French baby names](/blog/french-baby-names/).
+
+![Adorable baby in a cozy setting](https://images.pexels.com/photos/3569597/pexels-photo-3569597.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names
 

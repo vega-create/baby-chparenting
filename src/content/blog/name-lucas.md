@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby name Lucas", "Lucas meaning", "Lucas origin", "boy names", "popular baby names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/19380232/pexels-photo-19380232.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Lucas is a name that radiates light --- literally. Derived from the Latin word f
 
 > 📌 **Key Takeaway:** Lucas is a Latin name meaning "light" or "illumination," derived from the Greek Loukas. It currently ranks in the US top 10 for boys and is equally popular across Europe and Latin America.
 
-![Happy baby with a bright smile](https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Happy baby with a bright smile](https://images.pexels.com/photos/19380232/pexels-photo-19380232.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Name Meaning and Origin
 
@@ -23,7 +23,9 @@ Lucas comes from the Latin form of the Greek name Loukas (Λουκᾶς), which 
 
 The name's most important historical bearer is Saint Luke (Lucas in Latin), the author of the Gospel of Luke and the Acts of the Apostles in the New Testament. Saint Luke was traditionally believed to be a physician, and he is the patron saint of artists, doctors, and surgeons. This connection gives Lucas both spiritual depth and an association with healing and creativity.
 
-Lucas as a distinct form (rather than Luke) has been particularly popular in Romance-language countries. In French, Spanish, and Portuguese, Lucas is the standard form of the name, which has helped it become one of the most internationally consistent names available.
+Lucas as a distinct form (rather than Luke) has been particularly popular in Romance-language countries. In French, Spanish, and Portuguese, Lucas is the standard form of the name, which has helped it become one of the most internationally consistent names available. Discover more luminous options in our list of [baby names meaning light](/blog/names-meaning-light/).
+
+For more Romance-language favorites, browse our guides to [Spanish baby names](/blog/spanish-baby-names/) and [French baby names](/blog/french-baby-names/).
 
 ### Pronunciation Guide
 

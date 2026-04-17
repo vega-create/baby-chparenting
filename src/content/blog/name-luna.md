@@ -23,7 +23,9 @@ Luna comes directly from the Latin word *luna*, meaning "moon." In Roman mytholo
 
 The moon has been a symbol of femininity, mystery, cycles, and beauty across virtually every culture in human history. By choosing Luna, parents tap into millennia of lunar symbolism --- from the tidal pull of the oceans to the gentle light that guides travelers through darkness.
 
-Luna was rarely used as a given name in English-speaking countries until the 21st century. In Spanish and Italian-speaking cultures, however, Luna had been used as a name for much longer, given that the word is the everyday term for "moon" in both languages.
+Luna was rarely used as a given name in English-speaking countries until the 21st century. In Spanish and Italian-speaking cultures, however, Luna had been used as a name for much longer, given that the word is the everyday term for "moon" in both languages. For more celestial naming inspiration, browse our list of [baby names meaning star](/blog/names-meaning-star/).
+
+Luna pairs beautifully with other popular girl names --- see our guides to [the name Sophia](/blog/name-sophia/) and [the name Ava](/blog/name-ava/) for more top-ranked options.
 
 ### Pronunciation Guide
 

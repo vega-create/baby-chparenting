@@ -7,15 +7,15 @@ category: "sleep"
 tags: ["Ferber method", "graduated extinction", "sleep training", "check-in intervals", "baby sleep"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662850/pexels-photo-3662850.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/373963/pexels-photo-373963.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
-The Ferber method — also known as graduated extinction or "check and console" — is one of the most well-researched and widely used sleep training approaches in the world. Developed by Dr. Richard Ferber, director of the Center for Pediatric Sleep Disorders at Boston Children's Hospital, this method teaches babies to fall asleep independently through progressively longer intervals between parental check-ins. It strikes a balance between full cry-it-out and fully hands-on approaches, making it the most popular choice for families who want structure with some reassurance built in.
+The Ferber method — also known as graduated extinction or "check and console" — is one of the most well-researched and widely used sleep training approaches in the world. Developed by Dr. Richard Ferber, director of the Center for Pediatric Sleep Disorders at Boston Children's Hospital, this method teaches babies to fall asleep independently through progressively longer intervals between parental check-ins. It strikes a balance between full cry-it-out and fully hands-on [gentle sleep training](/blog/gentle-sleep-training/) approaches, making it the most popular choice for families who want structure with some reassurance built in.
 
 > 📌 **Key Takeaway:** The Ferber method uses timed check-ins at increasing intervals to teach your baby to self-soothe. Most families see significant improvement within 3–5 nights. The method is backed by peer-reviewed research showing it is safe and does not harm infant attachment or development.
 
-![Baby sleeping in crib](https://images.pexels.com/photos/3662850/pexels-photo-3662850.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Baby sleeping in crib](https://images.pexels.com/photos/373963/pexels-photo-373963.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Before You Start: Prerequisites
 
@@ -26,8 +26,8 @@ The Ferber method requires preparation. Starting without meeting these prerequis
 | Age | At least 4 months (adjusted age for preemies), ideally 5–6 months |
 | Health | Baby is healthy, not sick, no undiagnosed reflux or ear infections |
 | Weight | At least 14 lbs or cleared by pediatrician for fewer night feeds |
-| Schedule | Age-appropriate nap schedule and wake windows in place |
-| Environment | Dark room, white noise, safe crib setup per AAP guidelines |
+| Schedule | [Age-appropriate nap schedule](/blog/sleep-training-schedule-by-age/) and wake windows in place |
+| Environment | Dark room, white noise, [safe crib setup](/blog/baby-sleep-environment/) per AAP guidelines |
 | Bedtime routine | Consistent 15–20 minute routine established for at least 1 week |
 | Both parents on board | Both caregivers must agree on the plan and commit to consistency |
 | Clear calendar | No travel, visitors, or major disruptions for at least 2 weeks |
@@ -174,7 +174,7 @@ If your baby wakes before 6:00 AM and it's not time for a scheduled feed, treat 
       "dateModified": "2026-04-13T00:00:00Z",
       "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
-      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3662850/pexels-photo-3662850.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
+      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/373963/pexels-photo-373963.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/ferber-method-guide/"},
       "wordCount": 2500,
       "articleSection": "Sleep",

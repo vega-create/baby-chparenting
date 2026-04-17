@@ -7,15 +7,17 @@ category: "names"
 tags: ["Arabic names", "baby names", "Islamic names", "Muslim names", "Arabic baby names"]
 author: "Hannah Lewis"
 authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
-image: "https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/3270224/pexels-photo-3270224.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
 Arabic baby names are treasured for their profound meanings, poetic sound, and deep spiritual resonance. Spanning a vast linguistic tradition that stretches from North Africa to the Arabian Peninsula and beyond, Arabic names draw from the Quran, classical poetry, nature, and the rich tapestry of Islamic heritage. In Arabic culture, a name is far more than a label: it is a prayer, a wish, and a declaration of values. Parents choose names that reflect the qualities they hope their child will embody, from compassion and wisdom to strength and beauty.
 
-> 📌 **Key Takeaway:** Arabic baby names are chosen for their meaning above all else, with names reflecting virtues, divine attributes, and aspirations for the child. Islamic tradition encourages names with beautiful meanings and discourages names with negative connotations. Many Arabic names have deep Quranic significance and are used across the entire Muslim world.
+> 📌 **Key Takeaway:** Arabic baby names are chosen for their meaning above all else, with names reflecting virtues, divine attributes, and aspirations for the child. Islamic tradition encourages names with beautiful meanings and discourages names with negative connotations. Many Arabic names have deep Quranic significance and are used across the entire Muslim world. For more virtue-inspired naming, explore our guides to [baby names meaning wisdom](/blog/names-meaning-wisdom/) and [baby names meaning grace](/blog/names-meaning-grace/).
 
-![Baby in a comfortable setting](https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=800)
+Arabic names often overlap with biblical tradition --- see our list of [biblical baby names](/blog/biblical-baby-names/) for names shared across Abrahamic faiths.
+
+![Baby in a comfortable setting](https://images.pexels.com/photos/3270224/pexels-photo-3270224.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names
 

@@ -7,19 +7,19 @@ category: "sleep"
 tags: ["sleep environment", "nursery setup", "white noise", "room temperature", "crib safety"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3661263/pexels-photo-3661263.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/7055873/pexels-photo-7055873.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
-Your baby's sleep environment is one of the most powerful tools you have for improving sleep quality. The right combination of temperature, darkness, sound, and crib setup can mean the difference between a baby who fights sleep and one who drifts off peacefully. Research from the AAP and the National Sleep Foundation consistently shows that environmental factors play a significant role in both sleep quality and sleep safety.
+Your baby's sleep environment is one of the most powerful tools you have for improving sleep quality. The right combination of temperature, darkness, sound, and crib setup can mean the difference between a baby who [fights sleep](/blog/baby-fighting-sleep/) and one who drifts off peacefully. Research from the AAP and the National Sleep Foundation consistently shows that environmental factors play a significant role in both sleep quality and sleep safety.
 
 > 📌 **Key Takeaway:** The ideal baby sleep environment is dark, cool (68–72°F), and uses white noise at 50–65 decibels. The crib should contain nothing but a firm mattress with a fitted sheet. Optimizing these four factors — temperature, light, sound, and crib setup — can significantly improve your baby's sleep.
 
-![Nursery with crib setup for baby](https://images.pexels.com/photos/3661263/pexels-photo-3661263.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Nursery with crib setup for baby](https://images.pexels.com/photos/7055873/pexels-photo-7055873.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Room Temperature: The Goldilocks Zone
 
-Room temperature is one of the most critical factors for safe, quality sleep. The AAP warns that overheating is a risk factor for SIDS, while a room that's too cold can wake your baby prematurely.
+Room temperature is one of the most critical factors for safe, quality sleep. The AAP warns that overheating is a [risk factor for SIDS](/blog/baby-sleep-safety-sids-prevention/), while a room that's too cold can wake your baby prematurely.
 
 ### Ideal Temperature Range
 
@@ -40,7 +40,7 @@ Don't rely on hands or feet — they're often cool and that's normal. Instead, c
 - **Too cold:** Cool chest or tummy, mottled skin
 - **Just right:** Warm to the touch, dry skin, calm breathing
 
-> 💡 **Tip:** Use a room thermometer in the nursery — don't guess. Many baby monitors include temperature sensors. Place the thermometer near the crib at baby's level for the most accurate reading.
+> 💡 **Tip:** Use a room thermometer in the nursery — don't guess. Many [baby monitors](/blog/best-baby-monitors-guide/) include temperature sensors. Place the thermometer near the crib at baby's level for the most accurate reading.
 
 ## Darkness: Why It Matters More Than You Think
 
@@ -188,7 +188,7 @@ The AAP recommends waiting until at least 12 months for blankets and at least 18
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/3661263/pexels-photo-3661263.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://images.pexels.com/photos/7055873/pexels-photo-7055873.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "width": 1200,
         "height": 630
       },

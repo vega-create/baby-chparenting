@@ -7,15 +7,17 @@ category: "names"
 tags: ["Greek names", "baby names", "Greek mythology names", "Hellenic names", "Greek baby names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/7491346/pexels-photo-7491346.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
 Greek baby names represent one of the oldest and most influential naming traditions in the Western world. From the heroes and gods of ancient mythology to the saints of the Orthodox Church, Greek names have shaped naming conventions across Europe, the Americas, and beyond. Names like Alexander, Helen, and Nicholas originated in ancient Greece and remain beloved worldwide thousands of years later. Whether you are drawn to the epic grandeur of mythological names or the warm familiarity of modern Greek favorites, this tradition offers names with unparalleled historical depth and meaning.
 
-> 📌 **Key Takeaway:** Greek baby names combine ancient mythology with Orthodox Christian tradition, creating a naming heritage that has influenced cultures worldwide. Many of the most common Western names, including Alexander, Catherine, and Peter, have Greek origins. Greek naming customs center on honoring grandparents and celebrating name days.
+> 📌 **Key Takeaway:** Greek baby names combine ancient mythology with Orthodox Christian tradition, creating a naming heritage that has influenced cultures worldwide. Many of the most common Western names, including Alexander, Catherine, and Peter, have Greek origins. Greek naming customs center on honoring grandparents and celebrating name days. Sophia, meaning "wisdom," is one of the most popular Greek-origin names --- read our full guide to [the name Sophia](/blog/name-sophia/).
 
-![Baby with bright eyes](https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=800)
+For more names inspired by ancient cultures, explore [Italian baby names](/blog/italian-baby-names/) and [baby names meaning wisdom](/blog/names-meaning-wisdom/).
+
+![Baby with bright eyes](https://images.pexels.com/photos/7491346/pexels-photo-7491346.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names
 

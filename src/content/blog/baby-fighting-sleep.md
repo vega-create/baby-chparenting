@@ -7,15 +7,15 @@ category: "sleep"
 tags: ["baby fighting sleep", "overtired baby", "wake windows", "sleep resistance", "calming techniques"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/9964634/pexels-photo-9964634.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
 It seems counterintuitive, but the more tired a baby gets, the harder it is for them to fall asleep. When parents say their baby is "fighting sleep," what's usually happening is that the baby has crossed the line from tired to overtired, and their body has responded by releasing cortisol and adrenaline — stress hormones that create a wired, hyperactive state. Understanding this biology is the key to solving the problem.
 
-> 📌 **Key Takeaway:** Babies fight sleep primarily because they're overtired. When a baby misses their sleep window, cortisol and adrenaline surge, making it paradoxically harder to fall asleep. The solution is catching the right wake window and watching for early sleep cues rather than waiting for crying and fussiness.
+> 📌 **Key Takeaway:** Babies fight sleep primarily because they're overtired. When a baby misses their sleep window, cortisol and adrenaline surge, making it paradoxically harder to fall asleep. The solution is catching the right [wake window](/blog/how-much-should-baby-sleep/) and watching for early sleep cues rather than waiting for crying and fussiness.
 
-![Baby looking awake and alert](https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Baby looking awake and alert](https://images.pexels.com/photos/9964634/pexels-photo-9964634.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Why Babies Fight Sleep
 
@@ -25,7 +25,7 @@ It seems counterintuitive, but the more tired a baby gets, the harder it is for 
 | **Undertiredness** | Playing happily in crib, not fussy, just not sleepy | Extend wake window by 15–30 minutes |
 | **Overstimulation** | Wide-eyed, looking away, jerky movements | Reduce stimulation 20 min before sleep |
 | **Sleep association** | Calms instantly when rocked/fed, cries when stopped | Teach independent sleep skills |
-| **Developmental leap** | New skill practice (rolling, standing), regression signs | Extra patience, maintain routine |
+| **[Developmental leap](/blog/baby-sleep-regression-guide/)** | New skill practice (rolling, standing), regression signs | Extra patience, maintain routine |
 | **Pain or discomfort** | Pulling ears, arching, excessive drooling, fever | Rule out medical causes with pediatrician |
 | **Schedule issues** | Inconsistent bedtime, wrong nap timing | Establish consistent schedule |
 
@@ -151,7 +151,7 @@ You're likely not doing anything wrong — some babies are naturally higher-need
       "dateModified": "2026-04-11T00:00:00Z",
       "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
-      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
+      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/9964634/pexels-photo-9964634.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/baby-fighting-sleep/"},
       "wordCount": 2000,
       "articleSection": "Sleep",

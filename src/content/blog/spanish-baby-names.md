@@ -7,15 +7,17 @@ category: "names"
 tags: ["Spanish names", "baby names", "Hispanic names", "Latin names", "Spanish baby names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662770/pexels-photo-3662770.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/25785858/pexels-photo-25785858.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
 Spanish baby names carry the warmth and passion of one of the world's most widely spoken languages. Spanning from Spain to Latin America, these names draw from Catholic saints, indigenous cultures, royal lineages, and the rich tapestry of Hispanic heritage. Spanish is spoken across more than 20 countries, and each region brings its own naming flavor while sharing a common tradition of melodic, vowel-rich names. Whether you are drawn to timeless classics like Santiago and Carmen or modern favorites like Mateo and Valentina, Spanish names offer an irresistible combination of strength and beauty.
 
-> 📌 **Key Takeaway:** Spanish baby names are rooted in Catholic tradition and family heritage, with many parents choosing patron saint names. The double-surname system (father's surname plus mother's surname) is unique to Hispanic culture. Spanish names are phonetically consistent, making pronunciation straightforward once you know the basics.
+> 📌 **Key Takeaway:** Spanish baby names are rooted in Catholic tradition and family heritage, with many parents choosing patron saint names. The double-surname system (father's surname plus mother's surname) is unique to Hispanic culture. Spanish names are phonetically consistent, making pronunciation straightforward once you know the basics. For more Romance-language options, explore [Italian baby names](/blog/italian-baby-names/) and [French baby names](/blog/french-baby-names/).
 
-![Smiling baby in a warm blanket](https://images.pexels.com/photos/3662770/pexels-photo-3662770.jpeg?auto=compress&cs=tinysrgb&w=800)
+Isabella, a Spanish royal name, is one of our most popular guides --- read more about [the name Isabella](/blog/name-isabella/) and our list of [baby names meaning royal](/blog/names-meaning-royal/).
+
+![Smiling baby in a warm blanket](https://images.pexels.com/photos/25785858/pexels-photo-25785858.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names
 

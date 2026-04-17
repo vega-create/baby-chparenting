@@ -7,17 +7,19 @@ category: "names"
 tags: ["baby names", "names meaning love", "romantic baby names", "loving names", "boy names", "girl names"]
 author: "Hannah Lewis"
 authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
-image: "https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/3995912/pexels-photo-3995912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
 A baby is the ultimate expression of love, so it only makes sense that so many parents choose names that reflect this powerful emotion. Names meaning love have been cherished across every culture and era, from the ancient Greek Aphrodite-inspired names to modern English word names like Amore. Love-themed names feel warm, inviting, and full of the tenderness that defines early parenthood.
 
-Whether you prefer a classic name with love woven into its roots or a bold, direct declaration of affection, this collection has you covered. The 45 names below span dozens of languages and traditions, each carrying a different shade of love — from romantic passion to familial devotion to universal compassion. Every entry includes its origin and full meaning to help you choose the name that speaks to your heart.
+Whether you prefer a classic name with love woven into its roots or a bold, direct declaration of affection, this collection has you covered. The 45 names below span dozens of languages and traditions, each carrying a different shade of love — from romantic passion to familial devotion to universal compassion. Every entry includes its origin and full meaning to help you choose the name that speaks to your heart. For more emotionally rich options, see our guides to [baby names meaning happy](/blog/names-meaning-happy/) and [baby names meaning grace](/blog/names-meaning-grace/).
+
+You might also find inspiration in our collection of [Italian baby names](/blog/italian-baby-names/), where romance and beauty are woven into the naming tradition.
 
 > 📌 **Key Takeaway:** Names meaning love range from ancient classics like David to modern favorites like Amara. They carry one of the most universally positive meanings possible, making them safe yet deeply meaningful choices for any child.
 
-![Baby with loving expression](https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Baby with loving expression](https://images.pexels.com/photos/3995912/pexels-photo-3995912.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names That Mean Love
 

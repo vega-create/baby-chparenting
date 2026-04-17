@@ -7,15 +7,15 @@ category: "sleep"
 tags: ["sleep regression", "4 month regression", "baby sleep problems", "developmental leaps", "sleep disruption"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/7973656/pexels-photo-7973656.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
-Your baby was sleeping beautifully — maybe even doing 6-hour stretches — and then suddenly they're waking every 2 hours, fighting naps, and nothing works. If this sounds familiar, you're likely dealing with a sleep regression. Sleep regressions are temporary disruptions in sleep patterns that coincide with developmental milestones. They're frustrating, exhausting, and completely normal. The key is understanding what's happening and knowing that it will pass.
+Your baby was sleeping beautifully — maybe even doing 6-hour stretches — and then suddenly they're waking every 2 hours, [fighting naps](/blog/baby-fighting-sleep/), and nothing works. If this sounds familiar, you're likely dealing with a sleep regression. Sleep regressions are temporary disruptions in sleep patterns that coincide with developmental milestones. They're frustrating, exhausting, and completely normal. The key is understanding what's happening and knowing that it will pass.
 
 > 📌 **Key Takeaway:** Sleep regressions are temporary periods (1–4 weeks) when a previously good sleeper starts waking more frequently, fighting naps, or resisting bedtime. They're caused by developmental leaps and are a sign that your baby's brain is growing. The 4-month regression is the only permanent change — all others resolve on their own.
 
-![Baby awake in crib during sleep regression](https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Baby awake in crib during sleep regression](https://images.pexels.com/photos/7973656/pexels-photo-7973656.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## What Causes Sleep Regressions?
 
@@ -25,7 +25,7 @@ Common triggers include:
 - **Sleep architecture changes** (4 months — permanent)
 - **Physical milestones** (rolling, sitting, crawling, walking)
 - **Cognitive leaps** (object permanence, cause and effect)
-- **Separation anxiety** (peaks at 8–10 months and 18 months)
+- **Separation anxiety** (peaks at 8–10 months and 18 months) — see also [baby wakes every hour](/blog/baby-wakes-every-hour/)
 - **Language development** (12 and 18 months)
 - **Teething** (can overlap with regressions but doesn't cause them alone)
 
@@ -57,7 +57,7 @@ The 4-month regression is different from all others because it represents a perm
 1. **Don't panic.** This is a one-time transition, not a recurring problem.
 2. **Focus on sleep environment.** Dark room, white noise, proper temperature.
 3. **Watch wake windows.** At 4 months, aim for 1.5–2 hours of awake time.
-4. **Consider sleep training.** This regression is often the catalyst for starting.
+4. **Consider [sleep training](/blog/baby-sleep-training-methods/).** This regression is often the catalyst for starting.
 5. **Be consistent.** Whatever you do, do it consistently — don't create new habits you'll need to break later.
 
 > 📊 **Key Data:** Research in *Sleep Medicine Reviews* indicates that infant sleep consolidation shows the most rapid changes between 3 and 6 months of age, with the average 4-month-old capable of a longest sleep stretch of 5–8 hours when developmental conditions are supportive.
@@ -189,7 +189,7 @@ Sleep regressions are characterized by sudden changes in a previously good sleep
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://images.pexels.com/photos/7973656/pexels-photo-7973656.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750",
         "width": 1200,
         "height": 630
       },

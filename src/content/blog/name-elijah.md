@@ -23,7 +23,9 @@ Elijah comes from the Hebrew name Eliyahu (אֱלִיָּהוּ), composed of tw
 
 In the Hebrew Bible, Elijah is one of the most important prophets. He confronted the worship of Baal, performed miracles, and was taken up to heaven in a whirlwind with a chariot of fire rather than experiencing death. In Jewish tradition, Elijah is expected to return to herald the coming of the Messiah, and a cup of wine is set out for him at every Passover seder.
 
-Elijah also appears in the New Testament and in Islamic tradition (as Ilyas). His story of standing firm against corruption and idolatry has made the name synonymous with courage and faithfulness.
+Elijah also appears in the New Testament and in Islamic tradition (as Ilyas). His story of standing firm against corruption and idolatry has made the name synonymous with courage and faithfulness. For more scripture-inspired names, see our complete guide to [biblical baby names](/blog/biblical-baby-names/).
+
+If you love Elijah's powerful spiritual meaning, explore our lists of [baby names meaning brave](/blog/names-meaning-brave/) and [baby names meaning fire](/blog/names-meaning-fire/).
 
 ### Pronunciation Guide
 

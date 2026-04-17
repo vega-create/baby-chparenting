@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby name Liam", "Liam meaning", "Liam origin", "boy names", "popular baby names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/14788988/pexels-photo-14788988.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Liam has rocketed from a distinctly Irish nickname to the undisputed king of Ame
 
 > 📌 **Key Takeaway:** Liam is an Irish short form of William, meaning "resolute protector." It has been the number 1 boy name in the US for six of the last seven years and shows no sign of slowing down.
 
-![Happy baby with bright eyes](https://images.pexels.com/photos/3662667/pexels-photo-3662667.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Happy baby with bright eyes](https://images.pexels.com/photos/14788988/pexels-photo-14788988.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Name Meaning and Origin
 
@@ -23,7 +23,9 @@ Liam is the Irish-language short form of Uilliam, which is itself the Irish vers
 
 In Ireland, Liam has been used as an independent given name for centuries. It was common in Gaelic-speaking communities long before it crossed the Atlantic. The name gained international traction in the late 20th century, boosted by high-profile bearers like actor Liam Neeson, who brought the name into mainstream English-speaking consciousness during the 1990s.
 
-Unlike many names that feel trendy, Liam has deep historical roots. Its connection to William --- one of the most enduring names in Western civilization --- gives it both modern freshness and centuries of heritage.
+Unlike many names that feel trendy, Liam has deep historical roots. Its connection to William --- one of the most enduring names in Western civilization --- gives it both modern freshness and centuries of heritage. For more on the full form, see our guide to [the name William](/blog/name-william/). You can also explore our list of [Irish baby names](/blog/irish-baby-names/) for more Gaelic-inspired choices.
+
+If you are drawn to names that convey strength and determination, check out our roundup of [baby names meaning strength](/blog/names-meaning-strength/).
 
 ### Pronunciation Guide
 

@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby name Olivia", "Olivia meaning", "Olivia origin", "girl names", "popular baby names"]
 author: "Hannah Lewis"
 authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
-image: "https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/3617844/pexels-photo-3617844.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Olivia is a name that dances off the tongue with lyrical grace. First created by
 
 > 📌 **Key Takeaway:** Olivia was likely coined by Shakespeare for his play *Twelfth Night* (1602), possibly derived from the Latin *oliva* meaning "olive tree." It has been a US top 5 name since 2001 and currently holds the number 1 spot.
 
-![Adorable baby resting peacefully](https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Adorable baby resting peacefully](https://images.pexels.com/photos/3617844/pexels-photo-3617844.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Name Meaning and Origin
 
@@ -23,7 +23,9 @@ Olivia is most commonly believed to be a feminine form derived from the Latin wo
 
 However, the name Olivia as we know it was almost certainly invented by William Shakespeare for his comedy *Twelfth Night*, written around 1602. While the masculine name Oliver already existed, Olivia appears to be Shakespeare's own elegant feminization. Some scholars suggest he may have also drawn on an existing but rare medieval name, Oliva, used by a few early saints.
 
-After Shakespeare introduced it, Olivia slowly gained traction in England and eventually spread throughout the English-speaking world. Its rise accelerated dramatically in the late 20th century, fueled by pop culture and its beautiful melodic quality.
+After Shakespeare introduced it, Olivia slowly gained traction in England and eventually spread throughout the English-speaking world. Its rise accelerated dramatically in the late 20th century, fueled by pop culture and its beautiful melodic quality. Olivia shares Latin roots with [the name Oliver](/blog/name-oliver/), making them a charming sibling pair.
+
+If you adore graceful girl names, explore our roundup of [baby names meaning grace](/blog/names-meaning-grace/) and our guide to [Italian baby names](/blog/italian-baby-names/).
 
 ### Pronunciation Guide
 

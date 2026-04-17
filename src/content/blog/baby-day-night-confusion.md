@@ -7,15 +7,15 @@ category: "sleep"
 tags: ["day night confusion", "newborn sleep", "circadian rhythm", "baby awake at night", "sleep schedule"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662850/pexels-photo-3662850.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/15352276/pexels-photo-15352276.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
-It's 3 AM and your newborn is wide-eyed, alert, and ready to party — but slept like a champion all day. Day-night confusion is one of the most exhausting newborn challenges, and nearly every family experiences it. The good news is that it's temporary, predictable, and fixable. With the right strategies, most babies correct their internal clocks within 2–4 weeks.
+It's 3 AM and your newborn is wide-eyed, alert, and ready to party — but slept like a champion all day. Day-night confusion is one of the most exhausting newborn challenges, and nearly every family experiences it. The good news is that it's temporary, predictable, and fixable. With the right strategies, most babies correct their internal clocks within 2–4 weeks. See our [newborn sleep guide](/blog/newborn-sleep-guide/) for more on what to expect in those early weeks.
 
 > 📌 **Key Takeaway:** Day-night confusion happens because newborns don't have a developed circadian rhythm. In the womb, your movement rocked them to sleep during the day, and they were active at night when you were still. With deliberate light exposure, feeding strategies, and environmental cues, most babies sort out day and night by 6–8 weeks.
 
-![Newborn baby sleeping during the day](https://images.pexels.com/photos/3662850/pexels-photo-3662850.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Newborn baby sleeping during the day](https://images.pexels.com/photos/15352276/pexels-photo-15352276.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Why Babies Confuse Day and Night
 
@@ -31,7 +31,7 @@ Newborns spend 9 months in a dark womb with no concept of day or night. Their sl
 | Movement | Mother's daytime walking = rocking to sleep | Need new daytime stimulation cues |
 | Feeding | Continuous via umbilical cord | Feeding schedule can reinforce day/night patterns |
 
-> 📊 **Key Data:** Research in *Sleep Medicine Reviews* shows that newborns begin producing their own melatonin between 6 and 8 weeks of age. Before this, they rely entirely on environmental cues (light, feeding, activity) to develop circadian patterns. This is why deliberate daytime light exposure is the most powerful tool for fixing day-night confusion.
+> 📊 **Key Data:** Research in *Sleep Medicine Reviews* shows that newborns begin producing their own melatonin between 6 and 8 weeks of age. Before this, they rely entirely on environmental cues (light, feeding, activity) to develop circadian patterns. This is why deliberate daytime light exposure is the most powerful tool for fixing day-night confusion. Creating the right [sleep environment](/blog/baby-sleep-environment/) is equally important.
 
 ## The 7-Step Fix Plan
 
@@ -163,7 +163,7 @@ Typically no. Once a baby's circadian rhythm is established (usually by 8–12 w
       "dateModified": "2026-04-08T00:00:00Z",
       "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
-      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3662850/pexels-photo-3662850.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
+      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/15352276/pexels-photo-15352276.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/baby-day-night-confusion/"},
       "wordCount": 2000,
       "articleSection": "Sleep",

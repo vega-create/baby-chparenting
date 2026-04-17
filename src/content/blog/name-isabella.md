@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby name Isabella", "Isabella meaning", "Isabella origin", "girl names", "popular baby names"]
 author: "Hannah Lewis"
 authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
-image: "https://images.pexels.com/photos/3662770/pexels-photo-3662770.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/9666398/pexels-photo-9666398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Isabella is a name that sweeps in like a ball gown --- dramatic, romantic, and u
 
 > 📌 **Key Takeaway:** Isabella is a Latinate form of Elizabeth, meaning "pledged to God" or "God is my oath." It held the US number 1 position from 2009 to 2010 and remains in the top 10, offering gorgeous nicknames like Bella, Izzy, and Ella.
 
-![Peaceful baby with a gentle expression](https://images.pexels.com/photos/3662770/pexels-photo-3662770.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Peaceful baby with a gentle expression](https://images.pexels.com/photos/9666398/pexels-photo-9666398.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Name Meaning and Origin
 
@@ -23,7 +23,9 @@ Isabella is a medieval Provencal and Italian form of Elizabeth, which derives fr
 
 The name became firmly established through medieval royalty. Isabella of Castile (1451--1504), who unified Spain and sponsored Columbus's voyages, is one of history's most powerful queens. Isabella of France, wife of Edward II of England, was another formidable historical figure. These royal associations gave Isabella connotations of power, beauty, and determination.
 
-In modern times, the Twilight saga (2005--2008) featured Isabella "Bella" Swan as its heroine, giving the name a massive popularity boost. While Isabella was already climbing before Twilight, the series undeniably accelerated its ascent to the number 1 position.
+In modern times, the Twilight saga (2005--2008) featured Isabella "Bella" Swan as its heroine, giving the name a massive popularity boost. While Isabella was already climbing before Twilight, the series undeniably accelerated its ascent to the number 1 position. For more names with Spanish and Italian royal heritage, see our guides to [Spanish baby names](/blog/spanish-baby-names/) and [Italian baby names](/blog/italian-baby-names/).
+
+You might also love our collection of [baby names meaning grace](/blog/names-meaning-grace/) for more elegantly feminine options.
 
 ### Pronunciation Guide
 

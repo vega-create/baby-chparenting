@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby name Mia", "Mia meaning", "Mia origin", "girl names", "popular baby names"]
 author: "Hannah Lewis"
 authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
-image: "https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/27177808/pexels-photo-27177808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Mia is proof that less is more. At just three letters, this petite powerhouse pa
 
 > 📌 **Key Takeaway:** Mia has multiple origins --- it is a Scandinavian pet form of Maria, the Italian word for "mine," and a name with independent appeal. It ranks in the US top 10 and is beloved worldwide for its simplicity and warmth.
 
-![Happy baby with a bright expression](https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Happy baby with a bright expression](https://images.pexels.com/photos/27177808/pexels-photo-27177808.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Name Meaning and Origin
 
@@ -27,7 +27,9 @@ Mia has a delightfully multi-layered origin story. It is most commonly understoo
 
 3. **An independent given name** --- Many modern parents choose Mia without any connection to Maria, appreciating it purely for its clean sound and visual simplicity.
 
-Some scholars also connect Mia to the Egyptian name *mry*, meaning "beloved," though this link is more speculative. Regardless of which origin resonates most, Mia carries a universal feeling of affection and belonging.
+Some scholars also connect Mia to the Egyptian name *mry*, meaning "beloved," though this link is more speculative. Regardless of which origin resonates most, Mia carries a universal feeling of affection and belonging. For more names with a loving meaning, see our guide to [baby names meaning love](/blog/names-meaning-love/).
+
+Mia's Scandinavian roots make it a great companion to names in our [Scandinavian baby names](/blog/scandinavian-baby-names/) and [Italian baby names](/blog/italian-baby-names/) collections.
 
 ### Pronunciation Guide
 

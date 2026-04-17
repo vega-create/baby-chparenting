@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby names", "royal baby names", "noble names", "regal names", "boy names", "girl names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/35065922/pexels-photo-35065922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,9 +15,11 @@ Royal names have captivated parents for centuries. There is an undeniable allure
 
 Choosing a royal name does not mean your child needs to be born into a palace. These names carry themselves with a natural dignity that suits any family. Many royal names have become mainstream favorites precisely because they balance grandeur with accessibility. The 40 names below include options that are undeniably regal yet perfectly at home on a modern playground.
 
-> 📌 **Key Takeaway:** Royal and noble names are perennial favorites because they carry an inherent sense of dignity and elegance. Whether you prefer the classic appeal of Elizabeth or the modern charm of Zara, a royal name gives your child a head start in making a memorable impression.
+> 📌 **Key Takeaway:** Royal and noble names are perennial favorites because they carry an inherent sense of dignity and elegance. Whether you prefer the classic appeal of Elizabeth or the modern charm of Zara, a royal name gives your child a head start in making a memorable impression. Henry is one of the most enduring royal names --- read our full guide to [the name Henry](/blog/name-henry/).
 
-![Baby in a cozy setting](https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=800)
+For more names with aristocratic heritage, explore our guides to [French baby names](/blog/french-baby-names/) and [baby names meaning grace](/blog/names-meaning-grace/).
+
+![Baby in a cozy setting](https://images.pexels.com/photos/35065922/pexels-photo-35065922.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names That Mean Royal or Noble
 

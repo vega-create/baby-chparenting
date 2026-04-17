@@ -7,15 +7,15 @@ category: "sleep"
 tags: ["baby cries when put down", "Moro reflex", "separation anxiety", "crib transition", "baby sleep help"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/6849541/pexels-photo-6849541.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
 The scenario is painfully familiar: your baby falls asleep in your arms, looking utterly peaceful. You tiptoe to the crib, lower them gently, and the moment their back touches the mattress — screaming. This cycle can repeat for hours, leaving parents exhausted and wondering what they're doing wrong. The answer is: nothing. Crying when put down is one of the most common and developmentally normal infant behaviors, and the reason changes as your baby grows.
 
-> 📌 **Key Takeaway:** Babies cry when put down due to different reasons at different ages — the Moro reflex (0–4 months), the comfort of contact (0–6 months), and separation anxiety (6–18 months). Understanding the age-specific cause allows you to choose the right solution. A gradual approach works best for most families.
+> 📌 **Key Takeaway:** Babies cry when put down due to different reasons at different ages — the Moro reflex (0–4 months), the comfort of contact (0–6 months), and separation anxiety (6–18 months). Understanding the age-specific cause allows you to choose the right solution. A gradual approach works best for most families. If your baby also [won't sleep unless held](/blog/baby-wont-sleep-unless-held/), you may find additional strategies helpful.
 
-![Parent holding baby near crib](https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Parent holding baby near crib](https://images.pexels.com/photos/6849541/pexels-photo-6849541.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Why It Happens: Causes by Age
 
@@ -23,7 +23,7 @@ The scenario is painfully familiar: your baby falls asleep in your arms, looking
 |-----|--------------|-----------------|-----------------|
 | 0–2 months | Moro (startle) reflex | Womb transition, temperature change | Falling sensation triggers reflex when put down |
 | 2–4 months | Contact comfort dependency | Reflux, overtiredness | Baby associates sleep with being held |
-| 4–6 months | Sleep associations | Sleep cycle maturation (4-month regression) | Needs same conditions to fall back asleep |
+| 4–6 months | Sleep associations | Sleep cycle maturation ([4-month regression](/blog/baby-sleep-regression-guide/)) | Needs same conditions to fall back asleep |
 | 6–10 months | Separation anxiety | Object permanence development | Baby understands you exist even when gone |
 | 10–18 months | Separation anxiety peak | Independence vs. attachment conflict | Testing boundaries while needing reassurance |
 
@@ -141,7 +141,7 @@ Most sleep experts suggest working toward "drowsy but awake" placement starting 
       "dateModified": "2026-04-10T00:00:00Z",
       "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
-      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
+      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/6849541/pexels-photo-6849541.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/baby-cries-when-put-down/"},
       "wordCount": 2000,
       "articleSection": "Sleep",

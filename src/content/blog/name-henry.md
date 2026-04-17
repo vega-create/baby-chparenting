@@ -23,7 +23,9 @@ Henry derives from the Germanic name *Heimirich*, composed of *heim* ("home, est
 
 The name's royal pedigree in England is extraordinary. Eight kings named Henry sat on the English throne, most famously Henry VIII, whose six marriages and break with Rome reshaped English history and religion. Henry V, immortalized by Shakespeare, is remembered as one of England's greatest warrior kings.
 
-Beyond England, the name has been equally prominent across Europe. Henri was borne by four French kings, and Heinrich was common among Holy Roman Emperors and German nobility. This deep royal saturation across multiple countries makes Henry one of the most regal names in Western civilization.
+Beyond England, the name has been equally prominent across Europe. Henri was borne by four French kings, and Heinrich was common among Holy Roman Emperors and German nobility. This deep royal saturation across multiple countries makes Henry one of the most regal names in Western civilization. Explore more regal options in our collection of [baby names meaning royal](/blog/names-meaning-royal/) and our guide to [French baby names](/blog/french-baby-names/).
+
+Parents who love Henry's strong yet approachable feel will also enjoy [the name William](/blog/name-william/) and [the name James](/blog/name-james/).
 
 ### Pronunciation Guide
 

@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby name James", "James meaning", "James origin", "boy names", "popular baby names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/4005601/pexels-photo-4005601.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ James may be the most reliably popular name in the English language. It has neve
 
 > 📌 **Key Takeaway:** James is a Hebrew-origin name meaning "supplanter," derived from the biblical Jacob. It has ranked in the US top 20 for over 140 consecutive years --- an unmatched record of consistency.
 
-![Peaceful sleeping newborn](https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Peaceful sleeping newborn](https://images.pexels.com/photos/4005601/pexels-photo-4005601.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Name Meaning and Origin
 
@@ -23,7 +23,9 @@ James derives from the Late Latin name Iacomus, which evolved from the Hebrew na
 
 In the New Testament, James is the name of two of Christ's apostles --- James the Greater and James the Less. This apostolic connection made the name extremely important in Christian cultures. In the medieval period, the pilgrimage route to Santiago de Compostela (Saint James's shrine in Spain) spread the name's influence throughout Europe.
 
-In England and Scotland, the name James has a deeply royal history. Six Scottish kings bore the name, and when James VI of Scotland became James I of England in 1603, uniting the two crowns, the name became inseparable from British royalty and power.
+In England and Scotland, the name James has a deeply royal history. Six Scottish kings bore the name, and when James VI of Scotland became James I of England in 1603, uniting the two crowns, the name became inseparable from British royalty and power. For more names with Scottish heritage, explore our list of [Scottish baby names](/blog/scottish-baby-names/).
+
+Fans of strong biblical names will also love our guides to [the name Elijah](/blog/name-elijah/) and [baby names meaning warrior](/blog/names-meaning-warrior/).
 
 ### Pronunciation Guide
 

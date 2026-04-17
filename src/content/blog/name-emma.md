@@ -23,7 +23,9 @@ Emma derives from the Germanic word *ermen*, meaning "whole" or "universal." It 
 
 The name first gained prominence in medieval England after Queen Emma of Normandy (c. 985--1052), who was the wife of two English kings --- Ethelred the Unready and Cnut the Great. Her political influence helped establish Emma as a name associated with power and nobility.
 
-During the 18th and 19th centuries, Emma experienced a literary revival thanks to Jane Austen's 1815 novel *Emma* and Gustave Flaubert's 1857 *Madame Bovary*, whose heroine was named Emma Bovary. These works cemented the name in popular culture as both spirited and sophisticated.
+During the 18th and 19th centuries, Emma experienced a literary revival thanks to Jane Austen's 1815 novel *Emma* and Gustave Flaubert's 1857 *Madame Bovary*, whose heroine was named Emma Bovary. These works cemented the name in popular culture as both spirited and sophisticated. For more names with Germanic roots, explore our guide to [the name Amelia](/blog/name-amelia/) and our collection of [Scandinavian baby names](/blog/scandinavian-baby-names/).
+
+If you love Emma's meaning of "whole" and "universal," you may also enjoy our list of [baby names meaning love](/blog/names-meaning-love/).
 
 ### Pronunciation Guide
 

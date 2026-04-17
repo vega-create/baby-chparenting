@@ -7,7 +7,7 @@ category: "sleep"
 tags: ["baby sleep needs", "wake windows", "nap schedule", "sleep by age", "baby sleep chart"]
 author: "Dr. Michael Torres"
 authorUrl: "https://baby.chparenting.com/author/dr-michael-torres/"
-image: "https://images.pexels.com/photos/3662850/pexels-photo-3662850.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/13071794/pexels-photo-13071794.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ One of the most common questions pediatricians hear is "How much should my baby 
 
 > 📌 **Key Takeaway:** Baby sleep needs decrease gradually from 14–17 hours at birth to 11–14 hours by age 2. Wake windows — the time between naps — are the most reliable tool for getting the right amount of sleep. When in doubt, watch your baby's sleep cues rather than the clock.
 
-![Sleeping baby in soft blankets](https://images.pexels.com/photos/3662850/pexels-photo-3662850.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Sleeping baby in soft blankets](https://images.pexels.com/photos/13071794/pexels-photo-13071794.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Complete Baby Sleep Needs Chart
 
@@ -36,7 +36,7 @@ Here is the comprehensive breakdown of how much sleep babies need at every age, 
 
 ## Newborn Sleep (0–3 Months)
 
-Newborns don't have a circadian rhythm yet, so their sleep is distributed evenly across day and night. Expect short bursts of sleep (2–4 hours) punctuated by feedings.
+Newborns don't have a circadian rhythm yet, so their sleep is distributed evenly across day and night — a condition sometimes called [day-night confusion](/blog/baby-day-night-confusion/). Expect short bursts of sleep (2–4 hours) punctuated by feedings.
 
 ### What's Normal for Newborns
 
@@ -50,7 +50,7 @@ Newborns don't have a circadian rhythm yet, so their sleep is distributed evenly
 
 ## 4–6 Months: The Sleep Training Window
 
-This age represents a major shift in sleep architecture. Around 4 months, your baby's sleep cycles mature to resemble adult patterns, which is why the "4-month sleep regression" occurs. Once this transition is complete, most babies are ready for sleep training.
+This age represents a major shift in sleep architecture. Around 4 months, your baby's sleep cycles mature to resemble adult patterns, which is why the "4-month sleep regression" occurs. Once this transition is complete, most babies are ready for [sleep training](/blog/baby-sleep-training-methods/).
 
 ### 4–6 Month Sleep Expectations
 
@@ -126,7 +126,7 @@ Watch for these red flags that your baby may be under-sleeping:
 - Extreme fussiness in the late afternoon
 - Difficulty falling asleep at bedtime (paradoxical as it sounds, overtired babies resist sleep)
 - Frequent night wakings not related to hunger
-- Short naps (under 45 minutes consistently)
+- [Short naps](/blog/baby-short-naps/) (under 45 minutes consistently)
 - Waking unhappy from naps or morning wake-ups
 
 > ⚠️ **Important:** *This article is for informational purposes only and does not replace professional medical advice. If your baby's sleep patterns seem significantly outside normal ranges, or if you notice breathing irregularities, excessive sleepiness, or difficulty waking, consult your pediatrician.*
@@ -172,7 +172,7 @@ The ranges provided are guidelines based on population averages. Individual babi
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/3662850/pexels-photo-3662850.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://images.pexels.com/photos/13071794/pexels-photo-13071794.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "width": 1200,
         "height": 630
       },

@@ -7,15 +7,17 @@ category: "names"
 tags: ["Scandinavian names", "baby names", "Norse names", "Nordic names", "Viking names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/3617850/pexels-photo-3617850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
 Scandinavian baby names carry the spirit of the Vikings, the beauty of Nordic landscapes, and the modern simplicity that defines Scandinavian design and culture. Drawing from Old Norse mythology, the rugged natural world of the north, and centuries of Danish, Norwegian, Swedish, Finnish, and Icelandic tradition, these names offer a compelling mix of ancient power and contemporary elegance. Many Scandinavian names have gained international popularity thanks to their clean sounds and strong meanings, while others remain beautifully distinctive treasures waiting to be discovered.
 
-> 📌 **Key Takeaway:** Scandinavian baby names blend Old Norse mythology with nature-inspired simplicity. Nordic countries have some of the strictest naming laws in the world, with approved name lists in several countries. These names often feature distinctive characters like the letters ae, oe, and aa, and carry meanings connected to strength, nature, and the gods.
+> 📌 **Key Takeaway:** Scandinavian baby names blend Old Norse mythology with nature-inspired simplicity. Nordic countries have some of the strictest naming laws in the world, with approved name lists in several countries. These names often feature distinctive characters like the letters ae, oe, and aa, and carry meanings connected to strength, nature, and the gods. For more warrior-inspired options, see our lists of [baby names meaning warrior](/blog/names-meaning-warrior/) and [baby names meaning brave](/blog/names-meaning-brave/).
 
-![Newborn baby resting peacefully](https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=800)
+Oliver has possible Norse roots --- learn more in our guide to [the name Oliver](/blog/name-oliver/) and our broader collection of [Irish baby names](/blog/irish-baby-names/).
+
+![Newborn baby resting peacefully](https://images.pexels.com/photos/3617850/pexels-photo-3617850.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names
 

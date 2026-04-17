@@ -7,15 +7,17 @@ category: "names"
 tags: ["Scottish names", "baby names", "Gaelic names", "Highland names", "Scottish baby names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/15785867/pexels-photo-15785867.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
 Scottish baby names carry the rugged beauty and proud heritage of the Highlands, the mystery of ancient Gaelic traditions, and the warmth of a culture built on clan loyalty and storytelling. From names rooted in Scottish Gaelic to those honoring legendary kings and warriors, Scottish names offer a compelling blend of strength and lyricism. Many Scottish names share roots with Irish Gaelic but have developed their own distinct pronunciations and spellings, giving them a uniquely Scottish character that sets them apart.
 
-> 📌 **Key Takeaway:** Scottish baby names draw from Scottish Gaelic, clan history, and Highland landscape. While sharing Celtic roots with Irish names, Scottish versions often have distinct spellings and pronunciations. Clan names and names tied to Scottish geography carry special significance in this tradition.
+> 📌 **Key Takeaway:** Scottish baby names draw from Scottish Gaelic, clan history, and Highland landscape. While sharing Celtic roots with Irish names, Scottish versions often have distinct spellings and pronunciations. Clan names and names tied to Scottish geography carry special significance in this tradition. For more Celtic naming traditions, see our guides to [Irish baby names](/blog/irish-baby-names/) and [Welsh baby names](/blog/welsh-baby-names/).
 
-![Baby wrapped in a soft blanket](https://images.pexels.com/photos/3662668/pexels-photo-3662668.jpeg?auto=compress&cs=tinysrgb&w=800)
+James, one of the most iconic Scottish royal names, has its own guide --- explore [the name James](/blog/name-james/).
+
+![Baby wrapped in a soft blanket](https://images.pexels.com/photos/15785867/pexels-photo-15785867.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names
 
