@@ -1,0 +1,39 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import BottleCalculator from "../../components/tools/BottleCalculator.jsx";
+
+const title = "Baby Bottle & Formula Calculator — Baby Care Guide";
+const description =
+  "Calculate how much formula or breast milk your baby needs per bottle and per day based on age and weight.";
+---
+
+<ToolLayout title={title} description={description} toolName="Bottle Calculator">
+  <h1 class="mb-3">Bottle & Formula Calculator</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Calculate the right amount of formula or breast milk per bottle and
+    per day based on your baby's age and weight. View feeding schedules
+    and interval recommendations.
+  </p>
+
+  <BottleCalculator client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">Understanding baby feeding amounts</h2>
+    <div class="card">
+      <p class="mb-3 leading-relaxed">
+        The standard guideline for formula-fed babies is about 2.5 ounces
+        per pound of body weight per day, divided across multiple feedings.
+        This amount is typically capped at about 32 ounces per day.
+      </p>
+      <p class="mb-3 leading-relaxed">
+        Breastfed babies tend to self-regulate their intake and may consume
+        slightly different amounts. As babies grow and begin solids around
+        6 months, milk intake gradually decreases.
+      </p>
+      <p class="text-sm text-[#9CA3AF] italic">
+        Always follow your pediatrician's personalized recommendations.
+        Every baby's needs are unique.
+      </p>
+    </div>
+  </section>
+</ToolLayout>

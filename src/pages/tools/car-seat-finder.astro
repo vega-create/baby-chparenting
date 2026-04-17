@@ -1,0 +1,40 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import CarSeatFinder from "../../components/tools/CarSeatFinder.jsx";
+
+const title = "Car Seat Finder & Guide — Baby Care Guide";
+const description =
+  "Find the right car seat type for your child based on age, weight, and height. Compare infant, convertible, and all-in-one seats with safety tips.";
+---
+
+<ToolLayout title={title} description={description} toolName="Car Seat Finder">
+  <h1 class="mb-3">Car Seat Finder</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Find the right car seat type for your child based on their age,
+    weight, and height. Compare seat types, review the safety checklist,
+    and learn when to transition to the next seat.
+  </p>
+
+  <CarSeatFinder client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">Car seat safety essentials</h2>
+    <div class="card">
+      <p class="mb-3 leading-relaxed">
+        Car seats are the single most important safety device for children
+        in vehicles. The AAP strongly recommends keeping children
+        rear-facing as long as possible, at least until age 2 or until
+        they exceed the rear-facing limits of their car seat.
+      </p>
+      <p class="mb-3 leading-relaxed">
+        Proper installation is critical. Studies show that a large
+        percentage of car seats are installed incorrectly. Visit a local
+        car seat inspection station for a free professional check.
+      </p>
+      <p class="text-sm text-[#9CA3AF] italic">
+        Based on AAP and NHTSA guidelines. Always follow the specific
+        instructions for your car seat model.
+      </p>
+    </div>
+  </section>
+</ToolLayout>

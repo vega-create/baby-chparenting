@@ -1,0 +1,40 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import WhiteNoiseGenerator from "../../components/tools/WhiteNoiseGenerator.jsx";
+
+const title = "White Noise Generator for Baby Sleep — Baby Care Guide";
+const description =
+  "Interactive white noise player to help your baby sleep. Choose from multiple soothing sounds with adjustable volume and timer.";
+---
+
+<ToolLayout title={title} description={description} toolName="White Noise Generator">
+  <h1 class="mb-3">White Noise Generator</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Play soothing sounds to help your baby fall asleep and stay asleep.
+    Choose from white noise, rain, heartbeat, and more with adjustable
+    volume and sleep timer.
+  </p>
+
+  <WhiteNoiseGenerator client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">How white noise helps babies sleep</h2>
+    <div class="card">
+      <p class="mb-3 leading-relaxed">
+        White noise creates a consistent sound environment that masks sudden
+        noises which can wake a sleeping baby. Inside the womb, babies hear
+        a constant swooshing sound of about 80 decibels, so white noise
+        mimics this familiar environment.
+      </p>
+      <p class="mb-3 leading-relaxed">
+        Studies show that white noise can help babies fall asleep faster and
+        sleep longer. The AAP recommends keeping sound machines below 50
+        decibels and placing them at least 7 feet from the crib.
+      </p>
+      <p class="text-sm text-[#9CA3AF] italic">
+        Always supervise audio use around your baby. This tool generates
+        sounds using the Web Audio API directly in your browser.
+      </p>
+    </div>
+  </section>
+</ToolLayout>

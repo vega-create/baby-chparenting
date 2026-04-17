@@ -1,0 +1,39 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import DiaperSizeGuide from "../../components/tools/DiaperSizeGuide.jsx";
+
+const title = "Diaper Size Guide & Calculator — Baby Care Guide";
+const description =
+  "Find the right diaper size for your baby by weight. Compare diaper types, estimate monthly costs, and know when to size up.";
+---
+
+<ToolLayout title={title} description={description} toolName="Diaper Size Guide">
+  <h1 class="mb-3">Diaper Size Guide</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Find the right diaper size based on your baby's weight. View the
+    complete size chart, monthly cost estimates, signs it is time to
+    size up, and compare disposable vs cloth diapers.
+  </p>
+
+  <DiaperSizeGuide client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">Choosing the right diaper</h2>
+    <div class="card">
+      <p class="mb-3 leading-relaxed">
+        The right diaper size prevents leaks, blowouts, and discomfort.
+        Diapers that are too small cause blowouts and red marks, while
+        diapers that are too big lead to leaks around the legs.
+      </p>
+      <p class="mb-3 leading-relaxed">
+        Most babies go through about 2,500-3,000 diapers in their first
+        year alone. Keeping track of the right size as your baby grows
+        can save money and prevent messes.
+      </p>
+      <p class="text-sm text-[#9CA3AF] italic">
+        Sizes vary slightly by brand. When trying a new brand or size,
+        buy a small pack first to test the fit.
+      </p>
+    </div>
+  </section>
+</ToolLayout>

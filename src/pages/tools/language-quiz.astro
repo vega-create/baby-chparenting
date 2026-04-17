@@ -1,0 +1,41 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import LanguageMilestoneQuiz from "../../components/tools/LanguageMilestoneQuiz.jsx";
+
+const title = "Baby Language Milestone Quiz — Baby Care Guide";
+const description =
+  "Check your baby's language development with an age-appropriate milestone checklist. Get activity ideas and know when to talk to your pediatrician.";
+---
+
+<ToolLayout title={title} description={description} toolName="Language Milestone Quiz">
+  <h1 class="mb-3">Language Milestone Quiz</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Check your baby's language development with age-appropriate milestone
+    checklists from 0-24 months. Get activity suggestions and learn which
+    signs may warrant a conversation with your pediatrician.
+  </p>
+
+  <LanguageMilestoneQuiz client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">Supporting your baby's language development</h2>
+    <div class="card">
+      <p class="mb-3 leading-relaxed">
+        Language development begins at birth. Babies learn language through
+        everyday interactions -- hearing you talk, sing, and read to them.
+        Responsive back-and-forth conversation is the most powerful tool
+        for building language skills.
+      </p>
+      <p class="mb-3 leading-relaxed">
+        If you have any concerns about your child's language development,
+        early intervention can make a significant difference. Talk to your
+        pediatrician, who can refer you to a speech-language pathologist
+        if needed.
+      </p>
+      <p class="text-sm text-[#9CA3AF] italic">
+        This is an informational tool, not a diagnostic assessment. Milestones
+        are general guidelines. Always consult your pediatrician with concerns.
+      </p>
+    </div>
+  </section>
+</ToolLayout>

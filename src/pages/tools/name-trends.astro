@@ -1,0 +1,40 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import NamePopularityTrends from "../../components/tools/NamePopularityTrends.jsx";
+
+const title = "Baby Name Popularity Trends — Baby Care Guide";
+const description =
+  "Search any baby name and see its popularity over time. View current rank, origin, meaning, trend direction, and similar name suggestions.";
+---
+
+<ToolLayout title={title} description={description} toolName="Name Popularity Trends">
+  <h1 class="mb-3">Baby Name Popularity Trends</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Search a baby name to see its popularity across decades, origin,
+    meaning, and whether it is rising or falling in popularity.
+    Explore similar names for more inspiration.
+  </p>
+
+  <NamePopularityTrends client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">Understanding name trends</h2>
+    <div class="card">
+      <p class="mb-3 leading-relaxed">
+        Baby name popularity follows fascinating patterns. Names often
+        cycle through periods of popularity, with vintage names making
+        comebacks generations later. Understanding trends can help you
+        choose a name that feels timeless or refreshingly unique.
+      </p>
+      <p class="mb-3 leading-relaxed">
+        Our data covers approximate rankings for popular names across
+        the 2000s, 2010s, and 2020s, based on US Social Security
+        Administration records.
+      </p>
+      <p class="text-sm text-[#9CA3AF] italic">
+        Rankings are approximate estimates. Actual popularity may vary
+        by region, year, and data source.
+      </p>
+    </div>
+  </section>
+</ToolLayout>

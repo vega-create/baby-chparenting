@@ -1,0 +1,40 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import BedtimeCalculator from "../../components/tools/BedtimeCalculator.jsx";
+
+const title = "Baby Bedtime Calculator — Baby Care Guide";
+const description =
+  "Calculate the ideal bedtime for your baby based on age and wake-up time. See recommended sleep hours, nap counts, and a daily schedule preview.";
+---
+
+<ToolLayout title={title} description={description} toolName="Bedtime Calculator">
+  <h1 class="mb-3">Baby Bedtime Calculator</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Find the ideal bedtime for your baby based on their age and your desired
+    wake-up time. Get personalized recommendations for night sleep, nap
+    count, and daily schedule.
+  </p>
+
+  <BedtimeCalculator client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">Why bedtime matters</h2>
+    <div class="card">
+      <p class="mb-3 leading-relaxed">
+        A consistent bedtime helps regulate your baby's circadian rhythm,
+        leading to better quality sleep and easier bedtimes. Research shows
+        that babies with regular sleep schedules tend to sleep longer and
+        wake less frequently at night.
+      </p>
+      <p class="mb-3 leading-relaxed">
+        The ideal bedtime shifts earlier as babies consolidate their sleep.
+        Most babies between 3-12 months do best with a bedtime between
+        6:00-8:00 PM, depending on their age and nap schedule.
+      </p>
+      <p class="text-sm text-[#9CA3AF] italic">
+        Based on AAP and National Sleep Foundation guidelines. Every baby
+        is different -- adjust based on your baby's cues.
+      </p>
+    </div>
+  </section>
+</ToolLayout>

@@ -1,0 +1,40 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import TummyTimeTracker from "../../components/tools/TummyTimeTracker.jsx";
+
+const title = "Tummy Time Tracker — Baby Care Guide";
+const description =
+  "Track your baby's daily tummy time sessions with a built-in timer, progress ring, and 7-day history. Get age-appropriate goals and activity tips.";
+---
+
+<ToolLayout title={title} description={description} toolName="Tummy Time Tracker">
+  <h1 class="mb-3">Tummy Time Tracker</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Track your baby's tummy time sessions with a simple start/stop timer.
+    See daily progress toward age-appropriate goals, view 7-day history,
+    and get activity ideas.
+  </p>
+
+  <TummyTimeTracker client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">Why tummy time matters</h2>
+    <div class="card">
+      <p class="mb-3 leading-relaxed">
+        The AAP recommends supervised tummy time starting from the first
+        day home from the hospital. Tummy time builds the neck, shoulder,
+        and core muscles your baby needs for rolling, crawling, and
+        eventually sitting and walking.
+      </p>
+      <p class="mb-3 leading-relaxed">
+        Regular tummy time also helps prevent flat spots on the back of
+        your baby's head (positional plagiocephaly), which can develop
+        when babies spend too much time on their backs.
+      </p>
+      <p class="text-sm text-[#9CA3AF] italic">
+        Always supervise tummy time. If your baby seems upset, try shorter
+        sessions and work up gradually.
+      </p>
+    </div>
+  </section>
+</ToolLayout>

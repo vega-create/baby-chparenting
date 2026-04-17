@@ -1,0 +1,41 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import SolidsReadinessQuiz from "../../components/tools/SolidsReadinessQuiz.jsx";
+
+const title = "Solids Readiness Quiz — Baby Care Guide";
+const description =
+  "Take this interactive quiz to check if your baby is ready for solid foods based on AAP-recommended readiness signs.";
+---
+
+<ToolLayout title={title} description={description} toolName="Solids Readiness Quiz">
+  <h1 class="mb-3">Solids Readiness Quiz</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Is your baby ready for solid foods? Answer 8 questions based on AAP
+    readiness signs to find out. Get personalized next steps and feeding
+    tips.
+  </p>
+
+  <SolidsReadinessQuiz client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">When to start solid foods</h2>
+    <div class="card">
+      <p class="mb-3 leading-relaxed">
+        The AAP recommends exclusive breastfeeding or formula feeding for
+        about the first 6 months of life. Solids should not be introduced
+        before 4 months of age. Most babies show readiness signs between
+        4-6 months.
+      </p>
+      <p class="mb-3 leading-relaxed">
+        Starting solids is an exciting milestone, but it is important to
+        wait until your baby shows the developmental signs of readiness.
+        This quiz helps you assess those signs, but always consult your
+        pediatrician before making changes to your baby's diet.
+      </p>
+      <p class="text-sm text-[#9CA3AF] italic">
+        This is an informational tool, not medical advice. Always consult
+        your pediatrician.
+      </p>
+    </div>
+  </section>
+</ToolLayout>

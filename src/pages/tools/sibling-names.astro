@@ -1,0 +1,39 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import SiblingNameMatcher from "../../components/tools/SiblingNameMatcher.jsx";
+
+const title = "Sibling Name Matcher — Baby Care Guide";
+const description =
+  "Find baby names that pair perfectly with your existing child's name. Match by style, origin, syllable balance, and more.";
+---
+
+<ToolLayout title={title} description={description} toolName="Sibling Name Matcher">
+  <h1 class="mb-3">Sibling Name Matcher</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Find the perfect name for your new baby that pairs beautifully with
+    your existing child's name. Our algorithm matches by style, origin,
+    and syllable balance.
+  </p>
+
+  <SiblingNameMatcher client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">Tips for choosing sibling names</h2>
+    <div class="card">
+      <p class="mb-3 leading-relaxed">
+        Sibling names that share a similar style or origin often sound
+        harmonious together. Consider the rhythm and length of names
+        when spoken together, such as at the dinner table or in the park.
+      </p>
+      <p class="mb-3 leading-relaxed">
+        Some families prefer names with the same starting letter, while
+        others prefer distinct initials. There are no rules -- the best
+        name is one you love and that feels right for your family.
+      </p>
+      <p class="text-sm text-[#9CA3AF] italic">
+        Names suggestions are generated from a curated database. The
+        best name is always the one that feels right to you.
+      </p>
+    </div>
+  </section>
+</ToolLayout>
