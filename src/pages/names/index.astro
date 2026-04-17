@@ -1,0 +1,49 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumb from "../../components/Breadcrumb.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+import { getCollection } from "astro:content";
+
+const now = new Date();
+const allPosts = await getCollection("blog", ({ data }) => !data.draft && data.publishDate <= now && data.category === "names");
+const posts = allPosts.sort(
+  (a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime(),
+);
+---
+
+<BaseLayout
+  title="Baby Names"
+  description="Baby name ideas, meanings, origins, and trends. Find the perfect name for your little one."
+>
+  <section class="max-w-5xl mx-auto px-4 py-10">
+    <Breadcrumb items={[{ label: "Home", href: "/" }, { label: "Names" }]} />
+    <h1 class="mb-3">👶 Baby Names</h1>
+    <p class="text-lg text-[#9CA3AF] mb-10 max-w-2xl">
+      Explore curated lists of baby names with meanings, origins, popularity
+      trends, and inspiration for boys, girls, and gender-neutral options.
+    </p>
+
+    {posts.length > 0 ? (
+      <div class="grid gap-6 md:grid-cols-2">
+        {posts.map((post) => (
+          <ArticleCard
+            title={post.data.title}
+            description={post.data.description || ""}
+            category={post.data.category || ""}
+            href={`/blog/${post.data.slug}/`}
+            image={post.data.image}
+          />
+        ))}
+      </div>
+    ) : (
+      <div class="card text-center py-16">
+        <p class="text-4xl mb-3">👶</p>
+        <p class="text-[#1E293B] font-medium mb-2">Name articles coming soon</p>
+        <p class="text-sm text-[#9CA3AF] mb-5">
+          We're compiling expert-curated baby name lists with meanings and origins.
+        </p>
+        <a href="/blog/" class="btn-primary">Browse all articles</a>
+      </div>
+    )}
+  </section>
+</BaseLayout>

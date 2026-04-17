@@ -1,0 +1,38 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import FeedingTimer from "../../components/tools/FeedingTimer.jsx";
+
+const title = "Baby Feeding Timer & Tracker — Baby Care Guide";
+const description =
+  "Time breastfeeding sessions, log bottle feeds and solid foods. Track daily intake, feeding intervals, and view 7-day history.";
+---
+
+<ToolLayout title={title} description={description} toolName="Feeding Timer">
+  <h1 class="mb-3">Baby Feeding Timer & Tracker</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Time breastfeeding sessions with suggested side, log bottle feeds in oz or ml,
+    and track solid food introduction. View daily stats and 7-day history.
+  </p>
+
+  <FeedingTimer client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">About feeding tracking</h2>
+    <div class="card">
+      <p class="mb-3 leading-relaxed">
+        Keeping track of your baby's feedings helps ensure they're getting
+        enough nutrition and helps you spot patterns. It's especially useful
+        in the early weeks when establishing breastfeeding.
+      </p>
+      <p class="mb-3 leading-relaxed">
+        The tool alternates suggested sides for breastfeeding to help
+        maintain milk supply. As your baby grows, you can also track bottle
+        feeds and solid food introduction starting around 6 months.
+      </p>
+      <p class="text-sm text-[#9CA3AF] italic">
+        If you have concerns about your baby's feeding or weight gain,
+        consult your pediatrician or a lactation consultant.
+      </p>
+    </div>
+  </section>
+</ToolLayout>

@@ -1,0 +1,38 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import SleepTracker from "../../components/tools/SleepTracker.jsx";
+
+const title = "Baby Sleep Tracker — Baby Care Guide";
+const description =
+  "Track your baby's nighttime sleep, naps, and wakings. Get age-appropriate sleep tips and view 7-day history with daily summaries.";
+---
+
+<ToolLayout title={title} description={description} toolName="Sleep Tracker">
+  <h1 class="mb-3">Baby Sleep Tracker</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Log bedtime, wake time, night wakings, and daytime naps. View daily stats,
+    7-day history, and age-appropriate sleep guidelines.
+  </p>
+
+  <SleepTracker client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">Why track baby's sleep?</h2>
+    <div class="card">
+      <p class="mb-3 leading-relaxed">
+        Tracking your baby's sleep patterns helps you identify routines, spot
+        potential issues early, and ensure your little one is getting enough
+        rest for healthy development.
+      </p>
+      <p class="mb-3 leading-relaxed">
+        Sleep needs change rapidly in the first two years. Newborns may sleep
+        up to 17 hours per day, while toddlers need about 11-14 hours
+        including naps.
+      </p>
+      <p class="text-sm text-[#9CA3AF] italic">
+        Every baby is different. If you have concerns about your baby's sleep,
+        consult your pediatrician.
+      </p>
+    </div>
+  </section>
+</ToolLayout>

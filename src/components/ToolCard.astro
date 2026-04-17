@@ -1,0 +1,18 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  icon: string;
+  href: string;
+}
+const { title, description, icon, href } = Astro.props;
+---
+
+<a href={href} class="tool-card block no-underline text-[#1E293B]">
+  <div class="text-4xl mb-3">{icon}</div>
+  <h3 class="font-display text-xl font-semibold text-[#1D4ED8] mb-2">{title}</h3>
+  <p class="text-sm text-[#1E293B]/80 leading-relaxed">{description}</p>
+  <span class="mt-4 inline-block text-sm font-semibold text-[#3B82F6]">
+    Open tool →
+  </span>
+</a>

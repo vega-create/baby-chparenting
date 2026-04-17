@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Rounded blue background -->
+  <rect width="32" height="32" rx="7" fill="#3B82F6"/>
+
+  <!-- Baby bottle body -->
+  <rect x="11" y="10" width="10" height="15" rx="3" fill="#F8FAFC"/>
+
+  <!-- Bottle nipple -->
+  <path
+    d="M13.5 10
+       C13.5 10, 14 6, 16 6
+       C18 6, 18.5 10, 18.5 10
+       Z"
+    fill="#F8FAFC"/>
+
+  <!-- Bottle cap ring -->
+  <rect x="12" y="9.5" width="8" height="2" rx="0.5" fill="#DBEAFE"/>
+
+  <!-- Measurement lines -->
+  <line x1="12.5" y1="14" x2="15" y2="14" stroke="#93C5FD" stroke-width="0.8"/>
+  <line x1="12.5" y1="17" x2="15" y2="17" stroke="#93C5FD" stroke-width="0.8"/>
+  <line x1="12.5" y1="20" x2="15" y2="20" stroke="#93C5FD" stroke-width="0.8"/>
+
+  <!-- Small heart accent -->
+  <path
+    d="M24 5.5
+       C23.2 4.5, 22 4.8, 22.5 5.8
+       C22 4.8, 23 4.5, 23.8 5.3
+       C24.3 6, 23 7, 22.5 7.5
+       C22 7, 20.7 6, 21.2 5.3
+       Z"
+    fill="#93C5FD"/>
+</svg>

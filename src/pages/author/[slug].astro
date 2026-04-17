@@ -1,0 +1,106 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumb from "../../components/Breadcrumb.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+import { getCollection } from "astro:content";
+
+const AUTHOR_DATA: Record<
+  string,
+  { name: string; title: string; bio: string; avatar: string }
+> = {
+  "jessica-park": {
+    name: "Jessica Park",
+    title: "Certified Pediatric Sleep Consultant",
+    bio: "Jessica is a certified pediatric sleep consultant (CPSM) and mother of two. She has helped over 500 families establish healthy sleep habits through evidence-based techniques. Her guides draw from AAP safe sleep guidelines and the latest sleep science research. Jessica believes every family deserves restful nights and clear, judgment-free guidance.",
+    avatar:
+      "https://api.dicebear.com/9.x/lorelei/svg?seed=JessicaP&backgroundColor=dbeafe&radius=50",
+  },
+  "dr-michael-torres": {
+    name: "Dr. Michael Torres",
+    title: "Board-Certified Pediatrician, Medical Reviewer",
+    bio: "Dr. Torres is a board-certified pediatrician with 12 years of experience in infant and toddler care at a leading children's hospital. He serves as the medical reviewer for Baby Care Guide, ensuring all content reflects current AAP guidelines and evidence-based pediatric practice. He is passionate about helping parents navigate the first years with confidence.",
+    avatar:
+      "https://api.dicebear.com/9.x/lorelei/svg?seed=MichaelT&backgroundColor=dbeafe&radius=50",
+  },
+  "hannah-lewis": {
+    name: "Hannah Lewis",
+    title: "Certified Lactation Consultant & Baby Nutrition Writer",
+    bio: "Hannah is a certified lactation consultant (IBCLC) and baby nutrition writer with a Master's degree in Public Health Nutrition. She helps new parents navigate breastfeeding challenges and infant feeding transitions with practical, research-backed advice. When she's not writing, she's counseling new mothers at her local lactation clinic.",
+    avatar:
+      "https://api.dicebear.com/9.x/lorelei/svg?seed=HannahL&backgroundColor=dbeafe&radius=50",
+  },
+};
+
+export async function getStaticPaths() {
+  const authorKeys = ["jessica-park", "dr-michael-torres", "hannah-lewis"];
+  return authorKeys.map((slug) => ({
+    params: { slug },
+    props: { slug },
+  }));
+}
+
+const { slug } = Astro.props;
+const author = AUTHOR_DATA[slug];
+
+if (!author) return Astro.redirect("/blog/");
+
+const now = new Date();
+const allPosts = await getCollection("blog", ({ data }) => !data.draft && data.publishDate <= now);
+const authorPosts = allPosts
+  .filter((p) => {
+    const pSlug = p.data.author
+      ?.toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/(^-|-$)/g, "");
+    return pSlug === slug;
+  })
+  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+---
+
+<BaseLayout
+  title={`${author.name} — Baby Care Guide`}
+  description={author.bio.slice(0, 155)}
+>
+  <section class="max-w-4xl mx-auto px-4 py-10">
+    <Breadcrumb
+      items={[
+        { label: "Home", href: "/" },
+        { label: "Blog", href: "/blog/" },
+        { label: author.name },
+      ]}
+    />
+
+    <div class="card flex flex-col md:flex-row gap-6 items-start mb-10">
+      <img
+        src={author.avatar}
+        alt={author.name}
+        class="w-24 h-24 rounded-full object-cover shrink-0"
+        loading="eager"
+      />
+      <div>
+        <h1 class="text-3xl mb-1">{author.name}</h1>
+        <p class="text-sm text-[#3B82F6] font-medium mb-3">{author.title}</p>
+        <p class="text-[#1E293B] leading-relaxed">{author.bio}</p>
+      </div>
+    </div>
+
+    <h2 class="mb-6">Articles by {author.name}</h2>
+    {authorPosts.length > 0 ? (
+      <div class="grid gap-6 md:grid-cols-2">
+        {authorPosts.map((post) => (
+          <ArticleCard
+            title={post.data.title}
+            description={post.data.description || ""}
+            category={post.data.category || ""}
+            href={`/blog/${post.data.slug}/`}
+            image={post.data.image}
+          />
+        ))}
+      </div>
+    ) : (
+      <div class="card text-center py-10">
+        <p class="text-[#9CA3AF]">No articles yet. Check back soon!</p>
+      </div>
+    )}
+  </section>
+</BaseLayout>

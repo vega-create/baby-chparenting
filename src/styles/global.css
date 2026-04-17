@@ -1,0 +1,110 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #3b82f6;
+  --color-primary-dark: #1d4ed8;
+  --color-accent: #d1fae5;
+  --color-background: #f8fafc;
+  --color-card: #ffffff;
+  --color-text-main: #1e293b;
+  --color-text-muted: #94a3b8;
+  --color-success: #10b981;
+
+  --font-display: "Nunito", "Inter", system-ui, sans-serif;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-mono: "DM Mono", ui-monospace, monospace;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: var(--color-text-main);
+    background-color: var(--color-background);
+    -webkit-font-smoothing: antialiased;
+  }
+  body { min-height: 100vh; }
+
+  h1, h2, h3.display {
+    font-family: var(--font-display);
+    color: var(--color-primary-dark);
+    letter-spacing: -0.01em;
+  }
+  h1 { font-size: clamp(2rem, 4vw + 1rem, 3.5rem); line-height: 1.1; }
+  h2 { font-size: clamp(1.5rem, 2vw + 1rem, 2rem); line-height: 1.2; }
+
+  a { color: var(--color-primary-dark); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+}
+
+@layer components {
+  .btn-primary {
+    display: inline-flex; align-items: center; justify-content: center;
+    gap: 0.5rem; padding: 0.75rem 1.5rem;
+    background-color: var(--color-primary);
+    color: white; font-weight: 600;
+    border-radius: 9999px; transition: all 0.2s ease;
+    border: 2px solid var(--color-primary);
+  }
+  .btn-primary:hover {
+    background-color: var(--color-primary-dark);
+    border-color: var(--color-primary-dark);
+    text-decoration: none;
+  }
+
+  .card {
+    background: var(--color-card); border-radius: 1.25rem; padding: 1.5rem;
+    box-shadow: 0 1px 3px rgba(30,41,59,0.06), 0 10px 30px -10px rgba(59,130,246,0.08);
+  }
+
+  .tool-card {
+    background: var(--color-accent); border-radius: 1.25rem; padding: 1.5rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .tool-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 30px -10px rgba(59,130,246,0.18);
+  }
+
+  .result-number {
+    font-family: var(--font-mono); font-size: 2.5rem;
+    color: var(--color-primary-dark); font-weight: 500;
+  }
+
+  /* Article body typography */
+  .article-content { --wp-primary: #1d4ed8; --wp-primary-dark: #1e40af; --wp-primary-light: #93c5fd; }
+  .article-content h2 {
+    font-family: var(--font-display); font-size: 1.5rem; font-weight: 700;
+    color: var(--color-text-main); border-bottom: 2px solid var(--wp-primary-light);
+    padding-bottom: 0.625rem; margin: 2.5rem 0 1rem;
+  }
+  .article-content h3 {
+    font-size: 1.25rem; font-weight: 600; color: var(--color-text-main);
+    border-left: 3px solid var(--wp-primary); padding-left: 0.75rem;
+    margin: 1.875rem 0 0.75rem;
+  }
+  .article-content p { margin-bottom: 1.25rem; line-height: 1.8; }
+  .article-content ul, .article-content ol { margin: 1rem 0 1.25rem 1.5rem; line-height: 1.8; }
+  .article-content ul { list-style-type: disc; }
+  .article-content ol { list-style-type: decimal; }
+  .article-content li { margin-bottom: 0.5rem; }
+  .article-content a { color: var(--wp-primary); text-decoration: underline; text-underline-offset: 2px; }
+  .article-content a:hover { color: var(--wp-primary-dark); }
+  .article-content strong { font-weight: 600; }
+  .article-content img { border-radius: 0.75rem; max-width: 100%; height: auto; margin: 1.5rem 0; }
+
+  .article-content table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.9375rem; }
+  .article-content th { text-align: left; padding: 0.75rem; background: #eff6ff; font-weight: 600; border-bottom: 2px solid var(--wp-primary-light); }
+  .article-content td { padding: 0.75rem; border-bottom: 1px solid #dbeafe; }
+
+  .article-content blockquote {
+    border-left: 4px solid var(--wp-primary-light); background: #eff6ff;
+    border-radius: 0 0.75rem 0.75rem 0; padding: 1rem 1.25rem;
+    margin: 1.5rem 0; font-style: normal; line-height: 1.7;
+  }
+  .article-content blockquote p { margin-bottom: 0.5rem; }
+  .article-content blockquote p:last-child { margin-bottom: 0; }
+
+  .article-content figure { max-width: 100%; overflow: hidden; margin: 1.875rem 0; }
+  .article-content figure svg { max-width: 100%; height: auto; }
+  .article-content figcaption { text-align: center; font-size: 0.8125rem; color: #777; margin-top: 0.5rem; }
+}

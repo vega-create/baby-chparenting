@@ -1,0 +1,57 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumb from "../components/Breadcrumb.astro";
+---
+
+<BaseLayout
+  title="Privacy Policy"
+  description="Privacy policy for baby.chparenting.com"
+>
+  <section class="max-w-3xl mx-auto px-4 py-10">
+    <Breadcrumb
+      items={[{ label: "Home", href: "/" }, { label: "Privacy Policy" }]}
+    />
+    <h1 class="mb-6">Privacy Policy</h1>
+    <div class="card space-y-4 text-[#1E293B] leading-relaxed">
+      <p>
+        This privacy policy describes how Baby Care Guide ("we", "us") collects
+        and uses information when you visit baby.chparenting.com.
+      </p>
+
+      <h2 class="text-xl font-semibold mt-6">Information we collect</h2>
+      <p>
+        We use Google Analytics to measure traffic. Google Analytics uses
+        cookies to collect information such as the pages you visit, the time
+        you spend on each page, and how you arrived at the site. This data is
+        aggregated and does not personally identify you.
+      </p>
+
+      <h2 class="text-xl font-semibold mt-6">Advertising</h2>
+      <p>
+        We display ads through Google AdSense. Google, as a third-party vendor,
+        uses cookies to serve ads based on your prior visits to our website and
+        other websites. You may opt out of personalized advertising by visiting
+        <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener">
+          Google Ads Settings
+        </a>.
+      </p>
+
+      <h2 class="text-xl font-semibold mt-6">Local storage</h2>
+      <p>
+        Some of our tools (such as the Sleep Tracker and Feeding Timer)
+        save data to your browser's local storage so your entries persist
+        between visits. This data never leaves your device.
+      </p>
+
+      <h2 class="text-xl font-semibold mt-6">Contact</h2>
+      <p>
+        If you have any questions about this privacy policy, please reach out
+        via our <a href="/contact/">contact page</a>.
+      </p>
+
+      <p class="text-sm text-[#9CA3AF] italic mt-8">
+        Last updated: April 2026
+      </p>
+    </div>
+  </section>
+</BaseLayout>

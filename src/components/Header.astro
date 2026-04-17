@@ -1,0 +1,84 @@
+---
+import { siteConfig } from "../../site.config";
+---
+
+<header class="sticky top-0 z-50 bg-[#F8FAFC]/90 backdrop-blur-md border-b border-blue-100">
+  <nav class="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
+    <a href="/" class="flex items-center gap-2 no-underline">
+      <img src="/favicon.svg" alt="" class="w-7 h-7" />
+      <span class="font-display text-xl font-semibold text-[#1D4ED8]">
+        {siteConfig.name}
+      </span>
+    </a>
+
+    <ul class="hidden md:flex items-center gap-6 list-none m-0 p-0">
+      {
+        siteConfig.nav.map((item) => (
+          <li>
+            <a
+              href={item.href}
+              class="text-sm font-medium text-[#1E293B] hover:text-[#3B82F6] no-underline"
+            >
+              {item.label}
+            </a>
+          </li>
+        ))
+      }
+      <li>
+        <a
+          href={siteConfig.sister.pregnancy}
+          target="_blank"
+          rel="noopener"
+          class="text-sm font-medium text-[#BE185D] hover:text-pink-700 no-underline flex items-center gap-1"
+        >
+          🤰 Pregnancy Guide
+          <span class="text-[10px]">↗</span>
+        </a>
+      </li>
+    </ul>
+
+    <button
+      id="mobile-menu-btn"
+      class="md:hidden text-2xl text-[#3B82F6]"
+      aria-label="Toggle menu"
+    >
+      ☰
+    </button>
+  </nav>
+
+  <div
+    id="mobile-menu"
+    class="md:hidden hidden border-t border-blue-100 bg-[#F8FAFC]"
+  >
+    <ul class="list-none m-0 p-0">
+      {
+        siteConfig.nav.map((item) => (
+          <li>
+            <a
+              href={item.href}
+              class="block px-4 py-3 text-[#1E293B] hover:bg-blue-50 no-underline border-b border-blue-50"
+            >
+              {item.label}
+            </a>
+          </li>
+        ))
+      }
+      <li>
+        <a
+          href={siteConfig.sister.pregnancy}
+          target="_blank"
+          rel="noopener"
+          class="block px-4 py-3 text-[#BE185D] hover:bg-pink-50 no-underline border-b border-blue-50"
+        >
+          🤰 Pregnancy Guide ↗
+        </a>
+      </li>
+    </ul>
+  </div>
+</header>
+
+<script>
+  const btn = document.getElementById("mobile-menu-btn");
+  const menu = document.getElementById("mobile-menu");
+  btn?.addEventListener("click", () => menu?.classList.toggle("hidden"));
+</script>

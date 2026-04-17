@@ -1,0 +1,46 @@
+---
+import { siteConfig } from "../../site.config";
+
+interface Props {
+  slot?: 'top' | 'mid' | 'bottom' | 'sidebar' | 'tool-top';
+  format?: 'auto' | 'horizontal' | 'rectangle';
+}
+
+const { slot = 'mid', format = 'auto' } = Astro.props;
+const { client, enabled } = siteConfig.adsense;
+
+const slotIds: Record<string, string> = {
+  'top':      '1880333153',
+  'mid':      '1271948163',
+  'bottom':   '8916289459',
+  'sidebar':  '5019621489',
+  'tool-top': '9647142537',
+};
+
+const slotStyles: Record<string, string> = {
+  'top':      'my-4',
+  'mid':      'my-8',
+  'bottom':   'my-8',
+  'sidebar':  'sticky top-24',
+  'tool-top': 'my-4',
+};
+---
+
+{enabled && client && slotIds[slot] && (
+  <div class={`adsense-container ${slotStyles[slot] || 'my-6'}`}>
+    <ins
+      class="adsbygoogle"
+      style={slot === 'sidebar'
+        ? 'display:inline-block;width:300px;height:600px'
+        : 'display:block'}
+      data-ad-client={client}
+      data-ad-slot={slotIds[slot]}
+      data-ad-format="auto"
+      data-full-width-responsive={slot === 'sidebar' ? 'false' : 'true'}
+    ></ins>
+    <script
+      is:inline
+      set:html={"(adsbygoogle = window.adsbygoogle || []).push({});"}
+    />
+  </div>
+)}

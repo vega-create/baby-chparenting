@@ -1,0 +1,38 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import BabyNameGenerator from "../../components/tools/BabyNameGenerator.jsx";
+
+const title = "Baby Name Generator — Baby Care Guide";
+const description =
+  "Discover the perfect baby name with meanings, origins, pronunciation, and popularity. Filter by gender, style, origin, and starting letter. Save favorites and compare names side by side.";
+---
+
+<ToolLayout title={title} description={description} toolName="Name Generator">
+  <h1 class="mb-3">Baby Name Generator</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Explore 200+ baby names with meanings, origins, and pronunciation. Filter
+    by gender, style, and origin. Save your favorites and compare names side
+    by side.
+  </p>
+
+  <BabyNameGenerator client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">Tips for choosing a baby name</h2>
+    <div class="card">
+      <p class="mb-3 leading-relaxed">
+        Choosing a name for your baby is one of the first big decisions you'll
+        make as a parent. Consider how the name sounds with your last name,
+        any family naming traditions, and the meaning behind the name.
+      </p>
+      <p class="mb-3 leading-relaxed">
+        Try saying the name out loud, imagining introducing your child, and
+        checking for any unintended nicknames or initials. There's no wrong
+        choice — the best name is one that feels right to you.
+      </p>
+      <p class="text-sm text-[#9CA3AF] italic">
+        Name popularity data based on recent US Social Security Administration records.
+      </p>
+    </div>
+  </section>
+</ToolLayout>

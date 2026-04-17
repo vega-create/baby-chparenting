@@ -1,0 +1,86 @@
+---
+import { siteConfig } from "../../site.config";
+const year = new Date().getFullYear();
+---
+
+<footer class="mt-24 border-t border-blue-100 bg-white/50">
+  <div class="max-w-6xl mx-auto px-4 py-12 grid gap-8 md:grid-cols-4">
+    <div>
+      <div class="flex items-center gap-2 mb-3">
+        <img src="/favicon.svg" alt="" class="w-6 h-6" />
+        <span class="font-display text-lg font-semibold text-[#1D4ED8]">
+          {siteConfig.name}
+        </span>
+      </div>
+      <p class="text-sm text-[#9CA3AF] leading-relaxed">
+        {siteConfig.tagline}
+      </p>
+    </div>
+
+    <div>
+      <h3 class="text-sm font-semibold text-[#1E293B] mb-3 uppercase tracking-wide">
+        Categories
+      </h3>
+      <ul class="list-none m-0 p-0 space-y-2 text-sm">
+        <li><a href="/sleep/" class="text-[#1E293B] no-underline hover:text-[#3B82F6]">Sleep</a></li>
+        <li><a href="/names/" class="text-[#1E293B] no-underline hover:text-[#3B82F6]">Names</a></li>
+        <li><a href="/feeding/" class="text-[#1E293B] no-underline hover:text-[#3B82F6]">Feeding</a></li>
+        <li><a href="/gear/" class="text-[#1E293B] no-underline hover:text-[#3B82F6]">Gear</a></li>
+        <li><a href="/development/" class="text-[#1E293B] no-underline hover:text-[#3B82F6]">Development</a></li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 class="text-sm font-semibold text-[#1E293B] mb-3 uppercase tracking-wide">
+        Tools
+      </h3>
+      <ul class="list-none m-0 p-0 space-y-2 text-sm">
+        <li><a href="/tools/" class="text-[#1E293B] no-underline hover:text-[#3B82F6]">Sleep Tracker</a></li>
+        <li><a href="/tools/" class="text-[#1E293B] no-underline hover:text-[#3B82F6]">Feeding Timer</a></li>
+        <li><a href="/tools/" class="text-[#1E293B] no-underline hover:text-[#3B82F6]">Growth Tracker</a></li>
+        <li><a href="/tools/" class="text-[#1E293B] no-underline hover:text-[#3B82F6]">Name Generator</a></li>
+        <li><a href="/tools/" class="text-[#1E293B] no-underline hover:text-[#3B82F6]">Milestone Tracker</a></li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 class="text-sm font-semibold text-[#1E293B] mb-3 uppercase tracking-wide">
+        Company
+      </h3>
+      <ul class="list-none m-0 p-0 space-y-2 text-sm">
+        <li><a href="/about/" class="text-[#1E293B] no-underline hover:text-[#3B82F6]">About</a></li>
+        <li><a href="/privacy/" class="text-[#1E293B] no-underline hover:text-[#3B82F6]">Privacy Policy</a></li>
+        <li><a href="/contact/" class="text-[#1E293B] no-underline hover:text-[#3B82F6]">Contact</a></li>
+      </ul>
+
+      <h3 class="text-sm font-semibold text-[#1E293B] mb-3 mt-6 uppercase tracking-wide">
+        Sister Sites
+      </h3>
+      <ul class="list-none m-0 p-0 space-y-2 text-sm">
+        <li>
+          <a href={siteConfig.sister.pregnancy} target="_blank" rel="noopener" class="text-[#BE185D] no-underline hover:text-pink-700 flex items-center gap-1">
+            🤰 Pregnancy Guide
+            <span class="text-[10px] text-[#9CA3AF]">↗</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://chparenting.com" target="_blank" rel="noopener" class="text-[#1E293B] no-underline hover:text-[#3B82F6] flex items-center gap-1">
+            🏠 ChParenting
+            <span class="text-[10px] text-[#9CA3AF]">↗</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="border-t border-blue-100 py-6 px-4 text-center text-xs text-[#9CA3AF] max-w-6xl mx-auto">
+    <p class="mb-2">
+      &copy; {year} {siteConfig.name}. All rights reserved.
+    </p>
+    <p class="max-w-3xl mx-auto">
+      The content on this website is for informational purposes only and is not
+      intended as medical advice. Always consult your pediatrician or healthcare
+      provider for questions about your baby's health and development.
+    </p>
+  </div>
+</footer>

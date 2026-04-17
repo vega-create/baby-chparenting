@@ -1,0 +1,40 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import GrowthCalculator from "../../components/tools/GrowthCalculator.jsx";
+
+const title = "Baby Growth Percentile Calculator — Baby Care Guide";
+const description =
+  "Check your baby's weight, length, and head circumference against WHO growth standards. Track growth trends over time with saved measurement history.";
+---
+
+<ToolLayout title={title} description={description} toolName="Growth Calculator">
+  <h1 class="mb-3">Baby Growth Percentile Calculator</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Enter your baby's age, weight, length, and head circumference to see where
+    they fall on the WHO growth charts. Save measurements to track growth trends
+    over time.
+  </p>
+
+  <GrowthCalculator client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">About WHO growth charts</h2>
+    <div class="card">
+      <p class="mb-3 leading-relaxed">
+        The World Health Organization (WHO) growth standards describe how
+        healthy children grow under optimal conditions. A percentile shows where
+        your baby falls compared to other children of the same age and sex.
+      </p>
+      <p class="mb-3 leading-relaxed">
+        The 50th percentile is the median -- half of babies are above, half
+        below. Any percentile between the 3rd and 97th is considered
+        normal. What matters most is that your baby follows a
+        consistent growth curve over time, not a single measurement.
+      </p>
+      <p class="text-sm text-[#9CA3AF] italic">
+        Source: WHO Child Growth Standards (2006). Discuss any concerns with
+        your pediatrician.
+      </p>
+    </div>
+  </section>
+</ToolLayout>

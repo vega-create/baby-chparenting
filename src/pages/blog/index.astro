@@ -1,0 +1,131 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumb from "../../components/Breadcrumb.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+import { getCollection } from "astro:content";
+
+const now = new Date();
+const allPosts = await getCollection("blog", ({ data }) => !data.draft && data.publishDate <= now);
+const posts = allPosts.sort(
+  (a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime(),
+);
+
+const categories = [
+  { id: "all", label: "All Articles", emoji: "📚" },
+  { id: "sleep", label: "Sleep", emoji: "🌙" },
+  { id: "names", label: "Names", emoji: "👶" },
+  { id: "feeding", label: "Feeding", emoji: "🍼" },
+  { id: "gear", label: "Gear", emoji: "🛒" },
+  { id: "development", label: "Development", emoji: "📈" },
+];
+
+// Count articles per category
+const counts: Record<string, number> = { all: posts.length };
+for (const p of posts) {
+  const cat = p.data.category || "uncategorized";
+  counts[cat] = (counts[cat] || 0) + 1;
+}
+---
+
+<BaseLayout
+  title="Baby Care Blog"
+  description="Expert articles on baby sleep, feeding, development, gear reviews, and baby names."
+>
+  <section class="max-w-5xl mx-auto px-4 py-10">
+    <Breadcrumb items={[{ label: "Home", href: "/" }, { label: "Blog" }]} />
+    <h1 class="mb-3">Baby Care Blog</h1>
+    <p class="text-lg text-[#9CA3AF] mb-8">
+      Evidence-based articles for every stage of your baby's development.
+    </p>
+
+    {/* Category filter tabs */}
+    <div class="flex flex-wrap gap-2 mb-10" id="category-filters">
+      {categories.map((cat) => (
+        <button
+          type="button"
+          data-category={cat.id}
+          class:list={[
+            "filter-btn px-4 py-2 text-sm font-medium rounded-full transition",
+            cat.id === "all"
+              ? "bg-[#93C5FD] text-[#1D4ED8]"
+              : "bg-blue-50 text-[#1E293B] hover:bg-blue-100",
+          ]}
+        >
+          {cat.emoji} {cat.label}
+          {counts[cat.id] !== undefined && (
+            <span class="ml-1 text-xs opacity-70">({counts[cat.id]})</span>
+          )}
+        </button>
+      ))}
+    </div>
+
+    {/* Articles grid */}
+    {posts.length > 0 ? (
+      <div class="grid gap-6 md:grid-cols-2" id="articles-grid">
+        {posts.map((post) => (
+          <div data-cat={post.data.category || "uncategorized"} class="article-item">
+            <ArticleCard
+              title={post.data.title}
+              description={post.data.description || ""}
+              category={post.data.category || ""}
+              href={`/blog/${post.data.slug}/`}
+              image={post.data.image}
+            />
+          </div>
+        ))}
+      </div>
+    ) : (
+      <div class="card text-center py-16">
+        <p class="text-4xl mb-3">📝</p>
+        <p class="text-[#1E293B] font-medium mb-2">Articles are on the way</p>
+        <p class="text-sm text-[#9CA3AF] mb-5">
+          We're carefully writing evidence-based articles for every stage.
+        </p>
+        <a href="/tools/" class="btn-primary">Explore tools</a>
+      </div>
+    )}
+
+    {/* Empty state for filtered results */}
+    <div id="no-results" class="card text-center py-12 hidden">
+      <p class="text-4xl mb-3">🔍</p>
+      <p class="text-[#1E293B] font-medium mb-2">No articles in this category yet</p>
+      <p class="text-sm text-[#9CA3AF]">Check back soon — we're writing more every week.</p>
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  const btns = document.querySelectorAll<HTMLButtonElement>(".filter-btn");
+  const items = document.querySelectorAll<HTMLElement>(".article-item");
+  const noResults = document.getElementById("no-results");
+
+  btns.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const cat = btn.dataset.category;
+
+      // Update active button style
+      btns.forEach((b) => {
+        b.classList.remove("bg-[#93C5FD]", "text-[#1D4ED8]");
+        b.classList.add("bg-blue-50", "text-[#1E293B]");
+      });
+      btn.classList.remove("bg-blue-50", "text-[#1E293B]");
+      btn.classList.add("bg-[#93C5FD]", "text-[#1D4ED8]");
+
+      // Filter articles
+      let visible = 0;
+      items.forEach((item) => {
+        if (cat === "all" || item.dataset.cat === cat) {
+          item.style.display = "";
+          visible++;
+        } else {
+          item.style.display = "none";
+        }
+      });
+
+      // Show/hide no-results message
+      if (noResults) {
+        noResults.classList.toggle("hidden", visible > 0);
+      }
+    });
+  });
+</script>

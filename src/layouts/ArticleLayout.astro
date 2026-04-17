@@ -1,0 +1,138 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import Breadcrumb from "../components/Breadcrumb.astro";
+import TableOfContents from "../components/TableOfContents.astro";
+import AuthorBox from "../components/AuthorBox.astro";
+import PregnancySiteCTA from "../components/PregnancySiteCTA.astro";
+
+interface Props {
+  title: string;
+  description?: string;
+  publishDate: Date;
+  category?: string;
+  tags?: string[];
+  author?: string;
+  authorUrl?: string;
+  image?: string;
+  headings: { depth: number; slug: string; text: string }[];
+  slug: string;
+}
+
+const {
+  title,
+  description,
+  publishDate,
+  category,
+  tags = [],
+  author = "Jessica Park",
+  authorUrl,
+  image,
+  headings,
+  slug,
+} = Astro.props;
+
+const categoryLabels: Record<string, string> = {
+  sleep: "Sleep",
+  names: "Names",
+  feeding: "Feeding",
+  gear: "Gear",
+  development: "Development",
+};
+
+const formattedDate = publishDate.toLocaleDateString("en-US", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+
+const canonicalUrl = `https://baby.chparenting.com/blog/${slug}/`;
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  image={image}
+  type="article"
+  publishDate={publishDate.toISOString()}
+  author={author}
+  canonical={canonicalUrl}
+>
+  <article class="max-w-6xl mx-auto px-4 py-10">
+    <!-- Breadcrumb -->
+    <Breadcrumb
+      items={[
+        { label: "Home", href: "/" },
+        { label: "Blog", href: "/blog/" },
+        ...(category
+          ? [{ label: categoryLabels[category] ?? category, href: `/blog/?category=${category}` }]
+          : []),
+        { label: title },
+      ]}
+    />
+
+    <!-- Article hero -->
+    <header class="mb-10 max-w-3xl">
+      {category && (
+        <span class="inline-block text-xs font-semibold uppercase tracking-wide text-[#1D4ED8] bg-blue-50 px-3 py-1 rounded-full mb-4">
+          {categoryLabels[category] ?? category}
+        </span>
+      )}
+      {image && (
+        <img
+          src={image}
+          alt={title}
+          class="w-full rounded-2xl mb-6 max-h-[400px] object-cover"
+          loading="eager"
+        />
+      )}
+      <h1 class="mb-4">{title}</h1>
+      <div class="flex flex-wrap items-center gap-3 text-sm text-[#9CA3AF]">
+        <span>By <a href={authorUrl || "#"} class="text-[#1D4ED8] no-underline hover:underline">{author}</a></span>
+        <span>&bull;</span>
+        <time datetime={publishDate.toISOString()}>{formattedDate}</time>
+        {tags.length > 0 && (
+          <>
+            <span>&bull;</span>
+            <div class="flex gap-1">
+              {tags.slice(0, 3).map((tag) => (
+                <span class="text-xs bg-blue-50 px-2 py-0.5 rounded-full">{tag}</span>
+              ))}
+            </div>
+          </>
+        )}
+      </div>
+    </header>
+
+    <!-- TOC + Content grid -->
+    <div class="lg:grid lg:grid-cols-[1fr_250px] lg:gap-12">
+      <!-- Article body -->
+      <div class="article-content">
+        <slot />
+
+        <!-- Medical disclaimer -->
+        <div class="mt-12 p-4 bg-amber-50 border-l-4 border-amber-300 rounded-r-xl text-sm text-[#1E293B] italic">
+          <strong>Medical Disclaimer:</strong> This article is for informational
+          purposes only and is not a substitute for professional medical advice,
+          diagnosis, or treatment. Always consult your pediatrician or healthcare
+          provider with any questions about your baby's health.
+        </div>
+
+        <!-- Author box -->
+        <AuthorBox name={author} url={authorUrl} />
+
+        <!-- Pregnancy site CTA -->
+        <PregnancySiteCTA />
+      </div>
+
+      <!-- Sidebar TOC (desktop) -->
+      <aside class="hidden lg:block">
+        <TableOfContents headings={headings} />
+      </aside>
+    </div>
+
+    <!-- Mobile TOC at top of content (moved above article body on mobile) -->
+    <div class="lg:hidden -mt-6 mb-6">
+      <TableOfContents headings={headings} />
+    </div>
+  </article>
+</BaseLayout>

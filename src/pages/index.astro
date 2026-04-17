@@ -1,0 +1,179 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ToolCard from "../components/ToolCard.astro";
+import ArticleCard from "../components/ArticleCard.astro";
+import { siteConfig } from "../../site.config";
+import { getCollection } from "astro:content";
+
+const now = new Date();
+const allPosts = await getCollection("blog", ({ data }) => !data.draft && data.publishDate <= now);
+const latestPosts = allPosts
+  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime())
+  .slice(0, 3);
+
+const tools = [
+  {
+    icon: "😴",
+    title: "Sleep Tracker",
+    description: "Track naps, nighttime sleep, and build healthy sleep routines by age.",
+    href: "/tools/",
+  },
+  {
+    icon: "🍼",
+    title: "Feeding Timer",
+    description: "Time breastfeeding sessions, bottle feeds, and track daily intake.",
+    href: "/tools/",
+  },
+  {
+    icon: "📊",
+    title: "Growth Tracker",
+    description: "Plot your baby's weight and length on WHO growth percentile charts.",
+    href: "/tools/",
+  },
+  {
+    icon: "👶",
+    title: "Name Generator",
+    description: "Discover the perfect baby name with meanings, origins, and popularity.",
+    href: "/tools/",
+  },
+  {
+    icon: "🏆",
+    title: "Milestone Tracker",
+    description: "Track developmental milestones from newborn to 24 months.",
+    href: "/tools/",
+  },
+];
+
+const categories = [
+  { icon: "🌙", label: "Sleep", href: "/sleep/", description: "Sleep training, schedules & safe sleep" },
+  { icon: "👶", label: "Names", href: "/names/", description: "Baby name ideas, meanings & trends" },
+  { icon: "🍼", label: "Feeding", href: "/feeding/", description: "Breastfeeding, formula & solids" },
+  { icon: "🛒", label: "Gear", href: "/gear/", description: "Reviews, comparisons & buying guides" },
+  { icon: "📈", label: "Development", href: "/development/", description: "Milestones, growth & learning" },
+];
+
+const featuredArticles = latestPosts.map((post) => ({
+  title: post.data.title,
+  description: post.data.description || "",
+  category: post.data.category || "",
+  href: `/blog/${post.data.slug}/`,
+  image: post.data.image || "",
+}));
+---
+
+<BaseLayout
+  title={`${siteConfig.name} — ${siteConfig.tagline}`}
+  description={siteConfig.description}
+>
+  <!-- Hero -->
+  <section class="relative overflow-hidden min-h-[480px] md:min-h-[540px] flex items-center">
+    <!-- Background image -->
+    <img
+      src="https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=1920"
+      alt=""
+      class="absolute inset-0 w-full h-full object-cover object-center"
+      loading="eager"
+    />
+    <!-- Blue overlay -->
+    <div class="absolute inset-0 bg-gradient-to-r from-[#1E293B]/60 via-[#1E293B]/30 to-transparent"></div>
+    <div class="absolute inset-0 bg-[#3B82F6]/15"></div>
+
+    <div class="relative z-10 max-w-6xl mx-auto px-4 py-20 md:py-28 text-center">
+      <span class="inline-block text-sm font-semibold text-white bg-white/20 backdrop-blur-sm px-4 py-1.5 rounded-full mb-6 border border-white/30">
+        👶 Free tools for new parents
+      </span>
+      <h1 class="font-display mb-6 text-white drop-shadow-lg">
+        Complete Baby<br />Care Guide
+      </h1>
+      <p class="max-w-2xl mx-auto text-lg text-white/90 mb-8 drop-shadow">
+        Expert guides for sleep, feeding, development & more —
+        from newborn to toddler.
+      </p>
+      <div class="flex flex-wrap gap-3 justify-center">
+        <a href="/sleep/" class="btn-primary">
+          🌙 Sleep guides
+        </a>
+        <a
+          href="/tools/"
+          class="btn-primary !bg-white !border-white hover:!bg-[#3B82F6] hover:!text-white"
+        >
+          🛠️ Explore tools
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Categories -->
+  <section class="max-w-6xl mx-auto px-4 py-16">
+    <div class="text-center mb-12">
+      <h2 class="font-display mb-3">Browse by category</h2>
+      <p class="text-[#9CA3AF]">Everything you need for baby's first years.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-3 lg:grid-cols-5">
+      {categories.map((cat) => (
+        <a href={cat.href} class="card text-center no-underline hover:shadow-lg transition-shadow">
+          <div class="text-4xl mb-3">{cat.icon}</div>
+          <h3 class="font-display text-lg font-semibold text-[#1D4ED8] mb-1">{cat.label}</h3>
+          <p class="text-sm text-[#9CA3AF]">{cat.description}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- Tools Grid -->
+  <section class="max-w-6xl mx-auto px-4 py-16">
+    <div class="text-center mb-12">
+      <h2 class="font-display mb-3">Free baby care tools</h2>
+      <p class="text-[#9CA3AF]">Track sleep, feeding, growth, and milestones. No signup required.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+      {tools.map((t) => <ToolCard {...t} />)}
+    </div>
+  </section>
+
+  <!-- Articles -->
+  <section class="max-w-6xl mx-auto px-4 py-16">
+    <div class="text-center mb-12">
+      <h2 class="font-display mb-3">Expert articles</h2>
+      <p class="text-[#9CA3AF]">Evidence-based guides for every stage of baby's development.</p>
+    </div>
+    {
+      featuredArticles.length > 0 ? (
+        <>
+          <div class="grid gap-6 md:grid-cols-3">
+            {featuredArticles.map((a) => <ArticleCard {...a} />)}
+          </div>
+          <div class="text-center mt-10">
+            <a href="/blog/" class="btn-primary">Browse all articles</a>
+          </div>
+        </>
+      ) : (
+        <div class="card max-w-2xl mx-auto text-center">
+          <p class="text-4xl mb-3">📝</p>
+          <p class="text-[#1E293B] font-medium mb-2">
+            Articles are on the way
+          </p>
+          <p class="text-sm text-[#9CA3AF] mb-5">
+            We're carefully writing evidence-based articles for every stage.
+            In the meantime, try our free baby care tools.
+          </p>
+          <a href="/tools/" class="btn-primary">Explore tools</a>
+        </div>
+      )
+    }
+  </section>
+
+  <!-- CTA -->
+  <section class="max-w-4xl mx-auto px-4 py-16 text-center">
+    <div class="card" style="background: linear-gradient(135deg, #EFF6FF 0%, #F0FDF4 100%);">
+      <h2 class="font-display mb-4">Not sure where to start?</h2>
+      <p class="text-[#1E293B]/80 mb-6 max-w-xl mx-auto">
+        Browse our sleep guides to help your baby (and you!) get the rest
+        you need, or explore our development milestones tracker.
+      </p>
+      <a href="/sleep/" class="btn-primary">
+        Start with sleep guides →
+      </a>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,40 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import MilestoneChecker from "../../components/tools/MilestoneChecker.jsx";
+
+const title = "Baby Milestone Tracker — Baby Care Guide";
+const description =
+  "Track your baby's developmental milestones from 1 to 24 months. Check off physical, cognitive, social, and language milestones based on CDC guidelines.";
+---
+
+<ToolLayout title={title} description={description} toolName="Milestone Tracker">
+  <h1 class="mb-3">Baby Milestone Tracker</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Track your baby's developmental milestones across physical, cognitive,
+    social, and language categories. Select your baby's age and check off
+    achieved milestones.
+  </p>
+
+  <MilestoneChecker client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">About developmental milestones</h2>
+    <div class="card">
+      <p class="mb-3 leading-relaxed">
+        Developmental milestones are behaviors or physical skills seen in
+        infants and children as they grow. Rolling over, crawling, walking,
+        and talking are all considered milestones.
+      </p>
+      <p class="mb-3 leading-relaxed">
+        Milestones are different for each age range. There is a normal range
+        in which a child may reach each milestone. Every child is unique and
+        may develop at a different pace.
+      </p>
+      <p class="text-sm text-[#9CA3AF] italic">
+        Based on CDC developmental milestone guidelines. This tool is for
+        informational purposes only and is not a diagnostic tool. Discuss any
+        concerns with your pediatrician.
+      </p>
+    </div>
+  </section>
+</ToolLayout>

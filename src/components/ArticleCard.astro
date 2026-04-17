@@ -1,0 +1,42 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  category: string;
+  href: string;
+  image?: string;
+  readTime?: string;
+}
+const { title, description, category, href, image, readTime } = Astro.props;
+
+const categoryLabels: Record<string, string> = {
+  sleep: "Sleep",
+  names: "Names",
+  feeding: "Feeding",
+  gear: "Gear",
+  development: "Development",
+};
+---
+
+<a href={href} class="card block no-underline text-[#1E293B] hover:shadow-lg transition-shadow !p-0 overflow-hidden">
+  {image && (
+    <img
+      src={image}
+      alt={title}
+      class="w-full h-48 object-cover"
+      loading="lazy"
+    />
+  )}
+  <div class="p-5">
+    {category && (
+      <span class="inline-block text-xs font-semibold uppercase tracking-wide text-[#1D4ED8] bg-blue-50 px-2 py-1 rounded-full mb-3">
+        {categoryLabels[category] ?? category}
+      </span>
+    )}
+    <h3 class="font-display text-lg font-semibold text-[#1E293B] mb-2 leading-tight">
+      {title}
+    </h3>
+    <p class="text-sm text-[#9CA3AF] leading-relaxed line-clamp-2">{description}</p>
+    {readTime && <p class="mt-3 text-xs text-[#9CA3AF]">{readTime}</p>}
+  </div>
+</a>
