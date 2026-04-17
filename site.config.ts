@@ -20,7 +20,7 @@ export const siteConfig = {
   colors: {
     primary: "#3B82F6",
     primaryDark: "#1D4ED8",
-    accent: "#D1FAE5",
+    accent: "#EFF6FF",
     background: "#F8FAFC",
   },
   nav: [
