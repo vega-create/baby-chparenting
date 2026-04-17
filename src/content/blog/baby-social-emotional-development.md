@@ -5,7 +5,7 @@ description: "Discover how babies develop social and emotional skills from birth
 publishDate: 2026-03-28
 category: development
 author: "Dr. Michael Torres"
-image: https://images.pexels.com/photos/16553952/pexels-photo-16553952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
+image: https://images.pexels.com/photos/3875131/pexels-photo-3875131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["social development", "emotional development", "attachment theory", "baby bonding", "temperament", "responsive parenting", "infant emotions", "secure attachment"]
 ---
 

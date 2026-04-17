@@ -1,7 +1,7 @@
 ---
 title: "35 Baby Names That Mean Fire or Flame"
 description: "Discover 35 fiery baby names that mean fire or flame for boys, girls, and unisex options. Explore blazing names with origins, meanings, and trending picks."
-publishDate: 2026-05-22
+publishDate: 2026-04-26
 slug: "names-meaning-fire"
 category: "names"
 tags: ["baby names", "names meaning fire", "flame baby names", "fiery names", "boy names", "girl names"]

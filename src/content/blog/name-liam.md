@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Liam: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Liam. Explore famous Liams, nicknames, sibling pairings, and middle name ideas."
-publishDate: 2026-04-19
+publishDate: 2026-03-16
 slug: "name-liam"
 category: "names"
 tags: ["baby name Liam", "Liam meaning", "Liam origin", "boy names", "popular baby names"]

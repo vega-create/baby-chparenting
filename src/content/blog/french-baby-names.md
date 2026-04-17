@@ -1,7 +1,7 @@
 ---
 title: "50 Elegant French Baby Names"
 description: "Discover 50 elegant French baby names for boys and girls with meanings, pronunciation guides, and a look at France's sophisticated naming traditions."
-publishDate: 2026-05-28
+publishDate: 2026-05-12
 slug: "french-baby-names"
 category: "names"
 tags: ["French names", "baby names", "French baby names", "Parisian names", "European names"]

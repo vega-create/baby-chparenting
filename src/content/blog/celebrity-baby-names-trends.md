@@ -1,7 +1,7 @@
 ---
 title: "Celebrity Baby Names 2025-2026: Trends and Inspiration"
 description: "Explore the latest celebrity baby name trends for 2025-2026. From nature-inspired picks to classic revivals, discover how famous parents are shaping naming trends."
-publishDate: 2026-05-01
+publishDate: 2026-05-06
 slug: "celebrity-baby-names-trends"
 category: "names"
 tags: ["celebrity baby names", "baby name trends", "famous baby names", "2026 baby names", "trending names"]

@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Charlotte: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Charlotte. Explore famous Charlottes, nicknames, sibling pairings, and middle name ideas."
-publishDate: 2026-04-22
+publishDate: 2026-03-20
 slug: "name-charlotte"
 category: "names"
 tags: ["baby name Charlotte", "Charlotte meaning", "Charlotte origin", "girl names", "popular baby names"]

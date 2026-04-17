@@ -1,7 +1,7 @@
 ---
 title: "50 Beautiful Italian Baby Names"
 description: "Discover 50 stunning Italian baby names for boys and girls with meanings, pronunciation guides, and insights into Italy's rich naming traditions and customs."
-publishDate: 2026-05-25
+publishDate: 2026-05-14
 slug: "italian-baby-names"
 category: "names"
 tags: ["Italian names", "baby names", "Italian baby names", "Roman names", "Mediterranean names"]

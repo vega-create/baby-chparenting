@@ -1,7 +1,7 @@
 ---
 title: "50 Best Leo Baby Names: Royal Names for Your Little Lion (July 23 – August 22)"
 description: "Discover 50 regal Leo baby names for boys and girls inspired by the sun, lions, and royalty. Find the perfect name for your July or August baby born under the lion."
-publishDate: 2026-04-29
+publishDate: 2026-04-14
 slug: "leo-baby-names"
 category: "names"
 tags: ["baby names", "leo baby names", "zodiac names", "royal names", "sun names", "july baby names", "august baby names"]

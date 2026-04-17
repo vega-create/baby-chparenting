@@ -1,7 +1,7 @@
 ---
 title: "50 Best Gemini Baby Names: Clever Names for Your Little Twin (May 21 – June 20)"
 description: "Discover 50 clever Gemini baby names for boys and girls inspired by air, wit, and communication. Find the perfect name for your May or June baby born under the twins."
-publishDate: 2026-04-23
+publishDate: 2026-04-10
 slug: "gemini-baby-names"
 category: "names"
 tags: ["baby names", "gemini baby names", "zodiac names", "air names", "may baby names", "june baby names", "clever baby names"]

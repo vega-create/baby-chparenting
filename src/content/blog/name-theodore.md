@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Theodore: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Theodore. Explore famous Theodores, nicknames, sibling pairings, and middle name ideas."
-publishDate: 2026-05-05
+publishDate: 2026-03-29
 slug: "name-theodore"
 category: "names"
 tags: ["baby name Theodore", "Theodore meaning", "Theodore origin", "boy names", "popular baby names"]

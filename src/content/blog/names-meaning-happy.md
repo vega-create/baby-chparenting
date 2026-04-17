@@ -1,7 +1,7 @@
 ---
 title: "40 Baby Names That Mean Happy or Blessed"
 description: "Find 40 joyful baby names that mean happy or blessed for boys, girls, and unisex options. Explore blissful names with origins, meanings, and trending picks."
-publishDate: 2026-05-20
+publishDate: 2026-04-17
 slug: "names-meaning-happy"
 category: "names"
 tags: ["baby names", "names meaning happy", "blessed baby names", "joyful names", "boy names", "girl names"]

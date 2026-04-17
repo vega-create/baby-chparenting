@@ -1,7 +1,7 @@
 ---
 title: "40 Baby Names That Mean Hope and Joy"
 description: "Discover 40 uplifting baby names that mean hope and joy for boys, girls, and unisex options. Find optimistic names with origins, meanings, and trending picks."
-publishDate: 2026-05-11
+publishDate: 2026-04-23
 slug: "names-meaning-hope"
 category: "names"
 tags: ["baby names", "names meaning hope", "joyful baby names", "hopeful names", "boy names", "girl names"]

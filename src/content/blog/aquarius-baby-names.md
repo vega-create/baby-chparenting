@@ -1,7 +1,7 @@
 ---
 title: "50 Best Aquarius Baby Names: Unique Names for Your Little Water Bearer (January 20 – February 18)"
 description: "Discover 50 unique Aquarius baby names inspired by innovation, independence, and humanitarianism. Perfect names for babies born under the sign of the Water Bearer, ruled by Uranus."
-publishDate: 2026-05-17
+publishDate: 2026-05-04
 slug: "aquarius-baby-names"
 category: "names"
 tags: ["Aquarius baby names", "zodiac baby names", "baby names meaning unique", "baby names meaning freedom", "Uranus names"]

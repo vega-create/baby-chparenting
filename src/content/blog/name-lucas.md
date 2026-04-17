@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Lucas: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Lucas. Explore famous people named Lucas, nicknames, sibling pairings, and middle name ideas."
-publishDate: 2026-05-07
+publishDate: 2026-03-28
 slug: "name-lucas"
 category: "names"
 tags: ["baby name Lucas", "Lucas meaning", "Lucas origin", "boy names", "popular baby names"]

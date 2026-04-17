@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Olivia: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Olivia. Explore famous Olivias, nicknames, sibling pairings, and middle name ideas."
-publishDate: 2026-04-20
+publishDate: 2026-03-19
 slug: "name-olivia"
 category: "names"
 tags: ["baby name Olivia", "Olivia meaning", "Olivia origin", "girl names", "popular baby names"]

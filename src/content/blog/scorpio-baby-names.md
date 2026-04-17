@@ -1,7 +1,7 @@
 ---
 title: "50 Best Scorpio Baby Names: Powerful Names for Your Little Scorpion (October 23 – November 21)"
 description: "Explore 50 powerful Scorpio baby names inspired by mystery, transformation, and depth. Perfect names for babies born under the intense and passionate sign of the Scorpion."
-publishDate: 2026-05-08
+publishDate: 2026-05-01
 slug: "scorpio-baby-names"
 category: "names"
 tags: ["Scorpio baby names", "zodiac baby names", "baby names meaning power", "baby names meaning mystery", "Pluto names"]

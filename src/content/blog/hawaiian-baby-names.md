@@ -1,7 +1,7 @@
 ---
 title: "40 Hawaiian Baby Names: Island-Inspired"
 description: "Discover 40 beautiful Hawaiian baby names with meanings, pronunciation guides, and insights into Hawaii's unique island naming traditions and culture."
-publishDate: 2026-06-05
+publishDate: 2026-05-23
 slug: "hawaiian-baby-names"
 category: "names"
 tags: ["Hawaiian names", "baby names", "Hawaiian baby names", "Polynesian names", "island names"]

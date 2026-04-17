@@ -1,7 +1,7 @@
 ---
 title: "50 Best Sagittarius Baby Names: Adventurous Names for Your Little Archer (November 22 – December 21)"
 description: "Discover 50 adventurous Sagittarius baby names inspired by travel, freedom, truth, and wisdom. Perfect names for babies born under the sign of the Archer, ruled by Jupiter."
-publishDate: 2026-05-11
+publishDate: 2026-05-02
 slug: "sagittarius-baby-names"
 category: "names"
 tags: ["Sagittarius baby names", "zodiac baby names", "baby names meaning adventure", "baby names meaning freedom", "Jupiter names"]

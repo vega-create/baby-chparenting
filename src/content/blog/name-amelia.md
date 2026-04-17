@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Amelia: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Amelia. Explore famous Amelias, nicknames, sibling pairings, and middle name ideas."
-publishDate: 2026-04-24
+publishDate: 2026-03-24
 slug: "name-amelia"
 category: "names"
 tags: ["baby name Amelia", "Amelia meaning", "Amelia origin", "girl names", "popular baby names"]

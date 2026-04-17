@@ -1,7 +1,7 @@
 ---
 title: "40 Baby Names That Mean Light"
 description: "Explore 40 radiant baby names that mean light for boys, girls, and unisex choices. Discover luminous names from every culture with origins and full meanings."
-publishDate: 2026-05-09
+publishDate: 2026-04-16
 slug: "names-meaning-light"
 category: "names"
 tags: ["baby names", "names meaning light", "luminous baby names", "bright names", "boy names", "girl names"]

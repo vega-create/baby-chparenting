@@ -1,7 +1,7 @@
 ---
 title: "50 Perfect Twin Baby Name Pairs: Matching, Rhyming, and Complementary"
 description: "Find 50 perfect twin baby name pairs organized by strategy: matching initials, complementary meanings, rhyming pairs, and same origin. Boy-boy, girl-girl, and boy-girl options."
-publishDate: 2026-05-04
+publishDate: 2026-05-08
 slug: "twin-baby-name-pairs"
 category: "names"
 tags: ["twin baby names", "twin name pairs", "baby names for twins", "matching names", "sibling names"]

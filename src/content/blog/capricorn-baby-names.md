@@ -1,13 +1,13 @@
 ---
 title: "50 Best Capricorn Baby Names: Ambitious Names for Your Little Goat (December 22 – January 19)"
 description: "Discover 50 strong Capricorn baby names inspired by ambition, endurance, discipline, and strength. Perfect names for babies born under the sign of the Sea-Goat, ruled by Saturn."
-publishDate: 2026-05-14
+publishDate: 2026-05-03
 slug: "capricorn-baby-names"
 category: "names"
 tags: ["Capricorn baby names", "zodiac baby names", "baby names meaning strength", "baby names meaning ambition", "Saturn names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/7480/pexels-photo-7480.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "https://images.pexels.com/photos/2670898/pexels-photo-2670898.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -17,7 +17,7 @@ Capricorn, the tenth sign of the zodiac, spans December 22 through January 19 an
 
 For additional grounded name inspiration, explore [Scottish baby names](/blog/scottish-baby-names/) and [biblical baby names](/blog/biblical-baby-names/).
 
-![Milky Way over mountain landscape](https://images.pexels.com/photos/7480/pexels-photo-7480.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Milky Way over mountain landscape](https://images.pexels.com/photos/2670898/pexels-photo-2670898.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Understanding Capricorn Traits
 
@@ -201,7 +201,7 @@ The Sea-Goat is a mythical creature with the front body of a goat and the tail o
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/7480/pexels-photo-7480.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://images.pexels.com/photos/2670898/pexels-photo-2670898.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "width": 1200,
         "height": 630
       },

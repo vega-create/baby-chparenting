@@ -1,13 +1,13 @@
 ---
 title: "All About the Name William: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name William. Explore famous Williams, nicknames, sibling pairings, and middle name ideas."
-publishDate: 2026-04-29
+publishDate: 2026-03-22
 slug: "name-william"
 category: "names"
 tags: ["baby name William", "William meaning", "William origin", "boy names", "popular baby names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/161709/pexels-photo-161709.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "https://images.pexels.com/photos/12849542/pexels-photo-12849542.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ William is the patriarch of English boy names. It has been borne by conquerors, 
 
 > 📌 **Key Takeaway:** William is a Germanic name meaning "resolute protector" from the elements *wil* (will, desire) and *helm* (helmet, protection). It has ranked in the US top 10 almost continuously since records began and is the parent name of today's number 1 pick, Liam.
 
-![Content baby in a cozy wrap](https://images.pexels.com/photos/161709/pexels-photo-161709.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Content baby in a cozy wrap](https://images.pexels.com/photos/12849542/pexels-photo-12849542.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Name Meaning and Origin
 

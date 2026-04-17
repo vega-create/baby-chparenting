@@ -1,7 +1,7 @@
 ---
 title: "50 Best Virgo Baby Names: Elegant Names for Your Little Maiden (August 23 – September 22)"
 description: "Discover 50 elegant Virgo baby names for boys and girls inspired by wisdom, earth, and purity. Find the perfect name for your August or September baby born under the maiden."
-publishDate: 2026-05-02
+publishDate: 2026-05-07
 slug: "virgo-baby-names"
 category: "names"
 tags: ["baby names", "virgo baby names", "zodiac names", "earth names", "elegant baby names", "august baby names", "september baby names"]

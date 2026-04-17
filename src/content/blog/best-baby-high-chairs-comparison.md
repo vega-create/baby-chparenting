@@ -5,7 +5,7 @@ description: "A detailed comparison of baby high chair types including full-size
 publishDate: 2026-04-03
 category: "gear"
 author: "Hannah Lewis"
-image: "https://images.pexels.com/photos/3875099/pexels-photo-3875099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "https://images.pexels.com/photos/5083236/pexels-photo-5083236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 tags: ["high chairs", "baby feeding", "baby gear", "baby safety", "mealtime", "booster seats"]
 ---
 

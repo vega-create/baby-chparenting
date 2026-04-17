@@ -1,7 +1,7 @@
 ---
 title: "40 Baby Names That Mean Warrior or Fighter"
 description: "Discover 40 fierce baby names that mean warrior or fighter for boys, girls, and unisex options. Explore battle-ready names with origins, meanings, and trending picks."
-publishDate: 2026-05-18
+publishDate: 2026-04-21
 slug: "names-meaning-warrior"
 category: "names"
 tags: ["baby names", "names meaning warrior", "fighter baby names", "fierce names", "boy names", "girl names"]

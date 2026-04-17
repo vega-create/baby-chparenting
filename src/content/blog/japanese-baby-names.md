@@ -1,7 +1,7 @@
 ---
 title: "50 Japanese Baby Names with Meanings"
 description: "Explore 50 gorgeous Japanese baby names for boys and girls with meanings, pronunciation guides, and insights into Japan's beautiful naming traditions."
-publishDate: 2026-05-26
+publishDate: 2026-05-13
 slug: "japanese-baby-names"
 category: "names"
 tags: ["Japanese names", "baby names", "Japanese baby names", "kanji names", "Asian names"]

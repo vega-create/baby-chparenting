@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Isabella: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Isabella. Explore famous Isabellas, nicknames, sibling pairings, and middle name ideas."
-publishDate: 2026-05-06
+publishDate: 2026-03-31
 slug: "name-isabella"
 category: "names"
 tags: ["baby name Isabella", "Isabella meaning", "Isabella origin", "girl names", "popular baby names"]

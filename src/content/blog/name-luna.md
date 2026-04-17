@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Luna: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Luna. Explore famous Lunas, nicknames, sibling pairings, and middle name ideas for Luna."
-publishDate: 2026-04-30
+publishDate: 2026-04-03
 slug: "name-luna"
 category: "names"
 tags: ["baby name Luna", "Luna meaning", "Luna origin", "girl names", "popular baby names"]

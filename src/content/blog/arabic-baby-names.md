@@ -1,7 +1,7 @@
 ---
 title: "50 Arabic Baby Names with Beautiful Meanings"
 description: "Explore 50 Arabic baby names for boys and girls with beautiful meanings, pronunciation guides, and insights into Islamic and Arab naming traditions."
-publishDate: 2026-05-30
+publishDate: 2026-05-17
 slug: "arabic-baby-names"
 category: "names"
 tags: ["Arabic names", "baby names", "Islamic names", "Muslim names", "Arabic baby names"]

@@ -1,7 +1,7 @@
 ---
 title: "35 Baby Names That Mean Ocean, Water or Sea"
 description: "Discover 35 flowing baby names that mean ocean, water, or sea for boys, girls, and unisex options. Explore aquatic names with origins, meanings, and trending picks."
-publishDate: 2026-05-21
+publishDate: 2026-04-25
 slug: "names-meaning-ocean"
 category: "names"
 tags: ["baby names", "names meaning ocean", "water baby names", "sea names", "boy names", "girl names"]

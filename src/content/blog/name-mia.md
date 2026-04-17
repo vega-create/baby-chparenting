@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Mia: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Mia. Explore famous Mias, nicknames, sibling pairings, and middle name ideas for Mia."
-publishDate: 2026-04-28
+publishDate: 2026-03-26
 slug: "name-mia"
 category: "names"
 tags: ["baby name Mia", "Mia meaning", "Mia origin", "girl names", "popular baby names"]

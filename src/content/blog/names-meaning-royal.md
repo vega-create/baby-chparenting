@@ -1,7 +1,7 @@
 ---
 title: "40 Royal Baby Names for Boys and Girls"
 description: "Discover 40 regal baby names that mean royal, noble, or kingly for boys, girls, and unisex options. Find majestic names with origins, meanings, and trending picks."
-publishDate: 2026-05-16
+publishDate: 2026-04-27
 slug: "names-meaning-royal"
 category: "names"
 tags: ["baby names", "royal baby names", "noble names", "regal names", "boy names", "girl names"]

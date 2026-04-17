@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Sophia: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Sophia. Explore famous Sophias, nicknames, sibling pairings, and middle name ideas."
-publishDate: 2026-04-26
+publishDate: 2026-03-17
 slug: "name-sophia"
 category: "names"
 tags: ["baby name Sophia", "Sophia meaning", "Sophia origin", "girl names", "popular baby names"]

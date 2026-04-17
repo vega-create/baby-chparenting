@@ -1,7 +1,7 @@
 ---
 title: "All About the Name James: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name James. Explore famous people named James, nicknames, sibling pairings, and middle name ideas."
-publishDate: 2026-04-25
+publishDate: 2026-03-21
 slug: "name-james"
 category: "names"
 tags: ["baby name James", "James meaning", "James origin", "boy names", "popular baby names"]

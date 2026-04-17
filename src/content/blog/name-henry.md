@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Henry: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Henry. Explore famous Henrys, nicknames, sibling pairings, and middle name ideas."
-publishDate: 2026-05-01
+publishDate: 2026-04-04
 slug: "name-henry"
 category: "names"
 tags: ["baby name Henry", "Henry meaning", "Henry origin", "boy names", "popular baby names"]

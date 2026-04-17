@@ -1,7 +1,7 @@
 ---
 title: "60 Biblical Baby Names with Meanings"
 description: "Discover 60 beautiful biblical baby names for boys and girls with meanings, pronunciation guides, and the rich traditions behind scripture-inspired names."
-publishDate: 2026-05-23
+publishDate: 2026-04-28
 slug: "biblical-baby-names"
 category: "names"
 tags: ["biblical names", "baby names", "Christian names", "Hebrew names", "scripture names"]

@@ -1,7 +1,7 @@
 ---
 title: "50 Best Pisces Baby Names: Dreamy Names for Your Little Fish (February 19 – March 20)"
 description: "Discover 50 dreamy Pisces baby names inspired by the sea, imagination, music, and compassion. Perfect names for babies born under the sign of the Fish, ruled by Neptune."
-publishDate: 2026-05-20
+publishDate: 2026-05-05
 slug: "pisces-baby-names"
 category: "names"
 tags: ["Pisces baby names", "zodiac baby names", "baby names meaning sea", "baby names meaning dream", "Neptune names"]

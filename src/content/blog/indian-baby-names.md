@@ -1,7 +1,7 @@
 ---
 title: "50 Indian Baby Names: Sanskrit & Modern"
 description: "Explore 50 beautiful Indian baby names from Sanskrit and modern traditions, with meanings, pronunciation guides, and insights into India's naming customs."
-publishDate: 2026-06-01
+publishDate: 2026-05-19
 slug: "indian-baby-names"
 category: "names"
 tags: ["Indian names", "baby names", "Sanskrit names", "Hindu names", "Indian baby names"]

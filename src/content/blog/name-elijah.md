@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Elijah: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Elijah. Explore famous Elijahs, nicknames, sibling pairings, and middle name ideas."
-publishDate: 2026-04-27
+publishDate: 2026-04-05
 slug: "name-elijah"
 category: "names"
 tags: ["baby name Elijah", "Elijah meaning", "Elijah origin", "boy names", "popular baby names"]

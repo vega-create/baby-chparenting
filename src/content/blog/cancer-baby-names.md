@@ -1,7 +1,7 @@
 ---
 title: "50 Best Cancer Baby Names: Nurturing Names for Your Little Crab (June 21 – July 22)"
 description: "Discover 50 nurturing Cancer baby names for boys and girls inspired by the moon, water, and love. Find the perfect name for your June or July baby born under the crab."
-publishDate: 2026-04-26
+publishDate: 2026-04-12
 slug: "cancer-baby-names"
 category: "names"
 tags: ["baby names", "cancer baby names", "zodiac names", "water names", "moon names", "june baby names", "july baby names"]

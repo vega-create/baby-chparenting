@@ -7,7 +7,7 @@ category: "sleep"
 tags: ["co-sleeping", "crib sleeping", "bed-sharing", "room-sharing", "safe sleep", "AAP guidelines"]
 author: "Dr. Michael Torres"
 authorUrl: "https://baby.chparenting.com/author/dr-michael-torres/"
-image: "https://images.pexels.com/photos/2133/pexels-photo-2133.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/2253894/pexels-photo-2253894.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ The co-sleeping debate is one of the most emotionally charged topics in parentin
 
 > 📌 **Key Takeaway:** The AAP recommends room-sharing without bed-sharing for at least the first 6 months (ideally 12 months). Room-sharing reduces SIDS risk by up to 50%, while bed-sharing increases risk 2–5 times. See our [SIDS prevention guide](/blog/baby-sleep-safety-sids-prevention/) for more details. If you choose to bed-share despite AAP recommendations, following harm-reduction guidelines significantly reduces (but does not eliminate) risk.
 
-![Parent with sleeping baby](https://images.pexels.com/photos/2133/pexels-photo-2133.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Parent with sleeping baby](https://images.pexels.com/photos/2253894/pexels-photo-2253894.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Defining the Terms
 
@@ -177,7 +177,7 @@ Yes. A bedside bassinet or sidecar-style co-sleeper keeps baby on their own firm
       "dateModified": "2026-04-16T00:00:00Z",
       "author": {"@id": "https://baby.chparenting.com/author/dr-michael-torres/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
-      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/2133/pexels-photo-2133.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
+      "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/2253894/pexels-photo-2253894.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/cosleeping-vs-crib/"},
       "wordCount": 2500,
       "articleSection": "Sleep",

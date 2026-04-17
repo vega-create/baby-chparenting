@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Oliver: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Oliver. Explore famous Olivers, nicknames, sibling pairings, and middle name ideas."
-publishDate: 2026-04-23
+publishDate: 2026-03-15
 slug: "name-oliver"
 category: "names"
 tags: ["baby name Oliver", "Oliver meaning", "Oliver origin", "boy names", "popular baby names"]

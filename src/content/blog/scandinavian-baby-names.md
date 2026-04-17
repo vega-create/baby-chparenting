@@ -1,7 +1,7 @@
 ---
 title: "45 Scandinavian Baby Names: Norse & Nordic"
 description: "Discover 45 Scandinavian baby names from Norse mythology and Nordic traditions, with meanings, pronunciation guides, and Viking-era naming customs."
-publishDate: 2026-06-02
+publishDate: 2026-05-20
 slug: "scandinavian-baby-names"
 category: "names"
 tags: ["Scandinavian names", "baby names", "Norse names", "Nordic names", "Viking names"]

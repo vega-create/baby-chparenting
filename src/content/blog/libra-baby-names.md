@@ -1,7 +1,7 @@
 ---
 title: "50 Best Libra Baby Names: Harmonious Names for Your Little Scale (September 23 – October 22)"
 description: "Discover 50 beautiful Libra baby names inspired by balance, harmony, justice, and beauty. Perfect names for babies born under the sign of the Scales, ruled by Venus."
-publishDate: 2026-05-05
+publishDate: 2026-04-30
 slug: "libra-baby-names"
 category: "names"
 tags: ["Libra baby names", "zodiac baby names", "baby names meaning balance", "baby names meaning harmony", "Venus names"]

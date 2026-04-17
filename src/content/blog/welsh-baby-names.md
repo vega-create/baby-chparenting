@@ -1,7 +1,7 @@
 ---
 title: "40 Welsh Baby Names: Celtic Treasures"
 description: "Discover 40 beautiful Welsh baby names with meanings, pronunciation guides, and insights into Wales' ancient Celtic naming traditions and Cymraeg heritage."
-publishDate: 2026-06-06
+publishDate: 2026-05-25
 slug: "welsh-baby-names"
 category: "names"
 tags: ["Welsh names", "baby names", "Celtic names", "Welsh baby names", "Cymraeg names"]

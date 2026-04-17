@@ -1,7 +1,7 @@
 ---
 title: "50 Vintage Baby Names Making a Stunning Comeback in 2026"
 description: "Discover 50 vintage baby names returning to popularity in 2026. Explore the 100-year name cycle, Victorian-era revivals, and timeless old-fashioned names."
-publishDate: 2026-04-25
+publishDate: 2026-04-11
 slug: "vintage-baby-names-comeback"
 category: "names"
 tags: ["vintage baby names", "old-fashioned names", "retro baby names", "classic names", "Victorian names"]

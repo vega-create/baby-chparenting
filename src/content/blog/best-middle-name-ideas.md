@@ -1,7 +1,7 @@
 ---
 title: "100 Best Middle Name Ideas: How to Choose the Perfect Middle Name"
 description: "Discover 100 beautiful middle name ideas for boys and girls. Learn how to pair first and middle names for perfect flow, avoid initial pitfalls, and honor family tradition."
-publishDate: 2026-05-07
+publishDate: 2026-05-09
 slug: "best-middle-name-ideas"
 category: "names"
 tags: ["middle names", "baby names", "middle name ideas", "name pairing", "honor names"]

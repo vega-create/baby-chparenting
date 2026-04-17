@@ -1,7 +1,7 @@
 ---
 title: "50 Spanish Baby Names: Classic & Modern"
 description: "Browse 50 beautiful Spanish baby names with meanings and pronunciation guides. Explore classic and modern Hispanic naming traditions for your little one."
-publishDate: 2026-05-27
+publishDate: 2026-05-15
 slug: "spanish-baby-names"
 category: "names"
 tags: ["Spanish names", "baby names", "Hispanic names", "Latin names", "Spanish baby names"]

@@ -1,7 +1,7 @@
 ---
 title: "50 Best Taurus Baby Names: Strong Names for Your Little Bull (April 20 – May 20)"
 description: "Discover 50 beautiful Taurus baby names for boys and girls inspired by earth, strength, and beauty. Find the perfect name for your April or May baby born under the bull."
-publishDate: 2026-04-20
+publishDate: 2026-04-08
 slug: "taurus-baby-names"
 category: "names"
 tags: ["baby names", "taurus baby names", "zodiac names", "earth names", "spring baby names", "april baby names", "may baby names"]

@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Emma: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Emma. Explore famous Emmas, nicknames, sibling pairings, and middle name ideas."
-publishDate: 2026-04-18
+publishDate: 2026-04-02
 slug: "name-emma"
 category: "names"
 tags: ["baby name Emma", "Emma meaning", "Emma origin", "girl names", "popular baby names"]

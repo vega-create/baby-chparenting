@@ -1,7 +1,7 @@
 ---
 title: "40 Korean Baby Names with Meanings"
 description: "Discover 40 beautiful Korean baby names for boys and girls with meanings, pronunciation guides, and insights into Korea's unique naming traditions."
-publishDate: 2026-06-04
+publishDate: 2026-05-22
 slug: "korean-baby-names"
 category: "names"
 tags: ["Korean names", "baby names", "Korean baby names", "Hangul names", "Asian names"]

@@ -1,7 +1,7 @@
 ---
 title: "45 Baby Names That Mean Brave or Courageous"
 description: "Find 45 bold baby names that mean brave or courageous for boys, girls, and unisex options. Explore fearless names with origins, meanings, and trending picks."
-publishDate: 2026-05-10
+publishDate: 2026-04-16
 slug: "names-meaning-brave"
 category: "names"
 tags: ["baby names", "names meaning brave", "courageous baby names", "fearless names", "boy names", "girl names"]

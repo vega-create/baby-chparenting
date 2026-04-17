@@ -1,7 +1,7 @@
 ---
 title: "35 Baby Names That Mean Star or Celestial"
 description: "Explore 35 celestial baby names that mean star for boys, girls, and unisex options. Discover stellar names with origins, meanings, and trending picks."
-publishDate: 2026-05-19
+publishDate: 2026-04-24
 slug: "names-meaning-star"
 category: "names"
 tags: ["baby names", "names meaning star", "celestial baby names", "stellar names", "boy names", "girl names"]

@@ -1,7 +1,7 @@
 ---
 title: "35 Baby Names That Mean Peace"
 description: "Browse 35 serene baby names that mean peace for boys, girls, and unisex options. Discover peaceful names from around the world with origins and full meanings."
-publishDate: 2026-05-12
+publishDate: 2026-04-19
 slug: "names-meaning-peace"
 category: "names"
 tags: ["baby names", "names meaning peace", "peaceful baby names", "serene names", "boy names", "girl names"]

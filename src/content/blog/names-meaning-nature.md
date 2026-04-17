@@ -1,7 +1,7 @@
 ---
 title: "50 Nature-Inspired Baby Names"
 description: "Discover 50 beautiful nature-inspired baby names for boys, girls, and unisex options. Explore earthy, botanical, and elemental names with origins and full meanings."
-publishDate: 2026-05-15
+publishDate: 2026-04-22
 slug: "names-meaning-nature"
 category: "names"
 tags: ["baby names", "nature baby names", "earthy names", "botanical names", "boy names", "girl names"]

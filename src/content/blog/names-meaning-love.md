@@ -1,7 +1,7 @@
 ---
 title: "45 Baby Names That Mean Love"
 description: "Explore 45 romantic baby names that mean love for boys, girls, and unisex options. Discover loving names from every culture with origins, meanings, and trending picks."
-publishDate: 2026-05-13
+publishDate: 2026-04-15
 slug: "names-meaning-love"
 category: "names"
 tags: ["baby names", "names meaning love", "romantic baby names", "loving names", "boy names", "girl names"]

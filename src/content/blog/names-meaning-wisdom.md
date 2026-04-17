@@ -1,7 +1,7 @@
 ---
 title: "40 Baby Names That Mean Wise or Wisdom"
 description: "Explore 40 intelligent baby names that mean wise or wisdom for boys, girls, and unisex options. Discover sage names with origins, meanings, and trending picks."
-publishDate: 2026-05-14
+publishDate: 2026-04-20
 slug: "names-meaning-wisdom"
 category: "names"
 tags: ["baby names", "names meaning wisdom", "wise baby names", "intelligent names", "boy names", "girl names"]

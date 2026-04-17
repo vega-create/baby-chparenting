@@ -1,7 +1,7 @@
 ---
 title: "50 Irish Baby Names: Meanings & Pronunciation"
 description: "Explore 50 beautiful Irish baby names with meanings and pronunciation guides. Discover Gaelic naming traditions and find the perfect Celtic name for your baby."
-publishDate: 2026-05-24
+publishDate: 2026-04-29
 slug: "irish-baby-names"
 category: "names"
 tags: ["Irish names", "baby names", "Gaelic names", "Celtic names", "Irish baby names"]

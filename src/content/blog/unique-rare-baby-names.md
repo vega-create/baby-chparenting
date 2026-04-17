@@ -1,7 +1,7 @@
 ---
 title: "60 Unique and Rare Baby Names You Haven't Heard Before"
 description: "Explore 60 truly unique and rare baby names from cultures around the world. Includes pronunciation guides, meanings, and tips for choosing unusual names."
-publishDate: 2026-04-28
+publishDate: 2026-04-13
 slug: "unique-rare-baby-names"
 category: "names"
 tags: ["unique baby names", "rare baby names", "unusual names", "uncommon baby names", "distinctive names"]

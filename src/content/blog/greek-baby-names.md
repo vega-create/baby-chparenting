@@ -1,7 +1,7 @@
 ---
 title: "45 Greek Baby Names: Mythology & Modern"
 description: "Explore 45 Greek baby names inspired by mythology and modern Greece, complete with meanings, pronunciation guides, and Hellenic naming traditions."
-publishDate: 2026-05-29
+publishDate: 2026-05-16
 slug: "greek-baby-names"
 category: "names"
 tags: ["Greek names", "baby names", "Greek mythology names", "Hellenic names", "Greek baby names"]

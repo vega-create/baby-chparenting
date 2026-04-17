@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Harper: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Harper. Explore famous Harpers, nicknames, sibling pairings, and middle name ideas."
-publishDate: 2026-05-02
+publishDate: 2026-04-01
 slug: "name-harper"
 category: "names"
 tags: ["baby name Harper", "Harper meaning", "Harper origin", "girl names", "popular baby names"]

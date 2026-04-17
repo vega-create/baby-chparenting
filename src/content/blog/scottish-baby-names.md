@@ -1,7 +1,7 @@
 ---
 title: "45 Scottish Baby Names: Highland Heritage"
 description: "Discover 45 Scottish baby names rooted in Highland heritage, with meanings, pronunciation guides, and the traditions behind Scotland's naming customs."
-publishDate: 2026-05-31
+publishDate: 2026-05-18
 slug: "scottish-baby-names"
 category: "names"
 tags: ["Scottish names", "baby names", "Gaelic names", "Highland names", "Scottish baby names"]

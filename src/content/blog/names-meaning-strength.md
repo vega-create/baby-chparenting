@@ -1,7 +1,7 @@
 ---
 title: "50 Baby Names That Mean Strength"
 description: "Discover 50 powerful baby names that mean strength for boys, girls, and unisex options. Find strong name origins, meanings, and trending picks for your little one."
-publishDate: 2026-05-08
+publishDate: 2026-04-15
 slug: "names-meaning-strength"
 category: "names"
 tags: ["baby names", "names meaning strength", "strong baby names", "powerful names", "boy names", "girl names"]

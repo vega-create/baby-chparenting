@@ -1,7 +1,7 @@
 ---
 title: "50 African Baby Names from Across the Continent"
 description: "Explore 50 beautiful African baby names from diverse cultures across the continent, with meanings, pronunciation guides, and rich naming traditions."
-publishDate: 2026-06-03
+publishDate: 2026-05-21
 slug: "african-baby-names"
 category: "names"
 tags: ["African names", "baby names", "African baby names", "Swahili names", "Yoruba names"]

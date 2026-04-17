@@ -1,7 +1,7 @@
 ---
 title: "All About the Name Ava: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Ava. Explore famous Avas, nicknames, sibling pairings, and middle name ideas for Ava."
-publishDate: 2026-05-04
+publishDate: 2026-03-27
 slug: "name-ava"
 category: "names"
 tags: ["baby name Ava", "Ava meaning", "Ava origin", "girl names", "popular baby names"]

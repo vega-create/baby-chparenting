@@ -1,7 +1,7 @@
 ---
 title: "50 Best Aries Baby Names: Bold Names for Your Little Ram (March 21 – April 19)"
 description: "Discover 50 powerful Aries baby names for boys and girls inspired by the ram's fiery energy. Explore bold names meaning courage, fire, and strength for your March or April baby."
-publishDate: 2026-04-18
+publishDate: 2026-04-06
 slug: "aries-baby-names"
 category: "names"
 tags: ["baby names", "aries baby names", "zodiac names", "fire names", "spring baby names", "bold baby names", "march baby names", "april baby names"]
