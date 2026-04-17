@@ -7,7 +7,7 @@ category: "names"
 tags: ["baby names", "names meaning fire", "flame baby names", "fiery names", "boy names", "girl names"]
 author: "Jessica Park"
 authorUrl: "https://baby.chparenting.com/author/jessica-park/"
-image: "https://images.pexels.com/photos/4008788/pexels-photo-4008788.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "https://images.pexels.com/photos/672636/pexels-photo-672636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -19,7 +19,7 @@ Fire-inspired names work for parents who want something dynamic and unforgettabl
 
 The Irish name Aiden, meaning "little fire," is one of the most popular --- discover more in our guide to [Irish baby names](/blog/irish-baby-names/) and [baby names meaning brave](/blog/names-meaning-brave/).
 
-![Baby with a warm glow](https://images.pexels.com/photos/4008788/pexels-photo-4008788.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Baby with a warm glow](https://images.pexels.com/photos/672636/pexels-photo-672636.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names That Mean Fire or Flame
 

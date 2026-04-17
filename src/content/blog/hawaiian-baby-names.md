@@ -7,7 +7,7 @@ category: "names"
 tags: ["Hawaiian names", "baby names", "Hawaiian baby names", "Polynesian names", "island names"]
 author: "Hannah Lewis"
 authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
-image: "https://images.pexels.com/photos/8499496/pexels-photo-8499496.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "https://images.pexels.com/photos/4612304/pexels-photo-4612304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
@@ -17,7 +17,7 @@ Hawaiian baby names carry the warmth of the tropical sun, the rhythm of the ocea
 
 If you love Hawaiian nature names, you will also enjoy our full list of [nature-inspired baby names](/blog/names-meaning-nature/) and [baby names meaning star](/blog/names-meaning-star/).
 
-![Content baby in a cozy setting](https://images.pexels.com/photos/8499496/pexels-photo-8499496.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Content baby in a cozy setting](https://images.pexels.com/photos/4612304/pexels-photo-4612304.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Boy Names
 

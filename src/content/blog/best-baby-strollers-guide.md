@@ -4,7 +4,7 @@ slug: best-baby-strollers-guide
 publishDate: 2026-03-15
 category: gear
 author: "Jessica Park"
-image: https://images.pexels.com/photos/1556801/pexels-photo-1556801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
+image: https://images.pexels.com/photos/4452206/pexels-photo-4452206.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["strollers", "baby gear", "buying guide", "travel system", "jogging stroller", "lightweight stroller", "double stroller"]
 description: "Compare the best baby strollers of 2026 across every category and budget. From full-size to lightweight, jogging to double, find the perfect stroller for your family's lifestyle."
 ---

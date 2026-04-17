@@ -5,7 +5,7 @@ description: "The ultimate guide to baby travel gear including travel cribs, com
 publishDate: 2026-04-14
 category: "gear"
 author: "Jessica Park"
-image: "https://images.pexels.com/photos/3769697/pexels-photo-3769697.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "https://images.pexels.com/photos/4173222/pexels-photo-4173222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 tags: ["baby travel", "travel gear", "travel stroller", "travel crib", "flying with baby", "road trip", "baby essentials"]
 ---
 

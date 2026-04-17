@@ -7,7 +7,7 @@ category: "names"
 tags: ["middle names", "baby names", "middle name ideas", "name pairing", "honor names"]
 author: "Dr. Michael Torres"
 authorUrl: "https://baby.chparenting.com/author/dr-michael-torres/"
-image: "https://images.pexels.com/photos/540528/pexels-photo-540528.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/1887614/pexels-photo-1887614.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
 
@@ -17,7 +17,7 @@ The middle name is the unsung hero of the baby naming process. While first names
 
 Despite their secondary position, middle names deserve thoughtful consideration. This guide provides 100 middle name ideas --- 50 for boys and 50 for girls --- along with comprehensive guidance on how to choose the perfect one.
 
-![Person holding name letter blocks](https://images.pexels.com/photos/540528/pexels-photo-540528.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Person holding name letter blocks](https://images.pexels.com/photos/1887614/pexels-photo-1887614.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## The Purpose of Middle Names
 
