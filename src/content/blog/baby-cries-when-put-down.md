@@ -1,6 +1,6 @@
 ---
-title: "Baby Cries When Put Down to Sleep: What to Do"
-description: "Why your baby cries when put down to sleep and how to fix it. Covers Moro reflex, separation anxiety by age, and a gradual approach to independent sleep."
+title: "Baby Cries When Put Down: 7 Reasons & Fixes by Age"
+description: "Why your baby cries the moment you put them down — Moro reflex, separation anxiety, and 7 age-by-age fixes that actually work. Pediatrician-reviewed."
 publishDate: 2026-04-10
 lastReviewed: 2026-04-23
 slug: "baby-cries-when-put-down"

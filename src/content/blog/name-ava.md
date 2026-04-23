@@ -1,6 +1,6 @@
 ---
-title: "All About the Name Ava: Meaning, Origin & Popularity"
-description: "Discover the meaning, origin, and popularity of the baby name Ava. Explore famous Avas, nicknames, sibling pairings, and middle name ideas for Ava."
+title: "Name Ava: Meaning, Origin & Is Ava Short for Anything?"
+description: "Is Ava short for something? No — Ava is a standalone name meaning 'bird' or 'life'. Discover its origin, popularity (#3 US), famous Avas & nicknames."
 publishDate: 2026-03-27
 lastReviewed: 2026-04-23
 slug: "name-ava"

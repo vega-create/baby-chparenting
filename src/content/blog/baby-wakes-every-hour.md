@@ -1,6 +1,6 @@
 ---
-title: "Baby Wakes Up Every Hour: Causes and Solutions"
-description: "Is your baby waking every hour at night? Learn the medical and behavioral causes, age-specific solutions, and when to see your pediatrician about frequent waking."
+title: "Baby Wakes Every Hour: 9 Causes & How to Fix (By Age)"
+description: "Why your baby or 7-month-old wakes every hour at night — 9 causes, age-by-age fixes, sleep regressions, and when to call your pediatrician."
 publishDate: 2026-04-09
 lastReviewed: 2026-04-23
 slug: "baby-wakes-every-hour"

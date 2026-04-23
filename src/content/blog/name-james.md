@@ -1,6 +1,6 @@
 ---
-title: "All About the Name James: Meaning, Origin & Popularity"
-description: "Discover the meaning, origin, and popularity of the baby name James. Explore famous people named James, nicknames, sibling pairings, and middle name ideas."
+title: "Name James: Meaning, Origin, Popularity & 20 Famous"
+description: "The name James means 'supplanter' — Hebrew origin, #5 US boy name. Discover famous Jameses, nicknames (Jamie, Jim), and sibling name pairings."
 publishDate: 2026-03-21
 lastReviewed: 2026-04-23
 slug: "name-james"

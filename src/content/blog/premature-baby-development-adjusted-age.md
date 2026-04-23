@@ -1,7 +1,7 @@
 ---
-title: "Premature Baby Development: Understanding Adjusted Age and Milestones"
+title: "Premature Baby Milestones: Adjusted Age Guide (0-24 Mo)"
 slug: premature-baby-development-adjusted-age
-description: "A complete guide to premature baby development, including how to calculate adjusted age, when preemies catch up, NICU follow-up, early intervention, and practical support for preemie parents."
+description: "Premature baby milestones month by month using adjusted age — when preemies catch up, red flags, NICU follow-up, and early intervention tips."
 publishDate: 2026-04-03
 lastReviewed: 2026-04-23
 category: development

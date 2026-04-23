@@ -1,6 +1,6 @@
 ---
-title: "35 Baby Names That Mean Grace or Beautiful"
-description: "Browse 35 elegant baby names that mean grace or beautiful for boys, girls, and unisex options. Discover graceful names with origins, meanings, and trending picks."
+title: "50 Baby Names Meaning Grace (Girls, Boys & Unisex)"
+description: "50 beautiful baby names meaning grace for girls, boys, and unisex options. Includes Hebrew, Greek, and modern picks with meanings and popularity."
 publishDate: 2026-04-17
 lastReviewed: 2026-04-23
 slug: "names-meaning-grace"

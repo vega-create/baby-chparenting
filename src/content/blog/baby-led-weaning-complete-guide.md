@@ -1,7 +1,7 @@
 ---
-title: "Baby-Led Weaning: How to Start and What to Offer"
+title: "Baby-Led Weaning (BLW): Start, First Foods, Safety 2026"
 slug: baby-led-weaning-complete-guide
-description: "A complete guide to baby-led weaning (BLW), including readiness signs, how to cut foods safely, best first finger foods, gagging vs choking, allergen introduction, and meal ideas by age."
+description: "Start baby-led weaning safely — readiness signs at 6 months, best first finger foods, choking vs gagging, allergen intro, and sample meals by age."
 publishDate: 2026-03-28
 lastReviewed: 2026-04-23
 category: feeding
