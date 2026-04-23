@@ -10,7 +10,10 @@ const AUTHOR_DATA: Record<
     name: string;
     title: string;
     bioShort: string;
-    bioFull: string;
+    bioIntro: string[];
+    background: string[];
+    noSponsored: string;
+    whenWrong: string;
     avatar: string;
     linkedin: string;
     email: string;
@@ -21,22 +24,21 @@ const AUTHOR_DATA: Record<
     title: "Founder & Editor — Mother of 2",
     bioShort:
       "Vega Lin is a mother of two in Taiwan, raising a fourth grader and a first grader. She writes Baby Care Guide from the intersection of evidence-based research and real parenting experience.",
-    bioFull: `I'm a mother of two in Taiwan — a 10-year-old daughter and a 6-year-old son who's starting first grade this year. Baby Care Guide exists because I remember exactly how it felt to be sleep-deprived at 3am, Googling why my baby only naps 30 minutes, why BLW felt terrifying, which carrier actually works for a newborn.
-
-Every article on this site is built from two sources: evidence-based research (I cite the American Academy of Pediatrics, CDC, WHO, and peer-reviewed studies extensively), and real parenting — the messy, unglamorous, trial-and-error kind that you actually go through.
-
-**My background:**
-- Mother of two, raising kids in Taiwan since 2015
-- Currently completing my Master's in Digital Innovation at Tunghai University
-- 8+ years running digital marketing campaigns for international clients
-- Former English language teacher with Japanese language studies background
-- Founder of AiMommyWisdom, helping moms leverage AI across multiple life roles
-
-**Why this site has no sponsored content:**
-Baby Care Guide runs on display ads only (Google AdSense). I don't accept paid placements, sponsored posts, or pay-for-review gear recommendations. When I recommend a product, it's because the research supports it or I've personally tested it with my own children.
-
-**When I'm wrong:**
-Parenting advice evolves. AAP guidelines update. Research improves. If you spot something outdated or incorrect, please email me — I update articles with a "Last reviewed" date so readers can see what's current.`,
+    bioIntro: [
+      "I'm a mother of two in Taiwan — a 10-year-old daughter and a 6-year-old son who's starting first grade this year. Baby Care Guide exists because I remember exactly how it felt to be sleep-deprived at 3am, Googling why my baby only naps 30 minutes, why BLW felt terrifying, which carrier actually works for a newborn.",
+      "Every article on this site is built from two sources: evidence-based research (I cite the American Academy of Pediatrics, CDC, WHO, and peer-reviewed studies extensively), and real parenting — the messy, unglamorous, trial-and-error kind that you actually go through.",
+    ],
+    background: [
+      "Mother of two, raising kids in Taiwan since 2015",
+      "Currently completing my Master's in Digital Innovation at Tunghai University",
+      "8+ years running digital marketing campaigns for international clients",
+      "Former English language teacher with Japanese language studies background",
+      "Founder of AiMommyWisdom, helping moms leverage AI across multiple life roles",
+    ],
+    noSponsored:
+      "Baby Care Guide runs on display ads only (Google AdSense). I don't accept paid placements, sponsored posts, or pay-for-review gear recommendations. When I recommend a product, it's because the research supports it or I've personally tested it with my own children.",
+    whenWrong:
+      "Parenting advice evolves. AAP guidelines update. Research improves. If you spot something outdated or incorrect, please email me — I update articles with a \"Last reviewed\" date so readers can see what's current.",
     avatar: "/images/authors/vega-lin.jpg",
     linkedin: "https://www.linkedin.com/in/vega-lin-646926202/",
     email: "hello@chparenting.com",
@@ -128,8 +130,25 @@ const personSchema = {
 
     <div class="card mb-10">
       <h2 class="mb-4">About Vega</h2>
-      <div class="prose max-w-none text-[#1E293B] leading-relaxed whitespace-pre-line">
-        {author.bioFull}
+      <div class="text-[#1E293B] leading-relaxed space-y-4">
+        {author.bioIntro.map((p) => <p>{p}</p>)}
+
+        <h3 class="text-lg font-semibold text-[#1E293B] mt-6 mb-2">
+          My background
+        </h3>
+        <ul class="list-disc pl-5 space-y-1">
+          {author.background.map((item) => <li>{item}</li>)}
+        </ul>
+
+        <h3 class="text-lg font-semibold text-[#1E293B] mt-6 mb-2">
+          Why this site has no sponsored content
+        </h3>
+        <p>{author.noSponsored}</p>
+
+        <h3 class="text-lg font-semibold text-[#1E293B] mt-6 mb-2">
+          When I'm wrong
+        </h3>
+        <p>{author.whenWrong}</p>
       </div>
     </div>
 
