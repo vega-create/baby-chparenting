@@ -1,70 +1,40 @@
 ---
 interface Props {
-  name: string;
+  name?: string;
   url?: string;
-  bio?: string;
 }
-const { name, url, bio } = Astro.props;
-
-const authors: Record<
-  string,
-  { bio: string; title: string; avatar: string }
-> = {
-  "Jessica Park": {
-    bio: "Jessica is a certified pediatric sleep consultant (CPSM) and mother of two. She has helped over 500 families establish healthy sleep habits through evidence-based techniques. Her guides draw from AAP safe sleep guidelines and the latest sleep science research.",
-    title: "Certified Pediatric Sleep Consultant",
-    avatar:
-      "https://api.dicebear.com/9.x/lorelei/svg?seed=JessicaP&backgroundColor=dbeafe&radius=50",
-  },
-  "Dr. Michael Torres": {
-    bio: "Dr. Torres is a board-certified pediatrician with 12 years of experience in infant and toddler care. He serves as medical reviewer for Baby Care Guide, ensuring all content reflects current AAP guidelines and evidence-based pediatric practice.",
-    title: "Board-Certified Pediatrician, Medical Reviewer",
-    avatar:
-      "https://api.dicebear.com/9.x/lorelei/svg?seed=MichaelT&backgroundColor=dbeafe&radius=50",
-  },
-  "Hannah Lewis": {
-    bio: "Hannah is a certified lactation consultant (IBCLC) and baby nutrition writer with a background in public health. She helps new parents navigate breastfeeding challenges and infant feeding transitions with practical, research-backed advice.",
-    title: "Certified Lactation Consultant & Baby Nutrition Writer",
-    avatar:
-      "https://api.dicebear.com/9.x/lorelei/svg?seed=HannahL&backgroundColor=dbeafe&radius=50",
-  },
-};
-
-const authorInfo = authors[name] || {
-  bio: bio || "Contributing writer at Baby Care Guide.",
-  title: "Writer",
-  avatar: "",
-};
-
-const slug = name
-  .toLowerCase()
-  .replace(/[^a-z0-9]+/g, "-")
-  .replace(/(^-|-$)/g, "");
-const authorLink = url || `/author/${slug}/`;
+const { name = "Vega Lin", url = "/author/vega-lin/" } = Astro.props;
 ---
 
 <div class="card flex gap-4 items-start mt-10">
-  {authorInfo.avatar ? (
-    <img
-      src={authorInfo.avatar}
-      alt={name}
-      class="w-14 h-14 rounded-full object-cover shrink-0"
-      loading="lazy"
-    />
-  ) : (
-    <span class="text-4xl shrink-0">✍️</span>
-  )}
+  <img
+    src="/images/authors/vega-lin.jpg"
+    alt={name}
+    width="64"
+    height="64"
+    class="w-16 h-16 rounded-full object-cover shrink-0"
+    loading="lazy"
+  />
   <div>
-    <p class="text-xs text-[#9CA3AF] uppercase tracking-wide font-semibold mb-1">
+    <p
+      class="text-xs text-[#9CA3AF] uppercase tracking-wide font-semibold mb-1"
+    >
       Written by
     </p>
     <a
-      href={authorLink}
+      href={url}
       class="text-lg font-semibold text-[#1D4ED8] no-underline hover:underline"
     >
       {name}
     </a>
-    <p class="text-sm text-[#1E293B]/70 mb-1">{authorInfo.title}</p>
-    <p class="text-sm text-[#1E293B] leading-relaxed">{authorInfo.bio}</p>
+    <p class="text-sm text-[#1E293B]/70 mb-2">
+      Founder & Editor — Mother of 2 (Taiwan)
+    </p>
+    <p class="text-sm text-[#1E293B] leading-relaxed">
+      Vega writes Baby Care Guide from the intersection of evidence-based
+      research (AAP, CDC, WHO) and real parenting experience. Completing her
+      Master's in Digital Innovation at Tunghai University.
+      <a href={url} class="text-[#1D4ED8] hover:underline">Read more →</a>
+    </p>
   </div>
 </div>

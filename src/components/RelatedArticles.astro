@@ -1,0 +1,69 @@
+---
+import { getCollection } from "astro:content";
+
+interface Props {
+  category?: string;
+  currentSlug: string;
+  limit?: number;
+}
+
+const { category, currentSlug, limit = 3 } = Astro.props;
+
+const categoryLabels: Record<string, string> = {
+  sleep: "Sleep",
+  names: "Names",
+  feeding: "Feeding",
+  gear: "Gear",
+  development: "Development",
+};
+
+const now = new Date();
+const all = await getCollection(
+  "blog",
+  ({ data }) => !data.draft && data.publishDate <= now,
+);
+
+const related = all
+  .filter(
+    (p) =>
+      p.data.slug !== currentSlug &&
+      (category ? p.data.category === category : true),
+  )
+  .sort(() => Math.random() - 0.5)
+  .slice(0, limit);
+---
+
+{
+  related.length > 0 && (
+    <section class="mt-12">
+      <h2 class="mb-6">Related articles</h2>
+      <div class="grid gap-4 md:grid-cols-3">
+        {related.map((p) => (
+          <a
+            href={`/blog/${p.data.slug}/`}
+            class="card block no-underline hover:shadow-lg transition-shadow !p-0 overflow-hidden"
+          >
+            {p.data.image && (
+              <img
+                src={p.data.image}
+                alt={p.data.title}
+                class="w-full h-36 object-cover object-top"
+                loading="lazy"
+              />
+            )}
+            <div class="p-4">
+              {p.data.category && (
+                <span class="inline-block text-xs font-semibold uppercase tracking-wide text-[#1D4ED8] bg-blue-50 px-2 py-0.5 rounded-full mb-2">
+                  {categoryLabels[p.data.category] ?? p.data.category}
+                </span>
+              )}
+              <h3 class="font-display text-base font-semibold text-[#1E293B] leading-tight">
+                {p.data.title}
+              </h3>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  )
+}

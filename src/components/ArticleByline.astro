@@ -1,0 +1,67 @@
+---
+interface Props {
+  author: string;
+  authorUrl?: string;
+  publishDate: Date;
+  lastReviewed?: Date;
+  tags?: string[];
+}
+
+const {
+  author,
+  authorUrl = "/author/vega-lin/",
+  publishDate,
+  lastReviewed,
+  tags = [],
+} = Astro.props;
+
+const fmt = (d: Date) =>
+  d.toLocaleDateString("en-US", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
+---
+
+<div class="flex flex-wrap items-center gap-3 text-sm text-[#9CA3AF]">
+  <a href={authorUrl} class="flex items-center gap-2 no-underline group">
+    <img
+      src="/images/authors/vega-lin.jpg"
+      alt={author}
+      width="32"
+      height="32"
+      class="w-8 h-8 rounded-full object-cover"
+      loading="eager"
+    />
+    <span class="text-[#1E293B]">
+      By <span class="text-[#1D4ED8] group-hover:underline">{author}</span>
+      <span class="text-[#9CA3AF]">· Mother of 2</span>
+    </span>
+  </a>
+  <span class="text-[#9CA3AF]">•</span>
+  <time datetime={publishDate.toISOString()}>Published {fmt(publishDate)}</time>
+  {
+    lastReviewed && (
+      <>
+        <span class="text-[#9CA3AF]">•</span>
+        <time datetime={lastReviewed.toISOString()}>
+          Reviewed {fmt(lastReviewed)}
+        </time>
+      </>
+    )
+  }
+  {
+    tags.length > 0 && (
+      <>
+        <span class="text-[#9CA3AF]">•</span>
+        <div class="flex gap-1">
+          {tags.slice(0, 3).map((tag) => (
+            <span class="text-xs bg-blue-50 px-2 py-0.5 rounded-full">
+              {tag}
+            </span>
+          ))}
+        </div>
+      </>
+    )
+  }
+</div>

@@ -4,8 +4,10 @@ import { getCollection, render } from "astro:content";
 
 export async function getStaticPaths() {
   const now = new Date();
-  // Only generate pages for published (non-future) articles
-  const posts = await getCollection("blog", ({ data }) => !data.draft && data.publishDate <= now);
+  const posts = await getCollection(
+    "blog",
+    ({ data }) => !data.draft && data.publishDate <= now,
+  );
   return posts.map((post) => ({
     params: { slug: post.data.slug },
     props: { post },
@@ -20,11 +22,13 @@ const { Content, headings } = await render(post);
   title={post.data.title}
   description={post.data.description}
   publishDate={post.data.publishDate}
+  lastReviewed={post.data.lastReviewed}
   category={post.data.category}
   tags={post.data.tags}
   author={post.data.author}
   authorUrl={post.data.authorUrl}
   image={post.data.image}
+  imageCredit={post.data.imageCredit}
   headings={headings}
   slug={post.data.slug}
 >
