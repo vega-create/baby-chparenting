@@ -2,11 +2,12 @@
 title: "35 Baby Names That Mean Ocean, Water or Sea"
 description: "Discover 35 flowing baby names that mean ocean, water, or sea for boys, girls, and unisex options. Explore aquatic names with origins, meanings, and trending picks."
 publishDate: 2026-04-25
+lastReviewed: 2026-04-23
 slug: "names-meaning-ocean"
 category: "names"
 tags: ["baby names", "names meaning ocean", "water baby names", "sea names", "boy names", "girl names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3259626/pexels-photo-3259626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -111,7 +112,7 @@ Yes, water and ocean names are among the fastest-growing categories in baby nami
       "datePublished": "2026-05-21T00:00:00Z",
       "dateModified": "2026-05-21T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -133,9 +134,9 @@ Yes, water and ocean names are among the fastest-growing categories in baby nami
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name enthusiast exploring meaningful names from around the world."
     },
     {

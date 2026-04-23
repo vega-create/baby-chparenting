@@ -3,8 +3,9 @@ title: "Baby Cognitive Development: How Your Baby Learns and Thinks"
 slug: baby-cognitive-development-guide
 description: "Explore how your baby's brain develops during the first two years, from object permanence to symbolic play, and discover science-backed activities to support cognitive growth."
 publishDate: 2026-03-20
+lastReviewed: 2026-04-23
 category: development
-author: "Hannah Lewis"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/7269674/pexels-photo-7269674.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["cognitive development", "baby brain development", "Piaget", "object permanence", "baby learning", "infant milestones", "baby activities", "screen time"]
 ---

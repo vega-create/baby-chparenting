@@ -3,8 +3,9 @@ title: "Best Baby Bathtubs 2026: Safe and Easy Bath Time"
 slug: best-baby-bathtubs-guide
 description: "A comprehensive guide to choosing the best baby bathtub for your little one. Learn about infant sling tubs, convertible tubs, foldable options, safety rules, and bath time tips from a pediatric perspective."
 publishDate: 2026-03-12
+lastReviewed: 2026-04-23
 category: "gear"
-author: "Dr. Michael Torres"
+author: "Vega Lin"
 image: "https://images.pexels.com/photos/914253/pexels-photo-914253.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 tags: ["baby bathtubs", "bath safety", "baby gear", "newborn care", "bath time", "baby hygiene"]
 ---

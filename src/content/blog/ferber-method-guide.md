@@ -2,11 +2,12 @@
 title: "Ferber Method: Complete Step-by-Step Guide"
 description: "Complete Ferber method guide with night-by-night check-in intervals table, step-by-step instructions, common mistakes to avoid, and expected success timeline."
 publishDate: 2026-04-13
+lastReviewed: 2026-04-23
 slug: "ferber-method-guide"
 category: "sleep"
 tags: ["Ferber method", "graduated extinction", "sleep training", "check-in intervals", "baby sleep"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/373963/pexels-photo-373963.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -172,7 +173,7 @@ If your baby wakes before 6:00 AM and it's not time for a scheduled feed, treat 
       "description": "Complete Ferber method guide with night-by-night check-in intervals table, step-by-step instructions, common mistakes to avoid, and expected success timeline.",
       "datePublished": "2026-04-13T00:00:00Z",
       "dateModified": "2026-04-13T00:00:00Z",
-      "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
+      "author": {"@id": "https://baby.chparenting.com/author/vega-lin/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
       "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/373963/pexels-photo-373963.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/ferber-method-guide/"},
@@ -183,10 +184,10 @@ If your baby wakes before 6:00 AM and it's not time for a scheduled feed, treat 
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
       "jobTitle": "Certified Pediatric Sleep Consultant",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant helping families establish healthy sleep habits.",
       "knowsAbout": ["Ferber method", "sleep training", "graduated extinction", "sleep consulting"]
     },

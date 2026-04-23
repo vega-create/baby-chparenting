@@ -2,11 +2,12 @@
 title: "50 Beautiful Italian Baby Names"
 description: "Discover 50 stunning Italian baby names for boys and girls with meanings, pronunciation guides, and insights into Italy's rich naming traditions and customs."
 publishDate: 2026-05-14
+lastReviewed: 2026-04-23
 slug: "italian-baby-names"
 category: "names"
 tags: ["Italian names", "baby names", "Italian baby names", "Roman names", "Mediterranean names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3569597/pexels-photo-3569597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -129,7 +130,7 @@ Italian names are distinguished by their strong vowel endings (-o for boys, -a f
       "datePublished": "2026-05-25T00:00:00Z",
       "dateModified": "2026-05-25T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -151,9 +152,9 @@ Italian names are distinguished by their strong vowel endings (-o for boys, -a f
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

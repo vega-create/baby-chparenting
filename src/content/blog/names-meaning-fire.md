@@ -2,11 +2,12 @@
 title: "35 Baby Names That Mean Fire or Flame"
 description: "Discover 35 fiery baby names that mean fire or flame for boys, girls, and unisex options. Explore blazing names with origins, meanings, and trending picks."
 publishDate: 2026-04-26
+lastReviewed: 2026-04-23
 slug: "names-meaning-fire"
 category: "names"
 tags: ["baby names", "names meaning fire", "flame baby names", "fiery names", "boy names", "girl names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/672636/pexels-photo-672636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -111,7 +112,7 @@ Ember is a soft, warm name meaning a glowing coal — it suggests warmth without
       "datePublished": "2026-05-22T00:00:00Z",
       "dateModified": "2026-05-22T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -133,9 +134,9 @@ Ember is a soft, warm name meaning a glowing coal — it suggests warmth without
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name researcher helping families find meaningful names."
     },
     {

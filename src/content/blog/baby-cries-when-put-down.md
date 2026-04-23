@@ -2,11 +2,12 @@
 title: "Baby Cries When Put Down to Sleep: What to Do"
 description: "Why your baby cries when put down to sleep and how to fix it. Covers Moro reflex, separation anxiety by age, and a gradual approach to independent sleep."
 publishDate: 2026-04-10
+lastReviewed: 2026-04-23
 slug: "baby-cries-when-put-down"
 category: "sleep"
 tags: ["baby cries when put down", "Moro reflex", "separation anxiety", "crib transition", "baby sleep help"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/6849541/pexels-photo-6849541.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -139,7 +140,7 @@ Most sleep experts suggest working toward "drowsy but awake" placement starting 
       "description": "Why your baby cries when put down to sleep and how to fix it. Covers Moro reflex, separation anxiety by age, and a gradual approach to independent sleep.",
       "datePublished": "2026-04-10T00:00:00Z",
       "dateModified": "2026-04-10T00:00:00Z",
-      "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
+      "author": {"@id": "https://baby.chparenting.com/author/vega-lin/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
       "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/6849541/pexels-photo-6849541.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/baby-cries-when-put-down/"},
@@ -150,10 +151,10 @@ Most sleep experts suggest working toward "drowsy but awake" placement starting 
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
       "jobTitle": "Certified Pediatric Sleep Consultant",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant helping families establish healthy sleep habits.",
       "knowsAbout": ["baby sleep", "crib transition", "separation anxiety", "sleep consulting"]
     },

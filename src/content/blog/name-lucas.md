@@ -2,11 +2,12 @@
 title: "All About the Name Lucas: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Lucas. Explore famous people named Lucas, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-28
+lastReviewed: 2026-04-23
 slug: "name-lucas"
 category: "names"
 tags: ["baby name Lucas", "Lucas meaning", "Lucas origin", "boy names", "popular baby names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/19380232/pexels-photo-19380232.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -184,13 +185,13 @@ Names with international appeal complement Lucas well. For sisters, consider Emm
       "headline": "All About the Name Lucas: Meaning, Origin & Popularity",
       "description": "Discover the meaning, origin, and popularity of the baby name Lucas. Explore famous people named Lucas, nicknames, sibling pairings, and middle name ideas.",
       "datePublished": "2026-05-07T00:00:00Z", "dateModified": "2026-05-07T00:00:00Z",
-      "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
+      "author": {"@id": "https://baby.chparenting.com/author/vega-lin/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
       "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3662948/pexels-photo-3662948.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/name-lucas/"},
       "wordCount": 1800, "articleSection": "Names", "keywords": ["baby name Lucas", "Lucas meaning", "Lucas origin", "boy names", "popular baby names"], "inLanguage": "en-US"
     },
-    {"@type": "Person", "@id": "https://baby.chparenting.com/author/jessica-park/#person", "name": "Jessica Park", "url": "https://baby.chparenting.com/author/jessica-park/", "description": "Certified pediatric sleep consultant and parenting writer helping families thrive.", "knowsAbout": ["baby names", "parenting", "baby sleep"]},
+    {"@type": "Person", "@id": "https://baby.chparenting.com/author/vega-lin/#person", "name": "Jessica Park", "url": "https://baby.chparenting.com/author/vega-lin/", "description": "Certified pediatric sleep consultant and parenting writer helping families thrive.", "knowsAbout": ["baby names", "parenting", "baby sleep"]},
     {"@type": "Organization", "@id": "https://baby.chparenting.com/#organization", "name": "Baby Sleep & Parenting Guide", "url": "https://baby.chparenting.com", "logo": {"@type": "ImageObject", "url": "https://baby.chparenting.com/favicon.svg", "width": 32, "height": 32}},
     {
       "@type": "FAQPage", "@id": "https://baby.chparenting.com/blog/name-lucas/#faq",

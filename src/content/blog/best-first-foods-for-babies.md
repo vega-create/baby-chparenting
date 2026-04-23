@@ -3,8 +3,9 @@ title: "15 Best First Foods for Babies Starting Solids"
 slug: best-first-foods-for-babies
 description: "Discover the 15 best first foods for babies starting solids, including iron-rich options, nutritional benefits, preparation tips, and foods to avoid before 12 months."
 publishDate: 2026-04-08
+lastReviewed: 2026-04-23
 category: feeding
-author: "Jessica Park"
+author: "Vega Lin"
 image: "https://images.pexels.com/photos/5692295/pexels-photo-5692295.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 tags: ["first foods", "starting solids", "baby food", "infant nutrition", "purees", "6 months"]
 ---

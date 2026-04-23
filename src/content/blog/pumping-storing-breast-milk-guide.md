@@ -2,8 +2,9 @@
 title: "Pumping and Storing Breast Milk: The Complete Guide"
 slug: pumping-storing-breast-milk-guide
 publishDate: 2026-03-22
+lastReviewed: 2026-04-23
 category: feeding
-author: "Hannah Lewis"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/3074935/pexels-photo-3074935.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["pumping breast milk", "breast milk storage", "breast pump", "exclusive pumping", "pumping at work", "milk storage guidelines", "breastfeeding", "wearable breast pump"]
 description: "Everything you need to know about pumping and storing breast milk, including pump types, storage guidelines, exclusive pumping schedules, and tips for pumping at work."

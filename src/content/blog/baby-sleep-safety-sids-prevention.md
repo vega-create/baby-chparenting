@@ -2,11 +2,12 @@
 title: "Baby Sleep Safety & SIDS Prevention: Complete Guide"
 description: "Evidence-based guide to baby sleep safety and SIDS prevention. AAP safe sleep guidelines, risk factors, safe sleep environment checklist, and co-sleeping risks."
 publishDate: 2026-04-04
+lastReviewed: 2026-04-23
 slug: "baby-sleep-safety-sids-prevention"
 category: "sleep"
 tags: ["SIDS prevention", "safe sleep", "AAP guidelines", "baby sleep safety", "crib safety"]
-author: "Dr. Michael Torres"
-authorUrl: "https://baby.chparenting.com/author/dr-michael-torres/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/6393361/pexels-photo-6393361.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -182,7 +183,7 @@ The AAP recommends waiting until your child is at least 12 months old before int
       "datePublished": "2026-04-04T00:00:00Z",
       "dateModified": "2026-04-04T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/dr-michael-torres/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -204,10 +205,10 @@ The AAP recommends waiting until your child is at least 12 months old before int
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/dr-michael-torres/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Dr. Michael Torres",
       "jobTitle": "Board-Certified Pediatrician",
-      "url": "https://baby.chparenting.com/author/dr-michael-torres/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Board-certified pediatrician specializing in infant development and sleep medicine.",
       "knowsAbout": ["pediatrics", "infant sleep", "SIDS prevention", "child development"]
     },

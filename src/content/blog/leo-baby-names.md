@@ -2,11 +2,12 @@
 title: "50 Best Leo Baby Names: Royal Names for Your Little Lion (July 23 – August 22)"
 description: "Discover 50 regal Leo baby names for boys and girls inspired by the sun, lions, and royalty. Find the perfect name for your July or August baby born under the lion."
 publishDate: 2026-04-14
+lastReviewed: 2026-04-23
 slug: "leo-baby-names"
 category: "names"
 tags: ["baby names", "leo baby names", "zodiac names", "royal names", "sun names", "july baby names", "august baby names"]
-author: "Dr. Michael Torres"
-authorUrl: "https://baby.chparenting.com/author/dr-michael-torres/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/28844179/pexels-photo-28844179.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -164,7 +165,7 @@ Leo is the sign of kings and queens, making royal names especially fitting. For 
       "datePublished": "2026-04-29T00:00:00Z",
       "dateModified": "2026-04-29T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/dr-michael-torres/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -186,9 +187,9 @@ Leo is the sign of kings and queens, making royal names especially fitting. For 
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/dr-michael-torres/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Dr. Michael Torres",
-      "url": "https://baby.chparenting.com/author/dr-michael-torres/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Child development specialist and parenting researcher with expertise in baby naming trends."
     },
     {

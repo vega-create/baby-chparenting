@@ -2,8 +2,9 @@
 title: "Baby Food Allergies: Signs, Prevention, and What Every Parent Should Know"
 slug: baby-food-allergies-signs-prevention
 publishDate: 2026-03-10
+lastReviewed: 2026-04-23
 category: feeding
-author: "Dr. Michael Torres"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/5083228/pexels-photo-5083228.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["baby food allergies", "allergen introduction", "LEAP study", "anaphylaxis", "peanut allergy", "egg allergy", "eczema", "allergy prevention", "infant feeding"]
 description: "Learn about the top 9 baby food allergens, how to introduce them safely, signs of allergic reactions, and evidence-based strategies for allergy prevention."

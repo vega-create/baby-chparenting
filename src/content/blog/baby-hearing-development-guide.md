@@ -3,8 +3,9 @@ title: "Baby Hearing Development: Milestones, Testing, and When to Worry"
 slug: baby-hearing-development-guide
 description: "A comprehensive guide to your baby's hearing development from the womb through toddlerhood, including newborn hearing screening, age-by-age milestones, signs of hearing loss, and noise safety tips."
 publishDate: 2026-03-15
+lastReviewed: 2026-04-23
 category: development
-author: "Hannah Lewis"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/3845456/pexels-photo-3845456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["baby hearing", "hearing development", "newborn hearing screening", "hearing milestones", "hearing loss in babies", "baby development", "infant hearing test"]
 ---

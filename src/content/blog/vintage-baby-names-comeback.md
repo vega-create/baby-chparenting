@@ -2,11 +2,12 @@
 title: "50 Vintage Baby Names Making a Stunning Comeback in 2026"
 description: "Discover 50 vintage baby names returning to popularity in 2026. Explore the 100-year name cycle, Victorian-era revivals, and timeless old-fashioned names."
 publishDate: 2026-04-11
+lastReviewed: 2026-04-23
 slug: "vintage-baby-names-comeback"
 category: "names"
 tags: ["vintage baby names", "old-fashioned names", "retro baby names", "classic names", "Victorian names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/34224483/pexels-photo-34224483.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---

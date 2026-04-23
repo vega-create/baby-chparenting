@@ -2,11 +2,12 @@
 title: "Creating the Perfect Baby Sleep Environment"
 description: "How to create the ideal baby sleep environment with the right room temperature, darkness, white noise, crib setup, and sleep sacks for better baby sleep."
 publishDate: 2026-04-05
+lastReviewed: 2026-04-23
 slug: "baby-sleep-environment"
 category: "sleep"
 tags: ["sleep environment", "nursery setup", "white noise", "room temperature", "crib safety"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/7055873/pexels-photo-7055873.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -181,7 +182,7 @@ The AAP recommends waiting until at least 12 months for blankets and at least 18
       "datePublished": "2026-04-05T00:00:00Z",
       "dateModified": "2026-04-05T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -203,10 +204,10 @@ The AAP recommends waiting until at least 12 months for blankets and at least 18
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
       "jobTitle": "Certified Pediatric Sleep Consultant",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant helping families establish healthy sleep habits.",
       "knowsAbout": ["baby sleep", "sleep environment", "nursery setup", "sleep consulting"]
     },

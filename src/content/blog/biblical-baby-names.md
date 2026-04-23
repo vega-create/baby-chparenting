@@ -2,11 +2,12 @@
 title: "60 Biblical Baby Names with Meanings"
 description: "Discover 60 beautiful biblical baby names for boys and girls with meanings, pronunciation guides, and the rich traditions behind scripture-inspired names."
 publishDate: 2026-04-28
+lastReviewed: 2026-04-23
 slug: "biblical-baby-names"
 category: "names"
 tags: ["biblical names", "baby names", "Christian names", "Hebrew names", "scripture names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3279209/pexels-photo-3279209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -151,7 +152,7 @@ Absolutely. Pairing a biblical first name with a modern or trendy middle name is
       "datePublished": "2026-05-23T00:00:00Z",
       "dateModified": "2026-05-23T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -173,9 +174,9 @@ Absolutely. Pairing a biblical first name with a modern or trendy middle name is
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

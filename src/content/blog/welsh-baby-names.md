@@ -2,11 +2,12 @@
 title: "40 Welsh Baby Names: Celtic Treasures"
 description: "Discover 40 beautiful Welsh baby names with meanings, pronunciation guides, and insights into Wales' ancient Celtic naming traditions and Cymraeg heritage."
 publishDate: 2026-05-25
+lastReviewed: 2026-04-23
 slug: "welsh-baby-names"
 category: "names"
 tags: ["Welsh names", "baby names", "Celtic names", "Welsh baby names", "Cymraeg names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/11369379/pexels-photo-11369379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -119,7 +120,7 @@ While Welsh, Irish, and Scottish names all have Celtic roots, they come from dif
       "datePublished": "2026-06-06T00:00:00Z",
       "dateModified": "2026-06-06T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -141,9 +142,9 @@ While Welsh, Irish, and Scottish names all have Celtic roots, they come from dif
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

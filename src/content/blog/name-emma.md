@@ -2,11 +2,12 @@
 title: "All About the Name Emma: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Emma. Explore famous Emmas, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-04-02
+lastReviewed: 2026-04-23
 slug: "name-emma"
 category: "names"
 tags: ["baby name Emma", "Emma meaning", "Emma origin", "girl names", "popular baby names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -180,7 +181,7 @@ Classic names pair well with Emma. For sisters, consider Charlotte, Olivia, Soph
       "datePublished": "2026-04-18T00:00:00Z",
       "dateModified": "2026-04-18T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -202,9 +203,9 @@ Classic names pair well with Emma. For sisters, consider Charlotte, Olivia, Soph
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name researcher helping families find the perfect name.",
       "knowsAbout": ["baby names", "name origins", "parenting"]
     },

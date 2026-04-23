@@ -3,8 +3,9 @@ title: "Baby Separation Anxiety: When It Starts, Why It Happens, and How to Help
 slug: baby-separation-anxiety-guide
 description: "Learn when separation anxiety begins in babies, why it's a healthy developmental milestone, and practical strategies to ease transitions for both you and your little one."
 publishDate: 2026-03-12
+lastReviewed: 2026-04-23
 category: development
-author: "Dr. Michael Torres"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/7282328/pexels-photo-7282328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["separation anxiety", "baby development", "attachment", "daycare transition", "object permanence", "infant emotions", "parenting tips"]
 ---

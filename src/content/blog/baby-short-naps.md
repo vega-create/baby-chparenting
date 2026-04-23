@@ -2,11 +2,12 @@
 title: "Baby Only Sleeps 30 Minutes: Fixing Short Nap Cycles"
 description: "Why your baby only naps for 30 minutes and how to extend short naps. Sleep cycle science, nap-extending techniques, and when short naps are actually normal."
 publishDate: 2026-04-12
+lastReviewed: 2026-04-23
 slug: "baby-short-naps"
 category: "sleep"
 tags: ["short naps", "nap cycles", "nap extending", "baby napping", "30 minute naps"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/10998327/pexels-photo-10998327.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -145,7 +146,7 @@ Yes, this is very common and completely normal for babies 7+ months. Many babies
       "description": "Why your baby only naps for 30 minutes and how to extend short naps. Sleep cycle science, nap-extending techniques, and when short naps are actually normal.",
       "datePublished": "2026-04-12T00:00:00Z",
       "dateModified": "2026-04-12T00:00:00Z",
-      "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
+      "author": {"@id": "https://baby.chparenting.com/author/vega-lin/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
       "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/10998327/pexels-photo-10998327.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/baby-short-naps/"},
@@ -156,10 +157,10 @@ Yes, this is very common and completely normal for babies 7+ months. Many babies
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
       "jobTitle": "Certified Pediatric Sleep Consultant",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant helping families establish healthy sleep habits.",
       "knowsAbout": ["baby sleep", "nap training", "sleep cycles", "sleep consulting"]
     },

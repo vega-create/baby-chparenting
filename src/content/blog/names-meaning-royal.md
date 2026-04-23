@@ -2,11 +2,12 @@
 title: "40 Royal Baby Names for Boys and Girls"
 description: "Discover 40 regal baby names that mean royal, noble, or kingly for boys, girls, and unisex options. Find majestic names with origins, meanings, and trending picks."
 publishDate: 2026-04-27
+lastReviewed: 2026-04-23
 slug: "names-meaning-royal"
 category: "names"
 tags: ["baby names", "royal baby names", "noble names", "regal names", "boy names", "girl names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/35065922/pexels-photo-35065922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -116,7 +117,7 @@ Reign is a modern word name that directly evokes royalty. Kingsley combines the 
       "datePublished": "2026-05-16T00:00:00Z",
       "dateModified": "2026-05-16T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -138,9 +139,9 @@ Reign is a modern word name that directly evokes royalty. Kingsley combines the 
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name researcher helping families find meaningful names."
     },
     {

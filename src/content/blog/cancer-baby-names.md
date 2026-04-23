@@ -2,11 +2,12 @@
 title: "50 Best Cancer Baby Names: Nurturing Names for Your Little Crab (June 21 – July 22)"
 description: "Discover 50 nurturing Cancer baby names for boys and girls inspired by the moon, water, and love. Find the perfect name for your June or July baby born under the crab."
 publishDate: 2026-04-12
+lastReviewed: 2026-04-23
 slug: "cancer-baby-names"
 category: "names"
 tags: ["baby names", "cancer baby names", "zodiac names", "water names", "moon names", "june baby names", "july baby names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -164,7 +165,7 @@ Nurturing names for Cancer babies include Haven (safe place), Amara (beloved), N
       "datePublished": "2026-04-26T00:00:00Z",
       "dateModified": "2026-04-26T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -186,9 +187,9 @@ Nurturing names for Cancer babies include Haven (safe place), Amara (beloved), N
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name researcher helping families find meaningful names."
     },
     {

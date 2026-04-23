@@ -2,11 +2,12 @@
 title: "50 Spanish Baby Names: Classic & Modern"
 description: "Browse 50 beautiful Spanish baby names with meanings and pronunciation guides. Explore classic and modern Hispanic naming traditions for your little one."
 publishDate: 2026-05-15
+lastReviewed: 2026-04-23
 slug: "spanish-baby-names"
 category: "names"
 tags: ["Spanish names", "baby names", "Hispanic names", "Latin names", "Spanish baby names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/25785858/pexels-photo-25785858.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -126,7 +127,7 @@ Yes, many Spanish-speaking countries have naming regulations, though they vary b
       "datePublished": "2026-05-27T00:00:00Z",
       "dateModified": "2026-05-27T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -148,9 +149,9 @@ Yes, many Spanish-speaking countries have naming regulations, though they vary b
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

@@ -2,8 +2,9 @@
 title: "Sensory Play for Babies: 25 Age-Appropriate Activities"
 slug: sensory-play-activities-for-babies
 description: "Discover 25 age-appropriate sensory play activities for babies from birth to 18 months, including DIY sensory bins, water play, texture exploration, and music activities that support brain development."
-author: "Jessica Park"
+author: "Vega Lin"
 publishDate: 2026-04-01
+lastReviewed: 2026-04-23
 category: "development"
 image: "https://images.pexels.com/photos/3661263/pexels-photo-3661263.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 tags: ["sensory play", "baby activities", "brain development", "sensory bins", "water play", "texture play", "infant play ideas", "developmental activities", "messy play"]

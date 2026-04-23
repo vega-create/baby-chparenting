@@ -3,8 +3,9 @@ title: "Organic vs Conventional Baby Food: What Science Actually Says"
 slug: organic-vs-conventional-baby-food
 description: "An evidence-based look at organic vs conventional baby food. Learn what the research says about pesticide residues, nutritional differences, heavy metals in baby food, and how to make informed choices without guilt."
 publishDate: 2026-04-17
+lastReviewed: 2026-04-23
 category: feeding
-author: "Hannah Lewis"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/5692275/pexels-photo-5692275.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["organic baby food", "conventional baby food", "pesticides", "heavy metals", "baby food safety", "infant nutrition", "EWG", "dirty dozen", "baby food buying guide"]
 ---

@@ -2,11 +2,12 @@
 title: "Celebrity Baby Names 2025-2026: Trends and Inspiration"
 description: "Explore the latest celebrity baby name trends for 2025-2026. From nature-inspired picks to classic revivals, discover how famous parents are shaping naming trends."
 publishDate: 2026-05-06
+lastReviewed: 2026-04-23
 slug: "celebrity-baby-names-trends"
 category: "names"
 tags: ["celebrity baby names", "baby name trends", "famous baby names", "2026 baby names", "trending names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/8765025/pexels-photo-8765025.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---

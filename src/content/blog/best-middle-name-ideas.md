@@ -2,11 +2,12 @@
 title: "100 Best Middle Name Ideas: How to Choose the Perfect Middle Name"
 description: "Discover 100 beautiful middle name ideas for boys and girls. Learn how to pair first and middle names for perfect flow, avoid initial pitfalls, and honor family tradition."
 publishDate: 2026-05-09
+lastReviewed: 2026-04-23
 slug: "best-middle-name-ideas"
 category: "names"
 tags: ["middle names", "baby names", "middle name ideas", "name pairing", "honor names"]
-author: "Dr. Michael Torres"
-authorUrl: "https://baby.chparenting.com/author/dr-michael-torres/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/1887614/pexels-photo-1887614.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---

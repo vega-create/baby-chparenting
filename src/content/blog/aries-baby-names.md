@@ -2,11 +2,12 @@
 title: "50 Best Aries Baby Names: Bold Names for Your Little Ram (March 21 – April 19)"
 description: "Discover 50 powerful Aries baby names for boys and girls inspired by the ram's fiery energy. Explore bold names meaning courage, fire, and strength for your March or April baby."
 publishDate: 2026-04-06
+lastReviewed: 2026-04-23
 slug: "aries-baby-names"
 category: "names"
 tags: ["baby names", "aries baby names", "zodiac names", "fire names", "spring baby names", "bold baby names", "march baby names", "april baby names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/1558916/pexels-photo-1558916.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -164,7 +165,7 @@ Zodiac-based names are a meaningful way to honor the time and season of your chi
       "datePublished": "2026-04-18T00:00:00Z",
       "dateModified": "2026-04-18T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -186,9 +187,9 @@ Zodiac-based names are a meaningful way to honor the time and season of your chi
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name researcher helping families find meaningful names."
     },
     {

@@ -2,11 +2,12 @@
 title: "Baby Fighting Sleep: Signs and Solutions by Age"
 description: "Is your baby fighting sleep? Learn the signs of overtiredness, age-appropriate wake windows, and proven calming techniques to help your baby fall asleep faster."
 publishDate: 2026-04-11
+lastReviewed: 2026-04-23
 slug: "baby-fighting-sleep"
 category: "sleep"
 tags: ["baby fighting sleep", "overtired baby", "wake windows", "sleep resistance", "calming techniques"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/9964634/pexels-photo-9964634.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -149,7 +150,7 @@ You're likely not doing anything wrong — some babies are naturally higher-need
       "description": "Is your baby fighting sleep? Learn the signs of overtiredness, age-appropriate wake windows, and proven calming techniques to help your baby fall asleep faster.",
       "datePublished": "2026-04-11T00:00:00Z",
       "dateModified": "2026-04-11T00:00:00Z",
-      "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
+      "author": {"@id": "https://baby.chparenting.com/author/vega-lin/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
       "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/9964634/pexels-photo-9964634.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/baby-fighting-sleep/"},
@@ -160,10 +161,10 @@ You're likely not doing anything wrong — some babies are naturally higher-need
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
       "jobTitle": "Certified Pediatric Sleep Consultant",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant helping families establish healthy sleep habits.",
       "knowsAbout": ["baby sleep", "overtiredness", "wake windows", "sleep consulting"]
     },

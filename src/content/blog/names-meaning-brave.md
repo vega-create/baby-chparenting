@@ -2,11 +2,12 @@
 title: "45 Baby Names That Mean Brave or Courageous"
 description: "Find 45 bold baby names that mean brave or courageous for boys, girls, and unisex options. Explore fearless names with origins, meanings, and trending picks."
 publishDate: 2026-04-16
+lastReviewed: 2026-04-23
 slug: "names-meaning-brave"
 category: "names"
 tags: ["baby names", "names meaning brave", "courageous baby names", "fearless names", "boy names", "girl names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/5082645/pexels-photo-5082645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -121,7 +122,7 @@ Valor is a direct Latin word-name meaning bravery and courage that works for any
       "datePublished": "2026-05-10T00:00:00Z",
       "dateModified": "2026-05-10T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -143,9 +144,9 @@ Valor is a direct Latin word-name meaning bravery and courage that works for any
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name researcher helping families find meaningful names."
     },
     {

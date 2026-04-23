@@ -2,11 +2,12 @@
 title: "Beautiful Baby Names by Season: Spring, Summer, Fall, and Winter Inspired"
 description: "Discover 60 stunning baby names inspired by the four seasons. From spring flower names to winter wonderland picks, find the perfect seasonal name for your baby."
 publishDate: 2026-05-10
+lastReviewed: 2026-04-23
 slug: "baby-names-by-season"
 category: "names"
 tags: ["seasonal baby names", "spring names", "summer names", "fall names", "winter names", "nature names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/1408221/pexels-photo-1408221.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---

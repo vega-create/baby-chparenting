@@ -3,8 +3,9 @@ title: "Developmental Delays in Babies: Red Flags and When to Seek Help"
 slug: when-to-worry-about-developmental-delays
 description: "Learn the key red flags for developmental delays in babies and toddlers from 2 to 24 months, understand the difference between delays and disorders, and discover when and how to seek early intervention services."
 publishDate: 2026-03-22
+lastReviewed: 2026-04-23
 category: development
-author: "Dr. Michael Torres"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/8460049/pexels-photo-8460049.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["developmental delays", "baby milestones", "early intervention", "red flags development", "CDC milestones", "developmental screening", "baby development concerns"]
 ---

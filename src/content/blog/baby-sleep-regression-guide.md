@@ -2,11 +2,12 @@
 title: "Baby Sleep Regression: 4-Month, 6-Month & Beyond"
 description: "Complete guide to baby sleep regressions at 4, 6, 8, 12, and 18 months. Learn what causes regressions, how long they last, and proven survival strategies."
 publishDate: 2026-04-06
+lastReviewed: 2026-04-23
 slug: "baby-sleep-regression-guide"
 category: "sleep"
 tags: ["sleep regression", "4 month regression", "baby sleep problems", "developmental leaps", "sleep disruption"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/7973656/pexels-photo-7973656.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -182,7 +183,7 @@ Sleep regressions are characterized by sudden changes in a previously good sleep
       "datePublished": "2026-04-06T00:00:00Z",
       "dateModified": "2026-04-06T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -204,10 +205,10 @@ Sleep regressions are characterized by sudden changes in a previously good sleep
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
       "jobTitle": "Certified Pediatric Sleep Consultant",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant helping families establish healthy sleep habits.",
       "knowsAbout": ["baby sleep", "sleep regression", "sleep training", "sleep consulting"]
     },

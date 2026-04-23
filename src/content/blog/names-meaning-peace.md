@@ -2,11 +2,12 @@
 title: "35 Baby Names That Mean Peace"
 description: "Browse 35 serene baby names that mean peace for boys, girls, and unisex options. Discover peaceful names from around the world with origins and full meanings."
 publishDate: 2026-04-19
+lastReviewed: 2026-04-23
 slug: "names-meaning-peace"
 category: "names"
 tags: ["baby names", "names meaning peace", "peaceful baby names", "serene names", "boy names", "girl names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/7282807/pexels-photo-7282807.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -111,7 +112,7 @@ Paxton has emerged as a stylish modern option meaning peace town. Shiloh, meanin
       "datePublished": "2026-05-12T00:00:00Z",
       "dateModified": "2026-05-12T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -133,9 +134,9 @@ Paxton has emerged as a stylish modern option meaning peace town. Shiloh, meanin
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name researcher helping families find meaningful names."
     },
     {

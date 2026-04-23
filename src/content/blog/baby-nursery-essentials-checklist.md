@@ -3,8 +3,9 @@ title: "Baby Nursery Essentials: The Complete Setup Checklist"
 slug: baby-nursery-essentials-checklist
 description: "Everything you need to set up the perfect nursery. Our complete checklist covers cribs, sleep essentials, feeding corners, storage, safety-proofing, and budget-friendly tips."
 publishDate: 2026-04-05
+lastReviewed: 2026-04-23
 category: "gear"
-author: "Jessica Park"
+author: "Vega Lin"
 image: "https://images.pexels.com/photos/6393369/pexels-photo-6393369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 tags: ["nursery", "baby room", "nursery essentials", "baby registry", "nursery checklist", "baby safety"]
 ---

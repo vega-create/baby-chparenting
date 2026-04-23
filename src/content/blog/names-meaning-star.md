@@ -2,11 +2,12 @@
 title: "35 Baby Names That Mean Star or Celestial"
 description: "Explore 35 celestial baby names that mean star for boys, girls, and unisex options. Discover stellar names with origins, meanings, and trending picks."
 publishDate: 2026-04-24
+lastReviewed: 2026-04-23
 slug: "names-meaning-star"
 category: "names"
 tags: ["baby names", "names meaning star", "celestial baby names", "stellar names", "boy names", "girl names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/16557643/pexels-photo-16557643.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -111,7 +112,7 @@ Orion, Lyra, Leo, Cassiopeia, and Draco are all names taken directly from conste
       "datePublished": "2026-05-19T00:00:00Z",
       "dateModified": "2026-05-19T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -133,9 +134,9 @@ Orion, Lyra, Leo, Cassiopeia, and Draco are all names taken directly from conste
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name enthusiast exploring meaningful names from around the world."
     },
     {

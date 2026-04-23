@@ -3,8 +3,9 @@ title: "Baby Registry Must-Haves 2026: The Complete Checklist"
 slug: baby-registry-must-haves-checklist
 description: "The ultimate baby registry checklist for 2026 organized by category. Learn what to register for, what to skip, how many of each item you need, and insider tips for maximizing your registry."
 publishDate: 2026-04-16
+lastReviewed: 2026-04-23
 category: "gear"
-author: "Hannah Lewis"
+author: "Vega Lin"
 image: "https://images.pexels.com/photos/3661262/pexels-photo-3661262.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 tags: ["baby registry", "baby checklist", "baby essentials", "baby shower", "new parents", "baby gear", "nursery"]
 ---

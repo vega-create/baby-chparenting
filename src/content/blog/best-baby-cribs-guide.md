@@ -2,8 +2,9 @@
 title: "Best Baby Cribs 2026: Safe Sleep Starts Here"
 slug: best-baby-cribs-guide
 publishDate: 2026-04-10
+lastReviewed: 2026-04-23
 category: gear
-author: "Dr. Michael Torres"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/6393168/pexels-photo-6393168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["cribs", "safe sleep", "nursery", "baby furniture", "CPSC", "convertible crib", "crib safety", "crib mattress"]
 description: "A pediatrician's guide to choosing the safest baby crib in 2026. Covers CPSC safety standards, crib types, safe sleep guidelines, mattress fit, and when to transition to a toddler bed."

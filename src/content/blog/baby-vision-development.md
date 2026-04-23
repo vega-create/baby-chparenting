@@ -3,8 +3,9 @@ title: "Baby Vision Development: What Your Baby Can See Month by Month"
 slug: baby-vision-development
 description: "A month-by-month guide to your baby's vision development, including milestones, activities to stimulate visual growth, common concerns, and when to see a pediatric ophthalmologist."
 publishDate: 2026-04-10
+lastReviewed: 2026-04-23
 category: development
-author: "Dr. Michael Torres"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/3661272/pexels-photo-3661272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["baby vision", "visual development", "baby eyesight", "infant milestones", "eye health", "high contrast cards", "pediatric ophthalmology", "baby development"]
 ---

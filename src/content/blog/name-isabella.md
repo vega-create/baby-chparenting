@@ -2,11 +2,12 @@
 title: "All About the Name Isabella: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Isabella. Explore famous Isabellas, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-31
+lastReviewed: 2026-04-23
 slug: "name-isabella"
 category: "names"
 tags: ["baby name Isabella", "Isabella meaning", "Isabella origin", "girl names", "popular baby names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/9666398/pexels-photo-9666398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -184,13 +185,13 @@ Isabella offers exceptional nickname variety: Bella (beautiful and romantic), Iz
       "headline": "All About the Name Isabella: Meaning, Origin & Popularity",
       "description": "Discover the meaning, origin, and popularity of the baby name Isabella. Explore famous Isabellas, nicknames, sibling pairings, and middle name ideas.",
       "datePublished": "2026-05-06T00:00:00Z", "dateModified": "2026-05-06T00:00:00Z",
-      "author": {"@id": "https://baby.chparenting.com/author/hannah-lewis/#person"},
+      "author": {"@id": "https://baby.chparenting.com/author/vega-lin/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
       "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3662770/pexels-photo-3662770.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/name-isabella/"},
       "wordCount": 1800, "articleSection": "Names", "keywords": ["baby name Isabella", "Isabella meaning", "Isabella origin", "girl names", "popular baby names"], "inLanguage": "en-US"
     },
-    {"@type": "Person", "@id": "https://baby.chparenting.com/author/hannah-lewis/#person", "name": "Hannah Lewis", "url": "https://baby.chparenting.com/author/hannah-lewis/", "description": "Parenting writer and baby name researcher helping families find the perfect name.", "knowsAbout": ["baby names", "name origins", "parenting"]},
+    {"@type": "Person", "@id": "https://baby.chparenting.com/author/vega-lin/#person", "name": "Hannah Lewis", "url": "https://baby.chparenting.com/author/vega-lin/", "description": "Parenting writer and baby name researcher helping families find the perfect name.", "knowsAbout": ["baby names", "name origins", "parenting"]},
     {"@type": "Organization", "@id": "https://baby.chparenting.com/#organization", "name": "Baby Sleep & Parenting Guide", "url": "https://baby.chparenting.com", "logo": {"@type": "ImageObject", "url": "https://baby.chparenting.com/favicon.svg", "width": 32, "height": 32}},
     {
       "@type": "FAQPage", "@id": "https://baby.chparenting.com/blog/name-isabella/#faq",

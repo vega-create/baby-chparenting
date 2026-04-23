@@ -3,8 +3,9 @@ title: "Baby Feeding Schedule by Age: From Newborn to 12 Months"
 slug: baby-feeding-schedule-by-age
 description: "A complete guide to baby feeding schedules from birth to 12 months. Includes sample daily schedules, how much breast milk or formula by age, when to introduce solids, and how to recognize hunger and fullness cues."
 publishDate: 2026-04-02
+lastReviewed: 2026-04-23
 category: feeding
-author: "Dr. Michael Torres"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/5083236/pexels-photo-5083236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["feeding schedule", "baby feeding", "breastfeeding", "formula feeding", "solid foods", "infant nutrition", "feeding by age", "newborn feeding"]
 ---

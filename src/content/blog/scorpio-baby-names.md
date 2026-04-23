@@ -2,11 +2,12 @@
 title: "50 Best Scorpio Baby Names: Powerful Names for Your Little Scorpion (October 23 – November 21)"
 description: "Explore 50 powerful Scorpio baby names inspired by mystery, transformation, and depth. Perfect names for babies born under the intense and passionate sign of the Scorpion."
 publishDate: 2026-05-01
+lastReviewed: 2026-04-23
 slug: "scorpio-baby-names"
 category: "names"
 tags: ["Scorpio baby names", "zodiac baby names", "baby names meaning power", "baby names meaning mystery", "Pluto names"]
-author: "Dr. Michael Torres"
-authorUrl: "https://baby.chparenting.com/author/dr-michael-torres/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/1252890/pexels-photo-1252890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -190,7 +191,7 @@ Not at all. While Scorpio-inspired names carry power and depth, many are versati
       "datePublished": "2026-05-08T00:00:00Z",
       "dateModified": "2026-05-08T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/dr-michael-torres/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -212,9 +213,9 @@ Not at all. While Scorpio-inspired names carry power and depth, many are versati
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/dr-michael-torres/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Dr. Michael Torres",
-      "url": "https://baby.chparenting.com/author/dr-michael-torres/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

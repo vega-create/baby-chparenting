@@ -2,11 +2,12 @@
 title: "50 Japanese Baby Names with Meanings"
 description: "Explore 50 gorgeous Japanese baby names for boys and girls with meanings, pronunciation guides, and insights into Japan's beautiful naming traditions."
 publishDate: 2026-05-13
+lastReviewed: 2026-04-23
 slug: "japanese-baby-names"
 category: "names"
 tags: ["Japanese names", "baby names", "Japanese baby names", "kanji names", "Asian names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/19550896/pexels-photo-19550896.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -129,7 +130,7 @@ Japan has specific legal requirements for naming. Names must use approved kanji 
       "datePublished": "2026-05-26T00:00:00Z",
       "dateModified": "2026-05-26T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -151,9 +152,9 @@ Japan has specific legal requirements for naming. Names must use approved kanji 
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

@@ -3,8 +3,9 @@ title: "Formula Feeding 101: Everything You Need to Know"
 slug: formula-feeding-complete-guide
 description: "A comprehensive guide to formula feeding your baby, covering types of formula, safe preparation, how much to feed by age, signs of intolerance, and tips for combination feeding."
 publishDate: 2026-03-15
+lastReviewed: 2026-04-23
 category: feeding
-author: "Dr. Michael Torres"
+author: "Vega Lin"
 image: "https://images.pexels.com/photos/6849538/pexels-photo-6849538.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 tags: ["formula feeding", "bottle feeding", "infant nutrition", "newborn", "feeding guide"]
 ---

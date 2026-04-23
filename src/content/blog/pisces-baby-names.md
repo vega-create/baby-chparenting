@@ -2,11 +2,12 @@
 title: "50 Best Pisces Baby Names: Dreamy Names for Your Little Fish (February 19 – March 20)"
 description: "Discover 50 dreamy Pisces baby names inspired by the sea, imagination, music, and compassion. Perfect names for babies born under the sign of the Fish, ruled by Neptune."
 publishDate: 2026-05-05
+lastReviewed: 2026-04-23
 slug: "pisces-baby-names"
 category: "names"
 tags: ["Pisces baby names", "zodiac baby names", "baby names meaning sea", "baby names meaning dream", "Neptune names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/19824837/pexels-photo-19824837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -205,7 +206,7 @@ Pisces is widely considered the most artistically gifted sign of the zodiac, tha
       "datePublished": "2026-05-20T00:00:00Z",
       "dateModified": "2026-05-20T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -227,9 +228,9 @@ Pisces is widely considered the most artistically gifted sign of the zodiac, tha
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

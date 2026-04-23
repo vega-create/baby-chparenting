@@ -2,11 +2,12 @@
 title: "45 Scandinavian Baby Names: Norse & Nordic"
 description: "Discover 45 Scandinavian baby names from Norse mythology and Nordic traditions, with meanings, pronunciation guides, and Viking-era naming customs."
 publishDate: 2026-05-20
+lastReviewed: 2026-04-23
 slug: "scandinavian-baby-names"
 category: "names"
 tags: ["Scandinavian names", "baby names", "Norse names", "Nordic names", "Viking names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3617850/pexels-photo-3617850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -124,7 +125,7 @@ Nordic languages use several characters not found in English. The Danish/Norwegi
       "datePublished": "2026-06-02T00:00:00Z",
       "dateModified": "2026-06-02T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -146,9 +147,9 @@ Nordic languages use several characters not found in English. The Danish/Norwegi
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

@@ -2,11 +2,12 @@
 title: "All About the Name Liam: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Liam. Explore famous Liams, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-16
+lastReviewed: 2026-04-23
 slug: "name-liam"
 category: "names"
 tags: ["baby name Liam", "Liam meaning", "Liam origin", "boy names", "popular baby names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/14788988/pexels-photo-14788988.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -183,7 +184,7 @@ Names that complement Liam's clean, classic sound include Emma, Charlotte, Nora,
       "datePublished": "2026-04-19T00:00:00Z",
       "dateModified": "2026-04-19T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -205,9 +206,9 @@ Names that complement Liam's clean, classic sound include Emma, Charlotte, Nora,
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant and parenting writer helping families thrive.",
       "knowsAbout": ["baby names", "parenting", "baby sleep"]
     },

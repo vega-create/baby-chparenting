@@ -2,11 +2,12 @@
 title: "50 Best Capricorn Baby Names: Ambitious Names for Your Little Goat (December 22 – January 19)"
 description: "Discover 50 strong Capricorn baby names inspired by ambition, endurance, discipline, and strength. Perfect names for babies born under the sign of the Sea-Goat, ruled by Saturn."
 publishDate: 2026-05-03
+lastReviewed: 2026-04-23
 slug: "capricorn-baby-names"
 category: "names"
 tags: ["Capricorn baby names", "zodiac baby names", "baby names meaning strength", "baby names meaning ambition", "Saturn names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/2670898/pexels-photo-2670898.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -194,7 +195,7 @@ The Sea-Goat is a mythical creature with the front body of a goat and the tail o
       "datePublished": "2026-05-14T00:00:00Z",
       "dateModified": "2026-05-14T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -216,9 +217,9 @@ The Sea-Goat is a mythical creature with the front body of a goat and the tail o
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

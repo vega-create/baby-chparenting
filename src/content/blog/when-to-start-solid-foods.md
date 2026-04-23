@@ -2,8 +2,9 @@
 title: "When to Start Solid Foods: Signs Your Baby Is Ready"
 slug: when-to-start-solid-foods
 publishDate: 2026-04-01
+lastReviewed: 2026-04-23
 category: feeding
-author: "Dr. Michael Torres"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/3933025/pexels-photo-3933025.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["starting solids", "baby first foods", "solid food readiness", "baby-led weaning", "purees", "iron-rich foods", "complementary feeding", "infant nutrition"]
 description: "Learn when your baby is developmentally ready for solid foods, which foods to start with, and how to progress from purees to finger foods while maintaining proper nutrition."

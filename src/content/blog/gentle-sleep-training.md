@@ -2,11 +2,12 @@
 title: "Gentle Sleep Training: No-Cry Methods That Work"
 description: "5 gentle no-cry sleep training methods that actually work. Step-by-step guides for Pick Up Put Down, Fading, Chair Method, and more gentle approaches."
 publishDate: 2026-04-14
+lastReviewed: 2026-04-23
 slug: "gentle-sleep-training"
 category: "sleep"
 tags: ["gentle sleep training", "no cry method", "baby sleep", "pick up put down", "fading method"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/8910219/pexels-photo-8910219.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -191,7 +192,7 @@ Yes. Many families use a hybrid approach — for example, combining bedtime fadi
       "description": "5 gentle no-cry sleep training methods that actually work. Step-by-step guides for Pick Up Put Down, Fading, Chair Method, and more gentle approaches.",
       "datePublished": "2026-04-14T00:00:00Z",
       "dateModified": "2026-04-14T00:00:00Z",
-      "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
+      "author": {"@id": "https://baby.chparenting.com/author/vega-lin/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
       "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/8910219/pexels-photo-8910219.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/gentle-sleep-training/"},
@@ -202,10 +203,10 @@ Yes. Many families use a hybrid approach — for example, combining bedtime fadi
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
       "jobTitle": "Certified Pediatric Sleep Consultant",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant helping families establish healthy sleep habits.",
       "knowsAbout": ["gentle sleep training", "no-cry methods", "baby sleep", "sleep consulting"]
     },

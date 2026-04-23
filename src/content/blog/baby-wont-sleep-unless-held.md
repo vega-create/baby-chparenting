@@ -2,11 +2,12 @@
 title: "Baby Won't Sleep Unless Held: 8 Gentle Solutions"
 description: "Struggling with a baby who won't sleep unless held? Discover 8 evidence-based gentle solutions to help your baby sleep independently in their crib."
 publishDate: 2026-04-07
+lastReviewed: 2026-04-23
 slug: "baby-wont-sleep-unless-held"
 category: "sleep"
 tags: ["baby won't sleep", "contact napping", "independent sleep", "baby sleep solutions", "held to sleep"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3845419/pexels-photo-3845419.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -148,7 +149,7 @@ While it's within the range of normal, by 6 months most babies are developmental
       "description": "Struggling with a baby who won't sleep unless held? Discover 8 evidence-based gentle solutions to help your baby sleep independently in their crib.",
       "datePublished": "2026-04-07T00:00:00Z",
       "dateModified": "2026-04-07T00:00:00Z",
-      "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
+      "author": {"@id": "https://baby.chparenting.com/author/vega-lin/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
       "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3845419/pexels-photo-3845419.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/baby-wont-sleep-unless-held/"},
@@ -159,10 +160,10 @@ While it's within the range of normal, by 6 months most babies are developmental
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
       "jobTitle": "Certified Pediatric Sleep Consultant",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant helping families establish healthy sleep habits.",
       "knowsAbout": ["baby sleep", "sleep training", "contact napping", "sleep consulting"]
     },

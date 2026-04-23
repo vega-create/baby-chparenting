@@ -2,11 +2,12 @@
 title: "50 Best Gemini Baby Names: Clever Names for Your Little Twin (May 21 – June 20)"
 description: "Discover 50 clever Gemini baby names for boys and girls inspired by air, wit, and communication. Find the perfect name for your May or June baby born under the twins."
 publishDate: 2026-04-10
+lastReviewed: 2026-04-23
 slug: "gemini-baby-names"
 category: "names"
 tags: ["baby names", "gemini baby names", "zodiac names", "air names", "may baby names", "june baby names", "clever baby names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/2892619/pexels-photo-2892619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -175,7 +176,7 @@ Popular Gemini-inspired twin pairs include Aria and Clio (song and glory), Felix
       "datePublished": "2026-04-23T00:00:00Z",
       "dateModified": "2026-04-23T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -197,9 +198,9 @@ Popular Gemini-inspired twin pairs include Aria and Clio (song and glory), Felix
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Baby name expert and astrology enthusiast helping parents find names with cosmic meaning."
     },
     {

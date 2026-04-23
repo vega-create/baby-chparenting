@@ -2,8 +2,9 @@
 title: "Best Baby Carriers and Wraps 2026: From Newborn to Toddler"
 slug: best-baby-carriers-wraps-guide
 publishDate: 2026-04-17
+lastReviewed: 2026-04-23
 category: gear
-author: "Hannah Lewis"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/3845546/pexels-photo-3845546.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["baby carriers", "baby wraps", "babywearing", "ring sling", "soft structured carrier", "ergonomic carrier", "newborn carrier", "TICKS guidelines"]
 description: "Find the best baby carrier or wrap for every stage from newborn to toddler. Covers wraps, ring slings, soft structured carriers, safety guidelines, ergonomic positioning, and benefits of babywearing."

@@ -2,11 +2,12 @@
 title: "Baby Wakes Up Every Hour: Causes and Solutions"
 description: "Is your baby waking every hour at night? Learn the medical and behavioral causes, age-specific solutions, and when to see your pediatrician about frequent waking."
 publishDate: 2026-04-09
+lastReviewed: 2026-04-23
 slug: "baby-wakes-every-hour"
 category: "sleep"
 tags: ["frequent waking", "baby waking at night", "night wakings", "baby sleep problems", "sleep solutions"]
-author: "Dr. Michael Torres"
-authorUrl: "https://baby.chparenting.com/author/dr-michael-torres/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3617843/pexels-photo-3617843.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -150,7 +151,7 @@ See your pediatrician if: waking is accompanied by fever, breathing issues, or o
       "description": "Is your baby waking every hour at night? Learn the medical and behavioral causes, age-specific solutions, and when to see your pediatrician about frequent waking.",
       "datePublished": "2026-04-09T00:00:00Z",
       "dateModified": "2026-04-09T00:00:00Z",
-      "author": {"@id": "https://baby.chparenting.com/author/dr-michael-torres/#person"},
+      "author": {"@id": "https://baby.chparenting.com/author/vega-lin/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
       "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/3617843/pexels-photo-3617843.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/baby-wakes-every-hour/"},
@@ -161,10 +162,10 @@ See your pediatrician if: waking is accompanied by fever, breathing issues, or o
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/dr-michael-torres/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Dr. Michael Torres",
       "jobTitle": "Board-Certified Pediatrician",
-      "url": "https://baby.chparenting.com/author/dr-michael-torres/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Board-certified pediatrician specializing in infant development and sleep medicine.",
       "knowsAbout": ["pediatrics", "infant sleep", "night wakings", "child development"]
     },

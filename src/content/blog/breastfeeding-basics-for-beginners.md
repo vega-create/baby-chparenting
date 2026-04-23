@@ -3,8 +3,9 @@ title: "Breastfeeding Basics for Beginners: A Complete First-Time Mom Guide"
 slug: breastfeeding-basics-for-beginners
 description: "Learn everything you need to know about breastfeeding as a first-time mom, including latching techniques, nursing positions, how to tell if baby is getting enough milk, and when to seek help."
 publishDate: 2026-03-05
+lastReviewed: 2026-04-23
 category: feeding
-author: "Jessica Park"
+author: "Vega Lin"
 image: "https://images.pexels.com/photos/3279208/pexels-photo-3279208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 tags: ["breastfeeding", "newborn", "feeding tips", "latching", "nursing positions", "first-time mom"]
 ---

@@ -3,8 +3,9 @@ title: "Baby-Led Weaning: How to Start and What to Offer"
 slug: baby-led-weaning-complete-guide
 description: "A complete guide to baby-led weaning (BLW), including readiness signs, how to cut foods safely, best first finger foods, gagging vs choking, allergen introduction, and meal ideas by age."
 publishDate: 2026-03-28
+lastReviewed: 2026-04-23
 category: feeding
-author: "Hannah Lewis"
+author: "Vega Lin"
 image: "https://images.pexels.com/photos/3662845/pexels-photo-3662845.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 tags: ["baby-led weaning", "BLW", "starting solids", "finger foods", "infant feeding", "first foods"]
 ---

@@ -2,11 +2,12 @@
 title: "45 Greek Baby Names: Mythology & Modern"
 description: "Explore 45 Greek baby names inspired by mythology and modern Greece, complete with meanings, pronunciation guides, and Hellenic naming traditions."
 publishDate: 2026-05-16
+lastReviewed: 2026-04-23
 slug: "greek-baby-names"
 category: "names"
 tags: ["Greek names", "baby names", "Greek mythology names", "Hellenic names", "Greek baby names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/7491346/pexels-photo-7491346.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -124,7 +125,7 @@ Greek names often have well-established English equivalents that developed over 
       "datePublished": "2026-05-29T00:00:00Z",
       "dateModified": "2026-05-29T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -146,9 +147,9 @@ Greek names often have well-established English equivalents that developed over 
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

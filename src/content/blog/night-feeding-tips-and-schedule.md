@@ -2,8 +2,9 @@
 title: "Night Feeding Guide: Tips, Schedules, and When to Stop"
 slug: night-feeding-tips-and-schedule
 publishDate: 2026-04-17
+lastReviewed: 2026-04-23
 category: feeding
-author: "Jessica Park"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/7282908/pexels-photo-7282908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["night feeding", "baby sleep", "dream feeding", "night weaning", "newborn feeding schedule", "baby feeding schedule", "sleep through the night", "infant feeding"]
 description: "A complete guide to night feeding your baby, including how many feeds by age, dream feeding techniques, when babies can sleep through the night, and gentle night weaning strategies."

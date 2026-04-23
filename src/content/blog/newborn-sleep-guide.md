@@ -2,11 +2,12 @@
 title: "Newborn Sleep Guide: Everything New Parents Need to Know"
 description: "Complete newborn sleep guide covering how much newborns sleep, safe sleep practices, sleep cues, swaddling tips, and creating the ideal sleep environment."
 publishDate: 2026-04-01
+lastReviewed: 2026-04-23
 slug: "newborn-sleep-guide"
 category: "sleep"
 tags: ["newborn sleep", "baby sleep guide", "safe sleep", "sleep cues", "swaddling"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/11517553/pexels-photo-11517553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -197,7 +198,7 @@ Newborns are used to the constant warmth, pressure, and motion of the womb. Bein
       "datePublished": "2026-04-01T00:00:00Z",
       "dateModified": "2026-04-01T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -219,10 +220,10 @@ Newborns are used to the constant warmth, pressure, and motion of the womb. Bein
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
       "jobTitle": "Certified Pediatric Sleep Consultant",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant helping families establish healthy sleep habits.",
       "knowsAbout": ["baby sleep", "sleep training", "newborn sleep", "sleep consulting"]
     },

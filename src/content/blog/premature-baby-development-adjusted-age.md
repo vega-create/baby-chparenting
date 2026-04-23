@@ -3,8 +3,9 @@ title: "Premature Baby Development: Understanding Adjusted Age and Milestones"
 slug: premature-baby-development-adjusted-age
 description: "A complete guide to premature baby development, including how to calculate adjusted age, when preemies catch up, NICU follow-up, early intervention, and practical support for preemie parents."
 publishDate: 2026-04-03
+lastReviewed: 2026-04-23
 category: development
-author: "Dr. Michael Torres"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/3985170/pexels-photo-3985170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["premature baby", "preemie development", "adjusted age", "corrected age", "NICU", "preemie milestones", "early intervention", "kangaroo care"]
 ---

@@ -2,11 +2,12 @@
 title: "75 Best Gender-Neutral Baby Names: Unisex Names for Every Style"
 description: "Discover 75 beautiful gender-neutral baby names with meanings and origins. From classic unisex names to modern picks, find the perfect name for any child."
 publishDate: 2026-04-07
+lastReviewed: 2026-04-23
 slug: "gender-neutral-baby-names"
 category: "names"
 tags: ["gender-neutral names", "unisex baby names", "baby names", "non-binary names", "androgynous names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3662770/pexels-photo-3662770.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---

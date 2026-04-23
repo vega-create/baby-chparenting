@@ -2,8 +2,9 @@
 title: "How to Make Homemade Baby Food: Easy Recipes and Storage Tips"
 slug: homemade-baby-food-recipes-guide
 publishDate: 2026-04-10
+lastReviewed: 2026-04-23
 category: feeding
-author: "Hannah Lewis"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/5692284/pexels-photo-5692284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["homemade baby food", "baby food recipes", "baby purees", "batch cooking", "baby food storage", "baby food preparation", "first foods", "infant nutrition"]
 description: "Learn how to make nutritious homemade baby food with easy puree recipes, batch cooking tips, safe storage methods, and a guide to texture progression for every stage."

@@ -2,11 +2,12 @@
 title: "All About the Name Amelia: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Amelia. Explore famous Amelias, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-24
+lastReviewed: 2026-04-23
 slug: "name-amelia"
 category: "names"
 tags: ["baby name Amelia", "Amelia meaning", "Amelia origin", "girl names", "popular baby names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/294173/pexels-photo-294173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -185,7 +186,7 @@ Amelia is currently a top 5 girl name in the United States and holds the number 
       "datePublished": "2026-04-24T00:00:00Z",
       "dateModified": "2026-04-24T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -207,9 +208,9 @@ Amelia is currently a top 5 girl name in the United States and holds the number 
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name researcher helping families find the perfect name.",
       "knowsAbout": ["baby names", "name origins", "parenting"]
     },

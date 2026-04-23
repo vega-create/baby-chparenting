@@ -2,11 +2,12 @@
 title: "50 Arabic Baby Names with Beautiful Meanings"
 description: "Explore 50 Arabic baby names for boys and girls with beautiful meanings, pronunciation guides, and insights into Islamic and Arab naming traditions."
 publishDate: 2026-05-17
+lastReviewed: 2026-04-23
 slug: "arabic-baby-names"
 category: "names"
 tags: ["Arabic names", "baby names", "Islamic names", "Muslim names", "Arabic baby names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3270224/pexels-photo-3270224.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -129,7 +130,7 @@ Arabic names are used and appreciated by people of many backgrounds worldwide. I
       "datePublished": "2026-05-30T00:00:00Z",
       "dateModified": "2026-05-30T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -151,9 +152,9 @@ Arabic names are used and appreciated by people of many backgrounds worldwide. I
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

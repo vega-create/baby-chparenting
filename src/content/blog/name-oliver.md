@@ -2,11 +2,12 @@
 title: "All About the Name Oliver: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Oliver. Explore famous Olivers, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-15
+lastReviewed: 2026-04-23
 slug: "name-oliver"
 category: "names"
 tags: ["baby name Oliver", "Oliver meaning", "Oliver origin", "boy names", "popular baby names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/13016264/pexels-photo-13016264.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -187,7 +188,7 @@ Yes, Oliver and Olivia likely share the same Latin root, oliva, meaning "olive t
       "datePublished": "2026-04-23T00:00:00Z",
       "dateModified": "2026-04-23T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -209,9 +210,9 @@ Yes, Oliver and Olivia likely share the same Latin root, oliva, meaning "olive t
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant and parenting writer helping families thrive.",
       "knowsAbout": ["baby names", "parenting", "baby sleep"]
     },

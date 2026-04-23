@@ -2,11 +2,12 @@
 title: "60 Unique and Rare Baby Names You Haven't Heard Before"
 description: "Explore 60 truly unique and rare baby names from cultures around the world. Includes pronunciation guides, meanings, and tips for choosing unusual names."
 publishDate: 2026-04-13
+lastReviewed: 2026-04-23
 slug: "unique-rare-baby-names"
 category: "names"
 tags: ["unique baby names", "rare baby names", "unusual names", "uncommon baby names", "distinctive names"]
-author: "Dr. Michael Torres"
-authorUrl: "https://baby.chparenting.com/author/dr-michael-torres/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/6134644/pexels-photo-6134644.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---

@@ -2,11 +2,12 @@
 title: "Sleep Training Twins: Special Considerations"
 description: "How to sleep train twins: same room vs separate, synchronizing schedules, handling one crying waking the other, and choosing the right method for multiples."
 publishDate: 2026-04-16
+lastReviewed: 2026-04-23
 slug: "sleep-training-twins"
 category: "sleep"
 tags: ["twins sleep training", "multiples", "twin sleep schedule", "twin nursery", "baby sleep twins"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/7919595/pexels-photo-7919595.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -160,7 +161,7 @@ Absolutely. Spend 1–2 weeks synchronizing their schedules before starting form
       "description": "How to sleep train twins: same room vs separate, synchronizing schedules, handling one crying waking the other, and choosing the right method for multiples.",
       "datePublished": "2026-04-16T00:00:00Z",
       "dateModified": "2026-04-16T00:00:00Z",
-      "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
+      "author": {"@id": "https://baby.chparenting.com/author/vega-lin/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
       "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/7919595/pexels-photo-7919595.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/sleep-training-twins/"},
@@ -171,10 +172,10 @@ Absolutely. Spend 1–2 weeks synchronizing their schedules before starting form
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
       "jobTitle": "Certified Pediatric Sleep Consultant",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant helping families establish healthy sleep habits.",
       "knowsAbout": ["twin sleep", "sleep training", "multiples", "sleep consulting"]
     },

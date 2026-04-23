@@ -3,8 +3,9 @@ title: "Baby Brain Development: How Nutrition Shapes Your Baby's Growing Mind"
 slug: baby-brain-development-nutrition
 description: "Discover how key nutrients like DHA, iron, zinc, and choline fuel your baby's brain development from pregnancy through age 3, plus the role of responsive caregiving, play, and screen time in building neural pathways."
 publishDate: 2026-04-12
+lastReviewed: 2026-04-23
 category: development
-author: "Hannah Lewis"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/3933250/pexels-photo-3933250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["baby brain development", "infant nutrition", "DHA for babies", "iron rich foods baby", "brain food for babies", "child development nutrition", "responsive caregiving", "screen time babies"]
 ---

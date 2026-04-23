@@ -2,11 +2,12 @@
 title: "Baby Sleeps All Day, Awake All Night: How to Fix It"
 description: "Fix your baby's day-night confusion with this proven 7-step plan. Learn why babies mix up day and night and how to reset their circadian rhythm quickly."
 publishDate: 2026-04-08
+lastReviewed: 2026-04-23
 slug: "baby-day-night-confusion"
 category: "sleep"
 tags: ["day night confusion", "newborn sleep", "circadian rhythm", "baby awake at night", "sleep schedule"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/15352276/pexels-photo-15352276.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -161,7 +162,7 @@ Typically no. Once a baby's circadian rhythm is established (usually by 8–12 w
       "description": "Fix your baby's day-night confusion with this proven 7-step plan. Learn why babies mix up day and night and how to reset their circadian rhythm quickly.",
       "datePublished": "2026-04-08T00:00:00Z",
       "dateModified": "2026-04-08T00:00:00Z",
-      "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
+      "author": {"@id": "https://baby.chparenting.com/author/vega-lin/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
       "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/15352276/pexels-photo-15352276.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/baby-day-night-confusion/"},
@@ -172,10 +173,10 @@ Typically no. Once a baby's circadian rhythm is established (usually by 8–12 w
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
       "jobTitle": "Certified Pediatric Sleep Consultant",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant helping families establish healthy sleep habits.",
       "knowsAbout": ["baby sleep", "day night confusion", "newborn sleep", "circadian rhythm"]
     },

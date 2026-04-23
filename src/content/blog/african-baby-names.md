@@ -2,11 +2,12 @@
 title: "50 African Baby Names from Across the Continent"
 description: "Explore 50 beautiful African baby names from diverse cultures across the continent, with meanings, pronunciation guides, and rich naming traditions."
 publishDate: 2026-05-21
+lastReviewed: 2026-04-23
 slug: "african-baby-names"
 category: "names"
 tags: ["African names", "baby names", "African baby names", "Swahili names", "Yoruba names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/6392880/pexels-photo-6392880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -124,7 +125,7 @@ Many African languages, particularly those in the Niger-Congo family like Yoruba
       "datePublished": "2026-06-03T00:00:00Z",
       "dateModified": "2026-06-03T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -146,9 +147,9 @@ Many African languages, particularly those in the Niger-Congo family like Yoruba
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

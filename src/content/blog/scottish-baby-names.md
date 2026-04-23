@@ -2,11 +2,12 @@
 title: "45 Scottish Baby Names: Highland Heritage"
 description: "Discover 45 Scottish baby names rooted in Highland heritage, with meanings, pronunciation guides, and the traditions behind Scotland's naming customs."
 publishDate: 2026-05-18
+lastReviewed: 2026-04-23
 slug: "scottish-baby-names"
 category: "names"
 tags: ["Scottish names", "baby names", "Gaelic names", "Highland names", "Scottish baby names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/15785867/pexels-photo-15785867.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -124,7 +125,7 @@ Scotland's dramatic landscape has inspired many beloved names. Isla comes from t
       "datePublished": "2026-05-31T00:00:00Z",
       "dateModified": "2026-05-31T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -146,9 +147,9 @@ Scotland's dramatic landscape has inspired many beloved names. Isla comes from t
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

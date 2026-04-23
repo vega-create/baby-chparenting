@@ -2,8 +2,9 @@
 title: "When Do Babies Crawl and Walk? Timeline, Signs, and How to Help"
 slug: when-do-babies-crawl-walk
 description: "Learn when babies typically start crawling and walking, the different crawling styles, pre-crawling signs, how to baby-proof your home, and when to consult a pediatrician about late walkers."
-author: "Jessica Park"
+author: "Vega Lin"
 publishDate: 2026-03-10
+lastReviewed: 2026-04-23
 category: "development"
 image: "https://images.pexels.com/photos/3661348/pexels-photo-3661348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 tags: ["baby crawling", "baby walking", "gross motor skills", "baby milestones", "first steps", "baby-proofing", "infant mobility", "when do babies walk"]

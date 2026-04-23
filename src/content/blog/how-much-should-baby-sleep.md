@@ -2,11 +2,12 @@
 title: "How Much Should My Baby Sleep? Age-by-Age Guide"
 description: "Complete age-by-age baby sleep guide with sleep needs tables, nap counts, wake windows, and night sleep expectations from newborn through 24 months."
 publishDate: 2026-04-03
+lastReviewed: 2026-04-23
 slug: "how-much-should-baby-sleep"
 category: "sleep"
 tags: ["baby sleep needs", "wake windows", "nap schedule", "sleep by age", "baby sleep chart"]
-author: "Dr. Michael Torres"
-authorUrl: "https://baby.chparenting.com/author/dr-michael-torres/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/13071794/pexels-photo-13071794.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -165,7 +166,7 @@ The ranges provided are guidelines based on population averages. Individual babi
       "datePublished": "2026-04-03T00:00:00Z",
       "dateModified": "2026-04-03T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/dr-michael-torres/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -187,10 +188,10 @@ The ranges provided are guidelines based on population averages. Individual babi
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/dr-michael-torres/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Dr. Michael Torres",
       "jobTitle": "Board-Certified Pediatrician",
-      "url": "https://baby.chparenting.com/author/dr-michael-torres/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Board-certified pediatrician specializing in infant development and sleep medicine.",
       "knowsAbout": ["pediatrics", "infant sleep", "child development", "SIDS prevention"]
     },

@@ -3,8 +3,9 @@ title: "Toddler Development Guide: What to Expect from 12 to 24 Months"
 slug: toddler-development-12-24-months
 description: "A comprehensive guide to toddler development from 12 to 24 months covering physical milestones, language explosion, cognitive leaps, social-emotional growth, self-care skills, and practical tips for encouraging independence safely."
 publishDate: 2026-04-17
+lastReviewed: 2026-04-23
 category: development
-author: "Jessica Park"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/3661348/pexels-photo-3661348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["toddler development", "12 to 24 months", "toddler milestones", "toddler behavior", "language development toddler", "toddler tantrums", "toddler independence", "developmental milestones"]
 ---

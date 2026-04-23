@@ -3,8 +3,9 @@ title: "Common Baby Feeding Problems and How to Solve Them"
 slug: common-feeding-problems-solutions
 description: "Expert guide to the most common baby feeding problems including reflux, colic, tongue tie, nipple confusion, slow weight gain, and food refusal. Learn what causes them, when to worry, and how to solve each issue."
 publishDate: 2026-04-10
+lastReviewed: 2026-04-23
 category: feeding
-author: "Dr. Michael Torres"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/7491334/pexels-photo-7491334.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["feeding problems", "baby reflux", "colic", "tongue tie", "nipple confusion", "spitting up", "picky eating", "slow weight gain", "GERD", "food refusal"]
 ---

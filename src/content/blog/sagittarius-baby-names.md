@@ -2,11 +2,12 @@
 title: "50 Best Sagittarius Baby Names: Adventurous Names for Your Little Archer (November 22 – December 21)"
 description: "Discover 50 adventurous Sagittarius baby names inspired by travel, freedom, truth, and wisdom. Perfect names for babies born under the sign of the Archer, ruled by Jupiter."
 publishDate: 2026-05-02
+lastReviewed: 2026-04-23
 slug: "sagittarius-baby-names"
 category: "names"
 tags: ["Sagittarius baby names", "zodiac baby names", "baby names meaning adventure", "baby names meaning freedom", "Jupiter names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/4254548/pexels-photo-4254548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -195,7 +196,7 @@ The Archer symbol directly inspires names like Archer and Fletcher (arrow maker)
       "datePublished": "2026-05-11T00:00:00Z",
       "dateModified": "2026-05-11T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -217,9 +218,9 @@ The Archer symbol directly inspires names like Archer and Fletcher (arrow maker)
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

@@ -2,11 +2,12 @@
 title: "Breastfeeding and Sleep Training: How to Balance Both"
 description: "How to sleep train while breastfeeding without losing supply. Night weaning timeline, dream feeds, maintaining milk production, and best methods for nursing moms."
 publishDate: 2026-04-17
+lastReviewed: 2026-04-23
 slug: "breastfeeding-and-sleep-training"
 category: "sleep"
 tags: ["breastfeeding", "sleep training", "night weaning", "dream feed", "milk supply", "nursing and sleep"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/7491270/pexels-photo-7491270.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -179,7 +180,7 @@ Most healthy, full-term breastfed babies who are gaining weight well can sleep 1
       "description": "How to sleep train while breastfeeding without losing supply. Night weaning timeline, dream feeds, maintaining milk production, and best methods for nursing moms.",
       "datePublished": "2026-04-17T00:00:00Z",
       "dateModified": "2026-04-17T00:00:00Z",
-      "author": {"@id": "https://baby.chparenting.com/author/hannah-lewis/#person"},
+      "author": {"@id": "https://baby.chparenting.com/author/vega-lin/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
       "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/7491270/pexels-photo-7491270.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/breastfeeding-and-sleep-training/"},
@@ -190,10 +191,10 @@ Most healthy, full-term breastfed babies who are gaining weight well can sleep 1
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
       "jobTitle": "Certified Lactation Consultant & Nutrition Specialist",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified lactation consultant and infant nutrition specialist helping families navigate breastfeeding and sleep.",
       "knowsAbout": ["breastfeeding", "lactation", "infant nutrition", "night weaning", "sleep training"]
     },

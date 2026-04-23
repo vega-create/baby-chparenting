@@ -2,11 +2,12 @@
 title: "50 Indian Baby Names: Sanskrit & Modern"
 description: "Explore 50 beautiful Indian baby names from Sanskrit and modern traditions, with meanings, pronunciation guides, and insights into India's naming customs."
 publishDate: 2026-05-19
+lastReviewed: 2026-04-23
 slug: "indian-baby-names"
 category: "names"
 tags: ["Indian names", "baby names", "Sanskrit names", "Hindu names", "Indian baby names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/8652209/pexels-photo-8652209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -129,7 +130,7 @@ Absolutely. Many Indian names are already popular internationally, including May
       "datePublished": "2026-06-01T00:00:00Z",
       "dateModified": "2026-06-01T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -151,9 +152,9 @@ Absolutely. Many Indian names are already popular internationally, including May
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

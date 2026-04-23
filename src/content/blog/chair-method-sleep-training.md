@@ -2,11 +2,12 @@
 title: "Chair Method: Gradual Sleep Training Guide"
 description: "Complete guide to the Chair Method for baby sleep training. Night-by-night chair position schedule, why it works for anxious parents, and step-by-step protocol."
 publishDate: 2026-04-15
+lastReviewed: 2026-04-23
 slug: "chair-method-sleep-training"
 category: "sleep"
 tags: ["chair method", "gradual retreat", "gentle sleep training", "camping out", "baby sleep"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/207799/pexels-photo-207799.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -157,7 +158,7 @@ Yes, but it requires patience. Start with the twin who is the better sleeper (th
       "description": "Complete guide to the Chair Method for baby sleep training. Night-by-night chair position schedule, why it works for anxious parents, and step-by-step protocol.",
       "datePublished": "2026-04-15T00:00:00Z",
       "dateModified": "2026-04-15T00:00:00Z",
-      "author": {"@id": "https://baby.chparenting.com/author/jessica-park/#person"},
+      "author": {"@id": "https://baby.chparenting.com/author/vega-lin/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
       "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/207799/pexels-photo-207799.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/chair-method-sleep-training/"},
@@ -168,10 +169,10 @@ Yes, but it requires patience. Start with the twin who is the better sleeper (th
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
       "jobTitle": "Certified Pediatric Sleep Consultant",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant helping families establish healthy sleep habits.",
       "knowsAbout": ["chair method", "gentle sleep training", "gradual retreat", "sleep consulting"]
     },

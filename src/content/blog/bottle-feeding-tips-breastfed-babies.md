@@ -3,8 +3,9 @@ title: "Introducing a Bottle to a Breastfed Baby: Tips for a Smooth Transition"
 slug: bottle-feeding-tips-breastfed-babies
 description: "Learn when and how to introduce a bottle to your breastfed baby. Expert tips on paced bottle feeding, choosing the right bottle and nipple, overcoming bottle refusal, and maintaining your milk supply."
 publishDate: 2026-03-12
+lastReviewed: 2026-04-23
 category: feeding
-author: "Hannah Lewis"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/3845459/pexels-photo-3845459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["bottle feeding", "breastfeeding", "paced bottle feeding", "bottle refusal", "expressed milk", "breastfed baby", "combination feeding"]
 ---

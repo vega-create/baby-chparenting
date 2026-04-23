@@ -2,11 +2,12 @@
 title: "Baby Sleep Training Methods: Complete Comparison Guide"
 description: "Compare all baby sleep training methods including Ferber, CIO, Chair, Pick Up Put Down, and gentle no-cry approaches. Find the best method for your family."
 publishDate: 2026-04-02
+lastReviewed: 2026-04-23
 slug: "baby-sleep-training-methods"
 category: "sleep"
 tags: ["sleep training", "Ferber method", "cry it out", "gentle sleep training", "baby sleep methods"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/6392892/pexels-photo-6392892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -205,7 +206,7 @@ Absolutely. Sleep training and breastfeeding are not mutually exclusive. You can
       "datePublished": "2026-04-02T00:00:00Z",
       "dateModified": "2026-04-02T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -227,10 +228,10 @@ Absolutely. Sleep training and breastfeeding are not mutually exclusive. You can
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
       "jobTitle": "Certified Pediatric Sleep Consultant",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant helping families establish healthy sleep habits.",
       "knowsAbout": ["baby sleep", "sleep training", "newborn sleep", "sleep consulting"]
     },

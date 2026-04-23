@@ -6,37 +6,45 @@ import { getCollection } from "astro:content";
 
 const AUTHOR_DATA: Record<
   string,
-  { name: string; title: string; bio: string; avatar: string }
+  {
+    name: string;
+    title: string;
+    bioShort: string;
+    bioFull: string;
+    avatar: string;
+    linkedin: string;
+    email: string;
+  }
 > = {
-  "jessica-park": {
-    name: "Jessica Park",
-    title: "Certified Pediatric Sleep Consultant",
-    bio: "Jessica is a certified pediatric sleep consultant (CPSM) and mother of two. She has helped over 500 families establish healthy sleep habits through evidence-based techniques. Her guides draw from AAP safe sleep guidelines and the latest sleep science research. Jessica believes every family deserves restful nights and clear, judgment-free guidance.",
-    avatar:
-      "https://api.dicebear.com/9.x/lorelei/svg?seed=JessicaP&backgroundColor=dbeafe&radius=50",
-  },
-  "dr-michael-torres": {
-    name: "Dr. Michael Torres",
-    title: "Board-Certified Pediatrician, Medical Reviewer",
-    bio: "Dr. Torres is a board-certified pediatrician with 12 years of experience in infant and toddler care at a leading children's hospital. He serves as the medical reviewer for Baby Care Guide, ensuring all content reflects current AAP guidelines and evidence-based pediatric practice. He is passionate about helping parents navigate the first years with confidence.",
-    avatar:
-      "https://api.dicebear.com/9.x/lorelei/svg?seed=MichaelT&backgroundColor=dbeafe&radius=50",
-  },
-  "hannah-lewis": {
-    name: "Hannah Lewis",
-    title: "Certified Lactation Consultant & Baby Nutrition Writer",
-    bio: "Hannah is a certified lactation consultant (IBCLC) and baby nutrition writer with a Master's degree in Public Health Nutrition. She helps new parents navigate breastfeeding challenges and infant feeding transitions with practical, research-backed advice. When she's not writing, she's counseling new mothers at her local lactation clinic.",
-    avatar:
-      "https://api.dicebear.com/9.x/lorelei/svg?seed=HannahL&backgroundColor=dbeafe&radius=50",
+  "vega-lin": {
+    name: "Vega Lin",
+    title: "Founder & Editor — Mother of 2",
+    bioShort:
+      "Vega Lin is a mother of two in Taiwan, raising a fourth grader and a first grader. She writes Baby Care Guide from the intersection of evidence-based research and real parenting experience.",
+    bioFull: `I'm a mother of two in Taiwan — a 10-year-old daughter and a 6-year-old son who's starting first grade this year. Baby Care Guide exists because I remember exactly how it felt to be sleep-deprived at 3am, Googling why my baby only naps 30 minutes, why BLW felt terrifying, which carrier actually works for a newborn.
+
+Every article on this site is built from two sources: evidence-based research (I cite the American Academy of Pediatrics, CDC, WHO, and peer-reviewed studies extensively), and real parenting — the messy, unglamorous, trial-and-error kind that you actually go through.
+
+**My background:**
+- Mother of two, raising kids in Taiwan since 2015
+- Currently completing my Master's in Digital Innovation at Tunghai University
+- 8+ years running digital marketing campaigns for international clients
+- Former English language teacher with Japanese language studies background
+- Founder of AiMommyWisdom, helping moms leverage AI across multiple life roles
+
+**Why this site has no sponsored content:**
+Baby Care Guide runs on display ads only (Google AdSense). I don't accept paid placements, sponsored posts, or pay-for-review gear recommendations. When I recommend a product, it's because the research supports it or I've personally tested it with my own children.
+
+**When I'm wrong:**
+Parenting advice evolves. AAP guidelines update. Research improves. If you spot something outdated or incorrect, please email me — I update articles with a "Last reviewed" date so readers can see what's current.`,
+    avatar: "/images/authors/vega-lin.jpg",
+    linkedin: "https://www.linkedin.com/in/vega-lin-646926202/",
+    email: "hello@chparenting.com",
   },
 };
 
 export async function getStaticPaths() {
-  const authorKeys = ["jessica-park", "dr-michael-torres", "hannah-lewis"];
-  return authorKeys.map((slug) => ({
-    params: { slug },
-    props: { slug },
-  }));
+  return [{ params: { slug: "vega-lin" }, props: { slug: "vega-lin" } }];
 }
 
 const { slug } = Astro.props;
@@ -45,21 +53,42 @@ const author = AUTHOR_DATA[slug];
 if (!author) return Astro.redirect("/blog/");
 
 const now = new Date();
-const allPosts = await getCollection("blog", ({ data }) => !data.draft && data.publishDate <= now);
-const authorPosts = allPosts
-  .filter((p) => {
-    const pSlug = p.data.author
-      ?.toLowerCase()
-      .replace(/[^a-z0-9]+/g, "-")
-      .replace(/(^-|-$)/g, "");
-    return pSlug === slug;
-  })
-  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+const allPosts = await getCollection(
+  "blog",
+  ({ data }) => !data.draft && data.publishDate <= now,
+);
+const authorPosts = allPosts.sort(
+  (a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime(),
+);
+
+const siteUrl = "https://baby.chparenting.com";
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  name: author.name,
+  url: `${siteUrl}/author/${slug}/`,
+  image: `${siteUrl}${author.avatar}`,
+  description: author.bioShort,
+  jobTitle: "Founder & Editor",
+  worksFor: {
+    "@type": "Organization",
+    name: "Baby Care Guide",
+    url: siteUrl,
+  },
+  alumniOf: {
+    "@type": "CollegeOrUniversity",
+    name: "Tunghai University",
+  },
+  sameAs: [
+    "https://pregnancy.chparenting.com/author/vega-lin/",
+    author.linkedin,
+  ],
+};
 ---
 
 <BaseLayout
   title={`${author.name} — Baby Care Guide`}
-  description={author.bio.slice(0, 155)}
+  description={author.bioShort.slice(0, 155)}
 >
   <section class="max-w-4xl mx-auto px-4 py-10">
     <Breadcrumb
@@ -74,33 +103,128 @@ const authorPosts = allPosts
       <img
         src={author.avatar}
         alt={author.name}
-        class="w-24 h-24 rounded-full object-cover shrink-0"
+        class="w-32 h-32 rounded-full object-cover shrink-0"
         loading="eager"
       />
       <div>
         <h1 class="text-3xl mb-1">{author.name}</h1>
         <p class="text-sm text-[#3B82F6] font-medium mb-3">{author.title}</p>
-        <p class="text-[#1E293B] leading-relaxed">{author.bio}</p>
+        <p class="text-[#1E293B] leading-relaxed mb-4">{author.bioShort}</p>
+        <div class="flex flex-wrap gap-3 text-sm">
+          <a
+            href={author.linkedin}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-[#3B82F6] hover:underline">LinkedIn</a
+          >
+          <span class="text-[#9CA3AF]">·</span>
+          <a
+            href={`mailto:${author.email}`}
+            class="text-[#3B82F6] hover:underline">{author.email}</a
+          >
+        </div>
       </div>
     </div>
 
+    <div class="card mb-10">
+      <h2 class="mb-4">About Vega</h2>
+      <div class="prose max-w-none text-[#1E293B] leading-relaxed whitespace-pre-line">
+        {author.bioFull}
+      </div>
+    </div>
+
+    <div class="card mb-10">
+      <h2 class="mb-4">Sources I reference</h2>
+      <ul class="space-y-2 text-[#1E293B]">
+        <li>
+          <a
+            href="https://www.aap.org"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-[#3B82F6] hover:underline"
+            >American Academy of Pediatrics (AAP)</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://www.cdc.gov"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-[#3B82F6] hover:underline"
+            >Centers for Disease Control (CDC)</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://www.who.int"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-[#3B82F6] hover:underline"
+            >World Health Organization (WHO)</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://www.nih.gov"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-[#3B82F6] hover:underline"
+            >National Institutes of Health (NIH)</a
+          >
+        </li>
+      </ul>
+    </div>
+
+    <div class="card mb-10">
+      <h2 class="mb-4">Editorial policy</h2>
+      <p class="text-[#1E293B] leading-relaxed">
+        All articles on this site are written by Vega Lin and reviewed against
+        current evidence from the sources above. Each article displays a "Last
+        reviewed" date. No sponsored content, no paid placements, no
+        pay-for-review gear recommendations.
+      </p>
+    </div>
+
+    <div class="card mb-10 bg-gradient-to-br from-pink-50 to-blue-50">
+      <h2 class="mb-2">Expecting a baby?</h2>
+      <p class="text-[#1E293B] mb-3">
+        Visit my sister site for week-by-week pregnancy tracking and
+        evidence-based articles for the earlier journey.
+      </p>
+      <a
+        href="https://pregnancy.chparenting.com"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="text-[#BE185D] font-medium hover:underline"
+        >Pregnancy Guide →</a
+      >
+    </div>
+
     <h2 class="mb-6">Articles by {author.name}</h2>
-    {authorPosts.length > 0 ? (
-      <div class="grid gap-6 md:grid-cols-2">
-        {authorPosts.map((post) => (
-          <ArticleCard
-            title={post.data.title}
-            description={post.data.description || ""}
-            category={post.data.category || ""}
-            href={`/blog/${post.data.slug}/`}
-            image={post.data.image}
-          />
-        ))}
-      </div>
-    ) : (
-      <div class="card text-center py-10">
-        <p class="text-[#9CA3AF]">No articles yet. Check back soon!</p>
-      </div>
-    )}
+    {
+      authorPosts.length > 0 ? (
+        <div class="grid gap-6 md:grid-cols-2">
+          {authorPosts.map((post) => (
+            <ArticleCard
+              title={post.data.title}
+              description={post.data.description || ""}
+              category={post.data.category || ""}
+              href={`/blog/${post.data.slug}/`}
+              image={post.data.image}
+            />
+          ))}
+        </div>
+      ) : (
+        <div class="card text-center py-10">
+          <p class="text-[#9CA3AF]">No articles yet. Check back soon!</p>
+        </div>
+      )
+    }
   </section>
+
+  <script
+    type="application/ld+json"
+    set:html={JSON.stringify(personSchema)}
+    is:inline
+  />
 </BaseLayout>

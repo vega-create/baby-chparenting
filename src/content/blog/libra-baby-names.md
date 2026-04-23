@@ -2,11 +2,12 @@
 title: "50 Best Libra Baby Names: Harmonious Names for Your Little Scale (September 23 – October 22)"
 description: "Discover 50 beautiful Libra baby names inspired by balance, harmony, justice, and beauty. Perfect names for babies born under the sign of the Scales, ruled by Venus."
 publishDate: 2026-04-30
+lastReviewed: 2026-04-23
 slug: "libra-baby-names"
 category: "names"
 tags: ["Libra baby names", "zodiac baby names", "baby names meaning balance", "baby names meaning harmony", "Venus names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/1274260/pexels-photo-1274260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -189,7 +190,7 @@ Libra is an air sign, which is associated with intellect, communication, and soc
       "datePublished": "2026-05-05T00:00:00Z",
       "dateModified": "2026-05-05T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -211,9 +212,9 @@ Libra is an air sign, which is associated with intellect, communication, and soc
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

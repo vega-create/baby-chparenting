@@ -2,11 +2,12 @@
 title: "50 Best Virgo Baby Names: Elegant Names for Your Little Maiden (August 23 – September 22)"
 description: "Discover 50 elegant Virgo baby names for boys and girls inspired by wisdom, earth, and purity. Find the perfect name for your August or September baby born under the maiden."
 publishDate: 2026-05-07
+lastReviewed: 2026-04-23
 slug: "virgo-baby-names"
 category: "names"
 tags: ["baby names", "virgo baby names", "zodiac names", "earth names", "elegant baby names", "august baby names", "september baby names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/16880958/pexels-photo-16880958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -164,7 +165,7 @@ Virgo loves timeless elegance, making classic names a perfect match. For boys, F
       "datePublished": "2026-05-02T00:00:00Z",
       "dateModified": "2026-05-02T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -186,9 +187,9 @@ Virgo loves timeless elegance, making classic names a perfect match. For boys, F
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Baby name expert and astrology enthusiast helping parents find names with cosmic meaning."
     },
     {

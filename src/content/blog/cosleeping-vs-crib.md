@@ -2,11 +2,12 @@
 title: "Co-Sleeping vs Crib: Safety Guidelines & How to Decide"
 description: "Co-sleeping vs crib sleeping: AAP safety guidelines, safe co-sleeping practices, room-sharing vs bed-sharing risks, and how to decide what's right for your family."
 publishDate: 2026-04-16
+lastReviewed: 2026-04-23
 slug: "cosleeping-vs-crib"
 category: "sleep"
 tags: ["co-sleeping", "crib sleeping", "bed-sharing", "room-sharing", "safe sleep", "AAP guidelines"]
-author: "Dr. Michael Torres"
-authorUrl: "https://baby.chparenting.com/author/dr-michael-torres/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/2253894/pexels-photo-2253894.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---
@@ -175,7 +176,7 @@ Yes. A bedside bassinet or sidecar-style co-sleeper keeps baby on their own firm
       "description": "Co-sleeping vs crib sleeping: AAP safety guidelines, safe co-sleeping practices, room-sharing vs bed-sharing risks, and how to decide what's right for your family.",
       "datePublished": "2026-04-16T00:00:00Z",
       "dateModified": "2026-04-16T00:00:00Z",
-      "author": {"@id": "https://baby.chparenting.com/author/dr-michael-torres/#person"},
+      "author": {"@id": "https://baby.chparenting.com/author/vega-lin/#person"},
       "publisher": {"@id": "https://baby.chparenting.com/#organization"},
       "image": {"@type": "ImageObject", "url": "https://images.pexels.com/photos/2253894/pexels-photo-2253894.jpeg?auto=compress&cs=tinysrgb&w=1200", "width": 1200, "height": 630},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/cosleeping-vs-crib/"},
@@ -186,10 +187,10 @@ Yes. A bedside bassinet or sidecar-style co-sleeper keeps baby on their own firm
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/dr-michael-torres/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Dr. Michael Torres",
       "jobTitle": "Board-Certified Pediatrician",
-      "url": "https://baby.chparenting.com/author/dr-michael-torres/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Board-certified pediatrician specializing in infant development and sleep medicine.",
       "knowsAbout": ["pediatrics", "safe sleep", "co-sleeping", "SIDS prevention"]
     },

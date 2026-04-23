@@ -2,11 +2,12 @@
 title: "40 Baby Names That Mean Warrior or Fighter"
 description: "Discover 40 fierce baby names that mean warrior or fighter for boys, girls, and unisex options. Explore battle-ready names with origins, meanings, and trending picks."
 publishDate: 2026-04-21
+lastReviewed: 2026-04-23
 slug: "names-meaning-warrior"
 category: "names"
 tags: ["baby names", "names meaning warrior", "fighter baby names", "fierce names", "boy names", "girl names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/9423868/pexels-photo-9423868.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -116,7 +117,7 @@ Absolutely. Warrior names are not about violence — they are about strength, re
       "datePublished": "2026-05-18T00:00:00Z",
       "dateModified": "2026-05-18T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -138,9 +139,9 @@ Absolutely. Warrior names are not about violence — they are about strength, re
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name researcher helping families find meaningful names."
     },
     {

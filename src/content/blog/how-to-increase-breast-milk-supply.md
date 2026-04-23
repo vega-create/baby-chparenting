@@ -3,8 +3,9 @@ title: "How to Increase Breast Milk Supply: 12 Evidence-Based Tips"
 slug: how-to-increase-breast-milk-supply
 description: "Struggling with low milk supply? Learn 12 evidence-based strategies to boost breast milk production, including frequent nursing, power pumping, nutrition, galactagogues, and when to seek professional help."
 publishDate: 2026-04-17
+lastReviewed: 2026-04-23
 category: feeding
-author: "Dr. Michael Torres"
+author: "Vega Lin"
 image: "https://images.pexels.com/photos/3845750/pexels-photo-3845750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 tags: ["breast milk supply", "breastfeeding", "pumping", "lactation", "low milk supply", "power pumping"]
 ---

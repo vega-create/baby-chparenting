@@ -3,8 +3,9 @@ title: "Baby Social and Emotional Development: Building Bonds from Birth"
 slug: baby-social-emotional-development
 description: "Discover how babies develop social and emotional skills from birth through age 2, including attachment, temperament, empathy, and how responsive parenting shapes your child's emotional world."
 publishDate: 2026-03-28
+lastReviewed: 2026-04-23
 category: development
-author: "Dr. Michael Torres"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/3875131/pexels-photo-3875131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["social development", "emotional development", "attachment theory", "baby bonding", "temperament", "responsive parenting", "infant emotions", "secure attachment"]
 ---

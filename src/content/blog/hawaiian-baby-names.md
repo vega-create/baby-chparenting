@@ -2,11 +2,12 @@
 title: "40 Hawaiian Baby Names: Island-Inspired"
 description: "Discover 40 beautiful Hawaiian baby names with meanings, pronunciation guides, and insights into Hawaii's unique island naming traditions and culture."
 publishDate: 2026-05-23
+lastReviewed: 2026-04-23
 slug: "hawaiian-baby-names"
 category: "names"
 tags: ["Hawaiian names", "baby names", "Hawaiian baby names", "Polynesian names", "island names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/4612304/pexels-photo-4612304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -119,7 +120,7 @@ Hawaiian names have their flowing, musical quality because the Hawaiian language
       "datePublished": "2026-06-05T00:00:00Z",
       "dateModified": "2026-06-05T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -141,9 +142,9 @@ Hawaiian names have their flowing, musical quality because the Hawaiian language
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

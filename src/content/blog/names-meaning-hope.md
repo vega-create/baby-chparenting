@@ -2,11 +2,12 @@
 title: "40 Baby Names That Mean Hope and Joy"
 description: "Discover 40 uplifting baby names that mean hope and joy for boys, girls, and unisex options. Find optimistic names with origins, meanings, and trending picks."
 publishDate: 2026-04-23
+lastReviewed: 2026-04-23
 slug: "names-meaning-hope"
 category: "names"
 tags: ["baby names", "names meaning hope", "joyful baby names", "hopeful names", "boy names", "girl names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/30435352/pexels-photo-30435352.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -116,7 +117,7 @@ Asher is a Hebrew name meaning happy, blessed, and fortunate that has soared in 
       "datePublished": "2026-05-11T00:00:00Z",
       "dateModified": "2026-05-11T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -138,9 +139,9 @@ Asher is a Hebrew name meaning happy, blessed, and fortunate that has soared in 
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name enthusiast exploring meaningful names from around the world."
     },
     {

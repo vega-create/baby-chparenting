@@ -2,11 +2,12 @@
 title: "50 Nature-Inspired Baby Names"
 description: "Discover 50 beautiful nature-inspired baby names for boys, girls, and unisex options. Explore earthy, botanical, and elemental names with origins and full meanings."
 publishDate: 2026-04-22
+lastReviewed: 2026-04-23
 slug: "names-meaning-nature"
 category: "names"
 tags: ["baby names", "nature baby names", "earthy names", "botanical names", "boy names", "girl names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/34572610/pexels-photo-34572610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -126,7 +127,7 @@ Alder, named after the riverside tree, is a distinctive choice for boys. Azalea,
       "datePublished": "2026-05-15T00:00:00Z",
       "dateModified": "2026-05-15T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -148,9 +149,9 @@ Alder, named after the riverside tree, is a distinctive choice for boys. Azalea,
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name enthusiast exploring meaningful names from around the world."
     },
     {

@@ -2,8 +2,9 @@
 title: "Baby Language Development: From First Coos to First Words"
 slug: baby-language-development-timeline
 description: "A complete guide to baby language development from birth to 24 months, covering milestones for cooing, babbling, first words, and early sentences, plus tips to encourage language growth and signs of speech delay."
-author: "Dr. Michael Torres"
+author: "Vega Lin"
 publishDate: 2026-03-18
+lastReviewed: 2026-04-23
 category: "development"
 image: "https://images.pexels.com/photos/3662770/pexels-photo-3662770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 tags: ["baby language development", "speech milestones", "baby first words", "speech delay", "babbling", "language skills", "bilingual baby", "toddler speech"]

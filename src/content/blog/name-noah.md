@@ -2,11 +2,12 @@
 title: "All About the Name Noah: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Noah. Explore famous Noahs, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-18
+lastReviewed: 2026-04-23
 slug: "name-noah"
 category: "names"
 tags: ["baby name Noah", "Noah meaning", "Noah origin", "boy names", "popular baby names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/7973585/pexels-photo-7973585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -184,7 +185,7 @@ Strong middle name options for Noah include James, Alexander, Benjamin, William,
       "datePublished": "2026-04-21T00:00:00Z",
       "dateModified": "2026-04-21T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -206,9 +207,9 @@ Strong middle name options for Noah include James, Alexander, Benjamin, William,
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Certified pediatric sleep consultant and parenting writer helping families thrive.",
       "knowsAbout": ["baby names", "parenting", "baby sleep"]
     },

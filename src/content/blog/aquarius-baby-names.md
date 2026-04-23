@@ -2,11 +2,12 @@
 title: "50 Best Aquarius Baby Names: Unique Names for Your Little Water Bearer (January 20 – February 18)"
 description: "Discover 50 unique Aquarius baby names inspired by innovation, independence, and humanitarianism. Perfect names for babies born under the sign of the Water Bearer, ruled by Uranus."
 publishDate: 2026-05-04
+lastReviewed: 2026-04-23
 slug: "aquarius-baby-names"
 category: "names"
 tags: ["Aquarius baby names", "zodiac baby names", "baby names meaning unique", "baby names meaning freedom", "Uranus names"]
-author: "Dr. Michael Torres"
-authorUrl: "https://baby.chparenting.com/author/dr-michael-torres/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/93767/pexels-photo-93767.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -193,7 +194,7 @@ Balance uniqueness with usability. Consider names that are uncommon but still re
       "datePublished": "2026-05-17T00:00:00Z",
       "dateModified": "2026-05-17T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/dr-michael-torres/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -215,9 +216,9 @@ Balance uniqueness with usability. Consider names that are uncommon but still re
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/dr-michael-torres/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Dr. Michael Torres",
-      "url": "https://baby.chparenting.com/author/dr-michael-torres/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

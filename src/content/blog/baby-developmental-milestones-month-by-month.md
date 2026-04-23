@@ -2,8 +2,9 @@
 title: "Baby Developmental Milestones: A Month-by-Month Guide (0-12 Months)"
 slug: baby-developmental-milestones-month-by-month
 description: "A comprehensive month-by-month guide to baby developmental milestones from birth to 12 months, covering gross motor, fine motor, cognitive, social-emotional, and language development with updated CDC checklists."
-author: "Dr. Michael Torres"
+author: "Vega Lin"
 publishDate: 2026-03-05
+lastReviewed: 2026-04-23
 category: "development"
 image: "https://images.pexels.com/photos/3875089/pexels-photo-3875089.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 tags: ["baby milestones", "infant development", "month-by-month development", "CDC milestones", "baby growth", "developmental delays", "pediatric development"]

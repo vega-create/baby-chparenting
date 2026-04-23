@@ -2,11 +2,12 @@
 title: "40 Baby Names That Mean Wise or Wisdom"
 description: "Explore 40 intelligent baby names that mean wise or wisdom for boys, girls, and unisex options. Discover sage names with origins, meanings, and trending picks."
 publishDate: 2026-04-20
+lastReviewed: 2026-04-23
 slug: "names-meaning-wisdom"
 category: "names"
 tags: ["baby names", "names meaning wisdom", "wise baby names", "intelligent names", "boy names", "girl names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/6393169/pexels-photo-6393169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -116,7 +117,7 @@ Veda is a Sanskrit name meaning sacred wisdom and truth. Solon comes from the na
       "datePublished": "2026-05-14T00:00:00Z",
       "dateModified": "2026-05-14T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -138,9 +139,9 @@ Veda is a Sanskrit name meaning sacred wisdom and truth. Solon comes from the na
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name researcher helping families find meaningful names."
     },
     {

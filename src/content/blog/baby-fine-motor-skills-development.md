@@ -2,8 +2,9 @@
 title: "Baby Fine Motor Skills: Development Stages and Activities by Age"
 slug: baby-fine-motor-skills-development
 description: "A comprehensive guide to baby fine motor skill development from birth to 24 months, including grasp development stages, age-appropriate activities, recommended toys, and when to be concerned about fine motor delays."
-author: "Hannah Lewis"
+author: "Vega Lin"
 publishDate: 2026-03-25
+lastReviewed: 2026-04-23
 category: "development"
 image: "https://images.pexels.com/photos/7269573/pexels-photo-7269573.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 tags: ["fine motor skills", "baby development", "pincer grasp", "baby activities", "hand-eye coordination", "toddler development", "developmental toys", "infant milestones"]

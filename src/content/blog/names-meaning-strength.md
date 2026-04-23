@@ -2,11 +2,12 @@
 title: "50 Baby Names That Mean Strength"
 description: "Discover 50 powerful baby names that mean strength for boys, girls, and unisex options. Find strong name origins, meanings, and trending picks for your little one."
 publishDate: 2026-04-15
+lastReviewed: 2026-04-23
 slug: "names-meaning-strength"
 category: "names"
 tags: ["baby names", "names meaning strength", "strong baby names", "powerful names", "boy names", "girl names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/15961901/pexels-photo-15961901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -126,7 +127,7 @@ Absolutely. Kenzo comes from Japanese and means strong and healthy. Kali has San
       "datePublished": "2026-05-08T00:00:00Z",
       "dateModified": "2026-05-08T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -148,9 +149,9 @@ Absolutely. Kenzo comes from Japanese and means strong and healthy. Kali has San
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name researcher helping families find meaningful names."
     },
     {

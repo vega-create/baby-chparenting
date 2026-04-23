@@ -2,11 +2,12 @@
 title: "45 Baby Names That Mean Love"
 description: "Explore 45 romantic baby names that mean love for boys, girls, and unisex options. Discover loving names from every culture with origins, meanings, and trending picks."
 publishDate: 2026-04-15
+lastReviewed: 2026-04-23
 slug: "names-meaning-love"
 category: "names"
 tags: ["baby names", "names meaning love", "romantic baby names", "loving names", "boy names", "girl names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3995912/pexels-photo-3995912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -121,7 +122,7 @@ Agape is a Greek name meaning unconditional or divine love, representing the hig
       "datePublished": "2026-05-13T00:00:00Z",
       "dateModified": "2026-05-13T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -143,9 +144,9 @@ Agape is a Greek name meaning unconditional or divine love, representing the hig
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name enthusiast exploring meaningful names from around the world."
     },
     {

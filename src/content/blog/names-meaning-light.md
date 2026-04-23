@@ -2,11 +2,12 @@
 title: "40 Baby Names That Mean Light"
 description: "Explore 40 radiant baby names that mean light for boys, girls, and unisex choices. Discover luminous names from every culture with origins and full meanings."
 publishDate: 2026-04-16
+lastReviewed: 2026-04-23
 slug: "names-meaning-light"
 category: "names"
 tags: ["baby names", "names meaning light", "luminous baby names", "bright names", "boy names", "girl names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/29924768/pexels-photo-29924768.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -116,7 +117,7 @@ For parents seeking rarer options, Hikari is a beautiful Japanese name meaning r
       "datePublished": "2026-05-09T00:00:00Z",
       "dateModified": "2026-05-09T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -138,9 +139,9 @@ For parents seeking rarer options, Hikari is a beautiful Japanese name meaning r
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name enthusiast exploring meaningful names from around the world."
     },
     {

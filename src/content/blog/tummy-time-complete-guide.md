@@ -3,8 +3,9 @@ title: "Tummy Time: The Complete Guide for Every Age and Stage"
 slug: tummy-time-complete-guide
 description: "Everything you need to know about tummy time -- why it matters, when to start, how much your baby needs, positions for every age, and tips for babies who hate it."
 publishDate: 2026-04-05
+lastReviewed: 2026-04-23
 category: development
-author: "Jessica Park"
+author: "Vega Lin"
 image: https://images.pexels.com/photos/3661335/pexels-photo-3661335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750
 tags: ["tummy time", "baby development", "motor development", "flat head prevention", "baby exercises", "newborn care", "infant milestones", "physical development"]
 ---

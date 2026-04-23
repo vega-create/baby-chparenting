@@ -2,11 +2,12 @@
 title: "35 Baby Names That Mean Grace or Beautiful"
 description: "Browse 35 elegant baby names that mean grace or beautiful for boys, girls, and unisex options. Discover graceful names with origins, meanings, and trending picks."
 publishDate: 2026-04-17
+lastReviewed: 2026-04-23
 slug: "names-meaning-grace"
 category: "names"
 tags: ["baby names", "names meaning grace", "beautiful baby names", "elegant names", "boy names", "girl names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/6224242/pexels-photo-6224242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -111,7 +112,7 @@ Amari, meaning eternal and beautiful, works beautifully for any gender. Rumi, a 
       "datePublished": "2026-05-17T00:00:00Z",
       "dateModified": "2026-05-17T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -133,9 +134,9 @@ Amari, meaning eternal and beautiful, works beautifully for any gender. Rumi, a 
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name enthusiast exploring meaningful names from around the world."
     },
     {

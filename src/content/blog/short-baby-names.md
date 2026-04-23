@@ -2,11 +2,12 @@
 title: "60 Beautiful Short Baby Names: 4 Letters or Less"
 description: "Discover 60 gorgeous short baby names with 4 letters or fewer. Explore powerful one- and two-syllable names for boys and girls with meanings and origins."
 publishDate: 2026-04-09
+lastReviewed: 2026-04-23
 slug: "short-baby-names"
 category: "names"
 tags: ["short baby names", "baby names", "one-syllable names", "four-letter names", "short names for boys", "short names for girls"]
-author: "Dr. Michael Torres"
-authorUrl: "https://baby.chparenting.com/author/dr-michael-torres/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/325690/pexels-photo-325690.jpeg?auto=compress&cs=tinysrgb&w=1200"
 draft: false
 ---

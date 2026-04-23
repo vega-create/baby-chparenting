@@ -2,11 +2,12 @@
 title: "All About the Name Charlotte: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Charlotte. Explore famous Charlottes, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-20
+lastReviewed: 2026-04-23
 slug: "name-charlotte"
 category: "names"
 tags: ["baby name Charlotte", "Charlotte meaning", "Charlotte origin", "girl names", "popular baby names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/28680598/pexels-photo-28680598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -184,7 +185,7 @@ Charlotte currently ranks in the top 5 girl names in the United States. It has b
       "datePublished": "2026-04-22T00:00:00Z",
       "dateModified": "2026-04-22T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -206,9 +207,9 @@ Charlotte currently ranks in the top 5 girl names in the United States. It has b
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
       "description": "Parenting writer and baby name researcher helping families find the perfect name.",
       "knowsAbout": ["baby names", "name origins", "parenting"]
     },

@@ -2,11 +2,12 @@
 title: "40 Korean Baby Names with Meanings"
 description: "Discover 40 beautiful Korean baby names for boys and girls with meanings, pronunciation guides, and insights into Korea's unique naming traditions."
 publishDate: 2026-05-22
+lastReviewed: 2026-04-23
 slug: "korean-baby-names"
 category: "names"
 tags: ["Korean names", "baby names", "Korean baby names", "Hangul names", "Asian names"]
-author: "Jessica Park"
-authorUrl: "https://baby.chparenting.com/author/jessica-park/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/4513218/pexels-photo-4513218.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -119,7 +120,7 @@ Yes, since the 1990s Korean law has allowed given names to be written purely in 
       "datePublished": "2026-06-04T00:00:00Z",
       "dateModified": "2026-06-04T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/jessica-park/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -141,9 +142,9 @@ Yes, since the 1990s Korean law has allowed given names to be written purely in 
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/jessica-park/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/jessica-park/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",

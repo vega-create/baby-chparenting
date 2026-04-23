@@ -2,11 +2,12 @@
 title: "50 Elegant French Baby Names"
 description: "Discover 50 elegant French baby names for boys and girls with meanings, pronunciation guides, and a look at France's sophisticated naming traditions."
 publishDate: 2026-05-12
+lastReviewed: 2026-04-23
 slug: "french-baby-names"
 category: "names"
 tags: ["French names", "baby names", "French baby names", "Parisian names", "European names"]
-author: "Hannah Lewis"
-authorUrl: "https://baby.chparenting.com/author/hannah-lewis/"
+author: "Vega Lin"
+authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/32890736/pexels-photo-32890736.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
@@ -129,7 +130,7 @@ Many names exist in both French and English forms with subtle differences. Guill
       "datePublished": "2026-05-28T00:00:00Z",
       "dateModified": "2026-05-28T00:00:00Z",
       "author": {
-        "@id": "https://baby.chparenting.com/author/hannah-lewis/#person"
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
       "publisher": {
         "@id": "https://baby.chparenting.com/#organization"
@@ -151,9 +152,9 @@ Many names exist in both French and English forms with subtle differences. Guill
     },
     {
       "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/hannah-lewis/#person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
       "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/hannah-lewis/"
+      "url": "https://baby.chparenting.com/author/vega-lin/"
     },
     {
       "@type": "Organization",
