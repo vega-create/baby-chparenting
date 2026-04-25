@@ -17,6 +17,24 @@ interface Props {
 
 const { title, description, image, canonical, type, publishDate, author } =
   Astro.props;
+
+const ga4Id: string = siteConfig.analytics.ga4 || "";
+const pixelId: string = siteConfig.analytics.metaPixel || "";
+
+const ga4Script =
+  "window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','" +
+  ga4Id +
+  "');";
+
+const pixelScript =
+  "!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','" +
+  pixelId +
+  "');fbq('track','PageView');";
+
+const pixelNoscript =
+  '<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=' +
+  pixelId +
+  '&ev=PageView&noscript=1" />';
 ---
 
 <!doctype html>
@@ -41,33 +59,10 @@ const { title, description, image, canonical, type, publishDate, author } =
       publishDate={publishDate}
       author={author}
     />
-    {
-      siteConfig.analytics.ga4 && (
-        <>
-          <script
-            async
-            src={`https://www.googletagmanager.com/gtag/js?id=${siteConfig.analytics.ga4}`}
-          />
-          <script
-            is:inline
-            set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','${siteConfig.analytics.ga4}');`}
-          />
-        </>
-      )
-    }
-    {
-      siteConfig.analytics.metaPixel && (
-        <>
-          <script
-            is:inline
-            set:html={`!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','${siteConfig.analytics.metaPixel}');fbq('track','PageView');`}
-          />
-          <noscript
-            set:html={`<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=${siteConfig.analytics.metaPixel}&ev=PageView&noscript=1" />`}
-          />
-        </>
-      )
-    }
+    {ga4Id && <script async src={`https://www.googletagmanager.com/gtag/js?id=${ga4Id}`} />}
+    {ga4Id && <script is:inline set:html={ga4Script} />}
+    {pixelId && <script is:inline set:html={pixelScript} />}
+    {pixelId && <noscript set:html={pixelNoscript} />}
     {
       siteConfig.adsense.enabled && (
         <script
