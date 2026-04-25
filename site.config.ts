@@ -12,6 +12,7 @@ export const siteConfig = {
   },
   analytics: {
     ga4: "G-EEXQ89S184",
+    metaPixel: "1618211680314049",
   },
   adsense: {
     client: "ca-pub-3493526929407874",
