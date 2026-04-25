@@ -11,7 +11,7 @@ export const siteConfig = {
     google: "YOUR_GSC_VERIFICATION_CODE",
   },
   analytics: {
-    ga4: "",
+    ga4: "G-EEXQ89S184",
   },
   adsense: {
     client: "ca-pub-3493526929407874",
