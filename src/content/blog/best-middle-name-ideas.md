@@ -278,6 +278,8 @@ Change the middle name. Initials matter more than most parents realize --- they 
 
 Not at all. Honor names are one of the most enduring and meaningful naming traditions. Using a grandparent's or great-grandparent's name as a middle name connects your child to family history while giving them their own first-name identity. This practice remains extremely popular and is unlikely to ever go out of style.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 1. Social Security Administration. (2025). *Popular Baby Names*. Retrieved from ssa.gov

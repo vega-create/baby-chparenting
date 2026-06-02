@@ -99,6 +99,8 @@ William, Henry, Charles, and Arthur are among the most classic royal boy names, 
 
 Reign is a modern word name that directly evokes royalty. Kingsley combines the word king with a surname-style ending that feels contemporary. Zara was popularized by a British princess and has a modern, energetic feel. Alaric, meaning noble ruler, has an ancient meaning but a fresh, modern sound.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Royal Baby Names." [nameberry.com](https://www.nameberry.com/list/royal-baby-names)

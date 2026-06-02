@@ -222,6 +222,8 @@ Compromise is common. One parent might choose one twin's name while the other pa
 
 Research and anecdotal evidence suggest that twins with very matchy names (rhyming or same-initial) sometimes feel frustrated by the pairing as they grow older and seek individuality. Subtler connections --- like shared meanings or cultural origins --- tend to age better.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 1. Social Security Administration. (2025). *Popular Baby Names*. Retrieved from ssa.gov

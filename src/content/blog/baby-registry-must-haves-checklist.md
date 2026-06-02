@@ -355,6 +355,8 @@ Avoid registering for items that have been deemed unsafe by the CPSC or AAP, inc
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - [Consumer Product Safety Commission (CPSC) - Nursery Product Safety](https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies)

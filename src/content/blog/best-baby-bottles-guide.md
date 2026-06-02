@@ -295,6 +295,8 @@ A dedicated sterilizer is not strictly necessary. Boiling water or the heated dr
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - [American Academy of Pediatrics -- Bottle Feeding Basics](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Bottle-Feeding-How-Its-Done.aspx)

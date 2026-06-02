@@ -215,6 +215,8 @@ Most families taper off naturally between 18 and 30 months as spoken language ta
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Speech-Language-Hearing Association. (2024). [Communication Milestones](https://www.asha.org/public/developmental-milestones/communication-milestones-birth-to-1-year/). ASHA.

@@ -217,6 +217,8 @@ Absolutely. Seasonal names make excellent middle names, adding a personal touch 
 
 Many seasonal names have become mainstream. Rose, Lily, and Holly are classic girl names. August, Hunter, and Rowan are established boy names. Share the name's history and broader usage to show it is not as unusual as it might first seem.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 1. Behind the Name. (2025). *Name Etymology Database*. Retrieved from behindthename.com

@@ -254,6 +254,8 @@ Yes. The trunk control developed in infancy becomes the postural foundation for 
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Centers for Disease Control and Prevention. (2024). [Important Milestones: Your Baby By Six Months](https://www.cdc.gov/ncbddd/actearly/milestones/milestones-6mo.html). CDC.

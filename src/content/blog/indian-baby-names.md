@@ -111,6 +111,8 @@ The Namkaran is the Hindu naming ceremony, one of sixteen samskaras marking impo
 
 Absolutely. Many Indian names are already popular internationally, including Maya, Kiran, Riya, Arjun, and Rohan. When choosing an Indian name for a child growing up in an English-speaking environment, parents often consider ease of pronunciation and spelling. Shorter names with familiar sounds tend to transition most smoothly, but longer traditional names can work beautifully with a familiar nickname for everyday use.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Indian Names." [behindthename.com](https://www.behindthename.com/names/usage/indian)

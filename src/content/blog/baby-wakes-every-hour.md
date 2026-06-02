@@ -132,6 +132,8 @@ Not necessarily. Before 4 months, feeding on demand at night is appropriate. Aft
 
 See your pediatrician if: waking is accompanied by fever, breathing issues, or other symptoms of illness; baby is not gaining weight appropriately; baby seems to be in pain; frequent waking started suddenly with no developmental cause; or behavioral interventions have not improved the situation after 2–3 consistent weeks.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics (2022). "Infant Sleep." [aap.org](https://www.aap.org/en/patient-care/healthy-active-living-for-families/sleep/)

@@ -378,6 +378,8 @@ First, know that it is completely normal and most passengers are understanding. 
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - [TSA - Traveling with Children](https://www.tsa.gov/travel/special-procedures/traveling-children)

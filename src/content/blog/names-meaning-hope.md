@@ -99,6 +99,8 @@ Joy is the most straightforward option and works perfectly as both a first and m
 
 Asher is a Hebrew name meaning happy, blessed, and fortunate that has soared in popularity. Felix is a Latin name meaning happy and lucky with a long history of use. Benedict means blessed in Latin. Isaac means he will laugh in Hebrew, capturing joyful energy in its meaning.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Baby Names Meaning Hope." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-hope)

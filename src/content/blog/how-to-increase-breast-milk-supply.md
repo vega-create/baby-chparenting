@@ -287,6 +287,8 @@ Yes, relactation (restarting breast milk production after it has stopped) is pos
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics. (2022). [Breastfeeding and the Use of Human Milk](https://publications.aap.org/pediatrics/article/150/1/e2022057988/188347/Breastfeeding-and-the-Use-of-Human-Milk). Pediatrics, 150(1).

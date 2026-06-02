@@ -160,6 +160,8 @@ Brief wakings are normal, but a 2-year-old who needs you to fall back asleep at 
 
 Yes. A new baby is a major life change and often triggers or worsens sleep regression. Extra one-on-one time during the day, predictable routines, and validating big feelings help.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics. "Healthy Sleep Habits in Toddlers." [https://www.healthychildren.org/English/healthy-living/sleep/Pages/default.aspx](https://www.healthychildren.org/English/healthy-living/sleep/Pages/default.aspx)

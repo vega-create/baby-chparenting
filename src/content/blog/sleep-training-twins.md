@@ -142,6 +142,8 @@ No. Twins habituate to each other's sounds remarkably quickly — usually within
 
 Absolutely. Spend 1–2 weeks synchronizing their schedules before starting formal sleep training. Wake both at the same time, feed both at the same time, and put both down for naps and bedtime at the same time. Sleep training without synchronized schedules is exponentially harder because you're never done with one before the other needs attention.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics (2022). "Safe Sleep for Twins and Multiples." [aap.org](https://www.aap.org/en/patient-care/safe-sleep/)

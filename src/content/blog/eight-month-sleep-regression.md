@@ -137,6 +137,8 @@ This is one of the most common 8-month sleep struggles. Babies practice new moto
 
 Teething can contribute to disrupted sleep but rarely causes weeks-long regressions on its own. Most 8-month sleep changes are developmental rather than purely from teeth.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Centers for Disease Control and Prevention. "CDC's Developmental Milestones." [https://www.cdc.gov/ncbddd/actearly/milestones/index.html](https://www.cdc.gov/ncbddd/actearly/milestones/index.html)

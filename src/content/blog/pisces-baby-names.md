@@ -187,6 +187,8 @@ The two Fish swimming in opposite directions represent the fundamental duality o
 
 Pisces is widely considered the most artistically gifted sign of the zodiac, thanks to Neptune's influence over imagination, dreams, and creative inspiration. However, every zodiac sign has creative potential expressed differently. Pisces's particular gift lies in emotional expression through art --- their ability to channel deep feelings into music, visual art, writing, and performance. The combination of sensitivity, imagination, and intuition makes Pisces naturally drawn to creative pursuits from a very young age.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Names by Meaning." [behindthename.com](https://www.behindthename.com)

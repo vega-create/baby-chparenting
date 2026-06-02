@@ -99,6 +99,8 @@ Hugo means mind and intellect in German. Alfred means wise counselor in Old Engl
 
 Veda is a Sanskrit name meaning sacred wisdom and truth. Solon comes from the name of the famous wise Athenian lawgiver. Kendry is a Malagasy name meaning wise man that offers a rare and distinctive sound. Minerva, the Roman goddess of wisdom, is an underused gem that carries powerful associations.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Baby Names Meaning Wise." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-wise)

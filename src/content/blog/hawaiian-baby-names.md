@@ -101,6 +101,8 @@ Many Native Hawaiians welcome the use of Hawaiian names by families of all backg
 
 Hawaiian names have their flowing, musical quality because the Hawaiian language uses only 13 letters: the five vowels (A, E, I, O, U) and eight consonants (H, K, L, M, N, P, W, plus the 'okina glottal stop). Every syllable must end in a vowel, and consonant clusters are not allowed. This creates names that are inherently melodic and easy to sing, reflecting the central role of chant and song in Hawaiian culture.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Hawaiian Names." [behindthename.com](https://www.behindthename.com/names/usage/hawaiian)

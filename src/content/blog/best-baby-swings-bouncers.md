@@ -300,6 +300,8 @@ Stop using a bouncer when your baby can sit up unassisted (typically around 5-7 
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - [Consumer Product Safety Commission -- Infant Sleep Products Safety Standard](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Infant-Sleep-Products)

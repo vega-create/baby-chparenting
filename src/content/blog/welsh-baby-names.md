@@ -101,6 +101,8 @@ According to recent statistics from StatsWales, the most popular Welsh-language 
 
 While Welsh, Irish, and Scottish names all have Celtic roots, they come from different branches of the Celtic language family. Welsh is a Brythonic Celtic language (along with Cornish and Breton), while Irish and Scottish Gaelic are Goidelic Celtic languages. This means Welsh names often look and sound quite different from their Irish and Scottish counterparts, even when they share similar meanings. The Welsh alphabet and phonetic system are distinct from Gaelic, giving Welsh names their own unique character.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Welsh Names." [behindthename.com](https://www.behindthename.com/names/usage/welsh)

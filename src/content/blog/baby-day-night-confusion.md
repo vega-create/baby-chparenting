@@ -143,6 +143,8 @@ No — never force a newborn to stay awake for long periods. Overtired babies ac
 
 Typically no. Once a baby's circadian rhythm is established (usually by 8–12 weeks), day-night confusion doesn't return. However, illness, travel across time zones, or major schedule disruptions can temporarily throw off sleep patterns at any age. These disruptions are usually easier to fix than the original day-night confusion.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - National Sleep Foundation (2025). "Newborn Sleep Patterns." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep/newborn-sleep)

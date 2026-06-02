@@ -169,6 +169,8 @@ Lucas currently ranks in the US top 10 for boy names. It is also a top-ranked na
 
 Names with international appeal complement Lucas well. For sisters, consider Emma, Sophia, Mia, or Isla. For brothers, Oliver, Noah, Sebastian, and Felix pair beautifully. Names with Latin or Mediterranean roots create especially cohesive sibling sets.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

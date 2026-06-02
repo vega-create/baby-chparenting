@@ -99,6 +99,8 @@ Yes, several one-syllable or short names mean light. Lux is a Latin name meaning
 
 For parents seeking rarer options, Hikari is a beautiful Japanese name meaning radiance. Niamh, pronounced neev, is an Irish name meaning bright and lustrous. Chiara is an elegant Italian name meaning clear and luminous. Each offers a distinctive sound with a universally appealing meaning.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Baby Names That Mean Light." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-light)

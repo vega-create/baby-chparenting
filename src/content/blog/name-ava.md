@@ -166,6 +166,8 @@ Ava has been a top 5 girl name in the United States for over 15 consecutive year
 
 Ava pairs beautifully with both short names (Emma, Mia, Leo) and longer names (Benjamin, Elizabeth, Alexander). For middle names, longer options like Elizabeth, Josephine, and Catherine add formality that complements Ava's brevity.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

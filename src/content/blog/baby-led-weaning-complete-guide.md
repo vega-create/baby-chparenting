@@ -320,6 +320,8 @@ Yes, this is completely normal, especially in the early weeks. The saying "food 
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Rapley, G., & Murkett, T. (2019). *Baby-Led Weaning: The Essential Guide*. The Experiment Publishing.

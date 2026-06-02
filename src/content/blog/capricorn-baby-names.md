@@ -176,6 +176,8 @@ Saturn is the planet of discipline, time, and responsibility. Its influence give
 
 The Sea-Goat is a mythical creature with the front body of a goat and the tail of a fish. It represents Capricorn's ability to navigate both the material world (the mountain) and the emotional depths (the sea). This dual nature means Capricorn names can draw from both earth and water imagery. Mountain and stone names honor the goat's climbing nature, while names connected to depth and hidden waters acknowledge the fish tail's emotional wisdom.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Names by Meaning." [behindthename.com](https://www.behindthename.com)

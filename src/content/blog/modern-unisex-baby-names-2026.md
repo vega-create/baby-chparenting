@@ -173,6 +173,8 @@ Yes. Many girls today have names like James, Hudson, or Max. The acceptance is g
 
 Some will. Names like Riley and Avery have peaked and may feel "2010s" in twenty years. Slower-rising unisex names (Wren, Marlowe, Briar) may have more longevity.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - U.S. Social Security Administration. "Top Baby Names." [https://www.ssa.gov/oact/babynames/](https://www.ssa.gov/oact/babynames/)

@@ -94,6 +94,8 @@ Orion is a Greek name meaning rising in the sky and refers to one of the most re
 
 Orion, Lyra, Leo, Cassiopeia, and Draco are all names taken directly from constellations. Perseus is both a mythological hero and a constellation. Castor and Pollux are the twin stars of the Gemini constellation. These names carry both astronomical and mythological significance.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Baby Names Meaning Star." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-star)

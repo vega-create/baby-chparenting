@@ -323,6 +323,8 @@ Anchoring furniture to the wall is arguably the most critical safety measure. Ti
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - [American Academy of Pediatrics -- Safe Sleep Recommendations](https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx)

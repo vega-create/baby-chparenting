@@ -169,6 +169,8 @@ The most popular nickname for Oliver is Ollie (or Olly), which has a cheerful, a
 
 Yes, Oliver and Olivia likely share the same Latin root, oliva, meaning "olive tree." However, Olivia was most likely coined by Shakespeare as a feminization for his play Twelfth Night, while Oliver has older, independent medieval origins.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

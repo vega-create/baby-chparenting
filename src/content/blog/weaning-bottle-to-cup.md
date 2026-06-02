@@ -202,6 +202,8 @@ It is not too late, but it will be harder. Most pediatricians recommend a firmer
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics. (2024). [Discontinuing the Bottle](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Discontinuing-the-Bottle.aspx). HealthyChildren.org.

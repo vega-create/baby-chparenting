@@ -163,6 +163,8 @@ This is worth considering carefully. Some names carry associations with specific
 
 Not at all. Vintage first names often pair beautifully with common modern surnames because of their classic structure. The contrast between an old-fashioned first name and a contemporary surname can actually create a particularly appealing combination.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 1. Wattenberg, L. (2023). *The Baby Name Wizard: A Magical Method for Finding the Perfect Name for Your Baby*. Harmony Books.

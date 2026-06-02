@@ -314,6 +314,8 @@ A crib mattress should be very firm. Press your hand into the center and edges; 
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - [CPSC Crib Safety Information](https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies/Cribs)

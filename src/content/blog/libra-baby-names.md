@@ -171,6 +171,8 @@ While there is no scientific evidence that zodiac signs determine personality, a
 
 Libra is an air sign, which is associated with intellect, communication, and social connection. This elemental connection can inspire breezy, light-sounding names or names with meanings tied to wind, sky, and atmosphere. Air sign names often have an ethereal, flowing quality that matches the intellectual and communicative nature of Libra.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Names by Meaning." [behindthename.com](https://www.behindthename.com)

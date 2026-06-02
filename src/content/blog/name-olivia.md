@@ -166,6 +166,8 @@ Popular nicknames for Olivia include Liv, Livvy, Ollie, Via, and Lia. Liv has be
 
 Most name historians believe Shakespeare coined the name Olivia for his comedy Twelfth Night around 1602. While the masculine Oliver and the rare medieval Oliva existed before, the specific form Olivia appears to be his creation, inspired by the Latin word for olive.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

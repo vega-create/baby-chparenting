@@ -157,6 +157,8 @@ Mercury, the ruler of Gemini, governs communication, intellect, and travel. This
 
 Popular Gemini-inspired twin pairs include Aria and Clio (song and glory), Felix and Hugo (happy and mind), Luna and Seren (moon and star), and Orion and Nova (hunter and new star). For boy-girl twins, consider Sage and Wren (wisdom and song) or Caspian and Astrid (sea and star). The best twin pairs share a thematic connection without sounding too matchy.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Gemini Baby Names: Clever Names for May and June Babies." [nameberry.com](https://www.nameberry.com)

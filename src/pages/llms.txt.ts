@@ -35,9 +35,9 @@ export const GET: APIRoute = async () => {
   lines.push(`- [Privacy](${origin}/privacy/)`);
   lines.push('');
 
-  const recent = posts.slice(0, 10);
+  const recent = posts; // include ALL articles for full AI discoverability
   if (recent.length > 0) {
-    lines.push('## Recent Articles');
+    lines.push(`## All Articles (${recent.length})`);
     lines.push('');
     for (const post of recent) {
       const cat = post.data.category ? ` [${post.data.category}]` : '';

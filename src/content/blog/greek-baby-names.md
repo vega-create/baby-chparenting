@@ -106,6 +106,8 @@ Traditionally, the name day is far more important in Greek culture. While birthd
 
 Greek names often have well-established English equivalents that developed over centuries of cultural exchange. Ioannis becomes John, Georgios becomes George, Nikolaos becomes Nicholas, and Aikaterini becomes Catherine. The Greek originals tend to be longer and more melodic, while the English versions are shortened and adapted to English phonetics. Using the Greek form gives a name a more distinctive and culturally specific character.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Greek Names." [behindthename.com](https://www.behindthename.com/names/usage/greek)

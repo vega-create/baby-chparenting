@@ -210,6 +210,8 @@ By 12 months, most babies search for fully hidden objects. If yours does not —
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics. (2024). [Cognitive Development: 8 to 12 Months](https://www.healthychildren.org/English/ages-stages/baby/Pages/Cognitive-Development-8-to-12-Months.aspx). HealthyChildren.org.

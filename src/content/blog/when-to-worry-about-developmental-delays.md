@@ -350,6 +350,8 @@ A delay in a single area (for example, only speech) still qualifies for evaluati
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Centers for Disease Control and Prevention. Learn the Signs. Act Early. [https://www.cdc.gov/ncbddd/actearly/index.html](https://www.cdc.gov/ncbddd/actearly/index.html)

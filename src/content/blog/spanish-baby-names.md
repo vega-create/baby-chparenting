@@ -108,6 +108,8 @@ A nombre compuesto, or compound name, combines two given names into one, such as
 
 Yes, many Spanish-speaking countries have naming regulations, though they vary by nation. Spain requires that names not be offensive or cause confusion about gender, and limits children to two given names. Mexico and several Latin American countries have similar rules, with some maintaining lists of approved names. These laws aim to protect children while still allowing considerable freedom in name selection.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Spanish Names." [behindthename.com](https://www.behindthename.com/names/usage/spanish)

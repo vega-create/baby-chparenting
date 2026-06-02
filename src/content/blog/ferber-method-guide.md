@@ -154,6 +154,8 @@ Absolutely. Dr. Ferber himself states that the specific intervals are guidelines
 
 If your baby wakes before 6:00 AM and it's not time for a scheduled feed, treat it like a nighttime waking and use the check-in schedule. Do not get baby up for the day until your designated wake time (e.g., 6:30 or 7:00 AM). Consistency in morning wake time is essential for setting the circadian rhythm.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Ferber, R. (2006). *Solve Your Child's Sleep Problems*. Simon & Schuster.

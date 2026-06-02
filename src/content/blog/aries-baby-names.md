@@ -146,6 +146,8 @@ Aries belongs to the fire element and is ruled by Mars. This means fire-related 
 
 Zodiac-based names are a meaningful way to honor the time and season of your child's birth. They connect your baby to a rich tradition of astrology and mythology while providing names that carry deep symbolic meaning. An Aries name celebrates your child's natural leadership qualities and fiery spirit, giving them a name that truly reflects who they are destined to become.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Aries Baby Names: Bold Names for March and April Babies." [nameberry.com](https://www.nameberry.com)

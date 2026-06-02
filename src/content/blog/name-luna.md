@@ -163,6 +163,8 @@ Yes, Luna has been used as a name in Spanish-speaking countries for longer than 
 
 Popular middle names for Luna include Rose, Grace, Mae, Marie, and Celeste. Short, classic middle names provide grounding contrast to Luna's dreamy quality, while celestial options like Celeste create a thematic pairing.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

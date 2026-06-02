@@ -163,6 +163,8 @@ It depends on the regression. You can absolutely sleep train during or after the
 
 Sleep regressions are characterized by sudden changes in a previously good sleeper, coinciding with developmental milestones, and lasting 1–4 weeks. If sleep disruption is accompanied by fever, pulling at ears, excessive drooling with gum swelling, or changes in appetite, consult your pediatrician to rule out illness or ear infections.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - National Sleep Foundation (2025). "Sleep Regression in Babies." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep/sleep-regression)

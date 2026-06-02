@@ -404,6 +404,8 @@ The popular "Mozart effect" -- the idea that listening to classical music makes 
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Center on the Developing Child, Harvard University. Brain Architecture. [https://developingchild.harvard.edu/science/key-concepts/brain-architecture/](https://developingchild.harvard.edu/science/key-concepts/brain-architecture/)

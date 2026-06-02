@@ -195,6 +195,8 @@ Grace is the most popular in recent decades, sitting in the U.S. top 50. June, W
 
 Yes. Names like Grace, Luke, and Pearl carry both warmth and dignity. Pair with a long middle name for extra formality.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - U.S. Social Security Administration. "Top Baby Names." [https://www.ssa.gov/oact/babynames/](https://www.ssa.gov/oact/babynames/)

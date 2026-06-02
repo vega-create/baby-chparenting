@@ -173,6 +173,8 @@ Some fussing is likely with any sleep training method because you're changing yo
 
 Yes. Many families use a hybrid approach — for example, combining bedtime fading with the chair method, or using shush-pat during the chair method. The important thing is to be consistent within each sleep period. Don't switch between methods within the same bedtime attempt.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Mindell, J.A., et al. (2006). "Behavioral Treatment of Bedtime Problems and Night Wakings." *Sleep*, 29(10). [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep/sleep-training)

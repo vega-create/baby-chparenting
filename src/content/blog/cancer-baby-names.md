@@ -146,6 +146,8 @@ The Moon rules Cancer, governing emotions, intuition, tides, and cycles. This ma
 
 Nurturing names for Cancer babies include Haven (safe place), Amara (beloved), Noah (rest, comfort), and Cordelia (heart). Names meaning protector or guardian, such as Edmund (wealthy protector), Liam (strong-willed protector), and Warren (loyal watchman), also capture Cancer's protective instinct. The key is choosing names that feel warm, safe, and emotionally rich.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Cancer Baby Names: Nurturing Names for June and July Babies." [nameberry.com](https://www.nameberry.com)

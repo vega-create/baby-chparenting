@@ -172,6 +172,8 @@ Before Pluto was discovered in 1930, Mars was considered Scorpio's sole ruler. A
 
 Not at all. While Scorpio-inspired names carry power and depth, many are versatile enough to grow with a child. Names like Phoenix, Orion, Raven, and Astrid feel bold yet accessible. You can always pair a more intense Scorpio first name with a softer middle name to create balance. Remember that a strong name can be an empowering gift that instills confidence.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Names by Meaning." [behindthename.com](https://www.behindthename.com)

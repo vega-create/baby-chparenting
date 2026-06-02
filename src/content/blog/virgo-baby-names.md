@@ -146,6 +146,8 @@ Mercury rules both Virgo and Gemini, but expresses differently in each sign. In 
 
 Virgo loves timeless elegance, making classic names a perfect match. For boys, Frederick, Sebastian, Nathaniel, Lawrence, and Julian have endured for centuries. For girls, Eleanor, Catherine, Margaret, Beatrice, and Josephine carry the same enduring quality. These names are sophisticated without being flashy — exactly the balance that Virgo seeks. They work well in any era and age gracefully, just like Virgo children themselves.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Virgo Baby Names: Elegant Names for August and September Babies." [nameberry.com](https://www.nameberry.com)

@@ -226,6 +226,8 @@ Acknowledge what they want, then model the word: "Oh, you want milk? Milk. Here 
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Speech-Language-Hearing Association. (2024). [How Does Your Child Hear and Talk?](https://www.asha.org/public/speech/development/chart/). ASHA.

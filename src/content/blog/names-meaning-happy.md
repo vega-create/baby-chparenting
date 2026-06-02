@@ -99,6 +99,8 @@ Beatrice means she who brings happiness and blessed in Latin. Gwyneth is a Welsh
 
 Yes, many cultures have beautiful happy names. Sachiko and Keiko come from Japanese. Tayo and Ayo are Yoruba names from West Africa. Tashi is a Tibetan name meaning prosperity and good fortune. Macario comes from Spanish and Greek roots meaning happy and blessed. Onni is Finnish for happiness.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Baby Names Meaning Happy." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-happy)

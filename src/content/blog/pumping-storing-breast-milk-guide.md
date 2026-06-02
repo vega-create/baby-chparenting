@@ -378,6 +378,8 @@ A good goal is to have 3 to 5 days' worth of milk stored, which typically amount
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - [Centers for Disease Control and Prevention - Proper Storage and Preparation of Breast Milk](https://www.cdc.gov/breast-feeding/hcp/recommendations/handling-breast-milk.html)

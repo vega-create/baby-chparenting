@@ -106,6 +106,8 @@ The question of cultural appropriation in naming is nuanced. Many African commun
 
 Many African languages, particularly those in the Niger-Congo family like Yoruba and Igbo, create names by combining meaningful elements. A name like Oluwaseun ("God, we give thanks") or Chukwuemeka ("God has done great things") embeds an entire prayer or statement within the name. These compound names carry more meaning than simple names and reflect the African philosophy that a name should tell a story. In everyday use, these names are often shortened to affectionate diminutives.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "African Names." [behindthename.com](https://www.behindthename.com/names/usage/african)

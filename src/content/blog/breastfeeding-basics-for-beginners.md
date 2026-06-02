@@ -280,6 +280,8 @@ Many women can breastfeed successfully after breast surgery, though it depends o
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - World Health Organization. (2023). [Breastfeeding](https://www.who.int/health-topics/breastfeeding). WHO.

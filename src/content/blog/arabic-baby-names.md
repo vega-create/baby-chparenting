@@ -111,6 +111,8 @@ No. While many Arabic names have Islamic significance, Arabic naming is a lingui
 
 Arabic names are used and appreciated by people of many backgrounds worldwide. If you choose an Arabic name, take time to learn its correct pronunciation, understand its meaning, and be aware of any religious significance it may carry. Names like Layla, Amir, Samir, and Yasmin have become internationally popular and work beautifully across cultures. Choosing a name respectfully and knowledgeably is what matters most.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Arabic Names." [behindthename.com](https://www.behindthename.com/names/usage/arabic)

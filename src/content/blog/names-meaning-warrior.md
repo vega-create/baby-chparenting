@@ -99,6 +99,8 @@ Matilda means mighty in battle in German and has a long royal history. Louisa me
 
 Absolutely. Warrior names are not about violence — they are about strength, resilience, and the courage to face challenges. Many warrior names, like Finley, Alessia, and Camilla, sound gentle and elegant while carrying powerful meanings. The warrior spirit these names represent is exactly what parents hope their children will embody.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Baby Names Meaning Warrior." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-warrior)

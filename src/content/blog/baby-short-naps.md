@@ -127,6 +127,8 @@ In many cases, yes. Most babies begin connecting nap cycles (producing longer na
 
 Yes, this is very common and completely normal for babies 7+ months. Many babies on a two-nap schedule have a longer morning nap (60–90+ minutes) and a shorter afternoon nap (30–45 minutes), or vice versa. As long as total daytime sleep is adequate for their age, an asymmetric nap pattern is fine.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - National Sleep Foundation (2025). "Baby Nap Guide." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep/baby-nap-schedule)

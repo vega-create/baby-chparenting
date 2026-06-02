@@ -348,6 +348,8 @@ A typical double-pumping session takes 15-20 minutes. Single pumping takes 20-30
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - [U.S. Food & Drug Administration -- Breast Pumps](https://www.fda.gov/medical-devices/consumer-products/breast-pumps)

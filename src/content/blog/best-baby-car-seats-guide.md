@@ -323,6 +323,8 @@ Perform these checks: the seat should not move more than 1 inch side to side or 
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - [NHTSA Car Seats and Booster Seats](https://www.nhtsa.gov/equipment/car-seats-and-booster-seats)

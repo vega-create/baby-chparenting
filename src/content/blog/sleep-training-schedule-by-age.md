@@ -212,6 +212,8 @@ Your baby's behavior tells you. If baby falls asleep within 5–15 minutes of be
 
 Yes, in most cases. Capping naps helps protect bedtime and ensures your baby has enough awake time to build sleep pressure for nighttime. A good rule: don't let any single nap exceed 2 hours, and don't let total daytime sleep exceed the age-appropriate range. The exception is sick or recovering babies — let them sleep as needed.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - National Sleep Foundation (2025). "Baby Sleep Schedule by Age." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep/baby-sleep-schedule)

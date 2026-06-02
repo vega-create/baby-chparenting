@@ -157,6 +157,8 @@ The AAP recommends room-sharing for at least 6 months, ideally 12 months. After 
 
 Yes. A bedside bassinet or sidecar-style co-sleeper keeps baby on their own firm, flat surface while still within arm's reach for nighttime feeding and comfort. This arrangement provides the convenience benefits of proximity without the suffocation and SIDS risks associated with bed-sharing. Look for products that meet CPSC safety standards.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics (2022). "Sleep-Related Infant Deaths: Updated 2022 Recommendations." [aap.org](https://www.aap.org/en/patient-care/safe-sleep/)

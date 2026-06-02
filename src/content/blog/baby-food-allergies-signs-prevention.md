@@ -266,6 +266,8 @@ Research suggests feeding allergenic foods about 2 to 3 times per week to mainta
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - [Du Toit, G., et al. "Randomized Trial of Peanut Consumption in Infants at Risk for Peanut Allergy." New England Journal of Medicine, 2015.](https://www.nejm.org/doi/full/10.1056/NEJMoa1414850)

@@ -171,6 +171,8 @@ The ideal start time depends on your toddler's morning wake time. Aim for 5-5.5 
 
 Yes, often even more during the transition because of the early bedtime. Total daily sleep usually stabilizes around 12-13 hours (10-11 night plus 1.5-2.5 day).
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics. "Healthy Sleep Habits in Toddlers." [https://www.healthychildren.org/English/healthy-living/sleep/Pages/default.aspx](https://www.healthychildren.org/English/healthy-living/sleep/Pages/default.aspx)

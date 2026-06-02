@@ -165,6 +165,8 @@ Yes, Liam originated as the Irish short form of William (Uilliam in Irish Gaelic
 
 Names that complement Liam's clean, classic sound include Emma, Charlotte, Nora, and Isla for sisters, and Owen, Noah, Henry, and Declan for brothers. Names with Irish or timeless roots pair especially well.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

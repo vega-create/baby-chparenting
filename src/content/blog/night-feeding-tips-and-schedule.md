@@ -307,6 +307,8 @@ Your partner can give a pumped bottle for one of the night feeds, allowing you t
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - [American Academy of Pediatrics - Amount and Schedule of Baby Feedings](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Amount-and-Schedule-of-Formula-Feedings.aspx)

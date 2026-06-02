@@ -328,6 +328,8 @@ OAE tests measure sounds produced by the outer hair cells of the inner ear and s
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics. (2007). Year 2007 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs. [https://pediatrics.aappublications.org/content/120/4/898](https://pediatrics.aappublications.org/content/120/4/898)

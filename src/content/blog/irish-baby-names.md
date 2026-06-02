@@ -111,6 +111,8 @@ In Ireland, Fiadh and Grace lead for girls, while Jack and Noah are top boy name
 
 No. Irish names are used and loved by families of all backgrounds around the world. While it is respectful to learn the correct pronunciation and understand the name's meaning and cultural context, there is no cultural expectation that only Irish families can use these names. Many Irish people are pleased to see their linguistic heritage appreciated globally.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Irish Names." [behindthename.com](https://www.behindthename.com/names/usage/irish)

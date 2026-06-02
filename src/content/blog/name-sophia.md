@@ -168,6 +168,8 @@ Popular nicknames for Sophia include Sophie (which is hugely popular as an indep
 
 Yes, Sophia is a Greek name derived directly from the Greek word for wisdom. It was first used as a given name in the Byzantine Empire and spread throughout Europe via royal families. The name's Greek roots give it a connection to classical philosophy and culture.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

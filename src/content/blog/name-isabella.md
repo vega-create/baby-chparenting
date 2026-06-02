@@ -169,6 +169,8 @@ Isabella's popularity is driven by its beautiful sound, rich royal heritage, exc
 
 Isabella offers exceptional nickname variety: Bella (beautiful and romantic), Izzy (fun and energetic), Ella (elegant), Belle (French and Disney-inspired), and Isa (short and international). This flexibility allows the name to suit any personality.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

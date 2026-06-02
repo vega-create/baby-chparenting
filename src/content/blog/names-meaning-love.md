@@ -104,6 +104,8 @@ Yes, many boy names carry meanings of love. David means beloved in Hebrew. Amade
 
 Agape is a Greek name meaning unconditional or divine love, representing the highest form of love in philosophical and theological traditions. Jedidiah, meaning beloved of the Lord in Hebrew, also carries connotations of deep, unconditional affection. Cherish, while an English word name, directly conveys the idea of treasuring someone without conditions.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Baby Names Meaning Love." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-love)

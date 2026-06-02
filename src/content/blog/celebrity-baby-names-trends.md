@@ -184,6 +184,8 @@ This is subjective. Some parents feel that a name becomes "taken" when a major c
 
 Jennifer is often cited as the most impactful celebrity-influenced name, surging after the 1970 film *Love Story* starring Jennifer O'Neal. More recently, Emma (fueled by multiple famous Emmas) and Luna (boosted by Chrissy Teigen) have had enormous impact.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 1. Social Security Administration. (2025). *Popular Baby Names*. Retrieved from ssa.gov

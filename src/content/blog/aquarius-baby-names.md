@@ -175,6 +175,8 @@ Aquarius babies often display independent thinking and unconventional behavior f
 
 Balance uniqueness with usability. Consider names that are uncommon but still recognizable and easy to pronounce, such as Lyra, Kai, Celeste, or Brooks. You can also choose a classic name with an unusual spelling or pair a very unique first name with a traditional middle name. The goal is a name that stands out without causing your child difficulty in everyday life.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Names by Meaning." [behindthename.com](https://www.behindthename.com)

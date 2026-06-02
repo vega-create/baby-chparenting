@@ -247,6 +247,8 @@ New walkers fall many times an hour. It's part of how they calibrate balance. Fa
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Centers for Disease Control and Prevention. (2024). [Important Milestones: Your Child By Fifteen Months](https://www.cdc.gov/ncbddd/actearly/milestones/milestones-15mo.html). CDC.

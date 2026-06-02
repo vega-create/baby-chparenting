@@ -177,6 +177,8 @@ Mutable signs (Sagittarius, Gemini, Virgo, Pisces) are adaptable and flexible, o
 
 The Archer symbol directly inspires names like Archer and Fletcher (arrow maker), as well as names connected to hunting like Artemis, Diana, and Theron. The symbol also represents aiming for higher truths and distant goals, which connects to wisdom-themed names like Sage, Athena, and Bodhi. The centaur aspect of the Archer bridges the animal and human worlds, making nature names with intellectual depth especially fitting.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Names by Meaning." [behindthename.com](https://www.behindthename.com)

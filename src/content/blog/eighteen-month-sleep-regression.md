@@ -144,6 +144,8 @@ It's often both. The 18-month regression overlaps with the developmental burst t
 
 First, lower the crib mattress to its lowest setting. Use a sleep sack to make climbing harder. If climbing continues, you may need to transition to a toddler bed earlier than ideal for safety reasons.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics. "Healthy Sleep Habits in Toddlers." [https://www.healthychildren.org/English/healthy-living/sleep/Pages/default.aspx](https://www.healthychildren.org/English/healthy-living/sleep/Pages/default.aspx)

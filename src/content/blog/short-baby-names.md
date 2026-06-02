@@ -179,6 +179,8 @@ For boys, Liam, Noah, Leo, and Ezra consistently top the charts. For girls, Mia,
 
 Absolutely. Short names are clear, memorable, and authoritative. Many successful leaders, artists, and professionals are known by short names. There is no professional disadvantage to a concise name.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 1. Social Security Administration. (2025). *Popular Baby Names*. Retrieved from ssa.gov

@@ -347,6 +347,8 @@ Bilingual language development follows the same timeline as monolingual developm
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - [CDC Developmental Milestones](https://www.cdc.gov/ncbddd/actearly/milestones/index.html) - Centers for Disease Control and Prevention

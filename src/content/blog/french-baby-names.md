@@ -111,6 +111,8 @@ Yes. From 1803 to 1993, French law restricted baby names to those on an approved
 
 Many names exist in both French and English forms with subtle differences. Guillaume is the French William, Jacques is James, Pierre is Peter, and Marguerite is Margaret. The French versions often have softer sounds, different stress patterns, and distinct endings. Choosing the French form over the English equivalent gives a name an immediately European elegance and cultural specificity.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "French Names." [behindthename.com](https://www.behindthename.com/names/usage/french)

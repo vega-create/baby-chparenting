@@ -104,6 +104,8 @@ Valentina, from Latin, means brave, strong, and vigorous. Matilda is a German na
 
 Valor is a direct Latin word-name meaning bravery and courage that works for any gender. Emery, meaning brave and powerful, is another popular unisex option. Casey from Irish means brave and vigilant, and Riley means courageous and valiant.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Baby Names Meaning Brave." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-brave)

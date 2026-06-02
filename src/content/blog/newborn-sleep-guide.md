@@ -178,6 +178,8 @@ You should stop swaddling when your baby shows signs of rolling over, which typi
 
 Newborns are used to the constant warmth, pressure, and motion of the womb. Being held replicates that environment. While this is completely normal, you can gradually transition to independent sleep by swaddling, using white noise, warming the crib sheet briefly before placing baby down, and practicing "drowsy but awake" placement.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics (2022). "Safe Sleep Guidelines for Infants." [aap.org](https://www.aap.org/en/patient-care/safe-sleep/)

@@ -171,6 +171,8 @@ The biggest unique trend is "long full name with short nickname": Theodore (Theo
 
 Look at names ranked 200-1000 in the most recent SSA data. These names are familiar enough to feel established but uncommon enough that your child may be the only one in their class.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - U.S. Social Security Administration. "Top Baby Names." [https://www.ssa.gov/oact/babynames/](https://www.ssa.gov/oact/babynames/)

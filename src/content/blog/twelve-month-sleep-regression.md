@@ -139,6 +139,8 @@ Not at all. Toddlers respond well to sleep training using methods adjusted for t
 
 Molars often emerge between 12 and 18 months and can cause a few rough nights. However, weeks-long sleep disruption is more likely developmental than purely from teething.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics. "Healthy Sleep Habits in Toddlers." [https://www.healthychildren.org/English/healthy-living/sleep/Pages/default.aspx](https://www.healthychildren.org/English/healthy-living/sleep/Pages/default.aspx)

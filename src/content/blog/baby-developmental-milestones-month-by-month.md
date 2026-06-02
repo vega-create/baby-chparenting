@@ -370,6 +370,8 @@ You should contact your pediatrician anytime you have concerns about your baby's
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - [CDC Milestone Checklists](https://www.cdc.gov/ncbddd/actearly/milestones/index.html) - Centers for Disease Control and Prevention

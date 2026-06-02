@@ -161,6 +161,8 @@ Absolutely. Sleep training is about how baby falls asleep at the beginning of th
 
 Most healthy, full-term breastfed babies who are gaining weight well can sleep 10–12 hours without night feeds between 6 and 9 months, according to pediatric guidelines. However, every baby is different. Some babies naturally drop night feeds at 5 months, while others benefit from one feed until 9 months. Always get your pediatrician's approval before night weaning.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics (2022). "Breastfeeding and Sleep." [aap.org](https://www.aap.org/en/patient-care/breastfeeding/)

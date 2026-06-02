@@ -309,6 +309,8 @@ No. The term "natural" is not regulated for baby food products and does not carr
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Smith-Spangler, C., et al. (2012). [Are Organic Foods Safer or Healthier Than Conventional Alternatives?](https://annals.org/aim/article-abstract/1355685/are-organic-foods-safer-healthier-than-conventional-alternatives-systematic-review). *Annals of Internal Medicine*, 157(5), 348-366.

@@ -176,6 +176,8 @@ Not necessarily. Modern strong names like Bear, Stone, Wolf, and Onyx draw their
 
 Stick with names that have at least 100 years of consistent use (like Henry, Theodore, Samuel) or names with clear, durable meanings (like Magnus or Knox). Trend-driven strong names may feel dated faster.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - U.S. Social Security Administration. "Top Baby Names." [https://www.ssa.gov/oact/babynames/](https://www.ssa.gov/oact/babynames/)

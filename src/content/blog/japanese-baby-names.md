@@ -111,6 +111,8 @@ Yes, many Japanese names are used internationally and welcomed across cultures. 
 
 Japan has specific legal requirements for naming. Names must use approved kanji characters from the government's official list, or they can be written in hiragana or katakana (the other Japanese writing systems). Names cannot use Roman letters, symbols, or unapproved kanji. There is no restriction on the reading or pronunciation of kanji, which is why the same characters can be read in different ways.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Japanese Names." [behindthename.com](https://www.behindthename.com/names/usage/japanese)

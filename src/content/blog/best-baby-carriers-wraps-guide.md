@@ -359,6 +359,8 @@ Stretchy wraps and woven wraps are inherently one-size-fits-all and accommodate 
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - [International Hip Dysplasia Institute - Baby Carriers and Hip Health](https://hipdysplasia.org/baby-carriers/)

@@ -162,6 +162,8 @@ Yes. In fact, a study published in the *Archives of Pediatrics & Adolescent Medi
 
 The AAP recommends waiting until at least 12 months for blankets and at least 18–24 months for pillows (toddlers don't actually need pillows). Even after 12 months, a sleep sack remains the safest option. If you do introduce a blanket, use a small, thin blanket and tuck it firmly under the mattress on three sides.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics (2022). "Safe Sleep Guidelines for Infants." [aap.org](https://www.aap.org/en/patient-care/safe-sleep/)

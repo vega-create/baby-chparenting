@@ -146,6 +146,8 @@ Yes, night wakings are developmentally normal throughout the first year. However
 
 The ranges provided are guidelines based on population averages. Individual babies may need slightly more or less sleep and still be perfectly healthy. If your baby seems well-rested, is gaining weight appropriately, and is meeting developmental milestones, they're likely getting the right amount of sleep — even if it falls slightly outside the typical range.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - National Sleep Foundation (2025). "How Much Sleep Do Babies Need?" [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep)

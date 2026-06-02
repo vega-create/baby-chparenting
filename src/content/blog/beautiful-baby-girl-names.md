@@ -181,6 +181,8 @@ Classic beautiful names (Charlotte, Eleanor, Grace) have been popular for over a
 
 Popularity has tradeoffs. Common names blend in but may have multiple Olivias in your child's classroom. Less common names stand out but may face spelling and pronunciation issues. Both are valid choices.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - U.S. Social Security Administration. "Top Baby Names." [https://www.ssa.gov/oact/babynames/](https://www.ssa.gov/oact/babynames/)

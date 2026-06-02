@@ -101,6 +101,8 @@ A generation name (dollimja) is a shared syllable used by all members of the sam
 
 Yes, since the 1990s Korean law has allowed given names to be written purely in Hangul (the Korean alphabet) without corresponding hanja characters. This has enabled the rise of "sun-urimalnireum" (pure Korean names) that use native Korean words like Haneul (sky), Bom (spring), and Nuri (world). These names have become trendy among younger parents who value Korean linguistic heritage over the traditional Sino-Korean naming system.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Korean Names." [behindthename.com](https://www.behindthename.com/names/usage/korean)

@@ -94,6 +94,8 @@ Irene is the classic Greek name meaning peace and serenity. Serena, from Latin, 
 
 Paxton has emerged as a stylish modern option meaning peace town. Shiloh, meaning peaceful, gained attention as a celebrity baby name and continues to rise. Stellan is a Swedish name meaning calm that has crossed over into international use. Haven, meaning sanctuary of peace, is a word name that feels both contemporary and meaningful.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Baby Names Meaning Peace." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-peace)

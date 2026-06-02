@@ -162,6 +162,8 @@ Popular middle names for Emma include Rose, Grace, Jane, Catherine, Louise, Clai
 
 Classic names pair well with Emma. For sisters, consider Charlotte, Olivia, Sophia, Grace, or Claire. For brothers, Henry, James, Oliver, William, and Liam complement Emma's timeless style beautifully.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

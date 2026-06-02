@@ -186,6 +186,8 @@ Most methods produce significant improvement within 3–7 days when applied cons
 
 Absolutely. Sleep training and breastfeeding are not mutually exclusive. You can maintain nighttime feeds as needed while teaching your baby to fall asleep independently at bedtime. See our detailed guide: [Breastfeeding and Sleep Training: How to Balance Both](/blog/breastfeeding-and-sleep-training/).
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Gradisar, M., et al. (2016). "Behavioral Interventions for Infant Sleep Problems." *Pediatrics*, 137(6). [pediatrics.aappublications.org](https://publications.aap.org/pediatrics/article/137/6/e20151486/81436)

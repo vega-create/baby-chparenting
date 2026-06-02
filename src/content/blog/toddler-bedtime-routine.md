@@ -169,6 +169,8 @@ Yes. Either start the routine earlier and leave the connection ritual for the wo
 
 Look for routine drift first: are you skipping steps? Letting it run long? Adding new requests? Reset to a clear 5-step structure with the same timing every night. Most resistance fades within 2 weeks.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Mindell JA, et al. "Bedtime routines for young children: a dose-dependent association with sleep outcomes." *Sleep*. [https://pubmed.ncbi.nlm.nih.gov/25761980/](https://pubmed.ncbi.nlm.nih.gov/25761980/)

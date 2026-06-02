@@ -131,6 +131,8 @@ Before 3–4 months, no. Newborns cannot form habits in the same way older babie
 
 While it's within the range of normal, by 6 months most babies are developmentally ready to sleep independently. If holding to sleep is unsustainable for your family, this is an excellent age to begin sleep training. Consider the [Ferber Method](/blog/ferber-method-guide/) or [Gentle Sleep Training](/blog/gentle-sleep-training/) approaches.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics (2022). "Safe Sleep Guidelines." [aap.org](https://www.aap.org/en/patient-care/safe-sleep/)

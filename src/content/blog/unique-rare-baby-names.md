@@ -182,6 +182,8 @@ Compromise options include using the rare name as a middle name, choosing a name
 
 There is no universal answer, but a good rule of thumb is that your chosen name should have at least some documented history and meaning. Entirely invented names without any cultural roots can feel unmoored. The names in this guide all have established histories, even if they are rarely used in English-speaking countries.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 1. Behind the Name. (2025). *Name Etymology and History Database*. Retrieved from behindthename.com

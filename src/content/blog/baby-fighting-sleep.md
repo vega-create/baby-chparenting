@@ -131,6 +131,8 @@ Yes. After about 3–4 months, light becomes increasingly stimulating and can su
 
 You're likely not doing anything wrong — some babies are naturally higher-need and more resistant to sleep transitions. Focus on three things: 1) Get wake windows precisely right (not too long, not too short), 2) Use a consistent pre-nap routine (even 5 minutes: close curtains, white noise, brief cuddle, into crib), and 3) Ensure the room is very dark. If nap-fighting persists, consider whether your baby is ready to drop a nap.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - National Sleep Foundation (2025). "Why Is My Baby Fighting Sleep?" [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep)

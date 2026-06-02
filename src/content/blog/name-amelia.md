@@ -167,6 +167,8 @@ The most popular nicknames for Amelia include Amy, Mia, Millie, Mimi, and Lia. E
 
 Amelia is currently a top 5 girl name in the United States and holds the number 1 position in the United Kingdom. It has been in the US top 10 since the mid-2010s and is also extremely popular in Australia, Canada, and across Europe.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

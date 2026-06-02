@@ -169,6 +169,8 @@ Theodore's rise is driven by several factors: the broader vintage name revival t
 
 The teddy bear was named after President Theodore "Teddy" Roosevelt. In 1902, Roosevelt refused to shoot a captured bear during a hunting trip, and the story inspired a toy maker to create stuffed bears called "teddy bears" in his honor. This gives the name Theodore a unique cuddly association.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

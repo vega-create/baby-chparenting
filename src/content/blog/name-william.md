@@ -171,6 +171,8 @@ Yes, Liam originated as the Irish short form of William (Uilliam in Irish). Howe
 
 William has more nickname options than almost any other name: Will (modern and strong), Liam (trendy and Irish), Billy (classic and casual), Bill (traditional), Willie (warm), and Wills (British). This flexibility is one of William's greatest advantages.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

@@ -316,6 +316,8 @@ Rather than a specific age, watch for a pattern of missed milestones or a loss o
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics. "Cognitive Development in Infants and Toddlers." [https://www.healthychildren.org/English/ages-stages/baby/Pages/Cognitive-Development.aspx](https://www.healthychildren.org/English/ages-stages/baby/Pages/Cognitive-Development.aspx)

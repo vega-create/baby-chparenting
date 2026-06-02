@@ -131,6 +131,8 @@ The hardest weeks often pass, but the underlying sleep cycle change is permanent
 
 No. Most 4-month-olds need 3-4 naps per day. Dropping naps usually causes overtiredness, which makes night sleep worse. Focus on appropriate wake windows instead.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics. "Healthy Sleep Habits in Babies." [https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/default.aspx](https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/default.aspx)

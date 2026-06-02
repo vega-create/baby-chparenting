@@ -178,6 +178,8 @@ This is a common concern. It may help to share the name's meaning and history. M
 
 Absolutely. Many parents pair a unisex first name with a more traditionally gendered middle name. For example, Quinn Elizabeth or Avery James gives the child both a flexible first name and a middle name that nods to family tradition.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 1. Social Security Administration. (2025). *Popular Baby Names by Year*. Retrieved from ssa.gov

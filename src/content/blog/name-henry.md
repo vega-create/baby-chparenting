@@ -169,6 +169,8 @@ Harry was the medieval English spoken form of Henry. For centuries, kings named 
 
 Yes, Henry currently ranks in the US top 10 for boy names, having climbed steadily from around rank 100 in the early 2000s. It is also very popular in England, Australia, and across Europe.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

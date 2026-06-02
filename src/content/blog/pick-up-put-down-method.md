@@ -123,6 +123,8 @@ This is completely normal, especially in the first few nights. Baby is expressin
 
 PUPD is generally most effective for babies 4–8 months. Older babies (9+ months) often find the repetitive picking up and putting down overstimulating or interpret it as a game, which can increase rather than decrease crying. For babies over 8–9 months, the Chair Method or Ferber Method typically works better.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Hogg, T. (2005). *The Baby Whisperer Solves All Your Problems*. Atria Books.

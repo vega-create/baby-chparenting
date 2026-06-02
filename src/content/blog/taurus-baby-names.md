@@ -146,6 +146,8 @@ Venus rules Taurus, bringing themes of love, beauty, harmony, and pleasure. This
 
 Absolutely. Many parents choose a Taurus-inspired first name and pair it with a middle name from another meaningful theme. For example, Terra Grace, Forrest Alexander, or Ivy Celeste blend earthy Taurus energy with complementary qualities. The key is finding combinations that feel harmonious and balanced, which is exactly what Taurus values.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Taurus Baby Names: Earthy Names for April and May Babies." [nameberry.com](https://www.nameberry.com)

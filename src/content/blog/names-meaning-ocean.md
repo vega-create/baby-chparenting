@@ -94,6 +94,8 @@ Marina means of the sea in Latin and is a classic, elegant choice. Moana is a Po
 
 Yes, water and ocean names are among the fastest-growing categories in baby naming. The trend reflects a broader movement toward nature-inspired names. Kai, River, and Ocean have all climbed significantly in recent years. Caspian and Moana have also seen dramatic increases as parents seek names that feel both natural and distinctive.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Baby Names Meaning Water." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-water)

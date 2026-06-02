@@ -186,6 +186,8 @@ In the current U.S. data, Theodore leads the vintage revival, sitting in the top
 
 Absolutely, and it's one of the most meaningful naming choices. Family vintage names carry built-in story and significance.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - U.S. Social Security Administration. "Popular Names by Decade." [https://www.ssa.gov/oact/babynames/decades/](https://www.ssa.gov/oact/babynames/decades/)

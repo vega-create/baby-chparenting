@@ -166,6 +166,8 @@ Noah has strong religious significance across three major faiths. In Judaism and
 
 Strong middle name options for Noah include James, Alexander, Benjamin, William, and Gabriel. Single-syllable middle names like James and Grant create a crisp rhythm, while longer options like Alexander and Sebastian add formality.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

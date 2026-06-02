@@ -122,6 +122,8 @@ Brief fussing (1–3 minutes of grumbling, not intense screaming) is normal duri
 
 Most sleep experts suggest working toward "drowsy but awake" placement starting around 3–4 months, with full independent sleep skills developing between 4 and 6 months. However, every baby is different. Some babies naturally transition earlier, while others need more support until 6–8 months. There is no deadline — work at your baby's pace.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics (2022). "Safe Sleep and Your Baby." [aap.org](https://www.aap.org/en/patient-care/safe-sleep/)

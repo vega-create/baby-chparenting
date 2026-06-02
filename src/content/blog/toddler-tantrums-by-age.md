@@ -281,6 +281,8 @@ Yes — pick your battles thoughtfully. Don't reverse a "no" to escape a tantrum
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics. (2024). [Temper Tantrums](https://www.healthychildren.org/English/ages-stages/toddler/Pages/Temper-Tantrums.aspx). HealthyChildren.org.

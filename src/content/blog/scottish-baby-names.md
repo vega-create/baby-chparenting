@@ -106,6 +106,8 @@ Yes, using clan surnames as given names is a well-established Scottish tradition
 
 Scotland's dramatic landscape has inspired many beloved names. Isla comes from the island of Islay, Skye from the Isle of Skye, Ailsa from the volcanic rock Ailsa Craig, and Morven from a mountainous region. Glen (narrow valley), Craig (rock), and Ross (headland) are geographic features that have become popular names. These nature-inspired names connect children to Scotland's wild and beautiful terrain.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Scottish Names." [behindthename.com](https://www.behindthename.com/names/usage/scottish)

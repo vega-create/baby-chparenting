@@ -359,6 +359,8 @@ While screens do not cause permanent structural damage to infant eyes, excessive
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics. "Vision Screening Recommendations." [https://www.healthychildren.org/English/health-issues/conditions/eyes/Pages/Vision-Screenings.aspx](https://www.healthychildren.org/English/health-issues/conditions/eyes/Pages/Vision-Screenings.aspx)

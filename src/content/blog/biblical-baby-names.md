@@ -133,6 +133,8 @@ As of recent years, Noah has consistently ranked as the most popular biblical bo
 
 Absolutely. Pairing a biblical first name with a modern or trendy middle name is a popular approach that balances tradition with contemporary style. Combinations like Elijah James, Naomi Rose, or Asher Kai blend the gravitas of a scripture-inspired name with a fresh, current feel. This approach lets parents honor their heritage while giving their child a name that feels perfectly at home in the modern world.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Biblical Names." [behindthename.com](https://www.behindthename.com/names/usage/biblical)

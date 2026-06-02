@@ -366,6 +366,8 @@ Texture progression is important for oral motor development. If your baby is bet
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics. (2024). [Gastroesophageal Reflux in Infants](https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/GERD-Reflux.aspx). HealthyChildren.org.

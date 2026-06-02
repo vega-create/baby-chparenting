@@ -221,6 +221,8 @@ No. Bare feet (or non-slip socks) give the best feedback for motor development. 
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Centers for Disease Control and Prevention. (2024). [Important Milestones: Your Baby By Nine Months](https://www.cdc.gov/ncbddd/actearly/milestones/milestones-9mo.html). CDC.

@@ -94,6 +94,8 @@ Beau is a French name meaning beautiful and handsome that has become increasingl
 
 Amari, meaning eternal and beautiful, works beautifully for any gender. Rumi, a Japanese name meaning beauty and flow, has a poetic quality. Milan, from Slavic origins meaning gracious, sounds refined for both boys and girls. Noor, meaning light and beauty in Arabic, carries a luminous elegance.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Baby Names Meaning Beautiful." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-beautiful)

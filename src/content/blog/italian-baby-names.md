@@ -111,6 +111,8 @@ While this tradition is deeply respected, it is a custom rather than a legal req
 
 Italian names are distinguished by their strong vowel endings (-o for boys, -a for girls), consistent pronunciation rules, and the heavy influence of both Roman Latin and Catholic tradition. While Italian, Spanish, and French names share Latin roots, Italian names tend to have more syllables and a more musical quality due to the Italian language's emphasis on open vowels and clear consonants.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Italian Names." [behindthename.com](https://www.behindthename.com/names/usage/italian)

@@ -146,6 +146,8 @@ The Sun rules Leo, making it the most radiant and confident sign. This solar inf
 
 Leo is the sign of kings and queens, making royal names especially fitting. For boys, Rex (king), Augustus (great), Henry (ruler of the home), Kingston (king's town), and Regis (kingly) all carry royal authority. For girls, Regina (queen), Victoria (victory), Cleopatra (glory of the father), Queenie (queen), and Zara (princess) offer regal elegance. These names honor Leo's natural-born leadership.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Leo Baby Names: Royal Names for July and August Babies." [nameberry.com](https://www.nameberry.com)

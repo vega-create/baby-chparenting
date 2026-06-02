@@ -173,6 +173,8 @@ Occasional motion naps are fine, but for safety, infants under 12 months shouldn
 
 Most well-rested babies fall asleep within 5-15 minutes of being placed down. If it takes 30+ minutes regularly, the wake window is likely off.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Sleep Medicine. "Recommended Amount of Sleep for Pediatric Populations." [https://aasm.org/recommended-amount-of-sleep-for-pediatric-populations/](https://aasm.org/recommended-amount-of-sleep-for-pediatric-populations/)

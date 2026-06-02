@@ -139,6 +139,8 @@ Some babies are actually more upset by a parent's visible presence because they 
 
 Yes, but it requires patience. Start with the twin who is the better sleeper (they'll likely adapt faster and provide a calming presence for the other). Position your chair between both cribs. It's common for one twin to wake the other initially, but most twins adjust to each other's sounds within a few nights. See our [Sleep Training Twins Guide](/blog/sleep-training-twins/) for more details.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Mindell, J.A., et al. (2006). "Behavioral Treatment of Bedtime Problems." *Sleep*, 29(10). [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep/sleep-training)

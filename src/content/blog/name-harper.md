@@ -157,6 +157,8 @@ Harper's popularity surge was driven by two main factors: the enduring literary 
 
 Popular middle names for Harper include Grace, Rose, Jane, Elizabeth, Mae, and Leigh. The middle name Leigh creates a subtle literary tribute to Harper Lee. Short, classic middle names balance Harper's surname-style energy.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

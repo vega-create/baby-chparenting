@@ -326,6 +326,8 @@ Not necessarily. While premature children as a group have a slightly higher rate
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics. Age Terminology During the Perinatal Period. [https://pediatrics.aappublications.org/content/114/5/1362](https://pediatrics.aappublications.org/content/114/5/1362)

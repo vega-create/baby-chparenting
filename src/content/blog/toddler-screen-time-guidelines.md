@@ -225,6 +225,8 @@ Yes, especially when you read them together. Interactive features that distract 
 }
 </script>
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics. (2024). [Media and Children](https://www.healthychildren.org/English/family-life/Media/Pages/default.aspx). HealthyChildren.org.

@@ -94,6 +94,8 @@ Seraphina means fiery ones in Hebrew and refers to the burning angels in biblica
 
 Ember is a soft, warm name meaning a glowing coal — it suggests warmth without intensity. Kiran means ray of light in Sanskrit, carrying a gentle fire connection. Edana means little fire in Irish with a feminine, delicate sound. Soleil, meaning sun in French, evokes the warmth of fire without the harshness.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Baby Names Meaning Fire." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-fire)

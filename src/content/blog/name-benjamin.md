@@ -167,6 +167,8 @@ Benjamin offers outstanding nickname variety: Ben (strong and clean), Benny (war
 
 Yes, Benjamin is a significant biblical name. In the Book of Genesis, Benjamin is the youngest son of Jacob and Rachel and the ancestor of one of the twelve tribes of Israel. The name also appears in the New Testament, as the apostle Paul was from the tribe of Benjamin.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)

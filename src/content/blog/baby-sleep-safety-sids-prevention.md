@@ -163,6 +163,8 @@ No. The AAP and the U.S. Consumer Product Safety Commission (CPSC) have recalled
 
 The AAP recommends waiting until your child is at least 12 months old before introducing blankets, pillows, or stuffed animals to the sleep space. Before age 1, use a wearable blanket (sleep sack) instead of loose bedding to keep your baby warm.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - American Academy of Pediatrics (2022). "Sleep-Related Infant Deaths: Updated 2022 Recommendations." [aap.org](https://www.aap.org/en/patient-care/safe-sleep/)

@@ -106,6 +106,8 @@ Norse names specifically refer to names from the Old Norse language spoken durin
 
 Nordic languages use several characters not found in English. The Danish/Norwegian letter oe sounds like the "u" in "burn." The Swedish letter aa sounds like "oh." The Icelandic letters eth (written as a crossed d) sounds like "th" in "the," while thorn (written as a modified p) sounds like "th" in "think." For most internationally used Scandinavian names, standard English pronunciation is widely accepted.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Behind the Name (2026). "Scandinavian Names." [behindthename.com](https://www.behindthename.com/names/usage/scandinavian)

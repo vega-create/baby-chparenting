@@ -109,6 +109,8 @@ While nature names are certainly having a moment, many of them have been in use 
 
 Alder, named after the riverside tree, is a distinctive choice for boys. Azalea, a flowering shrub, offers a rare and vibrant option for girls. Linden, the name of a shade tree, is unusual but easy to pronounce and spell. Cove, meaning sheltered bay, is a short and striking option that few parents have discovered.
 
+> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+
 ## References
 
 - Nameberry (2026). "Nature Baby Names." [nameberry.com](https://www.nameberry.com/list/nature-baby-names)
