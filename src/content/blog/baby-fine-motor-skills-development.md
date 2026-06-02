@@ -16,6 +16,8 @@ Fine motor skills -- the small, precise movements of the hands and fingers -- ar
 
 Understanding how fine motor skills develop and knowing which activities support that development gives you practical tools to help your baby build these critical abilities through everyday play.
 
+> 📌 **Key Takeaway:** According to La Leche League International, breastfed babies typically nurse 8-12 times in 24 hours during the first weeks. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
+
 ## What Are Fine Motor Skills?
 
 Fine motor skills involve the coordination of small muscles in the hands and fingers, working together with the eyes. They differ from gross motor skills, which involve the large muscles used for movements like [crawling, sitting, and walking](/blog/when-do-babies-crawl-walk/).

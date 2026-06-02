@@ -14,6 +14,8 @@ draft: false
 
 A toddler bedtime routine is one of the most powerful sleep tools you have. Research consistently shows that toddlers with predictable bedtime routines fall asleep faster, wake less at night, and have better daytime mood. Here's the 7-step structure that works for most families and how to adapt when nights go sideways.
 
+> 📌 **Key Takeaway:** According to a 2023 CDC report, about 1 in 3 US babies under 1 still wakes at least twice a night. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [toddler development 12 24 months](/blog/toddler-development-12-24-months/).
+
 ## Why Bedtime Routines Matter
 
 A 2015 study in the journal *Sleep* (Mindell et al.) found that consistent bedtime routines were associated with better sleep outcomes across multiple measures, including reduced night wakings and earlier sleep onset. The American Academy of Pediatrics recommends consistent routines as a foundation of healthy sleep.

@@ -14,6 +14,8 @@ draft: false
 
 Just when you thought you had your baby's sleep figured out, the 8-month sleep regression arrives. This phase, sometimes called the 8-9-10 month regression, can throw off even well-rested families. The good news: unlike the 4-month regression, this one is temporary and tied to specific developmental leaps.
 
+> 📌 **Key Takeaway:** According to the National Institutes of Health (NIH), consistent bedtime routines reduce night wakings by up to 50% in infants 6-18 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [four month sleep regression](/blog/four-month-sleep-regression/).
+
 ## What Is the 8-Month Sleep Regression?
 
 The 8-month sleep regression is a temporary period of disrupted sleep that occurs anywhere between 8 and 10 months of age. It coincides with rapid cognitive, physical, and emotional development.

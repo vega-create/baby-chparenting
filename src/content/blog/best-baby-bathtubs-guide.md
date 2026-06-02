@@ -12,6 +12,8 @@ tags: ["baby bathtubs", "bath safety", "baby gear", "newborn care", "bath time",
 
 Bath time is one of those parenting milestones that can feel both exciting and nerve-wracking. Choosing the right baby bathtub makes a significant difference in how safe and enjoyable the experience is for you and your baby. As a pediatrician, I have guided hundreds of families through selecting the best bathing setup, and in this guide I will break down everything you need to know about baby bathtubs in 2026. For more essential gear, see our [nursery essentials checklist](/blog/baby-nursery-essentials-checklist/) and [baby registry guide](/blog/baby-registry-must-haves-checklist/).
 
+> 📌 **Key Takeaway:** According to the CDC, 60% of US babies receive some breast milk at 6 months, but only 25% are exclusively breastfed. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [best baby monitors guide](/blog/best-baby-monitors-guide/).
+
 ## Types of Baby Bathtubs
 
 Not all baby bathtubs are created equal. The right choice depends on your baby's age, your bathroom setup, and your lifestyle. Here is a breakdown of the most common types.

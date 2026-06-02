@@ -14,6 +14,8 @@ draft: false
 
 Screens are everywhere — TVs, tablets, phones, smart speakers, even cars and refrigerators. For toddlers, the developmental impact of screen time is real, but the rules around it have become more nuanced than the old "no screens" advice. This guide walks through the current American Academy of Pediatrics (AAP) screen time guidelines, what the research actually shows, and practical tips that work for real families.
 
+> 📌 **Key Takeaway:** According to Zero to Three research, brain development between 0-3 years forms the foundation for lifelong learning. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [toddler development 12 24 months](/blog/toddler-development-12-24-months/).
+
 ## Current AAP Screen Time Guidelines
 
 The AAP last updated its detailed media guidelines in 2016 and refined them through ongoing media policy statements. The current recommendations:

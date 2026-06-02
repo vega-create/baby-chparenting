@@ -16,6 +16,8 @@ draft: false
 
 These numbers are guidelines, not strict rules. Babies are individuals. Always pair these targets with your pediatrician's advice and your baby's growth curve.
 
+> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), most healthy infants need 2-2.5 oz of formula per pound of body weight per day. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [how many naps by age](/blog/how-many-naps-by-age/).
+
 ## The General Rule for Formula
 
 A widely used pediatric formula for daily formula intake is:

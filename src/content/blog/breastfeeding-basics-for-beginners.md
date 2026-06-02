@@ -14,6 +14,8 @@ Breastfeeding is one of the most natural things a mother can do for her baby, ye
 
 This comprehensive guide covers everything you need to know to get started, from the golden first hour to building a strong milk supply in the weeks ahead. If you need help with supply, see our guide on [how to increase breast milk supply](/blog/how-to-increase-breast-milk-supply/).
 
+> 📌 **Key Takeaway:** According to the World Health Organization (WHO), exclusive breastfeeding for the first 6 months is recommended for optimal infant health. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [breastfeeding and sleep training](/blog/breastfeeding-and-sleep-training/).
+
 ## Why Breastfeeding Matters
 
 Breast milk is uniquely designed for human babies. The World Health Organization recommends exclusive breastfeeding for the first six months of life, with continued breastfeeding alongside complementary foods up to two years or beyond. Here is why:

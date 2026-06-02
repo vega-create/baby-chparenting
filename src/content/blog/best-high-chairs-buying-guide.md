@@ -14,6 +14,8 @@ A high chair is one of the most-used pieces of baby gear in your home. From the 
 
 This buying guide breaks down everything you need to know -- types, essential features, safety standards, and what actually matters when you are wiping down mashed banana for the third time today.
 
+> 📌 **Key Takeaway:** According to the World Health Organization (WHO), exclusive breastfeeding for the first 6 months is recommended for optimal infant health. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [best baby high chairs comparison](/blog/best-baby-high-chairs-comparison/).
+
 ## When to Start Using a High Chair
 
 Most babies are ready for a high chair when they begin [solid foods](/blog/when-to-start-solid-foods/), typically around **6 months of age**. However, the key indicators are developmental, not calendar-based.

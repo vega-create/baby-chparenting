@@ -16,6 +16,8 @@ Crawling is one of the most exciting milestones — and one of the most variable
 
 This guide explains every crawling stage, when each typically appears, and how to support your baby's mobility journey.
 
+> 📌 **Key Takeaway:** According to the CDC milestone tracker, 90% of babies sit without support by 9 months and walk independently by 18 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby food stages explained](/blog/baby-food-stages-explained/).
+
 ## When Do Babies Crawl?
 
 Most babies start some form of crawling between **6 and 10 months**, with classic cross-crawl appearing on average around 8–9 months. Some babies crawl as early as 5 months; others wait until 11 or 12 months or skip altogether. All of these can be normal.

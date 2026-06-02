@@ -16,6 +16,8 @@ First steps are one of the most anticipated milestones — and one of the most v
 
 This guide breaks down every stage from pulling up to stable walking, what each looks like, and how you can support your baby's path to independent mobility.
 
+> 📌 **Key Takeaway:** According to the AAP, developmental milestones occur in predictable patterns, but normal range can vary by 4-6 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby language development timeline](/blog/baby-language-development-timeline/).
+
 ## When Do Babies Walk?
 
 The American Academy of Pediatrics and CDC milestones describe walking as follows:

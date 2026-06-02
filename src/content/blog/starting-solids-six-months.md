@@ -16,6 +16,8 @@ Starting solid foods is a major milestone, and the timing matters more than many
 
 By the end, you will have a clear, evidence-based plan you can actually follow, whether you choose purees, baby-led weaning, or a mixed approach.
 
+> 📌 **Key Takeaway:** According to the World Health Organization (WHO), exclusive breastfeeding for the first 6 months is recommended for optimal infant health. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [toddler development 12 24 months](/blog/toddler-development-12-24-months/).
+
 ## Why 6 Months Is the Recommended Age
 
 For decades, parents were told to start cereal as early as 4 months. Current guidance has changed. At 4 months, most babies are not developmentally ready to handle solid food, and starting too early is linked to higher risk of choking, obesity, and gut irritation.

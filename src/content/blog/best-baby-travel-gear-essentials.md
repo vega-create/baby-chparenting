@@ -12,6 +12,8 @@ tags: ["baby travel", "travel gear", "travel stroller", "travel crib", "flying w
 
 Traveling with a baby might seem daunting, but with the right gear and preparation, it can be a genuinely enjoyable experience. Whether you are planning a weekend trip to grandma's house, a cross-country road trip, or an international vacation, having the right travel gear makes all the difference. In this comprehensive guide, I will cover every essential piece of baby travel gear and share practical tips for smooth travels with your little one.
 
+> 📌 **Key Takeaway:** According to a 2023 CDC report, about 1 in 3 US babies under 1 still wakes at least twice a night. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [best baby play mats](/blog/best-baby-play-mats/).
+
 ## Travel Cribs and Pack 'n Plays
 
 A safe sleep setup is the most critical piece of travel gear. Your baby needs a firm, flat surface that meets current CPSC safety standards wherever you go.

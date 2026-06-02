@@ -14,6 +14,8 @@ One of the most exciting milestones in your baby's first year is starting solid 
 
 This guide covers the recommended timing, the developmental signs to watch for, the best first foods, and how to progress through textures as your baby grows.
 
+> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), most babies are developmentally ready for solids around 6 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [speech delays when to worry](/blog/speech-delays-when-to-worry/).
+
 ## What Do the Experts Recommend?
 
 Both the American Academy of Pediatrics (AAP) and the World Health Organization (WHO) provide guidance on when to introduce solid foods, though their recommendations differ slightly.

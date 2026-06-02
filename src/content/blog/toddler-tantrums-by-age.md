@@ -16,6 +16,8 @@ Toddler tantrums are not a sign of bad parenting or a "bad" child. They are a de
 
 This guide breaks down tantrums by age from 12 months through 3 years, why each looks different, and pediatric-recommended strategies that actually work.
 
+> 📌 **Key Takeaway:** According to the CDC milestone tracker, 90% of babies sit without support by 9 months and walk independently by 18 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [how much milk by age](/blog/how-much-milk-by-age/).
+
 ## Why Tantrums Happen
 
 The toddler brain is wildly imbalanced. The emotional centers (amygdala, limbic system) are running at full capacity, while the prefrontal cortex — the part that regulates emotions, plans, and inhibits impulses — won't fully mature until age 25. Combine that with limited language, frustration tolerance, and motor skills, and you have a perfect storm.

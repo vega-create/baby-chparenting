@@ -14,6 +14,8 @@ draft: false
 
 If your once-sleepy newborn is suddenly waking every 90 minutes at night, you're likely facing the 4-month sleep regression. Unlike later regressions, this one isn't temporary in the same way. It marks a permanent change in how your baby sleeps, and understanding it is the key to getting through the rough patch.
 
+> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), roughly 70% of infants sleep through the night by 9 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [eight month sleep regression](/blog/eight-month-sleep-regression/).
+
 ## What Is the 4-Month Sleep Regression?
 
 The 4-month sleep regression is a developmental shift in your baby's sleep architecture. Around 12 to 16 weeks of age, infants transition from newborn sleep (which has just two stages) to mature sleep cycles that include four distinct stages, similar to adult sleep.

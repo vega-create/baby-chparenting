@@ -12,6 +12,8 @@ tags: ["nursery", "baby room", "nursery essentials", "baby registry", "nursery c
 
 Setting up a nursery is one of the most exciting parts of preparing for a new baby. It is also one of the areas where parents are most likely to overspend on items that look beautiful but rarely get used. This guide gives you a clear, prioritized checklist of what you truly need, what is nice to have, and what you can safely skip -- along with practical advice on safety, organization, and staying within budget.
 
+> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), most healthy infants need 2-2.5 oz of formula per pound of body weight per day. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby registry must haves checklist](/blog/baby-registry-must-haves-checklist/).
+
 ## Nursery Must-Haves
 
 ### Crib

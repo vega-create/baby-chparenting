@@ -16,6 +16,8 @@ A baby's first word is a moment that almost every parent records, repeats, and r
 
 This guide walks through every stage of language development from birth to age 2, what counts as a "real" word, when to expect milestones, and how to encourage talking through everyday play.
 
+> 📌 **Key Takeaway:** According to the CDC milestone tracker, 90% of babies sit without support by 9 months and walk independently by 18 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby walking timeline](/blog/baby-walking-timeline/).
+
 ## What Counts as a First Word?
 
 According to the American Speech-Language-Hearing Association (ASHA), a true first word is:

@@ -14,6 +14,8 @@ draft: false
 
 The 2-year sleep regression is in many ways the most complex one yet. Your toddler now has language, imagination, and the ability to negotiate, all of which they bring to bedtime. Here's what's behind it and how to handle it.
 
+> 📌 **Key Takeaway:** According to the Sleep Foundation, newborns need 14-17 hours of sleep daily, while 1-year-olds need 11-14 hours. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [four month sleep regression](/blog/four-month-sleep-regression/).
+
 ## What Is the 2-Year Sleep Regression?
 
 The 2-year sleep regression is a temporary sleep disruption typically occurring between 22 and 26 months. It's driven by emotional development, new fears, big-kid milestones, and sometimes a new sibling.

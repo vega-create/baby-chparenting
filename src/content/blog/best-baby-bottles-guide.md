@@ -14,6 +14,8 @@ As a pediatrician, one of the most frequent questions I hear from new parents is
 
 This guide covers the science behind bottle design, breaks down materials and nipple types, and provides evidence-based guidance on keeping bottles safe and clean. For a full overview of feeding approaches, read our [formula feeding guide](/blog/formula-feeding-complete-guide/).
 
+> 📌 **Key Takeaway:** According to the World Health Organization (WHO), exclusive breastfeeding for the first 6 months is recommended for optimal infant health. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [best baby monitors guide](/blog/best-baby-monitors-guide/).
+
 ## Bottle Materials: A Complete Comparison
 
 The material of your baby bottle affects durability, weight, safety, ease of cleaning, and heat retention. Here is a detailed comparison of the four main options.

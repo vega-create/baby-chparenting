@@ -14,6 +14,8 @@ Babywearing is one of the oldest parenting practices in the world, and for good 
 
 But the carrier market can be confusing. Wraps, ring slings, soft structured carriers, meh dais -- each type has distinct advantages, and the right choice depends on your baby's age, your body type, and your lifestyle. This guide walks you through every carrier type, safety essentials, ergonomic best practices, and practical recommendations to help you find the perfect fit from your baby's first weeks through toddlerhood.
 
+> 📌 **Key Takeaway:** According to Consumer Product Safety Commission (CPSC) data, over 60% of crib-related injuries involve unsafe sleep setups, not crib defects. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [best baby monitors guide](/blog/best-baby-monitors-guide/).
+
 ## When Can You Start Babywearing?
 
 You can begin babywearing from birth, provided you use a carrier appropriate for newborns and follow proper positioning guidelines. Newborns need extra head and neck support, and their airways must remain clear at all times.

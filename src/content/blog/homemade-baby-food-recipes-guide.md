@@ -14,6 +14,8 @@ Making homemade baby food is one of the most rewarding things you can do as a pa
 
 This guide covers everything from essential equipment and food safety basics to simple recipes, combination purees, and batch cooking strategies that will make your life easier.
 
+> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), most babies are developmentally ready for solids around 6 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby food stages explained](/blog/baby-food-stages-explained/).
+
 ## Benefits of Homemade Baby Food
 
 Before diving into the how-to, here is why making your own baby food is worth considering:

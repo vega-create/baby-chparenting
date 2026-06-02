@@ -14,6 +14,8 @@ Night feedings are one of the most exhausting yet essential parts of early paren
 
 This guide will walk you through everything about night feeds -- from the newborn days through the transition to sleeping through the night — and how [sleep training](/blog/breastfeeding-and-sleep-training/) fits into the picture for breastfeeding families -- so you can feel confident that your baby is well-fed and you are doing everything right.
 
+> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), roughly 70% of infants sleep through the night by 9 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [bottle feeding tips breastfed babies](/blog/bottle-feeding-tips-breastfed-babies/).
+
 ## Why Night Feeds Are Necessary for Newborns
 
 Night feeding is not a bad habit or a problem to fix. It is a biological necessity for young babies, and here is why:

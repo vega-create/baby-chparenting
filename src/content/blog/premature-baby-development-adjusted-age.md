@@ -12,6 +12,8 @@ tags: ["premature baby", "preemie development", "adjusted age", "corrected age",
 
 If your baby arrived earlier than expected, you are likely navigating a world filled with unfamiliar medical terms, adjusted timelines, and a development path that looks different from what the parenting books describe. As a pediatrician who has cared for hundreds of premature infants, I want to reassure you: most preemies grow up to be healthy, thriving children. Understanding how prematurity affects development -- and knowing when to use adjusted age -- will help you track your baby's progress with realistic expectations and less anxiety.
 
+> 📌 **Key Takeaway:** According to the CDC milestone tracker, 90% of babies sit without support by 9 months and walk independently by 18 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
+
 ## Understanding Prematurity
 
 A full-term pregnancy is considered **37 to 40 weeks**. Babies born before 37 weeks are classified as premature, with further categories based on gestational age:

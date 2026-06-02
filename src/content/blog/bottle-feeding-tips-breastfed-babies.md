@@ -14,6 +14,8 @@ Whether you are heading back to work, want your partner to share feeding duties,
 
 This guide walks you through the best timing, techniques, and troubleshooting strategies to make bottle introduction a positive experience for everyone.
 
+> 📌 **Key Takeaway:** According to the World Health Organization (WHO), exclusive breastfeeding for the first 6 months is recommended for optimal infant health. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [night feeding tips and schedule](/blog/night-feeding-tips-and-schedule/).
+
 ## When to Introduce a Bottle to a Breastfed Baby
 
 Timing matters. The American Academy of Pediatrics (AAP) and most lactation consultants recommend waiting until breastfeeding is well established before introducing an artificial nipple. For most mother-baby pairs, this happens around **3 to 4 weeks of age**.

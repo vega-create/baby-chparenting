@@ -16,6 +16,8 @@ If you've ever played peekaboo with a 6-month-old and watched their face light u
 
 This guide explains how object permanence develops, when each stage happens, and the games that help your baby build this foundational thinking skill.
 
+> 📌 **Key Takeaway:** According to the CDC milestone tracker, 90% of babies sit without support by 9 months and walk independently by 18 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby food stages explained](/blog/baby-food-stages-explained/).
+
 ## What Is Object Permanence?
 
 Object permanence is a concept from developmental psychologist Jean Piaget. He described it as the awareness that objects exist independently of one's perception of them. For a young infant, "out of sight" really does mean "out of mind." When you walk out of the room, you cease to exist for them.

@@ -14,6 +14,8 @@ draft: false
 
 The 18-month sleep regression has a reputation, and for good reason. It often coincides with the start of "big toddler" emotions, language explosions, and the urge to test every limit. Here's what causes it, how long it lasts, and what actually helps.
 
+> 📌 **Key Takeaway:** According to the Sleep Foundation, newborns need 14-17 hours of sleep daily, while 1-year-olds need 11-14 hours. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [four month sleep regression](/blog/four-month-sleep-regression/).
+
 ## What Is the 18-Month Sleep Regression?
 
 The 18-month sleep regression is a temporary period of disrupted sleep occurring between 16 and 20 months. Unlike earlier regressions tied mostly to physical milestones, this one is heavily influenced by emotional and cognitive development.

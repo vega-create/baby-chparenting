@@ -14,6 +14,8 @@ Starting solids is one of the most exciting milestones in your baby's first year
 
 Gone are the days when bland rice cereal was the universally recommended first food. Today, pediatric nutrition experts encourage a diverse, nutrient-rich approach to starting solids. This guide covers the 15 best first foods for your baby, why each one is beneficial, and how to prepare them safely.
 
+> 📌 **Key Takeaway:** According to the CDC, 60% of US babies receive some breast milk at 6 months, but only 25% are exclusively breastfed. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [sensory play activities for babies](/blog/sensory-play-activities-for-babies/).
+
 ## When to Start Solids
 
 The American Academy of Pediatrics and the World Health Organization recommend introducing complementary foods around 6 months of age. Before starting, make sure your baby shows these readiness signs:

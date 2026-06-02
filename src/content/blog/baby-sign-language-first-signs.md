@@ -16,6 +16,8 @@ Babies understand language long before they can speak it. Between 6 and 12 month
 
 This guide covers when to start, how to teach signs, and 20 easy first signs to learn together.
 
+> 📌 **Key Takeaway:** According to the World Health Organization (WHO), exclusive breastfeeding for the first 6 months is recommended for optimal infant health. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby food allergies signs prevention](/blog/baby-food-allergies-signs-prevention/).
+
 ## Does Baby Sign Language Help or Hurt Speech?
 
 This is the most common question parents ask. Decades of research is reassuring:

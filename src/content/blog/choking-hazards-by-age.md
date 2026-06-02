@@ -16,6 +16,8 @@ Choking is the leading cause of unintentional injury death in children under 1 y
 
 This guide gives you a complete, age-organized list of choking hazards, how to safely modify common foods, and what to do if a choking emergency happens.
 
+> 📌 **Key Takeaway:** According to Zero to Three, tantrums peak between 18 months and 3 years, then decline as language develops. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [how much milk by age](/blog/how-much-milk-by-age/).
+
 ## Why Babies and Toddlers Choke
 
 Several factors put young children at higher risk:

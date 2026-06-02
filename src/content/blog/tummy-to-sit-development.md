@@ -16,6 +16,8 @@ The path from a wobbly newborn to a baby who sits independently and reaches for 
 
 This guide walks through that core development path, the muscles involved, what to expect at each stage, and exercises you can do at home to support strong, balanced motor development.
 
+> 📌 **Key Takeaway:** According to the AAP, developmental milestones occur in predictable patterns, but normal range can vary by 4-6 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
+
 ## Why Tummy Time Is the Starting Point
 
 Every motor milestone — head control, rolling, sitting, crawling, standing, walking — has its roots in tummy time. When babies push up against gravity in prone position, they build:

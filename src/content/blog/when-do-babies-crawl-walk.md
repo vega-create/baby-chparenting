@@ -16,6 +16,8 @@ Few milestones generate as much excitement and anticipation as watching your bab
 
 If you are wondering whether your baby is on track or looking for ways to support their physical development, this guide covers everything you need to know about crawling and walking milestones.
 
+> 📌 **Key Takeaway:** According to the CDC milestone tracker, 90% of babies sit without support by 9 months and walk independently by 18 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [when to start solid foods](/blog/when-to-start-solid-foods/).
+
 ## When Do Babies Start Crawling?
 
 Most babies begin crawling between **7 and 10 months** of age, though the range can extend from 6 to 12 months. Some babies skip crawling entirely, moving directly from sitting to pulling up and cruising along furniture. The CDC's 2022 updated developmental milestones actually removed crawling as a required milestone, recognizing that many typically developing babies find alternative ways to get around.

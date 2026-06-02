@@ -14,6 +14,8 @@ Whether you are returning to work, building a freezer stash, or exclusively pump
 
 This comprehensive guide walks you through choosing the [right pump](/blog/best-breast-pumps-guide/), establishing an effective pumping routine, and storing your milk safely following the latest CDC guidelines.
 
+> 📌 **Key Takeaway:** According to the CDC, 60% of US babies receive some breast milk at 6 months, but only 25% are exclusively breastfed. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [how to increase breast milk supply](/blog/how-to-increase-breast-milk-supply/).
+
 ## Types of Breast Pumps
 
 Choosing the right breast pump can make an enormous difference in your pumping experience. Here is a breakdown of the four main types.

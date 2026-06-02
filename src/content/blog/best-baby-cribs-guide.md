@@ -14,6 +14,8 @@ The crib is where your baby will spend more time than anywhere else during their
 
 Every year approximately 3,400 infants die from sleep-related causes in the United States, according to the CDC. Many of these deaths are preventable through safe sleep practices, and it all starts with the crib. This guide covers everything you need to know about crib safety standards, crib types, mattress selection, safe sleep setup, and when to make transitions as your child grows.
 
+> 📌 **Key Takeaway:** According to the Sleep Foundation, newborns need 14-17 hours of sleep daily, while 1-year-olds need 11-14 hours. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [best baby monitors guide](/blog/best-baby-monitors-guide/).
+
 ## Crib Safety Standards
 
 ### Federal Safety Requirements

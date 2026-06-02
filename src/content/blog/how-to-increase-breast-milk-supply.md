@@ -14,6 +14,8 @@ Concerns about milk supply are among the top reasons mothers stop breastfeeding 
 
 This guide provides 12 evidence-based tips to increase your breast milk supply, explains how to distinguish between truly low supply and perceived low supply, and outlines when it is time to seek professional help.
 
+> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), most healthy infants need 2-2.5 oz of formula per pound of body weight per day. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [how much milk by age](/blog/how-much-milk-by-age/).
+
 ## Understanding How Milk Production Works
 
 Before diving into strategies, it is important to understand the biology behind milk production. Breast milk operates on a supply-and-demand principle, regulated by two key hormones:

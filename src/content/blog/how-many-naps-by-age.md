@@ -14,6 +14,8 @@ draft: false
 
 Naps are the unsung heroes of baby sleep. Get them right and nighttime sleep usually falls into place. Get them wrong and even the best bedtime routine can fall apart. Here's the age-by-age guide to how many naps your baby needs and how to handle each transition.
 
+> 📌 **Key Takeaway:** According to a 2023 CDC report, about 1 in 3 US babies under 1 still wakes at least twice a night. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [how much milk by age](/blog/how-much-milk-by-age/).
+
 ## Why Naps Matter
 
 According to the American Academy of Sleep Medicine, daytime sleep supports memory consolidation, mood regulation, and physical growth in infants and toddlers. Skipped naps don't translate into better night sleep; they often produce overtired wakings and early rising.

@@ -16,6 +16,8 @@ Sensory play is any activity that engages your baby's senses -- and it is far mo
 
 This guide explains why sensory play matters, breaks down the seven senses involved, and provides 25 specific age-appropriate activities you can try at home with simple, everyday materials.
 
+> 📌 **Key Takeaway:** According to UNICEF early childhood research, children with engaged caregivers in infancy show 25% better language outcomes by age 3. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [best first foods for babies](/blog/best-first-foods-for-babies/).
+
 ## What Is Sensory Play and Why Does It Matter?
 
 Sensory play is any activity that stimulates one or more of a child's senses. It is not about expensive toys or elaborate setups -- a bowl of cooked pasta, a container of water, or a crinkly piece of paper can provide rich sensory experiences.

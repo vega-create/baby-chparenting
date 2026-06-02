@@ -16,6 +16,8 @@ The bottle is comforting, familiar, and easy. But by 12 to 18 months, it is time
 
 This guide breaks the bottle-to-cup transition into a clear, gentle process that works for most toddlers — including the stubborn ones.
 
+> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), most healthy infants need 2-2.5 oz of formula per pound of body weight per day. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [when to start solid foods](/blog/when-to-start-solid-foods/).
+
 ## Why the Bottle Has to Go
 
 The bottle was designed for newborns who could not control their tongue or swallow safely. Once a baby has the motor skills for cup drinking — usually by 9–12 months — bottles start to cause problems:

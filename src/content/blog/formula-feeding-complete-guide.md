@@ -14,6 +14,8 @@ Whether you have chosen formula feeding from the start, are supplementing alongs
 
 This guide covers everything you need to know about formula feeding, from selecting the right formula to preparing bottles safely and recognizing when something is not agreeing with your baby. For bottle selection guidance, see our [best baby bottles guide](/blog/best-baby-bottles-guide/).
 
+> 📌 **Key Takeaway:** According to the CDC, 60% of US babies receive some breast milk at 6 months, but only 25% are exclusively breastfed. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [tummy time complete guide](/blog/tummy-time-complete-guide/).
+
 ## Types of Infant Formula
 
 Not all formulas are created equal. Understanding the different types will help you and your pediatrician choose the best option for your baby.

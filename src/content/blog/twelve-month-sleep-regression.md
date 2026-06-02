@@ -14,6 +14,8 @@ draft: false
 
 Right around the first birthday, many parents notice their good sleeper suddenly fights bedtime, wakes at night, or refuses naps. Welcome to the 12-month sleep regression, a brief but intense disruption tied to massive developmental change.
 
+> 📌 **Key Takeaway:** According to a 2023 CDC report, about 1 in 3 US babies under 1 still wakes at least twice a night. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [four month sleep regression](/blog/four-month-sleep-regression/).
+
 ## What Is the 12-Month Sleep Regression?
 
 The 12-month sleep regression is a temporary period of disrupted sleep occurring between 11 and 13 months of age. It's often confused with a nap transition because the timing overlaps, but the two issues are distinct.
