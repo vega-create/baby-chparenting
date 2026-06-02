@@ -35,6 +35,45 @@ const pixelNoscript =
   '<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=' +
   pixelId +
   '&ev=PageView&noscript=1" />';
+
+// Organization Schema — appears on every page, tells Google + AI crawlers that
+// a real company (not a personal blog) operates this site. Boosts E-E-A-T for
+// YMYL (Your Money or Your Life) topics like baby health and pregnancy.
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": `${siteConfig.url}#organization`,
+  name: siteConfig.name,
+  legalName: "Mommy Wisdom International LTD. 智慧媽咪國際有限公司",
+  url: siteConfig.url,
+  logo: {
+    "@type": "ImageObject",
+    url: `${siteConfig.url}/favicon.svg`,
+    width: 512,
+    height: 512,
+  },
+  founder: {
+    "@type": "Person",
+    name: "Vega Lin",
+    jobTitle: "Founder",
+  },
+  sameAs: [
+    "https://chparenting.com",
+    "https://baby.chparenting.com",
+    "https://pregnancy.chparenting.com",
+    "https://learn.chparenting.com",
+    "https://mommystartup.com",
+  ],
+  knowsAbout: [
+    "infant care",
+    "baby sleep training",
+    "breastfeeding and formula feeding",
+    "pregnancy week-by-week",
+    "prenatal nutrition",
+    "child development",
+    "evidence-based parenting",
+  ],
+};
 ---
 
 <!doctype html>
@@ -72,6 +111,10 @@ const pixelNoscript =
         />
       )
     }
+    <script
+      type="application/ld+json"
+      set:html={JSON.stringify(organizationSchema)}
+    />
   </head>
   <body>
     <Header />
