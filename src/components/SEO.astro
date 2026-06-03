@@ -49,7 +49,9 @@ const ogImage = new URL(image, Astro.site).toString();
 
 {publishDate && <meta property="article:published_time" content={publishDate} />}
 
-<meta name="google-site-verification" content={siteConfig.verification.google} />
+{siteConfig.verification.google && siteConfig.verification.google !== "YOUR_GSC_VERIFICATION_CODE" && (
+  <meta name="google-site-verification" content={siteConfig.verification.google} />
+)}
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
