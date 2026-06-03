@@ -7,9 +7,6 @@ export const siteConfig = {
   lang: "en",
   locale: "en_US",
   author: "Baby Care Guide Team",
-  verification: {
-    google: "YOUR_GSC_VERIFICATION_CODE",
-  },
   analytics: {
     ga4: "G-EEXQ89S184",
     metaPixel: "1618211680314049",
