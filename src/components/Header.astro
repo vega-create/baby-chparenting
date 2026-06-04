@@ -13,14 +13,11 @@ const isActive = (href: string) => {
     <!-- BRAND -->
     <a href="/" class="flex items-center gap-2 no-underline shrink-0" aria-label={`${siteConfig.name} home`}>
       <span class="brand-mark inline-flex items-center justify-center w-9 h-9 rounded-full bg-[#5B9BD5]/15 text-[#2E6FB8]">
-        <!-- Baby face logo placeholder until real PNG is supplied -->
         <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <circle cx="12" cy="12" r="9" />
           <circle cx="9" cy="11" r="1" fill="currentColor" />
           <circle cx="15" cy="11" r="1" fill="currentColor" />
           <path d="M9.5 15.5c.7.7 1.6 1 2.5 1s1.8-.3 2.5-1" />
-          <path d="M5 7c.5-.7 1.3-1 2-1" />
-          <path d="M19 7c-.5-.7-1.3-1-2-1" />
         </svg>
       </span>
       <span class="font-display text-lg sm:text-xl font-bold text-[#2E6FB8]">{siteConfig.name}</span>
@@ -29,16 +26,61 @@ const isActive = (href: string) => {
     <!-- DESKTOP NAV -->
     <nav class="hidden lg:flex items-center gap-7" aria-label="Primary">
       {siteConfig.nav.map((item) => (
-        <a
-          href={item.href}
-          class={`nav-link text-[15px] font-medium no-underline transition-colors pb-1 border-b-2 ${
-            isActive(item.href)
-              ? "text-[#2E6FB8] border-[#5B9BD5]"
-              : "text-[#1E3A5F] border-transparent hover:text-[#2E6FB8]"
-          }`}
-        >
-          {item.label}
-        </a>
+        item.hasDropdown ? (
+          <div class="nav-dropdown relative group">
+            <a
+              href={item.href}
+              class={`nav-link inline-flex items-center gap-1 text-[15px] font-medium no-underline transition-colors pb-1 border-b-2 ${
+                isActive(item.href) ? "text-[#2E6FB8] border-[#5B9BD5]" : "text-[#1E3A5F] border-transparent hover:text-[#2E6FB8]"
+              }`}
+              aria-haspopup="true"
+              aria-expanded="false"
+            >
+              {item.label}
+              <svg class="w-3 h-3 transition-transform group-hover:rotate-180" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="6 9 12 15 18 9"/></svg>
+            </a>
+            <!-- MEGA MENU -->
+            <div class="dropdown-panel hidden group-hover:block absolute right-0 top-full pt-3" role="menu">
+              <div class="bg-white rounded-2xl shadow-2xl border border-[#E6F0FB] p-5 w-[640px] grid grid-cols-2 gap-4">
+                {siteConfig.toolsMenu.map((g) => (
+                  <div>
+                    <div class="flex items-center gap-2 mb-2.5">
+                      <span class="inline-flex items-center justify-center w-7 h-7 rounded-lg" style={`background:${g.color}25; color:${g.color};`} aria-hidden="true">
+                        {g.icon === "moon"     && <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>}
+                        {g.icon === "bottle"   && <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="8" y="9" width="8" height="13" rx="2"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/></svg>}
+                        {g.icon === "ruler"    && <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="6" y="3" width="4" height="18" rx="1"/></svg>}
+                        {g.icon === "blocks"   && <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="13" width="8" height="8" rx="1"/><rect x="13" y="13" width="8" height="8" rx="1"/><rect x="8" y="3" width="8" height="8" rx="1"/></svg>}
+                        {g.icon === "stroller" && <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13a7 7 0 0 1 7-7v7H5z"/><circle cx="8" cy="20" r="1.5"/><circle cx="15" cy="20" r="1.5"/></svg>}
+                      </span>
+                      <h4 class="text-xs font-bold uppercase tracking-wider m-0" style={`color:${g.color};`}>{g.group}</h4>
+                    </div>
+                    <ul class="list-none m-0 p-0 space-y-0.5">
+                      {g.items.map((tool) => (
+                        <li>
+                          <a href={tool.href} class="block text-sm text-[#1E3A5F] hover:text-[#2E6FB8] hover:bg-[#E6F0FB] no-underline px-2.5 py-1.5 rounded-lg transition-colors">{tool.label}</a>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                ))}
+                <div class="col-span-2 border-t border-[#E6F0FB] pt-3 mt-1">
+                  <a href="/tools/" class="flex items-center justify-between text-sm font-semibold text-[#2E6FB8] hover:text-[#5B9BD5] no-underline py-1">
+                    View all tools <span aria-hidden="true">→</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        ) : (
+          <a
+            href={item.href}
+            class={`nav-link text-[15px] font-medium no-underline transition-colors pb-1 border-b-2 ${
+              isActive(item.href) ? "text-[#2E6FB8] border-[#5B9BD5]" : "text-[#1E3A5F] border-transparent hover:text-[#2E6FB8]"
+            }`}
+          >
+            {item.label}
+          </a>
+        )
       ))}
     </nav>
 
@@ -69,16 +111,40 @@ const isActive = (href: string) => {
   <div id="mobile-menu" class="lg:hidden hidden border-t border-[#E6F0FB] bg-white">
     <ul class="list-none m-0 p-0">
       {siteConfig.nav.map((item) => (
-        <li>
-          <a
-            href={item.href}
-            class={`block px-5 py-3 no-underline border-b border-[#E6F0FB] text-[15px] ${
-              isActive(item.href) ? "text-[#2E6FB8] font-semibold bg-[#E6F0FB]/40" : "text-[#1E3A5F]"
-            }`}
-          >
-            {item.label}
-          </a>
-        </li>
+        item.hasDropdown ? (
+          <li>
+            <details class="border-b border-[#E6F0FB]">
+              <summary class="flex items-center justify-between px-5 py-3 cursor-pointer text-[15px] text-[#1E3A5F] font-medium">
+                {item.label}
+                <svg class="w-3.5 h-3.5 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="6 9 12 15 18 9"/></svg>
+              </summary>
+              <div class="px-5 pb-3 bg-[#F1F7FD]">
+                {siteConfig.toolsMenu.map((g) => (
+                  <div class="py-2">
+                    <h4 class="text-[10px] font-bold uppercase tracking-wider mb-1.5" style={`color:${g.color};`}>{g.group}</h4>
+                    <ul class="list-none m-0 p-0 space-y-0.5">
+                      {g.items.map((tool) => (
+                        <li><a href={tool.href} class="block text-sm text-[#1E3A5F] no-underline py-1.5">{tool.label}</a></li>
+                      ))}
+                    </ul>
+                  </div>
+                ))}
+                <a href="/tools/" class="block text-sm font-semibold text-[#2E6FB8] no-underline py-2 border-t border-[#D5E6F4]">View all tools →</a>
+              </div>
+            </details>
+          </li>
+        ) : (
+          <li>
+            <a
+              href={item.href}
+              class={`block px-5 py-3 no-underline border-b border-[#E6F0FB] text-[15px] ${
+                isActive(item.href) ? "text-[#2E6FB8] font-semibold bg-[#E6F0FB]/40" : "text-[#1E3A5F]"
+              }`}
+            >
+              {item.label}
+            </a>
+          </li>
+        )
       ))}
       <li class="px-5 py-4">
         <a href={siteConfig.parentsCtaUrl} class="inline-flex items-center gap-1.5 bg-[#5B9BD5] text-white text-sm font-semibold px-5 py-2.5 rounded-full no-underline">
@@ -88,6 +154,13 @@ const isActive = (href: string) => {
     </ul>
   </div>
 </header>
+
+<style>
+  /* Keep the dropdown open while the user crosses the gap between
+     the trigger and the panel (the pt-3 spacer carries the hover). */
+  .nav-dropdown:hover .dropdown-panel,
+  .nav-dropdown:focus-within .dropdown-panel { display: block; }
+</style>
 
 <script>
   const btn = document.getElementById("mobile-menu-btn");

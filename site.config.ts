@@ -36,9 +36,53 @@ export const siteConfig = {
     { label: "Feeding",     href: "/feeding/" },
     { label: "Development", href: "/development/" },
     { label: "Gear",        href: "/gear/" },
-    { label: "Tools",       href: "/tools/" },
+    { label: "Tools",       href: "/tools/", hasDropdown: true },
     { label: "Blog",        href: "/blog/" },
     { label: "About",       href: "/about/" },
+  ],
+  // Tools dropdown — grouped by category for the header mega-menu.
+  // Color matches the per-category icon on the Tools page.
+  toolsMenu: [
+    {
+      group: "Sleep", color: "#5B9BD5", icon: "moon",
+      items: [
+        { label: "Sleep Tracker",      href: "/tools/sleep-tracker/" },
+        { label: "Bedtime Calculator", href: "/tools/bedtime-calculator/" },
+        { label: "White Noise",        href: "/tools/white-noise/" },
+      ],
+    },
+    {
+      group: "Feeding", color: "#7BC0A0", icon: "bottle",
+      items: [
+        { label: "Feeding Timer",      href: "/tools/feeding-timer/" },
+        { label: "Bottle Calculator",  href: "/tools/bottle-calculator/" },
+        { label: "Solids Readiness",   href: "/tools/solids-readiness/" },
+      ],
+    },
+    {
+      group: "Growth & Development", color: "#E8B86E", icon: "ruler",
+      items: [
+        { label: "Growth Calculator",  href: "/tools/growth-calculator/" },
+        { label: "Milestone Checker",  href: "/tools/milestone-checker/" },
+        { label: "Tummy Time Tracker", href: "/tools/tummy-time/" },
+        { label: "Language Quiz",      href: "/tools/language-quiz/" },
+      ],
+    },
+    {
+      group: "Names", color: "#A89BD4", icon: "blocks",
+      items: [
+        { label: "Name Generator",     href: "/tools/name-generator/" },
+        { label: "Sibling Names",      href: "/tools/sibling-names/" },
+        { label: "Name Trends",        href: "/tools/name-trends/" },
+      ],
+    },
+    {
+      group: "Gear & Safety", color: "#B68C73", icon: "stroller",
+      items: [
+        { label: "Diaper Size Guide",  href: "/tools/diaper-size/" },
+        { label: "Car Seat Finder",    href: "/tools/car-seat-finder/" },
+      ],
+    },
   ],
   // Top-right header CTA.
   parentsCtaUrl:   "/about/",
