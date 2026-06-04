@@ -1,131 +1,216 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import Breadcrumb from "../../components/Breadcrumb.astro";
-import ArticleCard from "../../components/ArticleCard.astro";
+import { siteConfig } from "../../../site.config";
 import { getCollection } from "astro:content";
 
+// All published posts, newest first.
 const now = new Date();
-const allPosts = await getCollection("blog", ({ data }) => !data.draft && data.publishDate <= now);
-const posts = allPosts.sort(
-  (a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime(),
-);
+const allPosts = (await getCollection("blog", ({ data }) => !data.draft && data.publishDate <= now))
+  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
 
-const categories = [
-  { id: "all", label: "All Articles", emoji: "📚" },
-  { id: "sleep", label: "Sleep", emoji: "🌙" },
-  { id: "names", label: "Names", emoji: "👶" },
-  { id: "feeding", label: "Feeding", emoji: "🍼" },
-  { id: "gear", label: "Gear", emoji: "🛒" },
-  { id: "development", label: "Development", emoji: "📈" },
+// Category counts for the sidebar.
+const categoryDefs = [
+  { id: "sleep",       label: "Sleep",       color: "#5B9BD5" },
+  { id: "feeding",     label: "Feeding",     color: "#7BC0A0" },
+  { id: "development", label: "Development", color: "#E8B86E" },
+  { id: "parenting",   label: "Parenting",   color: "#A89BD4" },
+  { id: "gear",        label: "Gear",        color: "#B68C73" },
+  { id: "health",      label: "Health",      color: "#E89BAE" },
+  { id: "activities",  label: "Activities",  color: "#7FB6C9" },
 ];
 
-// Count articles per category
-const counts: Record<string, number> = { all: posts.length };
-for (const p of posts) {
-  const cat = p.data.category || "uncategorized";
+const counts: Record<string, number> = {};
+for (const p of allPosts) {
+  const cat = (p.data.category || "uncategorized").toLowerCase();
   counts[cat] = (counts[cat] || 0) + 1;
 }
+
+const popularPosts = allPosts.slice(0, 4);
+
+// Category pill colour per slug (default soft blue).
+const catColor = (slug: string | undefined) => {
+  const c = categoryDefs.find((c) => c.id === (slug || "").toLowerCase());
+  return c ? c.color : "#5B9BD5";
+};
 ---
 
 <BaseLayout
-  title="Baby Care Blog"
-  description="Expert articles on baby sleep, feeding, development, gear reviews, and baby names."
+  title={`Baby Care Blog — ${siteConfig.name}`}
+  description="Expert articles for every stage of your baby's first years. Sleep, feeding, development, parenting tips and more."
 >
-  <section class="max-w-5xl mx-auto px-4 py-10">
-    <Breadcrumb items={[{ label: "Home", href: "/" }, { label: "Blog" }]} />
-    <h1 class="mb-3">Baby Care Blog</h1>
-    <p class="text-lg text-[#9CA3AF] mb-8">
-      Evidence-based articles for every stage of your baby's development.
-    </p>
-
-    {/* Category filter tabs */}
-    <div class="flex flex-wrap gap-2 mb-10" id="category-filters">
-      {categories.map((cat) => (
-        <button
-          type="button"
-          data-category={cat.id}
-          class:list={[
-            "filter-btn px-4 py-2 text-sm font-medium rounded-full transition",
-            cat.id === "all"
-              ? "bg-[#93C5FD] text-[#1D4ED8]"
-              : "bg-blue-50 text-[#1E293B] hover:bg-blue-100",
-          ]}
-        >
-          {cat.emoji} {cat.label}
-          {counts[cat.id] !== undefined && (
-            <span class="ml-1 text-xs opacity-70">({counts[cat.id]})</span>
-          )}
-        </button>
-      ))}
-    </div>
-
-    {/* Articles grid */}
-    {posts.length > 0 ? (
-      <div class="grid gap-6 md:grid-cols-2" id="articles-grid">
-        {posts.map((post) => (
-          <div data-cat={post.data.category || "uncategorized"} class="article-item">
-            <ArticleCard
-              title={post.data.title}
-              description={post.data.description || ""}
-              category={post.data.category || ""}
-              href={`/blog/${post.data.slug}/`}
-              image={post.data.image}
-            />
-          </div>
-        ))}
-      </div>
-    ) : (
-      <div class="card text-center py-16">
-        <p class="text-4xl mb-3">📝</p>
-        <p class="text-[#1E293B] font-medium mb-2">Articles are on the way</p>
-        <p class="text-sm text-[#9CA3AF] mb-5">
-          We're carefully writing evidence-based articles for every stage.
+  <!-- ───────── HERO ───────── -->
+  <section class="relative bg-gradient-to-b from-[#F1F7FD] to-[#E6F0FB] overflow-hidden">
+    <div class="max-w-7xl mx-auto px-5 pt-12 md:pt-16 pb-16 md:pb-20 grid lg:grid-cols-2 gap-10 items-center">
+      <div>
+        <span class="inline-flex items-center gap-1.5 text-xs font-semibold text-[#2E6FB8] bg-white/80 px-3 py-1.5 rounded-full mb-5"><span aria-hidden="true">♡</span> OUR BLOG</span>
+        <h1 class="font-display text-[#1E3A5F] leading-[1.1] mb-5 text-4xl md:text-5xl lg:text-6xl">Baby Care Blog</h1>
+        <p class="text-[#5A6F89] text-base md:text-lg leading-relaxed max-w-md mb-4">
+          Expert articles for every stage of your baby's first years.
         </p>
-        <a href="/tools/" class="btn-primary">Explore tools</a>
+        <p class="text-sm text-[#6B7B91]">Helpful tips. Trusted advice. Real support.</p>
+        <p class="mt-5 font-display italic text-[#5B9BD5] text-lg">You're doing great, mama. <span aria-hidden="true">♡</span></p>
       </div>
-    )}
-
-    {/* Empty state for filtered results */}
-    <div id="no-results" class="card text-center py-12 hidden">
-      <p class="text-4xl mb-3">🔍</p>
-      <p class="text-[#1E293B] font-medium mb-2">No articles in this category yet</p>
-      <p class="text-sm text-[#9CA3AF]">Check back soon — we're writing more every week.</p>
+      <div class="relative">
+        <div class="aspect-[4/3] rounded-3xl overflow-hidden bg-gradient-to-br from-[#E6F0FB] via-[#FBF0E6] to-[#FBE6EE] shadow-md flex items-center justify-center text-[#6B7B91] text-sm">
+          <span class="opacity-50">Blog hero photo</span>
+        </div>
+        <span class="absolute -top-2 left-6 text-2xl opacity-70" aria-hidden="true">⭐</span>
+        <span class="absolute top-5 -right-2 text-2xl opacity-70" aria-hidden="true">☁️</span>
+      </div>
     </div>
+  </section>
+
+  <!-- ───────── BLOG LAYOUT: ARTICLES + SIDEBAR ───────── -->
+  <section class="max-w-7xl mx-auto px-5 py-14 grid lg:grid-cols-[1fr_320px] gap-10">
+    <!-- ARTICLES LIST -->
+    <div>
+      <div class="flex items-center justify-between mb-6">
+        <h2 class="font-display text-2xl text-[#1E3A5F] m-0">Latest Articles</h2>
+        <label class="text-sm text-[#6B7B91] flex items-center gap-2">
+          Sort by:
+          <select class="px-3 py-1.5 rounded-full border border-[#D5E6F4] bg-white text-[#1E3A5F] text-sm">
+            <option>Latest</option>
+            <option>Oldest</option>
+            <option>Popular</option>
+          </select>
+        </label>
+      </div>
+
+      {allPosts.length > 0 ? (
+        <div class="flex flex-col gap-5" id="articles-grid">
+          {allPosts.map((p) => (
+            <a href={`/blog/${p.data.slug || p.slug}/`} data-cat={(p.data.category || "").toLowerCase()} class="article-item group flex flex-col sm:flex-row gap-4 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow no-underline">
+              <div class="sm:w-56 shrink-0">
+                {p.data.image ? (
+                  <img src={p.data.image} alt={p.data.title} class="w-full h-44 sm:h-full object-cover object-center" loading="lazy" />
+                ) : (
+                  <div class="w-full h-44 sm:h-full bg-gradient-to-br from-[#E6F0FB] to-[#FBE6EE]"></div>
+                )}
+              </div>
+              <div class="flex-1 p-5">
+                {p.data.category && (
+                  <span class="inline-block text-[10px] font-bold uppercase tracking-wider px-2.5 py-1 rounded-full mb-3" style={`background:${catColor(p.data.category)}25; color:${catColor(p.data.category)};`}>{p.data.category}</span>
+                )}
+                <h3 class="font-display text-lg font-bold text-[#1E3A5F] mb-2 leading-snug group-hover:text-[#2E6FB8] transition-colors">{p.data.title}</h3>
+                <p class="text-sm text-[#6B7B91] leading-relaxed line-clamp-2 mb-3">{p.data.description}</p>
+                <div class="flex items-center gap-3 text-xs text-[#6B7B91]">
+                  <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-[#E6F0FB] text-[#2E6FB8]" aria-hidden="true">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M12 12a5 5 0 1 0 0-10 5 5 0 0 0 0 10zm0 2c-4 0-8 2-8 6v2h16v-2c0-4-4-6-8-6z"/></svg>
+                  </span>
+                  <span>By Baby Care Team</span>
+                  <span aria-hidden="true">·</span>
+                  <span>{new Date(p.data.publishDate).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}</span>
+                  {p.data.readTime && <><span aria-hidden="true">·</span><span>{p.data.readTime}</span></>}
+                </div>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="text-[#6B7B91]">Articles coming soon.</p>
+      )}
+
+      <div class="text-center mt-10">
+        <button type="button" class="inline-flex items-center gap-2 bg-white border border-[#D5E6F4] hover:border-[#5B9BD5] hover:text-[#2E6FB8] text-[#1E3A5F] text-sm font-semibold px-6 py-2.5 rounded-full transition-colors">
+          Load More Articles <span aria-hidden="true">↓</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- SIDEBAR -->
+    <aside class="space-y-7">
+      <!-- Search -->
+      <form action="/blog/" method="get" class="relative">
+        <input type="search" name="q" placeholder="Search articles..." class="w-full px-4 py-3 pr-10 rounded-full bg-white border border-[#D5E6F4] text-sm text-[#1E3A5F] placeholder:text-[#94A8C2]" />
+        <button type="submit" class="absolute right-3 top-1/2 -translate-y-1/2 w-7 h-7 inline-flex items-center justify-center rounded-full text-[#2E6FB8]" aria-label="Search">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        </button>
+      </form>
+
+      <!-- Categories -->
+      <div class="bg-white rounded-2xl p-5 shadow-sm">
+        <h3 class="font-display font-bold text-[#1E3A5F] mb-4">Categories</h3>
+        <ul class="space-y-2 m-0 p-0 list-none">
+          {categoryDefs.map((c) => (
+            <li>
+              <a href={`/${c.id}/`} class="flex items-center justify-between text-sm text-[#1E3A5F] hover:text-[#2E6FB8] no-underline py-1.5">
+                <span class="flex items-center gap-2">
+                  <span class="w-2 h-2 rounded-full" style={`background:${c.color};`}></span>
+                  {c.label}
+                </span>
+                <span class="text-xs text-[#94A8C2]">{counts[c.id] || 0}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Popular Articles -->
+      {popularPosts.length > 0 && (
+        <div class="bg-white rounded-2xl p-5 shadow-sm">
+          <h3 class="font-display font-bold text-[#1E3A5F] mb-4">Popular Articles</h3>
+          <ul class="space-y-3 m-0 p-0 list-none">
+            {popularPosts.map((p) => (
+              <li>
+                <a href={`/blog/${p.data.slug || p.slug}/`} class="flex gap-3 no-underline">
+                  {p.data.image ? (
+                    <img src={p.data.image} alt="" class="w-14 h-14 rounded-lg object-cover shrink-0" loading="lazy" />
+                  ) : (
+                    <span class="w-14 h-14 rounded-lg bg-gradient-to-br from-[#E6F0FB] to-[#FBE6EE] shrink-0"></span>
+                  )}
+                  <div class="flex-1">
+                    <h4 class="text-xs font-bold text-[#1E3A5F] leading-snug line-clamp-2 mb-1">{p.data.title}</h4>
+                    <span class="text-[10px] text-[#94A8C2]">{new Date(p.data.publishDate).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}</span>
+                  </div>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      <!-- Newsletter -->
+      <div class="bg-gradient-to-br from-[#E6F0FB] to-[#D5E6F4] rounded-2xl p-5">
+        <h3 class="font-display font-bold text-[#1E3A5F] mb-1">Stay in the Loop</h3>
+        <p class="text-xs text-[#6B7B91] mb-3 leading-relaxed">Get helpful tips and updates delivered to your inbox.</p>
+        <form action="#" onsubmit="event.preventDefault();" class="space-y-2">
+          <input type="email" placeholder="Your email address" class="w-full px-4 py-2.5 rounded-full bg-white text-sm text-[#1E3A5F] border border-transparent" />
+          <button type="submit" class="w-full bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white text-sm font-semibold px-4 py-2.5 rounded-full transition-colors">
+            Subscribe <span aria-hidden="true">♡</span>
+          </button>
+        </form>
+      </div>
+
+      <!-- Follow Us -->
+      <div class="bg-white rounded-2xl p-5 shadow-sm">
+        <h3 class="font-display font-bold text-[#1E3A5F] mb-2">Follow Us</h3>
+        <p class="text-xs text-[#6B7B91] mb-4 leading-relaxed">Join our community for daily tips, real moments, and encouragement.</p>
+        <div class="flex items-center gap-2.5">
+          <a href={siteConfig.social.instagram} aria-label="Instagram" target="_blank" rel="noopener" class="sidebar-social"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.16c3.2 0 3.58.01 4.85.07 3.25.15 4.77 1.69 4.92 4.92.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.15 3.23-1.66 4.77-4.92 4.92-1.27.06-1.64.07-4.85.07-3.2 0-3.58-.01-4.85-.07-3.26-.15-4.77-1.7-4.92-4.92-.06-1.27-.07-1.64-.07-4.85 0-3.2.01-3.58.07-4.85.15-3.23 1.66-4.77 4.92-4.92C8.42 2.17 8.8 2.16 12 2.16zM12 0C8.74 0 8.33.01 7.05.07 2.7.27.28 2.69.08 7.05.01 8.33 0 8.74 0 12c0 3.26.01 3.67.07 4.95.2 4.36 2.62 6.78 6.98 6.98C8.33 23.99 8.74 24 12 24c3.26 0 3.67-.01 4.95-.07 4.35-.2 6.78-2.62 6.98-6.98.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95C23.73 2.69 21.31.27 16.95.07 15.67.01 15.26 0 12 0z"/></svg></a>
+          <a href={siteConfig.social.facebook} aria-label="Facebook" target="_blank" rel="noopener" class="sidebar-social"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.07C24 5.4 18.63 0 12 0S0 5.4 0 12.07c0 5.99 4.39 10.96 10.13 11.85v-8.38H7.08v-3.47h3.05V9.43c0-3 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88v2.24h3.33l-.53 3.47h-2.8v8.38C19.61 23.03 24 18.06 24 12.07z"/></svg></a>
+          <a href={siteConfig.social.pinterest} aria-label="Pinterest" target="_blank" rel="noopener" class="sidebar-social"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.08 3.16 9.42 7.62 11.17-.1-.95-.2-2.4.04-3.44.22-.94 1.41-5.97 1.41-5.97s-.36-.72-.36-1.78c0-1.67.97-2.92 2.17-2.92 1.02 0 1.52.77 1.52 1.69 0 1.03-.66 2.57-1 4-.28 1.19.6 2.17 1.78 2.17 2.13 0 3.77-2.25 3.77-5.5 0-2.87-2.06-4.88-5.01-4.88-3.41 0-5.42 2.56-5.42 5.21 0 1.03.4 2.14.89 2.74.1.12.11.22.08.34l-.33 1.36c-.05.22-.17.27-.4.16-1.5-.7-2.44-2.89-2.44-4.65 0-3.79 2.75-7.26 7.93-7.26 4.17 0 7.4 2.97 7.4 6.93 0 4.14-2.61 7.47-6.23 7.47-1.22 0-2.36-.63-2.75-1.38l-.75 2.85c-.27 1.04-1 2.35-1.49 3.15 1.12.35 2.32.53 3.55.53C18.63 24 24 18.63 24 12 24 5.37 18.63 0 12 0z"/></svg></a>
+          <a href={siteConfig.social.youtube} aria-label="YouTube" target="_blank" rel="noopener" class="sidebar-social"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.4 3.5 12 3.5 12 3.5s-7.4 0-9.4.6A3 3 0 0 0 .5 6.2 31.2 31.2 0 0 0 0 12a31.2 31.2 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c2 .6 9.4.6 9.4.6s7.4 0 9.4-.6a3 3 0 0 0 2.1-2.1A31.2 31.2 0 0 0 24 12a31.2 31.2 0 0 0-.5-5.8zM9.6 15.6V8.4l6.2 3.6-6.2 3.6z"/></svg></a>
+        </div>
+      </div>
+    </aside>
   </section>
 </BaseLayout>
 
-<script>
-  const btns = document.querySelectorAll<HTMLButtonElement>(".filter-btn");
-  const items = document.querySelectorAll<HTMLElement>(".article-item");
-  const noResults = document.getElementById("no-results");
-
-  btns.forEach((btn) => {
-    btn.addEventListener("click", () => {
-      const cat = btn.dataset.category;
-
-      // Update active button style
-      btns.forEach((b) => {
-        b.classList.remove("bg-[#93C5FD]", "text-[#1D4ED8]");
-        b.classList.add("bg-blue-50", "text-[#1E293B]");
-      });
-      btn.classList.remove("bg-blue-50", "text-[#1E293B]");
-      btn.classList.add("bg-[#93C5FD]", "text-[#1D4ED8]");
-
-      // Filter articles
-      let visible = 0;
-      items.forEach((item) => {
-        if (cat === "all" || item.dataset.cat === cat) {
-          item.style.display = "";
-          visible++;
-        } else {
-          item.style.display = "none";
-        }
-      });
-
-      // Show/hide no-results message
-      if (noResults) {
-        noResults.classList.toggle("hidden", visible > 0);
-      }
-    });
-  });
-</script>
+<style>
+  .sidebar-social {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: #E6F0FB;
+    color: #2E6FB8;
+    transition: background 0.15s, color 0.15s, transform 0.15s;
+  }
+  .sidebar-social:hover {
+    background: #5B9BD5;
+    color: #fff;
+    transform: translateY(-2px);
+  }
+</style>

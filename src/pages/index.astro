@@ -1,179 +1,221 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import ToolCard from "../components/ToolCard.astro";
-import ArticleCard from "../components/ArticleCard.astro";
 import { siteConfig } from "../../site.config";
 import { getCollection } from "astro:content";
 
+// Latest 4 published posts for the homepage feed.
 const now = new Date();
-const allPosts = await getCollection("blog", ({ data }) => !data.draft && data.publishDate <= now);
-const latestPosts = allPosts
+const latestPosts = (await getCollection("blog", ({ data }) => !data.draft && data.publishDate <= now))
   .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime())
-  .slice(0, 3);
+  .slice(0, 4);
 
+// 4 promise pills — sit overlapping the hero bottom.
+const promises = [
+  { color: "#5B9BD5", bg: "#E6F0FB", title: "Sleep",       desc: "Better sleep for baby & you",       icon: "moon"   },
+  { color: "#7BC0A0", bg: "#DDF0E5", title: "Feeding",     desc: "From breast to baby's first bites", icon: "bottle" },
+  { color: "#E8B86E", bg: "#FBEED5", title: "Growth",      desc: "Track growth and milestones",        icon: "chart"  },
+  { color: "#A89BD4", bg: "#E4DEF0", title: "Development", desc: "Nurture skills every step of the way", icon: "sprout" },
+];
+
+// 4 main guides — link to existing category pages.
+const guides = [
+  { title: "Sleep Guide",       href: "/sleep/",       gradient: "from-[#E6F0FB] to-[#D4E5F2]", lines: "Schedules, routines<br/>& sleep tips" },
+  { title: "Feeding Guide",     href: "/feeding/",     gradient: "from-[#DDF0E5] to-[#C3E2CF]", lines: "Breastfeeding, formula<br/>& baby foods" },
+  { title: "Development Guide", href: "/development/", gradient: "from-[#FBEED5] to-[#F4DCB0]", lines: "Milestones, activities<br/>& play ideas" },
+  { title: "Gear Guide",        href: "/gear/",        gradient: "from-[#E4DEF0] to-[#CFC2E2]", lines: "Reviews & recommendations<br/>for baby essentials" },
+];
+
+// 5 free tools shown in the homepage strip.
 const tools = [
-  {
-    icon: "😴",
-    title: "Sleep Tracker",
-    description: "Track naps, nighttime sleep, and build healthy sleep routines by age.",
-    href: "/tools/",
-  },
-  {
-    icon: "🍼",
-    title: "Feeding Timer",
-    description: "Time breastfeeding sessions, bottle feeds, and track daily intake.",
-    href: "/tools/",
-  },
-  {
-    icon: "📊",
-    title: "Growth Tracker",
-    description: "Plot your baby's weight and length on WHO growth percentile charts.",
-    href: "/tools/",
-  },
-  {
-    icon: "👶",
-    title: "Name Generator",
-    description: "Discover the perfect baby name with meanings, origins, and popularity.",
-    href: "/tools/",
-  },
-  {
-    icon: "🏆",
-    title: "Milestone Tracker",
-    description: "Track developmental milestones from newborn to 24 months.",
-    href: "/tools/",
-  },
+  { title: "Sleep Tracker",     href: "/tools/sleep-tracker/",     icon: "moon",   sub: "Track naps and<br/>nighttime sleep" },
+  { title: "Feeding Timer",     href: "/tools/feeding-timer/",     icon: "bottle", sub: "Track feeds and<br/>daily intake" },
+  { title: "Growth Tracker",    href: "/tools/growth-tracker/",    icon: "chart",  sub: "Monitor growth<br/>percentiles" },
+  { title: "Milestone Tracker", href: "/tools/milestone-tracker/", icon: "feet",   sub: "Track developmental<br/>milestones" },
+  { title: "Name Generator",    href: "/names/",                   icon: "star",   sub: "Discover the perfect<br/>baby name" },
 ];
 
-const categories = [
-  { icon: "🌙", label: "Sleep", href: "/sleep/", description: "Sleep training, schedules & safe sleep" },
-  { icon: "👶", label: "Names", href: "/names/", description: "Baby name ideas, meanings & trends" },
-  { icon: "🍼", label: "Feeding", href: "/feeding/", description: "Breastfeeding, formula & solids" },
-  { icon: "🛒", label: "Gear", href: "/gear/", description: "Reviews, comparisons & buying guides" },
-  { icon: "📈", label: "Development", href: "/development/", description: "Milestones, growth & learning" },
+const trustPills = [
+  { color: "#5B9BD5", title: "Expert-Reviewed", desc: "All content is reviewed by health professionals." },
+  { color: "#E89BAE", title: "Parent-Focused",  desc: "Real-life advice for real parenting journeys." },
+  { color: "#A89BD4", title: "Here for You",    desc: "Support and encouragement every step of the way." },
 ];
-
-const featuredArticles = latestPosts.map((post) => ({
-  title: post.data.title,
-  description: post.data.description || "",
-  category: post.data.category || "",
-  href: `/blog/${post.data.slug}/`,
-  image: post.data.image || "",
-}));
 ---
 
 <BaseLayout
-  title={`${siteConfig.name} — ${siteConfig.tagline}`}
+  title={`${siteConfig.name} — ${siteConfig.shortTagline}`}
   description={siteConfig.description}
 >
-  <!-- Hero -->
-  <section class="relative overflow-hidden min-h-[480px] md:min-h-[540px] flex items-center">
-    <!-- Background image -->
-    <img
-      src="https://images.pexels.com/photos/3662849/pexels-photo-3662849.jpeg?auto=compress&cs=tinysrgb&w=1920"
-      alt=""
-      class="absolute inset-0 w-full h-full object-cover object-center"
-      loading="eager"
-    />
-    <!-- Blue overlay -->
-    <div class="absolute inset-0 bg-gradient-to-r from-[#1E293B]/60 via-[#1E293B]/30 to-transparent"></div>
-    <div class="absolute inset-0 bg-[#3B82F6]/15"></div>
-
-    <div class="relative z-10 max-w-6xl mx-auto px-4 py-20 md:py-28 text-center">
-      <span class="inline-block text-sm font-semibold text-white bg-white/20 backdrop-blur-sm px-4 py-1.5 rounded-full mb-6 border border-white/30">
-        👶 Free tools for new parents
-      </span>
-      <h1 class="font-display mb-6 text-white drop-shadow-lg">
-        Complete Baby<br />Care Guide
-      </h1>
-      <p class="max-w-2xl mx-auto text-lg text-white/90 mb-8 drop-shadow">
-        Expert guides for sleep, feeding, development & more —
-        from newborn to toddler.
-      </p>
-      <div class="flex flex-wrap gap-3 justify-center">
-        <a href="/sleep/" class="btn-primary">
-          🌙 Sleep guides
-        </a>
-        <a
-          href="/tools/"
-          class="btn-primary !bg-white !border-white !text-[#1D4ED8] hover:!bg-[#3B82F6] hover:!text-white"
-        >
-          🛠️ Explore tools
+  <!-- ───────── HERO ───────── -->
+  <section class="relative bg-gradient-to-b from-[#F1F7FD] to-[#E6F0FB] overflow-hidden">
+    <div class="max-w-7xl mx-auto px-5 pt-12 md:pt-16 pb-28 md:pb-36 grid lg:grid-cols-2 gap-10 items-center">
+      <div>
+        <span class="inline-flex items-center gap-1.5 text-xs font-semibold text-[#2E6FB8] bg-white/80 px-3 py-1.5 rounded-full mb-5">
+          <span aria-hidden="true">♡</span> {siteConfig.tagline}
+        </span>
+        <h1 class="font-display text-[#1E3A5F] leading-[1.1] mb-5 text-4xl md:text-5xl lg:text-6xl">
+          Complete<br/>Baby Care Guide
+        </h1>
+        <p class="text-[#5A6F89] text-base md:text-lg leading-relaxed max-w-md mb-7">
+          Evidence-based support for sleep, feeding, development, and everyday parenting.
+        </p>
+        <a href="#guides" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white font-semibold px-6 py-3 rounded-full no-underline transition-colors">
+          Explore Guides <span aria-hidden="true">→</span>
         </a>
       </div>
+
+      <!-- Hero image placeholder — full photo will land here -->
+      <div class="relative">
+        <div class="aspect-[4/3] rounded-3xl overflow-hidden bg-gradient-to-br from-[#E6F0FB] via-[#F0E6FB] to-[#FBF0E6] shadow-lg flex items-center justify-center text-[#6B7B91] text-sm">
+          <span class="opacity-50">Baby hero photo</span>
+        </div>
+        <!-- Floating decorations -->
+        <span class="absolute -top-2 -left-3 text-3xl opacity-70" aria-hidden="true">⭐</span>
+        <span class="absolute top-10 -right-2 text-3xl opacity-70" aria-hidden="true">⭐</span>
+        <span class="absolute bottom-8 -left-4 text-2xl opacity-60" aria-hidden="true">☁️</span>
+      </div>
+    </div>
+
+    <!-- Wavy bottom edge into next section -->
+    <svg class="block w-full text-white" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0,30 C360,60 720,0 1080,30 C1260,45 1380,15 1440,30 L1440,60 L0,60 Z" fill="currentColor"/>
+    </svg>
+  </section>
+
+  <!-- ───────── 4 PROMISE PILLS (overlap hero bottom) ───────── -->
+  <section class="relative -mt-20 mb-16 px-5">
+    <div class="max-w-6xl mx-auto bg-white/90 backdrop-blur-sm rounded-2xl shadow-md py-7 px-6 grid grid-cols-2 lg:grid-cols-4 gap-6">
+      {promises.map((p) => (
+        <div class="flex items-center gap-3">
+          <span class="inline-flex items-center justify-center w-12 h-12 rounded-full shrink-0" style={`background:${p.bg}; color:${p.color};`}>
+            {p.icon === "moon"   && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>}
+            {p.icon === "bottle" && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="9" width="8" height="13" rx="2"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/><path d="M10 4h4"/><path d="M9 14h6"/></svg>}
+            {p.icon === "chart"  && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21v-7m6 7V10m6 11v-5m6 5V4"/></svg>}
+            {p.icon === "sprout" && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 20h10"/><path d="M12 20V8"/><path d="M12 8c-3-3-7-3-7 0 0 3 4 5 7 5"/><path d="M12 8c3-3 7-3 7 0 0 3-4 5-7 5"/></svg>}
+          </span>
+          <div class="text-sm">
+            <div class="font-bold text-[#1E3A5F]">{p.title}</div>
+            <div class="text-[#6B7B91] leading-snug">{p.desc}</div>
+          </div>
+        </div>
+      ))}
     </div>
   </section>
 
-  <!-- Categories -->
-  <section class="max-w-6xl mx-auto px-4 py-16">
-    <div class="text-center mb-12">
-      <h2 class="font-display mb-3">Browse by category</h2>
-      <p class="text-[#9CA3AF]">Everything you need for baby's first years.</p>
+  <!-- ───────── 4 MAIN GUIDES ───────── -->
+  <section id="guides" class="max-w-7xl mx-auto px-5 py-12">
+    <div class="text-center mb-10">
+      <h2 class="font-display text-2xl md:text-3xl text-[#1E3A5F] mb-2">Everything You Need in One Place</h2>
+      <p class="text-[#6B7B91]">Expert guides, practical tools, and real support for every stage.</p>
     </div>
-    <div class="grid gap-6 md:grid-cols-3 lg:grid-cols-5">
-      {categories.map((cat) => (
-        <a href={cat.href} class="card text-center no-underline hover:shadow-lg transition-shadow">
-          <div class="text-4xl mb-3">{cat.icon}</div>
-          <h3 class="font-display text-lg font-semibold text-[#1D4ED8] mb-1">{cat.label}</h3>
-          <p class="text-sm text-[#9CA3AF]">{cat.description}</p>
+    <div class="grid grid-cols-2 lg:grid-cols-4 gap-5">
+      {guides.map((g) => (
+        <a href={g.href} class="group block bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow no-underline">
+          <div class={`aspect-[4/3] bg-gradient-to-br ${g.gradient} flex items-center justify-center text-[#6B7B91] text-xs opacity-70`}>
+            <span>{g.title} photo</span>
+          </div>
+          <div class="p-5">
+            <h3 class="font-display text-lg font-bold text-[#1E3A5F] mb-2 group-hover:text-[#2E6FB8] transition-colors">{g.title}</h3>
+            <p class="text-sm text-[#6B7B91] leading-snug mb-3" set:html={g.lines}></p>
+            <span class="text-sm font-semibold text-[#5B9BD5] inline-flex items-center gap-1">Explore <span aria-hidden="true">→</span></span>
+          </div>
         </a>
       ))}
     </div>
   </section>
 
-  <!-- Tools Grid -->
-  <section class="max-w-6xl mx-auto px-4 py-16">
-    <div class="text-center mb-12">
-      <h2 class="font-display mb-3">Free baby care tools</h2>
-      <p class="text-[#9CA3AF]">Track sleep, feeding, growth, and milestones. No signup required.</p>
-    </div>
-    <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-      {tools.map((t) => <ToolCard {...t} />)}
+  <!-- ───────── HELPFUL TOOLS ───────── -->
+  <section class="relative py-16 px-5 bg-gradient-to-b from-[#E6F0FB] to-[#F1F7FD]">
+    <div class="max-w-7xl mx-auto">
+      <div class="text-center mb-10">
+        <span class="inline-block text-xs font-semibold text-[#2E6FB8] bg-white px-3 py-1 rounded-full mb-3 tracking-wider">FREE PARENTING TOOLS</span>
+        <h2 class="font-display text-2xl md:text-3xl text-[#1E3A5F] mb-2">Helpful Tools for Busy Parents</h2>
+        <p class="text-[#6B7B91]">Track, manage, and celebrate your baby's growth with our free tools.</p>
+      </div>
+      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+        {tools.map((t) => (
+          <a href={t.href} class="block bg-white rounded-2xl p-5 text-center no-underline shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
+            <span class="inline-flex items-center justify-center w-14 h-14 rounded-full bg-[#E6F0FB] text-[#2E6FB8] mb-3" aria-hidden="true">
+              {t.icon === "moon"   && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>}
+              {t.icon === "bottle" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><rect x="8" y="9" width="8" height="13" rx="2"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/></svg>}
+              {t.icon === "chart"  && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M3 21v-7m6 7V10m6 11v-5m6 5V4"/></svg>}
+              {t.icon === "feet"   && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="7" cy="9" r="2"/><circle cx="11" cy="6" r="1.5"/><circle cx="14" cy="6" r="1.5"/><circle cx="6" cy="14" r="2"/><circle cx="10" cy="17" r="1.5"/></svg>}
+              {t.icon === "star"   && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"><polygon points="12 2 15 9 22 9.5 17 14.5 18.5 22 12 18 5.5 22 7 14.5 2 9.5 9 9 12 2"/></svg>}
+            </span>
+            <h3 class="text-[15px] font-bold text-[#1E3A5F] mb-1">{t.title}</h3>
+            <p class="text-xs text-[#6B7B91] leading-relaxed" set:html={t.sub}></p>
+          </a>
+        ))}
+      </div>
+      <div class="text-center mt-8">
+        <a href="/tools/" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white font-semibold px-6 py-3 rounded-full no-underline transition-colors">
+          View All Tools <span aria-hidden="true">→</span>
+        </a>
+      </div>
     </div>
   </section>
 
-  <!-- Articles -->
-  <section class="max-w-6xl mx-auto px-4 py-16">
-    <div class="text-center mb-12">
-      <h2 class="font-display mb-3">Expert articles</h2>
-      <p class="text-[#9CA3AF]">Evidence-based guides for every stage of baby's development.</p>
-    </div>
-    {
-      featuredArticles.length > 0 ? (
-        <>
-          <div class="grid gap-6 md:grid-cols-3">
-            {featuredArticles.map((a) => <ArticleCard {...a} />)}
-          </div>
-          <div class="text-center mt-10">
-            <a href="/blog/" class="btn-primary">Browse all articles</a>
-          </div>
-        </>
-      ) : (
-        <div class="card max-w-2xl mx-auto text-center">
-          <p class="text-4xl mb-3">📝</p>
-          <p class="text-[#1E293B] font-medium mb-2">
-            Articles are on the way
-          </p>
-          <p class="text-sm text-[#9CA3AF] mb-5">
-            We're carefully writing evidence-based articles for every stage.
-            In the meantime, try our free baby care tools.
-          </p>
-          <a href="/tools/" class="btn-primary">Explore tools</a>
-        </div>
-      )
-    }
-  </section>
-
-  <!-- CTA -->
-  <section class="max-w-4xl mx-auto px-4 py-16 text-center">
-    <div class="card" style="background: linear-gradient(135deg, #EFF6FF 0%, #F0FDF4 100%);">
-      <h2 class="font-display mb-4">Not sure where to start?</h2>
-      <p class="text-[#1E293B]/80 mb-6 max-w-xl mx-auto">
-        Browse our sleep guides to help your baby (and you!) get the rest
-        you need, or explore our development milestones tracker.
-      </p>
-      <a href="/sleep/" class="btn-primary">
-        Start with sleep guides →
+  <!-- ───────── LATEST BLOG ───────── -->
+  <section class="max-w-7xl mx-auto px-5 py-16">
+    <div class="flex flex-wrap items-end justify-between gap-3 mb-8">
+      <h2 class="font-display text-2xl md:text-3xl text-[#1E3A5F] m-0">Latest from the Blog</h2>
+      <a href="/blog/" class="inline-flex items-center gap-1.5 text-sm font-semibold text-[#2E6FB8] no-underline border border-[#5B9BD5] hover:bg-[#5B9BD5] hover:text-white px-4 py-1.5 rounded-full transition-colors">
+        View All Articles <span aria-hidden="true">→</span>
       </a>
+    </div>
+    {latestPosts.length > 0 ? (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+        {latestPosts.map((p) => (
+          <a href={`/blog/${p.data.slug || p.slug}/`} class="block bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow no-underline">
+            {p.data.image ? (
+              <img src={p.data.image} alt={p.data.title} class="w-full h-44 object-cover object-center" loading="lazy" />
+            ) : (
+              <div class="w-full h-44 bg-gradient-to-br from-[#E6F0FB] to-[#FBE6EE]"></div>
+            )}
+            <div class="p-5">
+              {p.data.category && (
+                <span class="inline-block text-[11px] font-semibold uppercase tracking-wide text-[#2E6FB8] bg-[#E6F0FB] px-2.5 py-1 rounded-full mb-2.5">{p.data.category}</span>
+              )}
+              <span class="text-[11px] text-[#6B7B91] ml-2">{new Date(p.data.publishDate).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}</span>
+              <h3 class="font-display text-[15px] font-bold text-[#1E3A5F] mb-2 mt-1 leading-snug line-clamp-2">{p.data.title}</h3>
+              <p class="text-xs text-[#6B7B91] leading-relaxed line-clamp-2">{p.data.description}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <p class="text-center text-[#6B7B91]">Fresh articles coming soon.</p>
+    )}
+  </section>
+
+  <!-- ───────── MISSION STRIP ───────── -->
+  <section class="bg-gradient-to-b from-[#FBF6EF] to-[#F1F7FD] py-16 px-5">
+    <div class="max-w-7xl mx-auto grid lg:grid-cols-2 gap-10 items-center">
+      <div class="aspect-[5/4] rounded-3xl overflow-hidden bg-gradient-to-br from-[#FBE6EE] via-[#FBF0E6] to-[#E6F0FB] shadow-md flex items-center justify-center text-[#6B7B91] text-sm">
+        <span class="opacity-50">Mom-and-baby photo</span>
+      </div>
+      <div>
+        <span class="text-xs font-semibold text-[#5B9BD5] tracking-wider">OUR MISSION</span>
+        <h2 class="font-display text-2xl md:text-3xl text-[#1E3A5F] mt-2 mb-4">Helping Parents Feel Confident<br/>Every Step of the Journey</h2>
+        <p class="text-[#5A6F89] leading-relaxed mb-7 max-w-lg">
+          Baby Care Guide is here to support you with trusted information, practical tools, and a caring community. You don't have to do it alone.
+        </p>
+        <div class="grid sm:grid-cols-3 gap-5">
+          {trustPills.map((tp) => (
+            <div class="text-left">
+              <span class="inline-flex items-center justify-center w-9 h-9 rounded-full mb-2" style={`background:${tp.color}25; color:${tp.color};`}>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C10.3 2 9 3.3 9 5c0 1.7 1.3 3 3 3s3-1.3 3-3-1.3-3-3-3zm0 9c-3 0-9 1.5-9 4.5V21h18v-5.5c0-3-6-4.5-9-4.5z"/></svg>
+              </span>
+              <h3 class="font-bold text-sm text-[#1E3A5F] mb-1">{tp.title}</h3>
+              <p class="text-xs text-[#6B7B91] leading-relaxed">{tp.desc}</p>
+            </div>
+          ))}
+        </div>
+        <div class="mt-7">
+          <a href="/about/" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white font-semibold px-6 py-3 rounded-full no-underline transition-colors">
+            Learn More About Us <span aria-hidden="true">→</span>
+          </a>
+        </div>
+      </div>
     </div>
   </section>
 </BaseLayout>

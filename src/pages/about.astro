@@ -1,34 +1,180 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import Breadcrumb from "../components/Breadcrumb.astro";
+
+const missionPills = [
+  { color: "#5B9BD5", bg: "#E6F0FB", title: "Trusted Guidance",  desc: "Evidence-based information written and reviewed by experts.", icon: "shield" },
+  { color: "#7BC0A0", bg: "#DDF0E5", title: "Practical Support", desc: "Real-life tools and tips you can use every day.",              icon: "tools"  },
+  { color: "#E8B86E", bg: "#FBEED5", title: "Parent-Focused",    desc: "Created by a mom who truly understands your journey.",         icon: "people" },
+  { color: "#A89BD4", bg: "#E4DEF0", title: "Here for You",      desc: "Support, encouragement, and a community you can count on.",    icon: "heart"  },
+];
+
+const trustPills = [
+  { color: "#5B9BD5", title: "Evidence-Based Content", desc: "We research, fact-check, and keep everything up to date.", icon: "doc"  },
+  { color: "#7BC0A0", title: "Expert Review",         desc: "Our articles are reviewed by pediatric and parenting professionals.", icon: "check" },
+  { color: "#E8B86E", title: "No Sponsorship Bias",   desc: "We only recommend products and resources we genuinely believe in.",   icon: "lock"  },
+  { color: "#A89BD4", title: "Privacy Matters",       desc: "Your privacy and trust are always our top priority.",                  icon: "people" },
+];
+
+const values = [
+  { color: "#5B9BD5", title: "Empathy",   desc: "We lead with heart and understand every parent's unique journey.", icon: "heart" },
+  { color: "#7BC0A0", title: "Integrity", desc: "We are honest, transparent, and committed to what's best for your family.", icon: "leaf" },
+  { color: "#E8B86E", title: "Growth",    desc: "We believe in learning continually and growing together.",          icon: "star" },
+  { color: "#A89BD4", title: "Community", desc: "We build a positive community where parents support each other.",   icon: "people" },
+  { color: "#E89BAE", title: "Joy",       desc: "We celebrate the little wins and the beautiful chaos of parenting.", icon: "heart" },
+];
+
+const storyPhotos = [
+  { caption: "For the tiny moments",       gradient: "from-[#FBE6EE] to-[#F4D5DF]" },
+  { caption: "For the big milestones",     gradient: "from-[#E6F0FB] to-[#D5E6F4]" },
+  { caption: "For everything in between",  gradient: "from-[#FBF0E6] to-[#F4E5D5]" },
+];
 ---
 
 <BaseLayout
-  title="About"
-  description="About Baby Care Guide — free baby care tools and evidence-based articles for new parents."
+  title="About — Baby Care Guide"
+  description="Baby Care Guide is here to support every parent with trusted information, practical tools, and a caring community."
 >
-  <section class="max-w-3xl mx-auto px-4 py-10">
-    <Breadcrumb items={[{ label: "Home", href: "/" }, { label: "About" }]} />
-    <h1 class="mb-6">About Baby Care Guide</h1>
-    <div class="card prose prose-blue max-w-none">
-      <p class="leading-relaxed mb-4">
-        Baby Care Guide exists to make parenting less overwhelming and more
-        enjoyable. We build free, evidence-based tools and write expert
-        articles that meet you exactly where you are in your parenting journey.
-      </p>
-      <p class="leading-relaxed mb-4">
-        Our content is informed by trusted sources including the American
-        Academy of Pediatrics (AAP), the World Health Organization (WHO),
-        and leading pediatric research institutions.
-      </p>
-      <p class="leading-relaxed mb-4">
-        Every article is written by certified professionals — pediatric sleep
-        consultants, lactation consultants, and pediatricians — and medically
-        reviewed before publication.
-      </p>
-      <p class="leading-relaxed text-sm text-[#9CA3AF] italic">
-        Baby Care Guide is a sister site of chparenting.com and pregnancy.chparenting.com.
-      </p>
+  <!-- ───────── HERO ───────── -->
+  <section class="relative bg-gradient-to-b from-[#F1F7FD] to-[#E6F0FB] overflow-hidden">
+    <div class="max-w-7xl mx-auto px-5 pt-12 md:pt-16 pb-16 md:pb-20 grid lg:grid-cols-2 gap-10 items-center">
+      <div>
+        <span class="inline-flex items-center gap-1.5 text-xs font-semibold text-[#2E6FB8] bg-white/80 px-3 py-1.5 rounded-full mb-5"><span aria-hidden="true">♡</span> ABOUT US</span>
+        <h1 class="font-display text-[#1E3A5F] leading-[1.1] mb-5 text-4xl md:text-5xl">Here to Support<br/>Your Parenting Journey</h1>
+        <p class="text-[#5A6F89] leading-relaxed max-w-lg mb-4">
+          Baby Care Guide was created with a simple belief: every parent deserves trustworthy information, practical tools, and a supportive community to help them feel confident every step of the way.
+        </p>
+        <p class="font-display italic text-[#5B9BD5] text-lg">You're not alone in this. <span aria-hidden="true">♡</span></p>
+      </div>
+      <div class="relative">
+        <div class="aspect-[4/3] rounded-3xl overflow-hidden bg-gradient-to-br from-[#FBE6EE] via-[#E6F0FB] to-[#FBF0E6] shadow-md flex items-center justify-center text-[#6B7B91] text-sm">
+          <span class="opacity-50">Mom-and-baby photo</span>
+        </div>
+        <span class="absolute -top-2 left-6 text-2xl opacity-70" aria-hidden="true">⭐</span>
+        <span class="absolute top-5 -right-2 text-2xl opacity-70" aria-hidden="true">☁️</span>
+      </div>
+    </div>
+
+    <svg class="block w-full text-white" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0,30 C360,60 720,0 1080,30 C1260,45 1380,15 1440,30 L1440,60 L0,60 Z" fill="currentColor"/>
+    </svg>
+  </section>
+
+  <!-- ───────── OUR MISSION ───────── -->
+  <section class="max-w-7xl mx-auto px-5 py-12">
+    <div class="text-center mb-10">
+      <h2 class="font-display text-2xl md:text-3xl text-[#1E3A5F] mb-2 flex items-center justify-center gap-2">
+        <span aria-hidden="true" class="text-[#5B9BD5] text-lg">♡</span> Our Mission <span aria-hidden="true" class="text-[#5B9BD5] text-lg">♡</span>
+      </h2>
+      <p class="text-[#6B7B91]">We're here to make parenting a little easier and a lot more joyful.</p>
+    </div>
+    <div class="grid grid-cols-2 lg:grid-cols-4 gap-6">
+      {missionPills.map((m) => (
+        <div class="text-center">
+          <span class="inline-flex items-center justify-center w-14 h-14 rounded-full mb-3" style={`background:${m.bg}; color:${m.color};`} aria-hidden="true">
+            {m.icon === "shield" && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.5 9-8 10-4.5-1-8-5-8-10V6l8-4z"/><path d="M9 12l2 2 4-4"/></svg>}
+            {m.icon === "tools"  && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a4 4 0 0 0-5.4 5.4l-7 7 2 2 7-7a4 4 0 0 0 5.4-5.4l-2 2-2-2 2-2z"/></svg>}
+            {m.icon === "people" && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="7" r="3"/><circle cx="17" cy="9" r="2.5"/><path d="M3 21v-1a6 6 0 0 1 12 0v1"/><path d="M14 21v-1a4 4 0 0 1 7-2"/></svg>}
+            {m.icon === "heart"  && <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-7-4.5-9.5-9C.8 8.8 2.6 5 6.2 5c2 0 3.4 1.1 4.3 2.5C11.4 6.1 12.8 5 14.8 5c3.6 0 5.4 3.8 3.7 7C19 16.5 12 21 12 21z"/></svg>}
+          </span>
+          <h3 class="font-bold text-sm text-[#1E3A5F] mb-1.5">{m.title}</h3>
+          <p class="text-xs text-[#6B7B91] leading-relaxed">{m.desc}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- ───────── WHY TRUST US ───────── -->
+  <section class="px-5 py-10">
+    <div class="max-w-7xl mx-auto bg-[#E6F0FB] rounded-3xl py-10 px-6">
+      <div class="text-center mb-10">
+        <h2 class="font-display text-2xl md:text-3xl text-[#1E3A5F] mb-2">Why Trust Baby Care Guide?</h2>
+        <p class="text-[#6B7B91]">We're committed to accuracy, transparency, and your family's well-being.</p>
+      </div>
+      <div class="grid grid-cols-2 lg:grid-cols-4 gap-6">
+        {trustPills.map((t) => (
+          <div class="text-center">
+            <span class="inline-flex items-center justify-center w-14 h-14 rounded-full mb-3 bg-white" style={`color:${t.color};`} aria-hidden="true">
+              {t.icon === "doc"    && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M8 13h8M8 17h8M8 9h2"/></svg>}
+              {t.icon === "check"  && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg>}
+              {t.icon === "lock"   && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="5" y="11" width="14" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>}
+              {t.icon === "people" && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="9" cy="7" r="3"/><circle cx="17" cy="9" r="2.5"/><path d="M3 21v-1a6 6 0 0 1 12 0v1"/></svg>}
+            </span>
+            <h3 class="font-bold text-sm text-[#1E3A5F] mb-1.5">{t.title}</h3>
+            <p class="text-xs text-[#6B7B91] leading-relaxed">{t.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ───────── MEET VEGA ───────── -->
+  <section class="max-w-7xl mx-auto px-5 py-14 grid lg:grid-cols-[320px_1fr] gap-10 items-start">
+    <div class="aspect-[4/5] rounded-3xl overflow-hidden bg-gradient-to-br from-[#E6F0FB] via-[#FBE6EE] to-[#FBF0E6] shadow-md flex items-center justify-center text-[#6B7B91] text-sm">
+      <span class="opacity-50">Vega portrait</span>
+    </div>
+    <div>
+      <h2 class="font-display text-2xl text-[#1E3A5F] mb-1 flex items-center gap-2">Meet Vega <span class="text-[#5B9BD5]">♡</span></h2>
+      <p class="font-display italic text-[#5B9BD5] text-base mb-5">Mom. Entrepreneur. Lifelong Learner.</p>
+      <p class="text-[#5A6F89] leading-relaxed mb-4">Hi, I'm Vega! I'm a mom to my little one and the founder of Baby Care Guide.</p>
+      <p class="text-[#5A6F89] leading-relaxed mb-4">My parenting journey has been filled with beautiful moments, sleepless nights, and countless questions. I know how overwhelming it can be to find reliable information when you just want what's best for your baby.</p>
+      <p class="text-[#5A6F89] leading-relaxed mb-5">That's why I created Baby Care Guide—a trusted space where parents can find clear answers, helpful tools, and the encouragement we all need.</p>
+      <p class="font-display italic text-[#5B9BD5]">Thank you for being here. I'm so glad we're on this journey together. <span aria-hidden="true">♡</span></p>
+    </div>
+  </section>
+
+  <!-- ───────── OUR STORY ───────── -->
+  <section class="max-w-7xl mx-auto px-5 py-10 grid lg:grid-cols-2 gap-10 items-center">
+    <div>
+      <h2 class="font-display text-2xl text-[#1E3A5F] mb-2 pb-2 border-b-2 border-[#5B9BD5] inline-block">Our Story</h2>
+      <p class="text-[#5A6F89] leading-relaxed mt-4 mb-3">Baby Care Guide started from my own experience as a new mom. I spent hours researching everything—from sleep routines to feeding schedules—often feeling confused and alone.</p>
+      <p class="text-[#5A6F89] leading-relaxed mb-3">I realized many parents feel the same way. So I decided to turn my passion for learning and sharing into a resource that makes parenting a little less overwhelming and a lot more empowering.</p>
+      <p class="text-[#5A6F89] leading-relaxed">Today, Baby Care Guide is here for every parent—whether you're expecting, in the newborn stage, or navigating the toddler years. We're with you, every step of the way.</p>
+    </div>
+    <div class="grid grid-cols-3 gap-3">
+      {storyPhotos.map((s) => (
+        <div>
+          <div class={`aspect-square rounded-2xl bg-gradient-to-br ${s.gradient} shadow-sm flex items-center justify-center text-[10px] text-[#6B7B91]`}>
+            <span class="opacity-50">photo</span>
+          </div>
+          <p class="text-center text-xs text-[#5B9BD5] font-medium mt-2">{s.caption}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- ───────── OUR VALUES ───────── -->
+  <section class="px-5 py-10">
+    <div class="max-w-7xl mx-auto bg-[#FBF6EF] rounded-3xl py-10 px-6">
+      <h2 class="font-display text-2xl text-[#1E3A5F] text-center mb-8">Our Values</h2>
+      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-5">
+        {values.map((v) => (
+          <div class="text-center">
+            <span class="inline-flex items-center justify-center w-12 h-12 rounded-full mb-2.5" style={`color:${v.color};`} aria-hidden="true">
+              {v.icon === "heart"  && <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-7-4.5-9.5-9C.8 8.8 2.6 5 6.2 5c2 0 3.4 1.1 4.3 2.5C11.4 6.1 12.8 5 14.8 5c3.6 0 5.4 3.8 3.7 7C19 16.5 12 21 12 21z"/></svg>}
+              {v.icon === "leaf"   && <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M17 8C8 10 5.9 16.17 3.82 21.34l1.89.66.95-3.34C7 19 8.5 19 11 18c5-2 7-7 6-10z"/></svg>}
+              {v.icon === "star"   && <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15 9 22 9.5 17 14.5 18.5 22 12 18 5.5 22 7 14.5 2 9.5 9 9 12 2"/></svg>}
+              {v.icon === "people" && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="7" r="3"/><circle cx="17" cy="9" r="2.5"/><path d="M3 21v-1a6 6 0 0 1 12 0v1"/></svg>}
+            </span>
+            <h3 class="font-bold text-sm text-[#1E3A5F] mb-1">{v.title}</h3>
+            <p class="text-xs text-[#6B7B91] leading-relaxed">{v.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ───────── NEWSLETTER ───────── -->
+  <section class="max-w-7xl mx-auto px-5 py-10 pb-16">
+    <div class="bg-gradient-to-r from-[#E6F0FB] to-[#F1F7FD] rounded-3xl py-8 px-6 md:px-10 flex flex-col md:flex-row items-center gap-6">
+      <span class="text-5xl" aria-hidden="true">☁️</span>
+      <div class="flex-1 text-center md:text-left">
+        <h3 class="font-display font-bold text-[#1E3A5F] text-xl">We're in This Together</h3>
+        <p class="text-sm text-[#6B7B91] leading-relaxed">Join our community and get helpful tips, new guides, and parenting support delivered to your inbox.</p>
+      </div>
+      <form action="#" onsubmit="event.preventDefault();" class="flex gap-2 w-full md:w-auto">
+        <input type="email" placeholder="Your email address" class="flex-1 md:w-64 px-4 py-2.5 rounded-full bg-white border border-[#D5E6F4] text-sm text-[#1E3A5F]" />
+        <button type="submit" class="bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white text-sm font-semibold px-6 py-2.5 rounded-full whitespace-nowrap transition-colors">Subscribe ♡</button>
+      </form>
     </div>
   </section>
 </BaseLayout>
