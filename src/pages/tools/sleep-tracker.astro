@@ -5,31 +5,51 @@ import SleepTracker from "../../components/tools/SleepTracker.jsx";
 const title = "Baby Sleep Tracker — Baby Care Guide";
 const description =
   "Track your baby's nighttime sleep, naps, and wakings. Get age-appropriate sleep tips and view 7-day history with daily summaries.";
+
+const tips = [
+  {
+    icon: "moon" as const,
+    title: "Sleep Patterns",
+    desc:  "Babies cycle through light and deep sleep every 50-60 min. Patterns are normal — don't expect grown-up sleep yet.",
+  },
+  {
+    icon: "star" as const,
+    title: "Make Sleep a Routine",
+    desc:  "A consistent bath-feed-cuddle-sleep flow signals \"sleep time\" to baby's brain within just a week or two.",
+  },
+  {
+    icon: "heart" as const,
+    title: "Healthy Sleep Habits",
+    desc:  "Put baby down drowsy but awake. Self-soothing skills compound — they get easier the more you practise.",
+  },
+];
 ---
 
-<ToolLayout title={title} description={description} toolName="Sleep Tracker">
-  <h1 class="mb-3">Baby Sleep Tracker</h1>
-  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
-    Log bedtime, wake time, night wakings, and daytime naps. View daily stats,
-    7-day history, and age-appropriate sleep guidelines.
-  </p>
-
+<ToolLayout
+  title={title}
+  description={description}
+  toolName="Sleep Tracker"
+  toolTagline="Track naps, nighttime sleep, and build better sleep habits."
+  icon="moon"
+  theme="blue"
+  tipsHeading="Sleep Tips for You"
+  tips={tips}
+>
   <SleepTracker client:load />
 
-  <section class="mt-12">
-    <h2 class="mb-4">Why track baby's sleep?</h2>
-    <div class="card">
-      <p class="mb-3 leading-relaxed">
+  <section class="mt-10 max-w-3xl mx-auto">
+    <h2 class="font-display text-xl text-[#1E3A5F] mb-3">Why track baby's sleep?</h2>
+    <div class="bg-white rounded-2xl p-6 shadow-sm">
+      <p class="text-[#5A6F89] mb-3 leading-relaxed">
         Tracking your baby's sleep patterns helps you identify routines, spot
-        potential issues early, and ensure your little one is getting enough
-        rest for healthy development.
+        potential issues early, and ensure your little one is getting enough rest
+        for healthy development.
       </p>
-      <p class="mb-3 leading-relaxed">
-        Sleep needs change rapidly in the first two years. Newborns may sleep
-        up to 17 hours per day, while toddlers need about 11-14 hours
-        including naps.
+      <p class="text-[#5A6F89] mb-3 leading-relaxed">
+        Sleep needs change rapidly in the first two years. Newborns may sleep up
+        to 17 hours per day, while toddlers need about 11-14 hours including naps.
       </p>
-      <p class="text-sm text-[#9CA3AF] italic">
+      <p class="text-sm text-[#94A8C2] italic">
         Every baby is different. If you have concerns about your baby's sleep,
         consult your pediatrician.
       </p>
