@@ -1,0 +1,266 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+// ─── Single source of truth: every tool, grouped by category ────────
+// Adding a tool here surfaces it in the sidebar count, the category
+// section, and the total count in the page heading.
+const catGroups = [
+  {
+    slug: "sleep", label: "Sleep", color: "#5B9BD5", bg: "#E6F0FB", icon: "moon",
+    tools: [
+      { title: "Sleep Tracker",          desc: "Log naps, nighttime sleep, and patterns.",      href: "/tools/sleep-tracker/",     icon: "moon"  },
+      { title: "White Noise Generator",  desc: "Soothing sounds to help baby fall asleep.",     href: "/tools/white-noise/",        icon: "wave"  },
+      { title: "Bedtime Calculator",     desc: "Find baby's ideal bedtime by age + wake time.", href: "/tools/bedtime-calculator/", icon: "clock" },
+      { title: "Nap Schedule Generator", desc: "Build a daily nap schedule by baby's age.",     href: "/tools/sleep-tracker/",      icon: "moon"  },
+    ],
+  },
+  {
+    slug: "feeding", label: "Feeding", color: "#7BC0A0", bg: "#DDF0E5", icon: "bottle",
+    tools: [
+      { title: "Feeding Timer",       desc: "Time breastfeeding sessions or bottle feeds.", href: "/tools/feeding-timer/",      icon: "timer"  },
+      { title: "Bottle Calculator",   desc: "Daily formula / breast-milk amount per bottle.", href: "/tools/bottle-calculator/",  icon: "bottle" },
+      { title: "Solids Readiness",    desc: "Quiz: is your baby ready for solid foods?",     href: "/tools/solids-readiness/",   icon: "bowl"   },
+      { title: "Feeding Schedule",    desc: "Suggested age-based feeding rhythms.",          href: "/tools/feeding-timer/",      icon: "clock"  },
+    ],
+  },
+  {
+    slug: "growth", label: "Growth", color: "#E8B86E", bg: "#FBEED5", icon: "chart",
+    tools: [
+      { title: "Growth Calculator", desc: "Plot weight + length on WHO percentile.",     href: "/tools/growth-calculator/", icon: "chart" },
+      { title: "Tummy Time Tracker",desc: "Log daily tummy-time with a 7-day history.",  href: "/tools/tummy-time/",         icon: "timer" },
+      { title: "Height Tracker",    desc: "Track baby's height growth over time.",        href: "/tools/growth-calculator/", icon: "ruler" },
+    ],
+  },
+  {
+    slug: "development", label: "Development", color: "#5B9BD5", bg: "#E6F0FB", icon: "feet",
+    tools: [
+      { title: "Milestone Checker",     desc: "Track milestones from newborn to 24 months.", href: "/tools/milestone-checker/", icon: "feet"  },
+      { title: "Language Quiz",         desc: "Check baby's language milestones by age.",     href: "/tools/language-quiz/",     icon: "chat"  },
+      { title: "Activity Suggestions",  desc: "Age-appropriate play and bonding ideas.",      href: "/tools/milestone-checker/", icon: "star"  },
+    ],
+  },
+  {
+    slug: "names", label: "Names", color: "#A89BD4", bg: "#E4DEF0", icon: "blocks",
+    tools: [
+      { title: "Name Generator", desc: "Discover names with meanings and origins.",      href: "/tools/name-generator/", icon: "blocks" },
+      { title: "Sibling Names",  desc: "Find names that pair with an existing sibling.", href: "/tools/sibling-names/",  icon: "blocks" },
+      { title: "Name Trends",    desc: "See a name's popularity over the decades.",      href: "/tools/name-trends/",    icon: "chart"  },
+    ],
+  },
+  {
+    slug: "health-safety", label: "Health & Safety", color: "#E89BAE", bg: "#FBE0E6", icon: "heart",
+    tools: [
+      { title: "Car Seat Finder", desc: "Pick the right car-seat by age + weight.", href: "/tools/car-seat-finder/", icon: "shield" },
+      { title: "Fever Guide",     desc: "When a temperature means you call the doctor.", href: "/tools/",             icon: "heart"  },
+    ],
+  },
+  {
+    slug: "gear", label: "Gear", color: "#B68C73", bg: "#F1E2D3", icon: "stroller",
+    tools: [
+      { title: "Diaper Size Guide", desc: "Find the right diaper size by baby's weight.", href: "/tools/diaper-size/", icon: "stroller" },
+    ],
+  },
+];
+
+const totalTools = catGroups.reduce((sum, g) => sum + g.tools.length, 0);
+---
+
+<BaseLayout
+  title={`All Baby Care Tools — Browse All ${totalTools} Tools`}
+  description={`Browse all ${totalTools} free baby care tools — sleep, feeding, growth, development, names, safety, and gear. Trusted by thousands of parents.`}
+>
+  <!-- ───────── HERO ───────── -->
+  <section class="relative bg-gradient-to-b from-[#F1F7FD] to-[#E6F0FB] overflow-hidden">
+    <div class="max-w-7xl mx-auto px-5 pt-10 md:pt-14 pb-12 grid lg:grid-cols-[1fr_400px] gap-10 items-center">
+      <div>
+        <nav class="text-xs text-[#6B7B91] mb-5" aria-label="Breadcrumb">
+          <ol class="flex items-center gap-1.5 list-none m-0 p-0">
+            <li><a href="/" class="hover:text-[#2E6FB8] no-underline">Home</a></li>
+            <li aria-hidden="true">›</li>
+            <li><a href="/tools/" class="hover:text-[#2E6FB8] no-underline">Tools</a></li>
+            <li aria-hidden="true">›</li>
+            <li class="text-[#1E3A5F]">All Tools</li>
+          </ol>
+        </nav>
+        <h1 class="font-display text-[#1E3A5F] leading-[1.1] text-4xl md:text-5xl mb-4">All Baby Care Tools</h1>
+        <p class="text-[#5A6F89] leading-relaxed max-w-lg mb-6">
+          Free, easy-to-use tools designed to support you and your baby at every stage.
+        </p>
+        <!-- Search box -->
+        <form action="#all-tools" method="get" class="relative max-w-md">
+          <input id="search-input" type="search" placeholder="Search tools..." class="w-full px-5 py-3 pr-12 rounded-full bg-white border border-[#D5E6F4] text-sm text-[#1E3A5F] placeholder:text-[#94A8C2] focus:outline-none focus:border-[#5B9BD5]" />
+          <button type="submit" class="absolute right-2 top-1/2 -translate-y-1/2 w-9 h-9 inline-flex items-center justify-center rounded-full bg-[#5B9BD5] text-white" aria-label="Search">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          </button>
+        </form>
+      </div>
+      <div class="relative hidden lg:block">
+        <div class="aspect-square rounded-3xl bg-gradient-to-br from-[#E6F0FB] via-[#FBF0E6] to-[#FBE6EE] shadow-md flex items-center justify-center text-[#6B7B91] text-sm">
+          <span class="opacity-50">Bear on cloud illustration</span>
+        </div>
+        <span class="absolute -top-2 left-6 text-2xl opacity-70" aria-hidden="true">⭐</span>
+        <span class="absolute top-3 -right-2 text-2xl opacity-70" aria-hidden="true">☁️</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ───────── MAIN LAYOUT: SIDEBAR + ALL TOOLS ───────── -->
+  <section id="all-tools" class="max-w-7xl mx-auto px-5 py-10 grid lg:grid-cols-[240px_1fr] gap-8 items-start">
+    <!-- SIDEBAR -->
+    <aside class="space-y-5 lg:sticky lg:top-24">
+      <div class="bg-white rounded-2xl p-4 shadow-sm">
+        <h3 class="font-display font-bold text-[#1E3A5F] text-sm mb-3 px-2">Categories</h3>
+        <ul class="list-none m-0 p-0 space-y-1">
+          <li>
+            <a href="#all-tools" class="cat-link flex items-center justify-between px-3 py-2 rounded-lg text-sm font-semibold bg-[#E6F0FB] text-[#2E6FB8] no-underline">
+              <span class="flex items-center gap-2">
+                <span class="inline-flex items-center justify-center w-6 h-6 rounded-md bg-white" aria-hidden="true">
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
+                </span>
+                All Tools
+              </span>
+              <span class="text-xs">{totalTools}</span>
+            </a>
+          </li>
+          {catGroups.map((g) => (
+            <li>
+              <a href={`#cat-${g.slug}`} class="cat-link flex items-center justify-between px-3 py-2 rounded-lg text-sm text-[#1E3A5F] hover:bg-[#E6F0FB] hover:text-[#2E6FB8] no-underline">
+                <span class="flex items-center gap-2">
+                  <span class="inline-flex items-center justify-center w-6 h-6 rounded-md" style={`background:${g.bg}; color:${g.color};`} aria-hidden="true">
+                    {g.icon === "moon"     && <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>}
+                    {g.icon === "bottle"   && <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="8" y="9" width="8" height="13" rx="2"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/></svg>}
+                    {g.icon === "chart"    && <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21v-7m6 7V10m6 11v-5m6 5V4"/></svg>}
+                    {g.icon === "feet"     && <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><ellipse cx="8" cy="11" rx="3" ry="4"/><ellipse cx="17" cy="15" rx="3" ry="4"/></svg>}
+                    {g.icon === "blocks"   && <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="13" width="8" height="8" rx="1"/><rect x="13" y="13" width="8" height="8" rx="1"/><rect x="8" y="3" width="8" height="8" rx="1"/></svg>}
+                    {g.icon === "heart"    && <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-7-4.5-9.5-9C.8 8.8 2.6 5 6.2 5c2 0 3.4 1.1 4.3 2.5C11.4 6.1 12.8 5 14.8 5c3.6 0 5.4 3.8 3.7 7C19 16.5 12 21 12 21z"/></svg>}
+                    {g.icon === "stroller" && <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 13a7 7 0 0 1 7-7v7H5z"/><circle cx="8" cy="20" r="1.5"/></svg>}
+                  </span>
+                  {g.label}
+                </span>
+                <span class="text-xs text-[#94A8C2]">{g.tools.length}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Sidebar bottom card -->
+      <div class="bg-gradient-to-br from-[#E6F0FB] to-[#D5E6F4] rounded-2xl p-5 text-center">
+        <span class="text-3xl" aria-hidden="true">☁️</span>
+        <h4 class="font-bold text-sm text-[#1E3A5F] mt-2 mb-1">All tools are free</h4>
+        <p class="text-xs text-[#6B7B91] leading-relaxed">and always will be — created with love by parents, for parents.</p>
+      </div>
+    </aside>
+
+    <!-- MAIN CONTENT -->
+    <div>
+      <!-- Header row: total count + sort -->
+      <div class="flex flex-wrap items-center justify-between gap-3 mb-7">
+        <h2 class="font-display text-xl text-[#1E3A5F] m-0">All Tools <span class="text-[#94A8C2] font-normal text-base">({totalTools})</span></h2>
+        <label class="text-sm text-[#6B7B91] flex items-center gap-2">
+          Sort by:
+          <select class="px-3 py-1.5 rounded-full border border-[#D5E6F4] bg-white text-[#1E3A5F] text-sm">
+            <option>Most Popular</option>
+            <option>A → Z</option>
+            <option>Newest</option>
+          </select>
+        </label>
+      </div>
+
+      {catGroups.map((g) => (
+        <div id={`cat-${g.slug}`} class="scroll-mt-24 mb-12">
+          <div class="flex items-center justify-between mb-4">
+            <div class="flex items-center gap-3">
+              <span class="inline-flex items-center justify-center w-9 h-9 rounded-xl" style={`background:${g.bg}; color:${g.color};`} aria-hidden="true">
+                {g.icon === "moon"     && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>}
+                {g.icon === "bottle"   && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="8" y="9" width="8" height="13" rx="2"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/></svg>}
+                {g.icon === "chart"    && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 21v-7m6 7V10m6 11v-5m6 5V4"/></svg>}
+                {g.icon === "feet"     && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><ellipse cx="8" cy="11" rx="3" ry="4"/><ellipse cx="17" cy="15" rx="3" ry="4"/></svg>}
+                {g.icon === "blocks"   && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="13" width="8" height="8" rx="1"/><rect x="13" y="13" width="8" height="8" rx="1"/><rect x="8" y="3" width="8" height="8" rx="1"/></svg>}
+                {g.icon === "heart"    && <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-7-4.5-9.5-9C.8 8.8 2.6 5 6.2 5c2 0 3.4 1.1 4.3 2.5C11.4 6.1 12.8 5 14.8 5c3.6 0 5.4 3.8 3.7 7C19 16.5 12 21 12 21z"/></svg>}
+                {g.icon === "stroller" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 13a7 7 0 0 1 7-7v7H5z"/><circle cx="8" cy="20" r="1.5"/></svg>}
+              </span>
+              <h3 class="font-display text-lg font-bold text-[#1E3A5F] m-0">{g.label}</h3>
+            </div>
+            <a href={`#cat-${g.slug}`} class="text-xs font-semibold no-underline" style={`color:${g.color};`}>View all <span aria-hidden="true">→</span></a>
+          </div>
+          <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-4">
+            {g.tools.map((t) => (
+              <a href={t.href} class="tool-card group flex flex-col bg-white rounded-2xl p-4 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all no-underline border border-transparent hover:border-[#E6F0FB]" data-name={t.title.toLowerCase()} data-desc={t.desc.toLowerCase()}>
+                <span class="inline-flex items-center justify-center w-11 h-11 rounded-xl mb-3" style={`background:${g.bg}; color:${g.color};`} aria-hidden="true">
+                  {t.icon === "moon"     && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>}
+                  {t.icon === "wave"     && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M2 12c2-3 4-3 6 0s4 3 6 0 4-3 6 0"/></svg>}
+                  {t.icon === "clock"    && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>}
+                  {t.icon === "bottle"   && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="8" y="9" width="8" height="13" rx="2"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/></svg>}
+                  {t.icon === "timer"    && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2 2"/><path d="M10 1h4"/></svg>}
+                  {t.icon === "bowl"     && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 11h18M5 11a7 7 0 0 0 14 0"/></svg>}
+                  {t.icon === "chart"    && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 21v-7m6 7V10m6 11v-5m6 5V4"/></svg>}
+                  {t.icon === "ruler"    && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="6" y="3" width="4" height="18" rx="1"/></svg>}
+                  {t.icon === "feet"     && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><ellipse cx="8" cy="11" rx="3" ry="4"/><ellipse cx="17" cy="15" rx="3" ry="4"/></svg>}
+                  {t.icon === "chat"     && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8z"/></svg>}
+                  {t.icon === "star"     && <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15 9 22 9.5 17 14.5 18.5 22 12 18 5.5 22 7 14.5 2 9.5 9 9 12 2"/></svg>}
+                  {t.icon === "blocks"   && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="13" width="8" height="8" rx="1"/><rect x="13" y="13" width="8" height="8" rx="1"/><rect x="8" y="3" width="8" height="8" rx="1"/></svg>}
+                  {t.icon === "shield"   && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 2l8 4v6c0 5-3.5 9-8 10-4.5-1-8-5-8-10V6l8-4z"/></svg>}
+                  {t.icon === "heart"    && <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-7-4.5-9.5-9C.8 8.8 2.6 5 6.2 5c2 0 3.4 1.1 4.3 2.5C11.4 6.1 12.8 5 14.8 5c3.6 0 5.4 3.8 3.7 7C19 16.5 12 21 12 21z"/></svg>}
+                  {t.icon === "stroller" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 13a7 7 0 0 1 7-7v7H5z"/><circle cx="8" cy="20" r="1.5"/></svg>}
+                </span>
+                <h4 class="font-bold text-[14px] text-[#1E3A5F] mb-1.5 group-hover:text-[#2E6FB8] transition-colors leading-snug">{t.title}</h4>
+                <p class="text-xs text-[#6B7B91] leading-relaxed mb-3 flex-1">{t.desc}</p>
+                <span class="text-xs font-semibold inline-flex items-center gap-1" style={`color:${g.color};`}>Use Tool <span aria-hidden="true">→</span></span>
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
+
+      <!-- Empty-state for filtered search -->
+      <div id="empty-state" class="hidden bg-white rounded-2xl p-10 text-center">
+        <span class="text-4xl" aria-hidden="true">🔍</span>
+        <h3 class="font-bold text-[#1E3A5F] mt-3 mb-1">No tools found</h3>
+        <p class="text-sm text-[#6B7B91]">Try a different search term.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ───────── BOTTOM CTA: Suggest a Tool ───────── -->
+  <section class="max-w-7xl mx-auto px-5 pb-16">
+    <div class="bg-gradient-to-r from-[#E6F0FB] to-[#FBE6EE] rounded-3xl py-7 px-6 md:px-10 flex flex-col md:flex-row items-center gap-6">
+      <span class="text-5xl" aria-hidden="true">🧸</span>
+      <div class="flex-1 text-center md:text-left">
+        <h3 class="font-display font-bold text-[#1E3A5F] text-lg">Can't find what you need?</h3>
+        <p class="text-sm text-[#6B7B91] leading-relaxed">We're always adding new tools — tell us what you'd find helpful.</p>
+      </div>
+      <a href="/contact/" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white text-sm font-semibold px-6 py-3 rounded-full no-underline whitespace-nowrap transition-colors">
+        Suggest a Tool <span aria-hidden="true">→</span>
+      </a>
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  // ─── Live search filter ─────────────────────────────────────────────
+  // Hides individual tool cards whose title or description doesn't match
+  // the search query. Hides whole category sections when none of their
+  // cards remain visible. Shows the empty state when zero cards remain.
+  const input = document.getElementById("search-input") as HTMLInputElement | null;
+  const cards = Array.from(document.querySelectorAll<HTMLElement>(".tool-card"));
+  const sections = Array.from(document.querySelectorAll<HTMLElement>('[id^="cat-"]'));
+  const empty = document.getElementById("empty-state");
+
+  input?.addEventListener("input", () => {
+    const q = input.value.trim().toLowerCase();
+    let visibleCount = 0;
+    cards.forEach((card) => {
+      const name = card.dataset.name ?? "";
+      const desc = card.dataset.desc ?? "";
+      const match = !q || name.includes(q) || desc.includes(q);
+      card.style.display = match ? "" : "none";
+      if (match) visibleCount++;
+    });
+    sections.forEach((sec) => {
+      const visibleInSec = sec.querySelectorAll<HTMLElement>('.tool-card:not([style*="display: none"])').length;
+      sec.style.display = visibleInSec === 0 ? "none" : "";
+    });
+    empty?.classList.toggle("hidden", visibleCount > 0);
+  });
+</script>
