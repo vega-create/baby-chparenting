@@ -43,16 +43,71 @@ const popularTools = [
   },
 ];
 
-// ─── 7 Browse-by-category pills ──────────────────────────────────────
-const categories = [
-  { label: "Sleep",          count: 6, href: "/sleep/",       color: "#5B9BD5", bg: "#E6F0FB", icon: "moon"   },
-  { label: "Feeding",        count: 6, href: "/feeding/",     color: "#7BC0A0", bg: "#DDF0E5", icon: "bottle" },
-  { label: "Growth",         count: 4, href: "/tools/growth-calculator/", color: "#E8B86E", bg: "#FBEED5", icon: "chart" },
-  { label: "Names",          count: 4, href: "/names/",       color: "#A89BD4", bg: "#E4DEF0", icon: "blocks" },
-  { label: "Development",    count: 5, href: "/development/", color: "#5B9BD5", bg: "#E6F0FB", icon: "feet"   },
-  { label: "Health & Safety",count: 5, href: "/tools/",       color: "#E89BAE", bg: "#FBE0E6", icon: "heart"  },
-  { label: "Gear",           count: 5, href: "/gear/",        color: "#B68C73", bg: "#F1E2D3", icon: "stroller" },
+// ─── Tool categories — each links via anchor to a section lower on
+// this same page (NOT to article categories). The list of tools per
+// category is the single source of truth in the catGroups array
+// below.
+const catGroups = [
+  {
+    slug: "sleep", label: "Sleep", color: "#5B9BD5", bg: "#E6F0FB", icon: "moon",
+    tools: [
+      { title: "Sleep Tracker",      desc: "Log naps, nighttime sleep, and patterns.",     href: "/tools/sleep-tracker/" },
+      { title: "Bedtime Calculator", desc: "Find baby's ideal bedtime by age + wake time.", href: "/tools/bedtime-calculator/" },
+      { title: "White Noise",        desc: "Soothing sounds to help baby fall asleep.",     href: "/tools/white-noise/" },
+    ],
+  },
+  {
+    slug: "feeding", label: "Feeding", color: "#7BC0A0", bg: "#DDF0E5", icon: "bottle",
+    tools: [
+      { title: "Feeding Timer",     desc: "Time breastfeeding sessions or bottles.",   href: "/tools/feeding-timer/" },
+      { title: "Bottle Calculator", desc: "Work out daily formula / breast-milk needs.", href: "/tools/bottle-calculator/" },
+      { title: "Solids Readiness",  desc: "Quiz: is baby ready for solid food?",        href: "/tools/solids-readiness/" },
+    ],
+  },
+  {
+    slug: "growth", label: "Growth", color: "#E8B86E", bg: "#FBEED5", icon: "chart",
+    tools: [
+      { title: "Growth Calculator",  desc: "Plot weight + length on WHO percentile.",     href: "/tools/growth-calculator/" },
+      { title: "Tummy Time Tracker", desc: "Log daily tummy-time with a 7-day history.",  href: "/tools/tummy-time/" },
+    ],
+  },
+  {
+    slug: "names", label: "Names", color: "#A89BD4", bg: "#E4DEF0", icon: "blocks",
+    tools: [
+      { title: "Name Generator", desc: "Discover names with meanings and origins.",      href: "/tools/name-generator/" },
+      { title: "Sibling Names",  desc: "Find names that pair with an existing sibling.", href: "/tools/sibling-names/" },
+      { title: "Name Trends",    desc: "See a name's popularity over the decades.",      href: "/tools/name-trends/" },
+    ],
+  },
+  {
+    slug: "development", label: "Development", color: "#5B9BD5", bg: "#E6F0FB", icon: "feet",
+    tools: [
+      { title: "Milestone Checker", desc: "Track milestones from newborn to 24 months.", href: "/tools/milestone-checker/" },
+      { title: "Language Quiz",     desc: "Check baby's language milestones by age.",     href: "/tools/language-quiz/" },
+    ],
+  },
+  {
+    slug: "health-safety", label: "Health & Safety", color: "#E89BAE", bg: "#FBE0E6", icon: "heart",
+    tools: [
+      { title: "Car Seat Finder", desc: "Pick the right car-seat by age + weight.", href: "/tools/car-seat-finder/" },
+    ],
+  },
+  {
+    slug: "gear", label: "Gear", color: "#B68C73", bg: "#F1E2D3", icon: "stroller",
+    tools: [
+      { title: "Diaper Size Guide", desc: "Find the right diaper size by baby's weight.", href: "/tools/diaper-size/" },
+    ],
+  },
 ];
+
+const categories = catGroups.map((g) => ({
+  slug:  g.slug,
+  label: g.label,
+  count: g.tools.length,
+  color: g.color,
+  bg:    g.bg,
+  icon:  g.icon,
+}));
 
 // ─── 4-step process ──────────────────────────────────────────────────
 const steps = [
@@ -138,7 +193,7 @@ const steps = [
     </div>
     <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-3">
       {categories.map((c) => (
-        <a href={c.href} class="group flex items-center gap-3 bg-white border border-[#E6F0FB] rounded-2xl p-3 hover:shadow-md hover:-translate-y-0.5 transition-all no-underline">
+        <a href={`#cat-${c.slug}`} class="group flex items-center gap-3 bg-white border border-[#E6F0FB] rounded-2xl p-3 hover:shadow-md hover:-translate-y-0.5 transition-all no-underline">
           <span class="inline-flex items-center justify-center w-11 h-11 rounded-xl shrink-0" style={`background:${c.bg}; color:${c.color};`} aria-hidden="true">
             {c.icon === "moon"   && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>}
             {c.icon === "bottle" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="9" width="8" height="13" rx="2"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/></svg>}
@@ -156,6 +211,38 @@ const steps = [
         </a>
       ))}
     </div>
+  </section>
+
+  <!-- ───────── ALL TOOLS BY CATEGORY ───────── -->
+  <section class="max-w-7xl mx-auto px-5 pt-4 pb-12 scroll-mt-24">
+    {catGroups.map((g) => (
+      <div id={`cat-${g.slug}`} class="scroll-mt-24 mb-10">
+        <div class="flex items-center gap-3 mb-4">
+          <span class="inline-flex items-center justify-center w-11 h-11 rounded-xl" style={`background:${g.bg}; color:${g.color};`} aria-hidden="true">
+            {g.icon === "moon"     && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>}
+            {g.icon === "bottle"   && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="8" y="9" width="8" height="13" rx="2"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/></svg>}
+            {g.icon === "chart"    && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 21v-7m6 7V10m6 11v-5m6 5V4"/></svg>}
+            {g.icon === "blocks"   && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="13" width="8" height="8" rx="1"/><rect x="13" y="13" width="8" height="8" rx="1"/><rect x="8" y="3" width="8" height="8" rx="1"/></svg>}
+            {g.icon === "feet"     && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><ellipse cx="8" cy="11" rx="3" ry="4"/><ellipse cx="17" cy="15" rx="3" ry="4"/></svg>}
+            {g.icon === "heart"    && <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-7-4.5-9.5-9C.8 8.8 2.6 5 6.2 5c2 0 3.4 1.1 4.3 2.5C11.4 6.1 12.8 5 14.8 5c3.6 0 5.4 3.8 3.7 7C19 16.5 12 21 12 21z"/></svg>}
+            {g.icon === "stroller" && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 13a7 7 0 0 1 7-7v7H5z"/><circle cx="8" cy="20" r="1.5"/><circle cx="15" cy="20" r="1.5"/></svg>}
+          </span>
+          <div>
+            <h2 class="font-display text-xl text-[#1E3A5F] m-0">{g.label} Tools</h2>
+            <p class="text-xs text-[#6B7B91] m-0">{g.tools.length} tools in this category</p>
+          </div>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {g.tools.map((t) => (
+            <a href={t.href} class="group block bg-white rounded-2xl p-5 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all no-underline border border-transparent hover:border-[#E6F0FB]">
+              <h3 class="font-bold text-[15px] text-[#1E3A5F] mb-1.5 group-hover:text-[#2E6FB8] transition-colors">{t.title}</h3>
+              <p class="text-xs text-[#6B7B91] leading-relaxed mb-3">{t.desc}</p>
+              <span class="text-xs font-semibold inline-flex items-center gap-1" style={`color:${g.color};`}>Use Tool <span aria-hidden="true">→</span></span>
+            </a>
+          ))}
+        </div>
+      </div>
+    ))}
   </section>
 
   <!-- ───────── HOW OUR TOOLS WORK ───────── -->
