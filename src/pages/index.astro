@@ -19,10 +19,10 @@ const promises = [
 
 // 4 main guides — link to existing category pages.
 const guides = [
-  { title: "Sleep Guide",       href: "/sleep/",       gradient: "from-[#E6F0FB] to-[#D4E5F2]", lines: "Schedules, routines<br/>& sleep tips" },
-  { title: "Feeding Guide",     href: "/feeding/",     gradient: "from-[#DDF0E5] to-[#C3E2CF]", lines: "Breastfeeding, formula<br/>& baby foods" },
-  { title: "Development Guide", href: "/development/", gradient: "from-[#FBEED5] to-[#F4DCB0]", lines: "Milestones, activities<br/>& play ideas" },
-  { title: "Gear Guide",        href: "/gear/",        gradient: "from-[#E4DEF0] to-[#CFC2E2]", lines: "Reviews & recommendations<br/>for baby essentials" },
+  { title: "Sleep Guide",       href: "/sleep/",       image: "/images/hero/guide-sleep.jpg",       alt: "Sleeping baby in a blue onesie against a navy nursery wall painted with moon and stars",                       lines: "Schedules, routines<br/>& sleep tips" },
+  { title: "Feeding Guide",     href: "/feeding/",     image: "/images/hero/guide-feeding.jpg",     alt: "Sage-green bottle and bowl of orange baby food puree with banana slices and small cubes on a soft pastel table",  lines: "Breastfeeding, formula<br/>& baby foods" },
+  { title: "Development Guide", href: "/development/", image: "/images/hero/guide-development.jpg", alt: "Soft pastel rainbow stacker, teddy bear, wooden abacus, and shape sorter blocks in a bright nursery",          lines: "Milestones, activities<br/>& play ideas" },
+  { title: "Gear Guide",        href: "/gear/",        image: "/images/hero/guide-gear.jpg",        alt: "Lavender vintage bassinet stroller surrounded by baby gear — bottle, wooden toys, and a small teddy in a basket", lines: "Reviews & recommendations<br/>for baby essentials" },
 ];
 
 // 5 free tools shown in the homepage strip.
@@ -109,9 +109,14 @@ const trustPills = [
     <div class="grid grid-cols-2 lg:grid-cols-4 gap-5">
       {guides.map((g) => (
         <a href={g.href} class="group block bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow no-underline">
-          <div class={`aspect-[4/3] bg-gradient-to-br ${g.gradient} flex items-center justify-center text-[#6B7B91] text-xs opacity-70`}>
-            <span>{g.title} photo</span>
-          </div>
+          <img
+            src={g.image}
+            alt={g.alt}
+            class="w-full aspect-[4/3] object-cover object-center"
+            width="800"
+            height="600"
+            loading="lazy"
+          />
           <div class="p-5">
             <h3 class="font-display text-lg font-bold text-[#1E3A5F] mb-2 group-hover:text-[#2E6FB8] transition-colors">{g.title}</h3>
             <p class="text-sm text-[#6B7B91] leading-snug mb-3" set:html={g.lines}></p>
