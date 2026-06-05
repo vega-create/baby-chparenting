@@ -200,14 +200,15 @@ const trustPills = [
                       own bg so the colour story stays
                       cream→image→blue with no jumps. -->
   <section class="relative">
-    <!-- TOP: Mission text — mobile cream block, desktop absolute overlay -->
+    <!-- TOP: Mission text — mobile cream block (no CTA — that lives
+         on the image overlay), desktop absolute overlay. -->
     <div class="bg-[#FBF6EF] lg:bg-transparent lg:absolute lg:inset-x-0 lg:top-0 lg:h-[55%] lg:z-10">
-      <div class="max-w-7xl mx-auto px-5 py-10 lg:py-0 grid lg:grid-cols-2 gap-6 lg:gap-10 items-center lg:h-full">
+      <div class="max-w-7xl mx-auto px-5 py-6 lg:py-0 grid lg:grid-cols-2 gap-6 lg:gap-10 items-center lg:h-full">
         <div class="hidden lg:block" aria-hidden="true"></div>
         <div>
           <span class="text-[11px] sm:text-xs font-semibold text-[#5B9BD5] tracking-wider">OUR MISSION</span>
-          <h2 class="font-display text-2xl sm:text-2xl md:text-3xl text-[#1E3A5F] mt-2 mb-3 leading-tight">Helping Parents Feel Confident Every Step of the Journey</h2>
-          <p class="text-[#5A6F89] leading-relaxed mb-5 max-w-lg text-sm md:text-base">
+          <h2 class="font-display text-xl sm:text-2xl md:text-3xl text-[#1E3A5F] mt-1.5 lg:mt-2 mb-2 lg:mb-3 leading-tight">Helping Parents Feel Confident Every Step of the Journey</h2>
+          <p class="text-[#5A6F89] leading-relaxed mb-4 lg:mb-5 max-w-lg text-sm md:text-base">
             Baby Care Guide is here to support you with trusted information, practical tools, and a caring community. You don't have to do it alone.
           </p>
           <div class="grid grid-cols-3 gap-3 md:gap-5">
@@ -221,7 +222,8 @@ const trustPills = [
               </div>
             ))}
           </div>
-          <div class="mt-4 md:mt-6">
+          <!-- Desktop only: Learn More CTA (mobile gets its own overlay-on-image button) -->
+          <div class="hidden lg:block mt-4 md:mt-6">
             <a href="/about/" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white text-sm font-semibold px-5 py-2.5 rounded-full no-underline transition-colors">
               Learn More About Us <span aria-hidden="true">→</span>
             </a>
@@ -230,23 +232,25 @@ const trustPills = [
       </div>
     </div>
 
-    <!-- IMAGE — desktop uses the tall 3:2 original (cream middle is
-         needed because the right column overlays text there).
-         Mobile uses a pre-cropped variant that drops the empty
-         cream middle band so mom-baby and bear sit close together
-         instead of being separated by a void. The seam falls in
-         pure cream → invisible. -->
-    <picture>
-      <source media="(min-width: 1024px)" srcset="/images/hero/baby-home-mission.jpg" />
-      <img
-        src="/images/hero/baby-home-mission-mobile.jpg"
-        alt="Mother tenderly kissing her baby's forehead, with a teddy bear on a cloud below — cream-and-blue illustrated banner"
-        class="block w-full h-auto"
-        width="1600"
-        height="949"
-        loading="lazy"
-      />
-    </picture>
+    <!-- IMAGE wrapper — relative so the mobile CTA can absolutely
+         overlay on the right side of the photo (next to mom). -->
+    <div class="relative lg:static">
+      <picture>
+        <source media="(min-width: 1024px)" srcset="/images/hero/baby-home-mission.jpg" />
+        <img
+          src="/images/hero/baby-home-mission-mobile.jpg"
+          alt="Mother tenderly kissing her baby's forehead, with a teddy bear on a cloud below — cream-and-blue illustrated banner"
+          class="block w-full h-auto"
+          width="1600"
+          height="949"
+          loading="lazy"
+        />
+      </picture>
+      <!-- Mobile-only CTA, floats over the photo's right-side cream zone -->
+      <a href="/about/" class="lg:hidden absolute top-[18%] right-5 inline-flex items-center gap-1.5 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white text-xs font-semibold px-4 py-2 rounded-full no-underline transition-colors shadow-md">
+        Learn More <span aria-hidden="true">→</span>
+      </a>
+    </div>
 
     <!-- BOTTOM: Footer content — mobile blue block, desktop absolute overlay -->
     <div class="bg-[#CCDEF2] lg:bg-transparent lg:absolute lg:inset-x-0 lg:bottom-0 lg:h-[42%] lg:z-10">
