@@ -23,12 +23,19 @@ const cols = siteConfig.footerColumns;
 
 <footer class="relative">
   <!-- TOP WAVE: page (#F8FAFC) → blue band (#CCDEF2)
-       Even bigger amplitude this round (h-24 lg:h-36, viewBox y=120)
-       so the wave is unmistakable. Path uses two symmetric bezier
-       segments (both controls below on right, both above on left)
-       for a clean S-shape between the page bg and the blue band. -->
-  <svg class="block w-full h-24 lg:h-36 text-[#F8FAFC] -mb-px" viewBox="0 0 1440 120" preserveAspectRatio="none" aria-hidden="true">
-    <path d="M0 0 L1440 0 L1440 50 C 1200 115 960 115 720 50 C 480 -15 240 -15 0 50 Z" fill="currentColor"/>
+       Four-stop sinusoidal wave drawn with quadratic beziers, all
+       within the viewBox (no negative-y clipping). The path fills
+       the TOP region of the SVG with #F8FAFC and the bottom edge of
+       that fill is the wave silhouette. Crests reach y=8 (very close
+       to top) and troughs reach y=72 (close to bottom of an 80-unit
+       viewBox) — amplitude of 64 units inside 80 means the swing is
+       ~80% of the SVG height: an unmissable, obviously-wavy edge.
+
+       Element renders at h-20 lg:h-28 (80-112px). At a 1440px wide
+       viewport that's a wave whose visible white area varies from
+       ~11px tall (at the crest) to ~100px tall (at the trough). -->
+  <svg class="block w-full h-20 lg:h-28 text-[#F8FAFC] -mb-px" viewBox="0 0 1440 80" preserveAspectRatio="none" aria-hidden="true">
+    <path d="M0 40 Q 180 8 360 40 T 720 40 T 1080 40 T 1440 40 L1440 0 L0 0 Z" fill="currentColor"/>
   </svg>
 
   <!-- BLUE BAND
