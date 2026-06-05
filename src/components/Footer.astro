@@ -2,73 +2,99 @@
 import { siteConfig } from "../../site.config";
 const year = new Date().getFullYear();
 const cols = siteConfig.footerColumns;
+/* Unified footer — matches the home page's inline blue-band footer.
+   The bear-on-cloud + footprints decoration comes from a cropped
+   region of baby-home-mission.jpg (see public/images/footer/), so
+   every page now ends with the same visual band as the home page.
+
+   Layout:
+     - Top wave: SVG curve filled with body bg (#F8FAFC) creates the
+       page → blue transition (no hard seam regardless of section
+       background above).
+     - Blue band: bg-[#CCDEF2] with the cropped decorative band image
+       (bear cloud top-left + footprints bottom-right) positioned at
+       the bottom so the bear/cloud anchors the left and the columns
+       sit to its right.
+     - Content: 4 link columns + social cluster + copyright. On
+       desktop, lg:pl-[18%] reserves the bear's lane so columns
+       don't overlap the illustration.
+ */
 ---
 
-<footer class="bg-gradient-to-b from-[#CCDEF2] to-[#E6F0FB] pt-14">
-  <div class="max-w-7xl mx-auto px-5 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-10 pb-10">
-    <!-- BRAND -->
-    <!-- Bear-on-cloud illustration removed: the mission-section image
-         above already contains the real bear, so a second SVG bear in
-         the footer was a duplicate. -->
-    <div class="col-span-2 lg:col-span-2 flex items-start gap-3">
-      <div>
-        <div class="flex items-center gap-2 mb-3">
-          <span class="inline-flex items-center justify-center w-8 h-8 rounded-full bg-[#5B9BD5]/15 text-[#2E6FB8]">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><circle cx="9" cy="11" r="1" fill="currentColor"/><circle cx="15" cy="11" r="1" fill="currentColor"/><path d="M9.5 15.5c.7.7 1.6 1 2.5 1s1.8-.3 2.5-1"/></svg>
-          </span>
-          <span class="font-display text-lg font-bold text-[#2E6FB8]">{siteConfig.name}</span>
+<footer class="relative">
+  <!-- TOP WAVE: page (#F8FAFC) → blue band (#CCDEF2) -->
+  <svg class="block w-full h-12 lg:h-16 text-[#F8FAFC] -mb-px" viewBox="0 0 1440 80" preserveAspectRatio="none" aria-hidden="true">
+    <!-- Bottom-filled wave: top edge curves down then back up,
+         bottom fills the rect. Color = page bg, so the cut creates
+         the illusion of a wave-shaped page edge meeting the blue. -->
+    <path d="M0 0 L1440 0 L1440 50 C 1080 80 720 20 360 50 L0 50 Z" fill="currentColor"/>
+  </svg>
+
+  <!-- BLUE BAND -->
+  <div class="relative bg-[#CCDEF2] overflow-hidden">
+    <!-- Decorative bear cloud + footprints + stars baked into the
+         band image. Positioned at the bottom of the footer so the
+         bear anchors the left visual edge. -->
+    <picture class="absolute inset-x-0 bottom-0 pointer-events-none block" aria-hidden="true">
+      <source media="(min-width: 1024px)" srcset="/images/footer/footer-band.jpg" />
+      <img src="/images/footer/footer-band-mobile.jpg" alt="" class="block w-full h-auto" loading="lazy" width="1600" height="346" />
+    </picture>
+
+    <!-- CONTENT OVERLAY -->
+    <div class="relative z-10 max-w-7xl mx-auto px-5 pt-10 pb-6 lg:pt-12 lg:pb-7">
+      <!-- 4 link columns + social cluster.
+           On desktop, lg:pl-[18%] reserves the bear-cloud lane on
+           the left so links sit to the right of the bear. -->
+      <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-[1fr_1fr_1fr_1fr_auto] gap-6 md:gap-7 lg:pl-[18%]">
+        <div>
+          <h4 class="footer-col-title">Guides</h4>
+          <ul class="footer-col-list">
+            {cols.guides.map((it) => <li><a href={it.href} class="footer-col-link">{it.label}</a></li>)}
+          </ul>
         </div>
-        <p class="text-sm text-[#6B7B91] leading-relaxed max-w-[260px]">
-          Evidence-based support for sleep, feeding, development, and everyday parenting.
-        </p>
-        <div class="flex items-center gap-3 mt-4">
-          <a href={siteConfig.social.facebook} aria-label="Facebook" target="_blank" rel="noopener" class="footer-social-link"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.07C24 5.4 18.63 0 12 0S0 5.4 0 12.07c0 5.99 4.39 10.96 10.13 11.85v-8.38H7.08v-3.47h3.05V9.43c0-3 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88v2.24h3.33l-.53 3.47h-2.8v8.38C19.61 23.03 24 18.06 24 12.07z"/></svg></a>
-          <a href={siteConfig.social.instagram} aria-label="Instagram" target="_blank" rel="noopener" class="footer-social-link"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.16c3.2 0 3.58.01 4.85.07 3.25.15 4.77 1.69 4.92 4.92.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.15 3.23-1.66 4.77-4.92 4.92-1.27.06-1.64.07-4.85.07-3.2 0-3.58-.01-4.85-.07-3.26-.15-4.77-1.7-4.92-4.92-.06-1.27-.07-1.64-.07-4.85 0-3.2.01-3.58.07-4.85.15-3.23 1.66-4.77 4.92-4.92C8.42 2.17 8.8 2.16 12 2.16zM12 0C8.74 0 8.33.01 7.05.07 2.7.27.28 2.69.08 7.05.01 8.33 0 8.74 0 12c0 3.26.01 3.67.07 4.95.2 4.36 2.62 6.78 6.98 6.98C8.33 23.99 8.74 24 12 24c3.26 0 3.67-.01 4.95-.07 4.35-.2 6.78-2.62 6.98-6.98.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95C23.73 2.69 21.31.27 16.95.07 15.67.01 15.26 0 12 0zM12 5.84a6.16 6.16 0 100 12.32 6.16 6.16 0 000-12.32zm0 10.16a4 4 0 110-8 4 4 0 010 8zM18.4 4.16a1.44 1.44 0 100 2.88 1.44 1.44 0 000-2.88z"/></svg></a>
-          <a href={siteConfig.social.pinterest} aria-label="Pinterest" target="_blank" rel="noopener" class="footer-social-link"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.08 3.16 9.42 7.62 11.17-.1-.95-.2-2.4.04-3.44.22-.94 1.41-5.97 1.41-5.97s-.36-.72-.36-1.78c0-1.67.97-2.92 2.17-2.92 1.02 0 1.52.77 1.52 1.69 0 1.03-.66 2.57-1 4-.28 1.19.6 2.17 1.78 2.17 2.13 0 3.77-2.25 3.77-5.5 0-2.87-2.06-4.88-5.01-4.88-3.41 0-5.42 2.56-5.42 5.21 0 1.03.4 2.14.89 2.74.1.12.11.22.08.34l-.33 1.36c-.05.22-.17.27-.4.16-1.5-.7-2.44-2.89-2.44-4.65 0-3.79 2.75-7.26 7.93-7.26 4.17 0 7.4 2.97 7.4 6.93 0 4.14-2.61 7.47-6.23 7.47-1.22 0-2.36-.63-2.75-1.38l-.75 2.85c-.27 1.04-1 2.35-1.49 3.15 1.12.35 2.32.53 3.55.53C18.63 24 24 18.63 24 12 24 5.37 18.63 0 12 0z"/></svg></a>
-          <a href={siteConfig.social.youtube} aria-label="YouTube" target="_blank" rel="noopener" class="footer-social-link"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.4 3.5 12 3.5 12 3.5s-7.4 0-9.4.6A3 3 0 0 0 .5 6.2 31.2 31.2 0 0 0 0 12a31.2 31.2 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c2 .6 9.4.6 9.4.6s7.4 0 9.4-.6a3 3 0 0 0 2.1-2.1A31.2 31.2 0 0 0 24 12a31.2 31.2 0 0 0-.5-5.8zM9.6 15.6V8.4l6.2 3.6-6.2 3.6z"/></svg></a>
+        <div>
+          <h4 class="footer-col-title">Tools</h4>
+          <ul class="footer-col-list">
+            {cols.tools.map((it) => <li><a href={it.href} class="footer-col-link">{it.label}</a></li>)}
+          </ul>
+        </div>
+        <div>
+          <h4 class="footer-col-title">Resources</h4>
+          <ul class="footer-col-list">
+            {cols.resources.map((it) => <li><a href={it.href} class="footer-col-link">{it.label}</a></li>)}
+          </ul>
+        </div>
+        <div>
+          <h4 class="footer-col-title">Legal</h4>
+          <ul class="footer-col-list">
+            {cols.legal.map((it) => <li><a href={it.href} class="footer-col-link">{it.label}</a></li>)}
+          </ul>
+        </div>
+        <!-- Social cluster — vertical on desktop, horizontal row on mobile -->
+        <div class="col-span-2 md:col-span-4 lg:col-span-1 flex lg:flex-col items-start gap-2 lg:ml-2">
+          <a href={siteConfig.social.facebook}  aria-label="Facebook"  target="_blank" rel="noopener" class="footer-social-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.07C24 5.4 18.63 0 12 0S0 5.4 0 12.07c0 5.99 4.39 10.96 10.13 11.85v-8.38H7.08v-3.47h3.05V9.43c0-3 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88v2.24h3.33l-.53 3.47h-2.8v8.38C19.61 23.03 24 18.06 24 12.07z"/></svg></a>
+          <a href={siteConfig.social.instagram} aria-label="Instagram" target="_blank" rel="noopener" class="footer-social-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.16c3.2 0 3.58.01 4.85.07 3.25.15 4.77 1.69 4.92 4.92.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.15 3.23-1.66 4.77-4.92 4.92-1.27.06-1.64.07-4.85.07-3.2 0-3.58-.01-4.85-.07-3.26-.15-4.77-1.7-4.92-4.92-.06-1.27-.07-1.64-.07-4.85 0-3.2.01-3.58.07-4.85.15-3.23 1.66-4.77 4.92-4.92C8.42 2.17 8.8 2.16 12 2.16zM12 0C8.74 0 8.33.01 7.05.07 2.7.27.28 2.69.08 7.05.01 8.33 0 8.74 0 12c0 3.26.01 3.67.07 4.95.2 4.36 2.62 6.78 6.98 6.98C8.33 23.99 8.74 24 12 24c3.26 0 3.67-.01 4.95-.07 4.35-.2 6.78-2.62 6.98-6.98.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95C23.73 2.69 21.31.27 16.95.07 15.67.01 15.26 0 12 0zM12 5.84a6.16 6.16 0 100 12.32 6.16 6.16 0 000-12.32zm0 10.16a4 4 0 110-8 4 4 0 010 8zM18.4 4.16a1.44 1.44 0 100 2.88 1.44 1.44 0 000-2.88z"/></svg></a>
+          <a href={siteConfig.social.pinterest} aria-label="Pinterest" target="_blank" rel="noopener" class="footer-social-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.08 3.16 9.42 7.62 11.17-.1-.95-.2-2.4.04-3.44.22-.94 1.41-5.97 1.41-5.97s-.36-.72-.36-1.78c0-1.67.97-2.92 2.17-2.92 1.02 0 1.52.77 1.52 1.69 0 1.03-.66 2.57-1 4-.28 1.19.6 2.17 1.78 2.17 2.13 0 3.77-2.25 3.77-5.5 0-2.87-2.06-4.88-5.01-4.88-3.41 0-5.42 2.56-5.42 5.21 0 1.03.4 2.14.89 2.74.1.12.11.22.08.34l-.33 1.36c-.05.22-.17.27-.4.16-1.5-.7-2.44-2.89-2.44-4.65 0-3.79 2.75-7.26 7.93-7.26 4.17 0 7.4 2.97 7.4 6.93 0 4.14-2.61 7.47-6.23 7.47-1.22 0-2.36-.63-2.75-1.38l-.75 2.85c-.27 1.04-1 2.35-1.49 3.15 1.12.35 2.32.53 3.55.53C18.63 24 24 18.63 24 12 24 5.37 18.63 0 12 0z"/></svg></a>
+          <a href={siteConfig.social.youtube}   aria-label="YouTube"   target="_blank" rel="noopener" class="footer-social-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.4 3.5 12 3.5 12 3.5s-7.4 0-9.4.6A3 3 0 0 0 .5 6.2 31.2 31.2 0 0 0 0 12a31.2 31.2 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c2 .6 9.4.6 9.4.6s7.4 0 9.4-.6a3 3 0 0 0 2.1-2.1A31.2 31.2 0 0 0 24 12a31.2 31.2 0 0 0-.5-5.8zM9.6 15.6V8.4l6.2 3.6-6.2 3.6z"/></svg></a>
         </div>
       </div>
-    </div>
 
-    <div>
-      <h4 class="footer-col-title">Guides</h4>
-      <ul class="footer-col-list">
-        {cols.guides.map((it) => <li><a href={it.href} class="footer-col-link">{it.label}</a></li>)}
-      </ul>
+      <!-- Copyright sits at the bottom centre -->
+      <p class="text-center text-[11px] md:text-xs text-[#5A6F89] mt-8 lg:mt-10">© {year} {siteConfig.name}. All rights reserved.</p>
     </div>
-    <div>
-      <h4 class="footer-col-title">Tools</h4>
-      <ul class="footer-col-list">
-        {cols.tools.map((it) => <li><a href={it.href} class="footer-col-link">{it.label}</a></li>)}
-      </ul>
-    </div>
-    <div>
-      <h4 class="footer-col-title">Resources</h4>
-      <ul class="footer-col-list">
-        {cols.resources.map((it) => <li><a href={it.href} class="footer-col-link">{it.label}</a></li>)}
-      </ul>
-    </div>
-    <div>
-      <h4 class="footer-col-title">Legal</h4>
-      <ul class="footer-col-list">
-        {cols.legal.map((it) => <li><a href={it.href} class="footer-col-link">{it.label}</a></li>)}
-      </ul>
-    </div>
-  </div>
-
-  <div class="border-t border-[#D5E6F4] pt-5 pb-7 px-5">
-    <p class="max-w-7xl mx-auto text-center text-xs text-[#6B7B91]">© {year} {siteConfig.name}. All rights reserved.</p>
   </div>
 </footer>
 
 <style>
-  .footer-col-title { font-family: var(--font-display); font-size: 14px; font-weight: 700; color: #1E3A5F; margin: 0 0 14px; }
-  .footer-col-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 9px; font-size: 14px; }
-  .footer-col-link { color: #6B7B91; text-decoration: none; transition: color 0.15s; }
+  .footer-col-title { font-family: 'Nunito', 'Inter', system-ui, sans-serif; font-size: 13px; font-weight: 700; color: #1E3A5F; margin: 0 0 10px; }
+  @media (min-width: 768px) { .footer-col-title { font-size: 14px; margin-bottom: 12px; } }
+  .footer-col-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 6px; font-size: 12px; }
+  @media (min-width: 768px) { .footer-col-list { font-size: 13px; gap: 8px; } }
+  .footer-col-link { color: #3F5575; text-decoration: none; transition: color 0.15s; }
   .footer-col-link:hover { color: #2E6FB8; }
   .footer-social-link {
     display: inline-flex; align-items: center; justify-content: center;
-    width: 32px; height: 32px; border-radius: 50%;
+    width: 26px; height: 26px; border-radius: 50%;
     background: rgba(255,255,255,0.85); color: #2E6FB8;
     transition: background 0.15s, transform 0.15s;
   }
