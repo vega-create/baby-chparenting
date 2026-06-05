@@ -268,19 +268,21 @@ const categories = catGroups.map((g) => ({
        The user-supplied works-steps.jpg already bakes in the 4
        numbered steps (Create Profile → Record Details → Track
        Growth → Stay Connected) plus the friendly plush dog mascot.
-       We just frame it inside a light card with a heading. -->
-  <section class="px-5 py-12">
-    <div class="max-w-7xl mx-auto bg-[#F1F7FD] rounded-3xl py-10 px-6 md:px-10">
-      <div class="text-center mb-8">
-        <h2 class="font-display text-2xl md:text-3xl text-[#1E3A5F] flex items-center justify-center gap-2">
+       Desktop: image fills the card width (max-w-7xl ≈ 1280px) with
+       only light inner padding. Mobile: the card has tighter
+       horizontal padding so the diagram doesn't shrink too much. -->
+  <section class="px-5 py-16 lg:py-20">
+    <div class="max-w-[1400px] mx-auto bg-[#F1F7FD] rounded-3xl py-10 lg:py-14 px-4 sm:px-6 md:px-8 lg:px-10">
+      <div class="text-center mb-8 lg:mb-10">
+        <h2 class="font-display text-2xl md:text-3xl lg:text-4xl text-[#1E3A5F] flex items-center justify-center gap-3">
           <span class="text-[#5B9BD5]">♡</span> How It Works <span class="text-[#5B9BD5]">♡</span>
         </h2>
-        <p class="text-[#6B7B91] mt-2 text-sm md:text-base">Four simple steps from sign-up to confident parenting.</p>
+        <p class="text-[#6B7B91] mt-3 text-sm md:text-base lg:text-lg">Four simple steps from sign-up to confident parenting.</p>
       </div>
       <img
         src="/images/tools/works-steps.jpg"
         alt="Four-step process diagram: 1. Create Profile, 2. Record Details, 3. Track Growth, 4. Stay Connected — with a plush puppy mascot on the right"
-        class="block w-full h-auto max-w-[1100px] mx-auto rounded-2xl"
+        class="block w-full h-auto rounded-2xl"
         width="1400"
         height="630"
         loading="lazy"
@@ -291,10 +293,9 @@ const categories = catGroups.map((g) => ({
   <!-- ───────── BOTTOM CTA STRIP ─────────
        The free-tools-banner.jpg already contains the headline +
        sub-copy + cloud mascot, so the banner image IS the CTA copy.
-       We add a dedicated "Explore All Tools" pill below the image
-       (rather than over it) so the button stays accessible even on
-       narrow mobile widths and never sits on top of the artwork. -->
-  <section class="max-w-7xl mx-auto px-5 pb-16">
+       Banner spans the full container on desktop; the Explore CTA
+       sits below as a standalone pill. -->
+  <section class="max-w-[1400px] mx-auto px-5 pb-20">
     <div class="rounded-3xl overflow-hidden shadow-sm">
       <img
         src="/images/tools/free-tools-banner.jpg"
@@ -305,8 +306,8 @@ const categories = catGroups.map((g) => ({
         loading="lazy"
       />
     </div>
-    <div class="text-center mt-6">
-      <a href="/tools/all/" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white text-sm font-semibold px-7 py-3 rounded-full no-underline transition-colors shadow-md">
+    <div class="text-center mt-8">
+      <a href="/tools/all/" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white text-base font-semibold px-8 py-3.5 rounded-full no-underline transition-colors shadow-md">
         Explore All Tools <span aria-hidden="true">→</span>
       </a>
     </div>
