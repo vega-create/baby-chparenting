@@ -38,24 +38,38 @@ const catColor = (slug: string | undefined) => {
   title={`Baby Care Blog — ${siteConfig.name}`}
   description="Expert articles for every stage of your baby's first years. Sleep, feeding, development, parenting tips and more."
 >
-  <!-- ───────── HERO ───────── -->
-  <section class="relative bg-gradient-to-b from-[#F1F7FD] to-[#E6F0FB] overflow-hidden">
-    <div class="max-w-7xl mx-auto px-5 pt-12 md:pt-16 pb-16 md:pb-20 grid lg:grid-cols-2 gap-10 items-center">
-      <div>
-        <span class="inline-flex items-center gap-1.5 text-xs font-semibold text-[#2E6FB8] bg-white/80 px-3 py-1.5 rounded-full mb-5"><span aria-hidden="true">♡</span> OUR BLOG</span>
-        <h1 class="font-display text-[#1E3A5F] leading-[1.1] mb-5 text-4xl md:text-5xl lg:text-6xl">Baby Care Blog</h1>
-        <p class="text-[#5A6F89] text-base md:text-lg leading-relaxed max-w-md mb-4">
+  <!-- ───────── HERO ─────────
+       Desktop (lg+): blog-banner.jpg fills the section as an absolute
+                      bg; text overlays on the left over the soft
+                      blanket area. object-position 30%_center keeps
+                      the baby's face + teddy in frame.
+       Mobile (<lg):  inline banner image at natural aspect (so the
+                      baby + journal + booties all stay visible);
+                      text + script line stack underneath against the
+                      brand gradient bg. -->
+  <section class="relative overflow-hidden bg-gradient-to-b from-[#F1F7FD] to-[#E6F0FB] lg:min-h-[480px] xl:min-h-[560px]">
+    <picture class="lg:absolute lg:inset-0 lg:block lg:h-full lg:w-full">
+      <img
+        src="/images/hero/blog-banner.jpg"
+        alt="Smiling baby on a soft blanket surrounded by a baby milestones journal, ultrasound photo, bottle, blue knit blanket, and a teddy bear"
+        class="block w-full h-auto lg:h-full lg:w-full lg:object-cover lg:object-[35%_center]"
+        width="2000"
+        height="1000"
+        loading="eager"
+        fetchpriority="high"
+      />
+    </picture>
+
+    <!-- TEXT — mobile inline (under image), desktop absolute (over left of image) -->
+    <div class="relative lg:absolute lg:inset-0 max-w-7xl mx-auto px-5 py-10 lg:py-0 lg:flex lg:items-center z-10">
+      <div class="max-w-xl">
+        <span class="inline-flex items-center gap-1.5 text-xs font-semibold text-[#2E6FB8] bg-white/90 px-3 py-1.5 rounded-full mb-5 shadow-sm"><span aria-hidden="true">♡</span> OUR BLOG</span>
+        <h1 class="font-display text-[#1E3A5F] leading-[1.1] mb-4 text-3xl md:text-5xl lg:text-6xl">Baby Care Blog</h1>
+        <p class="text-[#3F5575] text-sm md:text-lg leading-relaxed max-w-md mb-3">
           Expert articles for every stage of your baby's first years.
         </p>
-        <p class="text-sm text-[#6B7B91]">Helpful tips. Trusted advice. Real support.</p>
-        <p class="mt-5 font-display italic text-[#5B9BD5] text-lg">You're doing great, mama. <span aria-hidden="true">♡</span></p>
-      </div>
-      <div class="relative">
-        <div class="aspect-[4/3] rounded-3xl overflow-hidden bg-gradient-to-br from-[#E6F0FB] via-[#FBF0E6] to-[#FBE6EE] shadow-md flex items-center justify-center text-[#6B7B91] text-sm">
-          <span class="opacity-50">Blog hero photo</span>
-        </div>
-        <span class="absolute -top-2 left-6 text-2xl opacity-70" aria-hidden="true">⭐</span>
-        <span class="absolute top-5 -right-2 text-2xl opacity-70" aria-hidden="true">☁️</span>
+        <p class="text-xs md:text-sm text-[#5A6F89]">Helpful tips. Trusted advice. Real support.</p>
+        <p class="mt-4 font-display italic text-[#5B9BD5] text-base md:text-lg">You're doing great, mama. <span aria-hidden="true">♡</span></p>
       </div>
     </div>
   </section>
