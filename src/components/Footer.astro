@@ -22,12 +22,14 @@ const cols = siteConfig.footerColumns;
 ---
 
 <footer class="relative">
-  <!-- TOP WAVE: page (#F8FAFC) → blue band (#CCDEF2) -->
-  <svg class="block w-full h-12 lg:h-16 text-[#F8FAFC] -mb-px" viewBox="0 0 1440 80" preserveAspectRatio="none" aria-hidden="true">
-    <!-- Bottom-filled wave: top edge curves down then back up,
-         bottom fills the rect. Color = page bg, so the cut creates
-         the illusion of a wave-shaped page edge meeting the blue. -->
-    <path d="M0 0 L1440 0 L1440 50 C 1080 80 720 20 360 50 L0 50 Z" fill="currentColor"/>
+  <!-- TOP WAVE: page (#F8FAFC) → blue band (#CCDEF2)
+       Filled at the top with page bg colour; the bottom edge is the
+       wave curve, so it looks like the page above has a wavy bottom
+       meeting the blue footer below. Double curve (two crests + a
+       trough) for a more pronounced silhouette. The svg is tall
+       (h-20 lg:h-28) so the amplitude is visible. -->
+  <svg class="block w-full h-20 lg:h-28 text-[#F8FAFC] -mb-px" viewBox="0 0 1440 100" preserveAspectRatio="none" aria-hidden="true">
+    <path d="M0 0 L1440 0 L1440 55 C 1200 100 960 15 720 55 C 480 95 240 20 0 55 Z" fill="currentColor"/>
   </svg>
 
   <!-- BLUE BAND -->
