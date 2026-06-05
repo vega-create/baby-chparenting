@@ -111,9 +111,28 @@ const trustPills = [
     </div>
   </section>
 
-  <!-- Visible white-cream spacer between banner and the next section.
-       Replaces the previously-removed wave with explicit breathing room. -->
-  <div class="h-10 lg:h-16 bg-[#F8FAFC]"></div>
+  <!-- ───────── 4 PROMISE PILLS ───────── -->
+  <!-- Sits in the white band between the banner and the Guides grid.
+       The image has its own decorative pill icons baked in, but these
+       are the readable HTML version with proper titles + descriptions. -->
+  <section class="bg-[#F8FAFC] px-5 py-10 lg:py-12">
+    <div class="max-w-7xl mx-auto grid grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-6">
+      {promises.map((p) => (
+        <div class="flex items-center gap-3">
+          <span class="inline-flex items-center justify-center w-12 h-12 lg:w-14 lg:h-14 rounded-full shrink-0" style={`background:${p.bg}; color:${p.color};`} aria-hidden="true">
+            {p.icon === "moon"   && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>}
+            {p.icon === "bottle" && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="9" width="8" height="13" rx="2"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/><path d="M10 4h4"/><path d="M9 14h6"/></svg>}
+            {p.icon === "chart"  && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21v-7m6 7V10m6 11v-5m6 5V4"/></svg>}
+            {p.icon === "sprout" && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 20h10"/><path d="M12 20V8"/><path d="M12 8c-3-3-7-3-7 0 0 3 4 5 7 5"/><path d="M12 8c3-3 7-3 7 0 0 3-4 5-7 5"/></svg>}
+          </span>
+          <div class="min-w-0">
+            <div class="font-bold text-sm md:text-base text-[#1E3A5F] leading-tight">{p.title}</div>
+            <div class="text-xs md:text-sm text-[#6B7B91] leading-snug mt-0.5">{p.desc}</div>
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
 
   <!-- ───────── 4 MAIN GUIDES ───────── -->
   <section id="guides" class="max-w-7xl mx-auto px-5 pt-6 pb-12">
