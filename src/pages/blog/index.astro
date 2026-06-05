@@ -77,9 +77,9 @@ const catColor = (slug: string | undefined) => {
       </div>
 
       {allPosts.length > 0 ? (
-        <div class="flex flex-col gap-5" id="articles-grid">
-          {allPosts.map((p) => (
-            <a href={`/blog/${p.data.slug || p.slug}/`} data-cat={(p.data.category || "").toLowerCase()} class="article-item group flex flex-col sm:flex-row gap-4 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow no-underline">
+        <div class="flex flex-col gap-5" id="articles-grid" data-initial="6">
+          {allPosts.map((p, i) => (
+            <a href={`/blog/${p.data.slug || p.slug}/`} data-cat={(p.data.category || "").toLowerCase()} class={`article-item group flex flex-col sm:flex-row gap-4 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow no-underline ${i >= 6 ? 'hidden' : ''}`}>
               <div class="sm:w-56 shrink-0">
                 {p.data.image ? (
                   <img src={p.data.image} alt={p.data.title} class="w-full h-44 sm:h-full object-cover object-[50%_25%]" loading="lazy" />
@@ -110,11 +110,18 @@ const catColor = (slug: string | undefined) => {
         <p class="text-[#6B7B91]">Articles coming soon.</p>
       )}
 
-      <div class="text-center mt-10">
-        <button type="button" class="inline-flex items-center gap-2 bg-white border border-[#D5E6F4] hover:border-[#5B9BD5] hover:text-[#2E6FB8] text-[#1E3A5F] text-sm font-semibold px-6 py-2.5 rounded-full transition-colors">
-          Load More Articles <span aria-hidden="true">↓</span>
-        </button>
-      </div>
+      {allPosts.length > 6 && (
+        <div class="text-center mt-10">
+          <button
+            type="button"
+            id="load-more-btn"
+            data-step="6"
+            class="inline-flex items-center gap-2 bg-white border border-[#D5E6F4] hover:border-[#5B9BD5] hover:text-[#2E6FB8] text-[#1E3A5F] text-sm font-semibold px-6 py-2.5 rounded-full transition-colors"
+          >
+            Load More Articles <span aria-hidden="true">↓</span>
+          </button>
+        </div>
+      )}
     </div>
 
     <!-- SIDEBAR -->
@@ -195,6 +202,24 @@ const catColor = (slug: string | undefined) => {
     </aside>
   </section>
 </BaseLayout>
+
+<script>
+  // ─── Load More — reveal `step` more articles per click ──────────────
+  // Initial state: only first 6 .article-item nodes are visible.
+  // Each click un-hides the next 6 (driven by data-step on the button).
+  // When everything is visible, the button auto-hides.
+  const btn = document.getElementById("load-more-btn");
+  if (btn) {
+    btn.addEventListener("click", () => {
+      const step = parseInt(btn.dataset.step ?? "6", 10);
+      const hidden = document.querySelectorAll<HTMLElement>(".article-item.hidden");
+      Array.from(hidden).slice(0, step).forEach((el) => el.classList.remove("hidden"));
+      if (document.querySelectorAll(".article-item.hidden").length === 0) {
+        btn.style.display = "none";
+      }
+    });
+  }
+</script>
 
 <style>
   .sidebar-social {
