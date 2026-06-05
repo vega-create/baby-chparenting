@@ -58,8 +58,10 @@ const catColor = (slug: string | undefined) => {
       />
     </picture>
 
-    <!-- MOBILE-ONLY title overlay: eyebrow + H1 on the left of the banner -->
-    <div class="lg:hidden absolute top-0 left-0 right-1/2 h-full flex flex-col justify-center px-5 z-10">
+    <!-- MOBILE-ONLY title overlay: eyebrow + H1 anchored to the TOP-
+         LEFT of the banner so the text floats on the photo's pale
+         pillow / white blanket zone (not the blue knit blanket below). -->
+    <div class="lg:hidden absolute top-0 left-0 right-1/2 pt-4 sm:pt-6 px-5 z-10">
       <span class="inline-flex w-fit items-center gap-1.5 text-[10px] font-semibold text-[#2E6FB8] bg-white/90 px-2.5 py-1 rounded-full mb-2 shadow-sm">
         <span aria-hidden="true">♡</span> OUR BLOG
       </span>
