@@ -47,18 +47,22 @@ const trustPills = [
   hideFooter
 >
   <!-- ───────── HERO ─────────
-       Mobile (<lg): inline cropped image + title overlay on its left,
-                     description + CTA stack BELOW.
-       Desktop (lg+): inline original image (full natural aspect — all
-                     5 baked-in pills visible, no crop), text content
-                     absolute-positioned over the photo's left zone. -->
-  <section class="relative overflow-hidden bg-gradient-to-b from-[#F1F7FD] to-[#E6F0FB]">
-    <picture>
+       Mobile (<lg): inline cropped image with title overlay on its
+                     left half; description + CTA stack BELOW.
+       Desktop (lg+): photo as a section-filling background via the
+                     <picture>; full text content overlays on the
+                     left of the photo. object-position 50%_25%
+                     biases the crop slightly upward so the baby's
+                     face stays in frame (some of the bottom pills
+                     get cropped — they're decorative, not
+                     navigation). -->
+  <section class="relative overflow-hidden bg-gradient-to-b from-[#F1F7FD] to-[#E6F0FB] lg:min-h-[640px] xl:min-h-[720px]">
+    <picture class="lg:absolute lg:inset-0 lg:block lg:h-full lg:w-full">
       <source media="(min-width: 1024px)" srcset="/images/hero/baby-home-banner.jpg" />
       <img
         src="/images/hero/baby-home-banner-mobile.jpg"
         alt="Smiling baby in a blue onesie holding a teddy bear on a soft bed surrounded by pastel star and footprint decorations"
-        class="block w-full h-auto"
+        class="block w-full h-auto lg:h-full lg:w-full lg:object-cover lg:object-[50%_25%]"
         width="2000"
         height="1143"
         loading="eager"
@@ -67,7 +71,7 @@ const trustPills = [
     </picture>
 
     <!-- MOBILE-ONLY title overlay: eyebrow + H1 on the left of the photo -->
-    <div class="lg:hidden absolute inset-y-0 left-0 right-1/2 top-0 bottom-auto h-[60%] flex flex-col justify-center px-5 z-10">
+    <div class="lg:hidden absolute top-0 left-0 right-1/2 h-[60%] flex flex-col justify-center px-5 z-10">
       <span class="inline-flex w-fit items-center gap-1.5 text-[10px] font-semibold text-[#2E6FB8] bg-white/90 px-2.5 py-1 rounded-full mb-3 shadow-sm">
         <span aria-hidden="true">♡</span> {siteConfig.tagline}
       </span>
