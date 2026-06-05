@@ -58,15 +58,18 @@ const T = THEMES[theme];
 
 // ─── Cross-link strip: 5 other tools ─────────────────────────────────
 // Listed once here so every individual tool page surfaces siblings.
+// `img` points at one of the 3D-illustrated icons in /public/images/tools/
+// (the same set used on /tools/), so individual tool pages stay visually
+// consistent with the tools landing.
 const allTools = [
-  { slug: "sleep-tracker",     label: "Sleep Tracker",     icon: "moon",   theme: THEMES.blue   },
-  { slug: "feeding-timer",     label: "Feeding Timer",     icon: "bottle", theme: THEMES.green  },
-  { slug: "growth-calculator", label: "Growth Calculator", icon: "ruler",  theme: THEMES.yellow },
-  { slug: "name-generator",    label: "Name Generator",    icon: "blocks", theme: THEMES.purple },
-  { slug: "milestone-checker", label: "Milestone Tracker", icon: "feet",   theme: THEMES.blue   },
-  { slug: "bottle-calculator", label: "Bottle Calculator", icon: "bottle", theme: THEMES.green  },
-  { slug: "tummy-time",        label: "Tummy Time",        icon: "timer",  theme: THEMES.pink   },
-  { slug: "white-noise",       label: "White Noise",       icon: "moon",   theme: THEMES.blue   },
+  { slug: "sleep-tracker",     label: "Sleep Tracker",     img: "/images/tools/icon-sleep.jpg",        theme: THEMES.blue   },
+  { slug: "feeding-timer",     label: "Feeding Timer",     img: "/images/tools/icon-feeding.jpg",      theme: THEMES.green  },
+  { slug: "growth-calculator", label: "Growth Calculator", img: "/images/tools/icon-growth-ruler.jpg", theme: THEMES.yellow },
+  { slug: "name-generator",    label: "Name Generator",    img: "/images/tools/icon-names.jpg",        theme: THEMES.purple },
+  { slug: "milestone-checker", label: "Milestone Tracker", img: "/images/tools/icon-feet.jpg",         theme: THEMES.blue   },
+  { slug: "bottle-calculator", label: "Bottle Calculator", img: "/images/tools/icon-feeding.jpg",      theme: THEMES.green  },
+  { slug: "tummy-time",        label: "Tummy Time",        img: "/images/tools/icon-chart.jpg",        theme: THEMES.pink   },
+  { slug: "white-noise",       label: "White Noise",       img: "/images/tools/icon-sleep.jpg",        theme: THEMES.blue   },
 ];
 
 // Current tool slug — used to filter it out of the strip.
@@ -167,13 +170,8 @@ const relatedTools = allTools.filter((t) => t.slug !== currentSlug).slice(0, 5);
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
       {relatedTools.map((r) => (
         <a href={`/tools/${r.slug}/`} class="group flex flex-col items-center text-center bg-white rounded-2xl p-4 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all no-underline">
-          <span class="inline-flex items-center justify-center w-14 h-14 rounded-2xl mb-2" style={`background:${r.theme.bg}; color:${r.theme.fg};`} aria-hidden="true">
-            {r.icon === "moon"   && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>}
-            {r.icon === "bottle" && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><rect x="8" y="9" width="8" height="13" rx="2"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/></svg>}
-            {r.icon === "ruler"  && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><rect x="6" y="3" width="4" height="18" rx="1"/></svg>}
-            {r.icon === "blocks" && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><rect x="3" y="13" width="8" height="8" rx="1"/><rect x="13" y="13" width="8" height="8" rx="1"/><rect x="8" y="3" width="8" height="8" rx="1"/></svg>}
-            {r.icon === "feet"   && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><ellipse cx="8" cy="11" rx="3" ry="4"/><ellipse cx="17" cy="15" rx="3" ry="4"/></svg>}
-            {r.icon === "timer"  && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2 2"/></svg>}
+          <span class="inline-flex items-center justify-center w-16 h-16 rounded-2xl mb-2 overflow-hidden" style={`background:${r.theme.bg};`} aria-hidden="true">
+            <img src={r.img} alt="" class="block w-12 h-12 object-contain mix-blend-multiply" loading="lazy" />
           </span>
           <h3 class="text-xs font-bold text-[#1E3A5F] group-hover:text-[#2E6FB8] transition-colors leading-snug">{r.label}</h3>
         </a>
@@ -181,15 +179,23 @@ const relatedTools = allTools.filter((t) => t.slug !== currentSlug).slice(0, 5);
     </div>
   </section>
 
-  <!-- ───────── BOTTOM CTA STRIP ───────── -->
-  <section class="max-w-7xl mx-auto px-5 pb-16">
-    <div class="bg-[#E6F0FB] rounded-3xl py-6 px-6 md:px-8 flex flex-col md:flex-row items-center gap-5">
-      <span class="text-4xl" aria-hidden="true">🧸</span>
-      <div class="flex-1 text-center md:text-left">
-        <h3 class="font-display font-bold text-[#1E3A5F] text-lg">Track, understand, and support your baby's journey.</h3>
-        <p class="text-sm text-[#6B7B91]">All our tools are free and always will be.</p>
-      </div>
-      <a href="/tools/" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white text-sm font-semibold px-6 py-3 rounded-full no-underline whitespace-nowrap transition-colors">
+  <!-- ───────── BOTTOM CTA STRIP ─────────
+       Re-uses the free-tools-banner art so the in-tool footer matches
+       the /tools/ landing. Explore Tools pill sits below as a
+       standalone CTA. -->
+  <section class="max-w-[1400px] mx-auto px-5 pb-16">
+    <div class="rounded-3xl overflow-hidden shadow-sm">
+      <img
+        src="/images/tools/free-tools-banner.jpg"
+        alt="All our tools are free and always will be. Created with love by parents, for parents."
+        class="block w-full h-auto"
+        width="1400"
+        height="494"
+        loading="lazy"
+      />
+    </div>
+    <div class="text-center mt-6">
+      <a href="/tools/" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white text-sm font-semibold px-7 py-3 rounded-full no-underline transition-colors shadow-md">
         Explore Tools <span aria-hidden="true">→</span>
       </a>
     </div>
