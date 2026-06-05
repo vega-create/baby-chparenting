@@ -1,6 +1,37 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 
+// ─── Vega's personal data (single source of truth) ───────────────────
+// Mirrored on the author page (which 301s here) so Person schema stays
+// consistent across both URLs.
+const vega = {
+  name:  "Vega Lin",
+  title: "Founder & Editor — Educator. Mindset Coach. Builder.",
+  tagline: "Mom. Educator. Mindset Coach. Builder.",
+  bioShort:
+    "Vega Lin is a mother of two in Taiwan — a daughter born 2016 and a son born 2019. With a background in early-childhood English education, mindset work, and online business, she writes Baby Care Guide where research meets real parenting.",
+  bioIntro: [
+    "I'm a mother of two in Taiwan — a daughter born in 2016 and a son born in 2019 who's starting first grade soon. Baby Care Guide exists because I remember exactly how it felt to be sleep-deprived at 3am, Googling why my baby only naps 30 minutes, why BLW felt terrifying, which carrier actually works for a newborn.",
+    "Before becoming a mom, I taught young kids English for years and trained in mindset and personal-growth work. Those experiences shape how I write here — I know how kids actually develop language and routines, and I know how a tired parent's brain processes information at 2am. Both matter when you're explaining sleep training or starting solids.",
+    "Every article on this site is built from two sources: evidence-based research (I cite the American Academy of Pediatrics, CDC, WHO, and peer-reviewed studies extensively), and real parenting — the messy, unglamorous, trial-and-error kind that you actually go through.",
+  ],
+  background: [
+    "Mother of two — daughter born 2016, son born 2019",
+    "Currently completing my Master's in Digital Innovation at Tunghai University",
+    "Former children's English teacher — years working with kids ages 4–12, plus Japanese language studies",
+    "Trained in mindset, self-development, and spiritual-growth work",
+    "7+ years building online businesses across digital marketing, content, and AI tools",
+    "Founder of AiMommyWisdom — helping moms leverage AI across motherhood, work, and life",
+  ],
+  noSponsored:
+    "Baby Care Guide runs on display ads only (Google AdSense). I don't accept paid placements, sponsored posts, or pay-for-review gear deals. Product comparisons in Gear articles are informational only and are not medical advice — always check with your pediatrician for your baby's specific needs.",
+  whenWrong:
+    "Parenting advice evolves. AAP guidelines update. Research improves. If you spot something outdated or incorrect, please email me — I update articles with a \"Last reviewed\" date so readers can see what's current.",
+  avatar: "/images/authors/vega-lin.jpg",
+  linkedin: "https://www.linkedin.com/in/vega-lin-646926202/",
+  email: "hello@chparenting.com",
+};
+
 const missionPills = [
   { color: "#5B9BD5", bg: "#E6F0FB", title: "Trusted Guidance",  desc: "Evidence-based information written and reviewed by experts.", icon: "shield" },
   { color: "#7BC0A0", bg: "#DDF0E5", title: "Practical Support", desc: "Real-life tools and tips you can use every day.",              icon: "tools"  },
@@ -28,6 +59,24 @@ const storyPhotos = [
   { caption: "For the big milestones",     gradient: "from-[#E6F0FB] to-[#D5E6F4]" },
   { caption: "For everything in between",  gradient: "from-[#FBF0E6] to-[#F4E5D5]" },
 ];
+
+const siteUrl = "https://baby.chparenting.com";
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  name: vega.name,
+  url:  `${siteUrl}/about/`,
+  image: `${siteUrl}${vega.avatar}`,
+  description: vega.bioShort,
+  jobTitle: "Founder & Editor",
+  worksFor: { "@type": "Organization", name: "Baby Care Guide", url: siteUrl },
+  alumniOf: { "@type": "CollegeOrUniversity", name: "Tunghai University" },
+  sameAs: [
+    "https://pregnancy.chparenting.com/author/vega-lin/",
+    "https://chparenting.com/about/",
+    vega.linkedin,
+  ],
+};
 ---
 
 <BaseLayout
@@ -109,16 +158,62 @@ const storyPhotos = [
 
   <!-- ───────── MEET VEGA ───────── -->
   <section class="max-w-7xl mx-auto px-5 py-14 grid lg:grid-cols-[320px_1fr] gap-10 items-start">
-    <div class="aspect-[4/5] rounded-3xl overflow-hidden bg-gradient-to-br from-[#E6F0FB] via-[#FBE6EE] to-[#FBF0E6] shadow-md flex items-center justify-center text-[#6B7B91] text-sm">
-      <span class="opacity-50">Vega portrait</span>
+    <div class="lg:sticky lg:top-24 space-y-4">
+      <div class="aspect-[4/5] rounded-3xl overflow-hidden bg-gradient-to-br from-[#E6F0FB] via-[#FBE6EE] to-[#FBF0E6] shadow-md flex items-center justify-center text-[#6B7B91] text-sm">
+        <span class="opacity-50">Vega portrait</span>
+      </div>
+      <div class="flex flex-wrap gap-2 text-xs">
+        <a href={vega.linkedin} target="_blank" rel="noopener" class="inline-flex items-center gap-1 px-3 py-1.5 bg-white rounded-full text-[#2E6FB8] no-underline shadow-sm">LinkedIn ↗</a>
+        <a href={`mailto:${vega.email}`} class="inline-flex items-center gap-1 px-3 py-1.5 bg-white rounded-full text-[#2E6FB8] no-underline shadow-sm">{vega.email}</a>
+      </div>
     </div>
     <div>
       <h2 class="font-display text-2xl text-[#1E3A5F] mb-1 flex items-center gap-2">Meet Vega <span class="text-[#5B9BD5]">♡</span></h2>
-      <p class="font-display italic text-[#5B9BD5] text-base mb-5">Mom. Entrepreneur. Lifelong Learner.</p>
-      <p class="text-[#5A6F89] leading-relaxed mb-4">Hi, I'm Vega! I'm a mom to my little one and the founder of Baby Care Guide.</p>
-      <p class="text-[#5A6F89] leading-relaxed mb-4">My parenting journey has been filled with beautiful moments, sleepless nights, and countless questions. I know how overwhelming it can be to find reliable information when you just want what's best for your baby.</p>
-      <p class="text-[#5A6F89] leading-relaxed mb-5">That's why I created Baby Care Guide—a trusted space where parents can find clear answers, helpful tools, and the encouragement we all need.</p>
-      <p class="font-display italic text-[#5B9BD5]">Thank you for being here. I'm so glad we're on this journey together. <span aria-hidden="true">♡</span></p>
+      <p class="font-display italic text-[#5B9BD5] text-base mb-5">{vega.tagline}</p>
+      {vega.bioIntro.map((p) => <p class="text-[#5A6F89] leading-relaxed mb-4">{p}</p>)}
+
+      <!-- My background credentials -->
+      <h3 class="font-display text-lg text-[#1E3A5F] mt-7 mb-3 pb-1 border-b-2 border-[#5B9BD5] inline-block">My background</h3>
+      <ul class="list-none m-0 p-0 space-y-2.5">
+        {vega.background.map((b) => (
+          <li class="flex items-start gap-3 text-sm text-[#5A6F89] leading-relaxed">
+            <span class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-[#E6F0FB] text-[#2E6FB8] shrink-0 mt-0.5" aria-hidden="true">
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><path d="m5 12 5 5 9-11"/></svg>
+            </span>
+            {b}
+          </li>
+        ))}
+      </ul>
+
+      <p class="font-display italic text-[#5B9BD5] mt-7">Thank you for being here. I'm so glad we're on this journey together. <span aria-hidden="true">♡</span></p>
+    </div>
+  </section>
+
+  <!-- ───────── EDITORIAL POLICY ───────── -->
+  <section class="max-w-7xl mx-auto px-5 py-10">
+    <div class="text-center mb-7">
+      <h2 class="font-display text-2xl md:text-3xl text-[#1E3A5F] mb-2">Editorial Policy</h2>
+      <p class="text-[#6B7B91]">How Baby Care Guide stays trustworthy.</p>
+    </div>
+    <div class="grid md:grid-cols-2 gap-5">
+      <div class="bg-white rounded-2xl p-6 shadow-sm border border-[#E6F0FB]">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="inline-flex items-center justify-center w-8 h-8 rounded-full bg-[#E6F0FB] text-[#2E6FB8]" aria-hidden="true">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="5" y="11" width="14" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>
+          </span>
+          <h3 class="font-bold text-[#1E3A5F]">No sponsored content</h3>
+        </div>
+        <p class="text-sm text-[#5A6F89] leading-relaxed">{vega.noSponsored}</p>
+      </div>
+      <div class="bg-white rounded-2xl p-6 shadow-sm border border-[#E6F0FB]">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="inline-flex items-center justify-center w-8 h-8 rounded-full bg-[#FBE0E6] text-[#E89BAE]" aria-hidden="true">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg>
+          </span>
+          <h3 class="font-bold text-[#1E3A5F]">When I'm wrong</h3>
+        </div>
+        <p class="text-sm text-[#5A6F89] leading-relaxed">{vega.whenWrong}</p>
+      </div>
     </div>
   </section>
 
@@ -177,4 +272,7 @@ const storyPhotos = [
       </form>
     </div>
   </section>
+
+  <!-- E-E-A-T: Person schema makes Vega a known entity to Google -->
+  <script type="application/ld+json" set:html={JSON.stringify(personSchema)} is:inline />
 </BaseLayout>
