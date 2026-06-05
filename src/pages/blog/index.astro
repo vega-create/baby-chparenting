@@ -39,14 +39,12 @@ const catColor = (slug: string | undefined) => {
   description="Expert articles for every stage of your baby's first years. Sleep, feeding, development, parenting tips and more."
 >
   <!-- ───────── HERO ─────────
-       Desktop (lg+): blog-banner.jpg fills the section as an absolute
-                      bg; text overlays on the left over the soft
-                      blanket area. object-position 30%_center keeps
-                      the baby's face + teddy in frame.
-       Mobile (<lg):  inline banner image at natural aspect (so the
-                      baby + journal + booties all stay visible);
-                      text + script line stack underneath against the
-                      brand gradient bg. -->
+       Desktop (lg+): banner fills section as absolute bg; full text
+                     overlay (eyebrow + H1 + description + script
+                     line) on the left over the blanket area.
+       Mobile (<lg): banner inline natural aspect; eyebrow + H1
+                     overlay on its LEFT HALF; description + script
+                     stack BELOW the image. -->
   <section class="relative overflow-hidden bg-gradient-to-b from-[#F1F7FD] to-[#E6F0FB] lg:min-h-[480px] xl:min-h-[560px]">
     <picture class="lg:absolute lg:inset-0 lg:block lg:h-full lg:w-full">
       <img
@@ -60,17 +58,36 @@ const catColor = (slug: string | undefined) => {
       />
     </picture>
 
-    <!-- TEXT — mobile inline (under image), desktop absolute (over left of image) -->
-    <div class="relative lg:absolute lg:inset-0 max-w-7xl mx-auto px-5 py-10 lg:py-0 lg:flex lg:items-center z-10">
+    <!-- MOBILE-ONLY title overlay: eyebrow + H1 on the left of the banner -->
+    <div class="lg:hidden absolute top-0 left-0 right-1/2 h-full flex flex-col justify-center px-5 z-10">
+      <span class="inline-flex w-fit items-center gap-1.5 text-[10px] font-semibold text-[#2E6FB8] bg-white/90 px-2.5 py-1 rounded-full mb-2 shadow-sm">
+        <span aria-hidden="true">♡</span> OUR BLOG
+      </span>
+      <h1 class="font-display text-[#1E3A5F] leading-[1.1] text-2xl sm:text-3xl">
+        Baby Care<br/>Blog
+      </h1>
+    </div>
+
+    <!-- DESKTOP-ONLY full text overlay -->
+    <div class="hidden lg:flex absolute inset-0 max-w-7xl mx-auto px-5 items-center z-10">
       <div class="max-w-xl">
         <span class="inline-flex items-center gap-1.5 text-xs font-semibold text-[#2E6FB8] bg-white/90 px-3 py-1.5 rounded-full mb-5 shadow-sm"><span aria-hidden="true">♡</span> OUR BLOG</span>
-        <h1 class="font-display text-[#1E3A5F] leading-[1.1] mb-4 text-3xl md:text-5xl lg:text-6xl">Baby Care Blog</h1>
-        <p class="text-[#3F5575] text-sm md:text-lg leading-relaxed max-w-md mb-3">
+        <h1 class="font-display text-[#1E3A5F] leading-[1.1] mb-4 text-5xl xl:text-6xl">Baby Care Blog</h1>
+        <p class="text-[#3F5575] text-lg leading-relaxed max-w-md mb-3">
           Expert articles for every stage of your baby's first years.
         </p>
-        <p class="text-xs md:text-sm text-[#5A6F89]">Helpful tips. Trusted advice. Real support.</p>
-        <p class="mt-4 font-display italic text-[#5B9BD5] text-base md:text-lg">You're doing great, mama. <span aria-hidden="true">♡</span></p>
+        <p class="text-sm text-[#5A6F89]">Helpful tips. Trusted advice. Real support.</p>
+        <p class="mt-4 font-display italic text-[#5B9BD5] text-lg">You're doing great, mama. <span aria-hidden="true">♡</span></p>
       </div>
+    </div>
+
+    <!-- MOBILE-ONLY description + script (stacks below the banner) -->
+    <div class="lg:hidden max-w-7xl mx-auto px-5 py-6">
+      <p class="text-[#3F5575] text-sm leading-relaxed max-w-md mb-2">
+        Expert articles for every stage of your baby's first years.
+      </p>
+      <p class="text-xs text-[#5A6F89]">Helpful tips. Trusted advice. Real support.</p>
+      <p class="mt-3 font-display italic text-[#5B9BD5] text-base">You're doing great, mama. <span aria-hidden="true">♡</span></p>
     </div>
   </section>
 
