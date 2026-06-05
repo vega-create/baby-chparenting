@@ -23,13 +23,16 @@ const cols = siteConfig.footerColumns;
 
 <footer class="relative">
   <!-- TOP WAVE: page (#F8FAFC) → blue band (#CCDEF2)
-       Filled at the top with page bg colour; the bottom edge is the
-       wave curve, so it looks like the page above has a wavy bottom
-       meeting the blue footer below. Double curve (two crests + a
-       trough) for a more pronounced silhouette. The svg is tall
-       (h-20 lg:h-28) so the amplitude is visible. -->
+       Filled at the top with page bg colour; the bottom edge of the
+       fill is the wavy boundary that meets the blue band below.
+       Two cubic-bezier segments:
+         right half (1440→720): both control points BELOW y=50  → trough (page bulges down)
+         left  half (720→0   ): both control points ABOVE y=50  → crest (blue bulges up)
+       Symmetric control points so the curve actually swings — earlier
+       version had opposite-direction control points that cancelled
+       each other out into a near-straight line. -->
   <svg class="block w-full h-20 lg:h-28 text-[#F8FAFC] -mb-px" viewBox="0 0 1440 100" preserveAspectRatio="none" aria-hidden="true">
-    <path d="M0 0 L1440 0 L1440 55 C 1200 100 960 15 720 55 C 480 95 240 20 0 55 Z" fill="currentColor"/>
+    <path d="M0 0 L1440 0 L1440 50 C 1200 95 960 95 720 50 C 480 5 240 5 0 50 Z" fill="currentColor"/>
   </svg>
 
   <!-- BLUE BAND -->
