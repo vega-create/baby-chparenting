@@ -126,42 +126,69 @@ const categories = catGroups.map((g) => ({
   title={`Tools — ${siteConfig.name}`}
   description="Free, easy-to-use baby care tools — sleep tracker, feeding timer, growth calculator, name generator, milestone tracker and more."
 >
-  <!-- ───────── HERO ───────── -->
-  <!-- Two-column hero: copy + CTA on the left, real photo (the
-       smiling baby holding a teddy on a soft blue blanket) on the
-       right. The image is the user-supplied baby_tool_banner.png. -->
-  <section class="relative bg-gradient-to-b from-[#F1F7FD] to-[#E6F0FB] overflow-hidden">
-    <div class="max-w-7xl mx-auto px-5 pt-12 md:pt-16 pb-16 md:pb-20 grid lg:grid-cols-2 gap-10 items-center">
-      <div>
-        <span class="inline-flex items-center gap-1.5 text-xs font-semibold text-[#2E6FB8] bg-white/80 px-3 py-1.5 rounded-full mb-5">
+  <!-- ───────── HERO ─────────
+       Full-width banner: the user-supplied tools-banner.jpg is the
+       SECTION'S BACKGROUND (object-cover, full bleed); the eyebrow
+       + H1 + sub-copy + CTA sit ABSOLUTELY over the left third where
+       the photo is mostly blank pale-blue, so the baby + teddy on
+       the right are not obscured.
+
+       Mobile (<lg): image stacked on top in natural aspect, text +
+                    CTA below in a normal flow block.
+       Desktop (lg+): image fills the section via lg:absolute lg:inset-0
+                     and lg:object-cover; text overlay positioned with
+                     absolute + items-center.
+       -->
+  <section class="relative overflow-hidden bg-gradient-to-b from-[#F1F7FD] to-[#E6F0FB] lg:aspect-[1600/693]">
+    <picture class="lg:absolute lg:inset-0 lg:block lg:h-full lg:w-full">
+      <img
+        src="/images/tools/tools-banner.jpg"
+        alt="Smiling baby in a blue onesie holding a teddy bear on a soft blue bed surrounded by pastel stars and clouds"
+        class="block w-full h-auto lg:h-full lg:w-full lg:object-cover lg:object-[80%_center]"
+        width="1600"
+        height="693"
+        loading="eager"
+        fetchpriority="high"
+      />
+    </picture>
+
+    <!-- DESKTOP-ONLY text overlay over the photo's left zone -->
+    <div class="hidden lg:flex absolute inset-0 max-w-7xl mx-auto px-5 items-center z-10">
+      <div class="max-w-xl">
+        <span class="inline-flex items-center gap-1.5 text-xs font-semibold text-[#2E6FB8] bg-white/85 px-3 py-1.5 rounded-full mb-5 shadow-sm">
           <span aria-hidden="true">♡</span> TOOLS &amp; RESOURCES
         </span>
-        <h1 class="font-display text-[#1E3A5F] leading-[1.1] mb-5 text-4xl md:text-5xl">
+        <h1 class="font-display text-[#1E3A5F] leading-[1.1] mb-5 text-4xl xl:text-5xl">
           Helpful Tools for<br/>Every Stage of Parenting
         </h1>
-        <p class="text-[#5A6F89] text-base md:text-lg leading-relaxed max-w-md mb-7">
+        <p class="text-[#3F5575] text-base md:text-lg leading-relaxed max-w-md mb-7">
           Free, easy-to-use tools designed to support you and your baby's growth every step of the way.
         </p>
-        <a href="/tools/all/" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white font-semibold px-6 py-3 rounded-full no-underline transition-colors">
+        <a href="/tools/all/" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white font-semibold px-6 py-3 rounded-full no-underline transition-colors shadow-md">
           Explore All Tools <span aria-hidden="true">→</span>
         </a>
       </div>
-      <div class="relative">
-        <img
-          src="/images/tools/tools-banner.jpg"
-          alt="Smiling baby in a blue onesie holding a teddy bear on a soft blue bed surrounded by pastel stars and clouds"
-          class="block w-full h-auto rounded-3xl shadow-md"
-          width="1600"
-          height="693"
-          loading="eager"
-          fetchpriority="high"
-        />
-      </div>
     </div>
-    <svg class="block w-full text-[#F8FAFC] -mb-px" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true">
-      <path d="M0,30 C360,60 720,0 1080,30 C1260,45 1380,15 1440,30 L1440,60 L0,60 Z" fill="currentColor"/>
-    </svg>
+
+    <!-- MOBILE-ONLY text block under the photo -->
+    <div class="lg:hidden max-w-7xl mx-auto px-5 pt-8 pb-10">
+      <span class="inline-flex items-center gap-1.5 text-xs font-semibold text-[#2E6FB8] bg-white/85 px-3 py-1.5 rounded-full mb-4 shadow-sm">
+        <span aria-hidden="true">♡</span> TOOLS &amp; RESOURCES
+      </span>
+      <h1 class="font-display text-[#1E3A5F] leading-[1.15] mb-4 text-3xl sm:text-4xl">
+        Helpful Tools for<br/>Every Stage of Parenting
+      </h1>
+      <p class="text-[#3F5575] text-sm md:text-base leading-relaxed mb-6">
+        Free, easy-to-use tools designed to support you and your baby's growth every step of the way.
+      </p>
+      <a href="/tools/all/" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white font-semibold px-6 py-3 rounded-full no-underline transition-colors shadow-md">
+        Explore All Tools <span aria-hidden="true">→</span>
+      </a>
+    </div>
   </section>
+  <svg class="block w-full text-[#F8FAFC] -mb-px" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true">
+    <path d="M0,30 C360,60 720,0 1080,30 C1260,45 1380,15 1440,30 L1440,60 L0,60 Z" fill="currentColor"/>
+  </svg>
 
   <!-- ───────── POPULAR TOOLS ───────── -->
   <section id="popular-tools" class="max-w-7xl mx-auto px-5 py-14">
