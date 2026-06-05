@@ -22,23 +22,16 @@ const cols = siteConfig.footerColumns;
 ---
 
 <footer class="relative">
-  <!-- TOP WAVE: page (#F8FAFC) → blue band (#CCDEF2)
-       Four-stop sinusoidal wave drawn with quadratic beziers, all
-       within the viewBox (no negative-y clipping). The path fills
-       the TOP region of the SVG with #F8FAFC and the bottom edge of
-       that fill is the wave silhouette. Crests reach y=8 (very close
-       to top) and troughs reach y=72 (close to bottom of an 80-unit
-       viewBox) — amplitude of 64 units inside 80 means the swing is
-       ~80% of the SVG height: an unmissable, obviously-wavy edge.
-
-       Element renders at h-20 lg:h-28 (80-112px). At a 1440px wide
-       viewport that's a wave whose visible white area varies from
-       ~11px tall (at the crest) to ~100px tall (at the trough). -->
-  <svg class="block w-full h-20 lg:h-28 text-[#F8FAFC] -mb-px" viewBox="0 0 1440 80" preserveAspectRatio="none" aria-hidden="true">
-    <path d="M0 40 Q 180 8 360 40 T 720 40 T 1080 40 T 1440 40 L1440 0 L0 0 Z" fill="currentColor"/>
-  </svg>
-
   <!-- BLUE BAND
+       NOTE on the wave: the SVG sits INSIDE this blue band. Its top
+       region is filled with the page bg colour #F8FAFC (matches the
+       page strip above the footer, so it visually continues the page),
+       and its bottom region is transparent — letting the blue band
+       behind show through. The boundary between the two is the wavy
+       curve. Putting the SVG outside the blue band (as before) didn't
+       work: under the SVG was the same page bg colour as its fill, so
+       both sides of the curve looked identical and only the SVG's
+       hard bottom edge looked like a transition.
        Layout strategy: on desktop the band image sits in NORMAL
        flow (block w-full h-auto) so it DEFINES the band's height,
        which means the bear-on-cloud (top-left of the image) is
@@ -54,8 +47,23 @@ const cols = siteConfig.footerColumns;
        the top as decoration. -->
   <div class="relative bg-[#CCDEF2] overflow-hidden">
 
+    <!-- ─── TOP WAVE (inside the blue band) ───
+         Fill the top half of the SVG with the page-bg colour
+         (#F8FAFC). The bottom half is transparent so the blue
+         band behind shows through — that's what makes the wavy
+         silhouette visible: blue beneath the curve, page-bg above.
+         Crests at y=8, troughs at y=72 inside an 80-unit viewBox
+         → ~80% amplitude of the SVG height. -->
+    <svg class="block w-full h-20 lg:h-28 text-[#F8FAFC]" viewBox="0 0 1440 80" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0 40 Q 180 8 360 40 T 720 40 T 1080 40 T 1440 40 L1440 0 L0 0 Z" fill="currentColor"/>
+    </svg>
+
     <!-- ─── DESKTOP (lg+) ───
-         Image in natural flow + content absolutely overlaid -->
+         Image in natural flow + content absolutely overlaid.
+         The absolute overlay's `inset-0` covers the wave too;
+         on desktop the columns are inside `lg:pl-[20%]`, which
+         positions them to the right of the wave's left-side
+         crest, so they don't visually overlap the wavy area. -->
     <picture class="hidden lg:block w-full pointer-events-none" aria-hidden="true">
       <source media="(min-width: 1024px)" srcset="/images/footer/footer-band.jpg" />
       <img src="/images/footer/footer-band.jpg" alt="" class="block w-full h-auto" loading="lazy" width="1600" height="346" />
