@@ -112,9 +112,9 @@ const totalTools = catGroups.reduce((sum, g) => sum + g.tools.length, 0);
         <h3 class="font-display font-bold text-[#1E3A5F] text-sm mb-3 px-2">Categories</h3>
         <ul class="list-none m-0 p-0 space-y-1">
           <li>
-            <a href="#all-tools" class="cat-link flex items-center justify-between px-3 py-2 rounded-lg text-sm font-semibold bg-[#E6F0FB] text-[#2E6FB8] no-underline">
+            <a href="/tools/all/" data-cat="all" class="cat-link flex items-center justify-between px-3 py-2 rounded-lg text-sm text-[#1E3A5F] hover:bg-[#E6F0FB] hover:text-[#2E6FB8] no-underline">
               <span class="flex items-center gap-2">
-                <span class="inline-flex items-center justify-center w-6 h-6 rounded-md bg-white" aria-hidden="true">
+                <span class="inline-flex items-center justify-center w-6 h-6 rounded-md bg-[#E6F0FB] text-[#2E6FB8]" aria-hidden="true">
                   <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
                 </span>
                 All Tools
@@ -124,7 +124,7 @@ const totalTools = catGroups.reduce((sum, g) => sum + g.tools.length, 0);
           </li>
           {catGroups.map((g) => (
             <li>
-              <a href={`#cat-${g.slug}`} class="cat-link flex items-center justify-between px-3 py-2 rounded-lg text-sm text-[#1E3A5F] hover:bg-[#E6F0FB] hover:text-[#2E6FB8] no-underline">
+              <a href={`/tools/all/?cat=${g.slug}`} data-cat={g.slug} class="cat-link flex items-center justify-between px-3 py-2 rounded-lg text-sm text-[#1E3A5F] hover:bg-[#E6F0FB] hover:text-[#2E6FB8] no-underline">
                 <span class="flex items-center gap-2">
                   <span class="inline-flex items-center justify-center w-6 h-6 rounded-md" style={`background:${g.bg}; color:${g.color};`} aria-hidden="true">
                     {g.icon === "moon"     && <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>}
@@ -168,7 +168,7 @@ const totalTools = catGroups.reduce((sum, g) => sum + g.tools.length, 0);
       </div>
 
       {catGroups.map((g) => (
-        <div id={`cat-${g.slug}`} class="scroll-mt-24 mb-12">
+        <div id={`cat-${g.slug}`} data-section={g.slug} class="cat-section scroll-mt-24 mb-12">
           <div class="flex items-center justify-between mb-4">
             <div class="flex items-center gap-3">
               <span class="inline-flex items-center justify-center w-9 h-9 rounded-xl" style={`background:${g.bg}; color:${g.color};`} aria-hidden="true">
@@ -182,7 +182,7 @@ const totalTools = catGroups.reduce((sum, g) => sum + g.tools.length, 0);
               </span>
               <h3 class="font-display text-lg font-bold text-[#1E3A5F] m-0">{g.label}</h3>
             </div>
-            <a href={`#cat-${g.slug}`} class="text-xs font-semibold no-underline" style={`color:${g.color};`}>View all <span aria-hidden="true">→</span></a>
+            <a href={`/tools/all/?cat=${g.slug}`} data-cat={g.slug} class="cat-link text-xs font-semibold no-underline" style={`color:${g.color};`}>View all <span aria-hidden="true">→</span></a>
           </div>
           <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-4">
             {g.tools.map((t) => (
@@ -238,29 +238,86 @@ const totalTools = catGroups.reduce((sum, g) => sum + g.tools.length, 0);
 </BaseLayout>
 
 <script>
-  // ─── Live search filter ─────────────────────────────────────────────
-  // Hides individual tool cards whose title or description doesn't match
-  // the search query. Hides whole category sections when none of their
-  // cards remain visible. Shows the empty state when zero cards remain.
-  const input = document.getElementById("search-input") as HTMLInputElement | null;
-  const cards = Array.from(document.querySelectorAll<HTMLElement>(".tool-card"));
-  const sections = Array.from(document.querySelectorAll<HTMLElement>('[id^="cat-"]'));
-  const empty = document.getElementById("empty-state");
+  // ─── Combined filter: ?cat= query param + live search ───────────────
+  // Single source of truth = `activeCat`. Anything that changes it
+  // (sidebar click, "View all" click, popstate from browser back) calls
+  // applyFilters(), which collapses every other category section.
+  // The search box layers ON TOP of that — hides individual cards
+  // whose title/desc don't match within the visible category.
 
-  input?.addEventListener("input", () => {
-    const q = input.value.trim().toLowerCase();
+  const input    = document.getElementById("search-input") as HTMLInputElement | null;
+  const cards    = Array.from(document.querySelectorAll<HTMLElement>(".tool-card"));
+  const sections = Array.from(document.querySelectorAll<HTMLElement>(".cat-section"));
+  const sidebarLinks = Array.from(document.querySelectorAll<HTMLAnchorElement>(".cat-link"));
+  const empty    = document.getElementById("empty-state");
+
+  let activeCat = new URL(window.location.href).searchParams.get("cat") || "all";
+
+  function highlightSidebar() {
+    sidebarLinks.forEach((a) => {
+      const isActive = a.dataset.cat === activeCat;
+      // Sidebar pills (have a wrapping <li>): paint when active.
+      if (a.closest("li")) {
+        a.classList.toggle("bg-[#E6F0FB]", isActive);
+        a.classList.toggle("text-[#2E6FB8]", isActive);
+        a.classList.toggle("font-semibold", isActive);
+      }
+    });
+  }
+
+  function applyFilters() {
+    const q = (input?.value ?? "").trim().toLowerCase();
     let visibleCount = 0;
-    cards.forEach((card) => {
-      const name = card.dataset.name ?? "";
-      const desc = card.dataset.desc ?? "";
-      const match = !q || name.includes(q) || desc.includes(q);
-      card.style.display = match ? "" : "none";
-      if (match) visibleCount++;
-    });
+
     sections.forEach((sec) => {
-      const visibleInSec = sec.querySelectorAll<HTMLElement>('.tool-card:not([style*="display: none"])').length;
-      sec.style.display = visibleInSec === 0 ? "none" : "";
+      const slug = sec.dataset.section;
+      const inCat = activeCat === "all" || activeCat === slug;
+      if (!inCat) {
+        sec.style.display = "none";
+        return;
+      }
+      // This category is in scope — apply search filter to its cards.
+      let sectionMatches = 0;
+      sec.querySelectorAll<HTMLElement>(".tool-card").forEach((card) => {
+        const name  = card.dataset.name ?? "";
+        const desc  = card.dataset.desc ?? "";
+        const match = !q || name.includes(q) || desc.includes(q);
+        card.style.display = match ? "" : "none";
+        if (match) { sectionMatches++; visibleCount++; }
+      });
+      sec.style.display = sectionMatches === 0 ? "none" : "";
     });
+
     empty?.classList.toggle("hidden", visibleCount > 0);
+    highlightSidebar();
+  }
+
+  // Sidebar + View-all clicks → set ?cat and re-filter without page reload.
+  sidebarLinks.forEach((a) => {
+    a.addEventListener("click", (e) => {
+      const slug = a.dataset.cat;
+      if (!slug) return;
+      e.preventDefault();
+      activeCat = slug;
+      const url = new URL(window.location.href);
+      if (slug === "all") url.searchParams.delete("cat");
+      else url.searchParams.set("cat", slug);
+      history.pushState({}, "", url.toString());
+      applyFilters();
+      // Scroll to the top of the listing for a clean "switched view" feel.
+      document.getElementById("all-tools")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
   });
+
+  // Browser back / forward → resync from URL.
+  window.addEventListener("popstate", () => {
+    activeCat = new URL(window.location.href).searchParams.get("cat") || "all";
+    applyFilters();
+  });
+
+  // Live search filter.
+  input?.addEventListener("input", applyFilters);
+
+  // First paint.
+  applyFilters();
 </script>
