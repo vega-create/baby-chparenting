@@ -55,9 +55,9 @@ const values = [
 ];
 
 const storyPhotos = [
-  { caption: "For the tiny moments",       gradient: "from-[#FBE6EE] to-[#F4D5DF]" },
-  { caption: "For the big milestones",     gradient: "from-[#E6F0FB] to-[#D5E6F4]" },
-  { caption: "For everything in between",  gradient: "from-[#FBF0E6] to-[#F4E5D5]" },
+  { caption: "For the tiny moments",      image: "/images/about/story-tiny.jpg",        alt: "Tiny baby feet cupped in adult hands on a soft white blanket — the small wonders of new life" },
+  { caption: "For the big milestones",    image: "/images/about/story-milestones.jpg",  alt: "Asian mother pressing her forehead against her baby's forehead in a tender moment" },
+  { caption: "For everything in between", image: "/images/about/story-everything.jpg",  alt: "Smiling baby sitting on parent's lap looking up with bright eyes — joy in everyday parenting" },
 ];
 
 const siteUrl = "https://baby.chparenting.com";
@@ -95,9 +95,14 @@ const personSchema = {
         <p class="font-display italic text-[#5B9BD5] text-lg">You're not alone in this. <span aria-hidden="true">♡</span></p>
       </div>
       <div class="relative">
-        <div class="aspect-[4/3] rounded-3xl overflow-hidden bg-gradient-to-br from-[#FBE6EE] via-[#E6F0FB] to-[#FBF0E6] shadow-md flex items-center justify-center text-[#6B7B91] text-sm">
-          <span class="opacity-50">Mom-and-baby photo</span>
-        </div>
+        <img
+          src="/images/about/mom-baby-hero.jpg"
+          alt="Asian mother gently holding her smiling baby on a soft bed with a teddy bear in the background, warm natural light"
+          class="w-full aspect-[4/3] rounded-3xl object-cover object-center shadow-md"
+          width="1600"
+          height="800"
+          loading="eager"
+        />
         <span class="absolute -top-2 left-6 text-2xl opacity-70" aria-hidden="true">⭐</span>
         <span class="absolute top-5 -right-2 text-2xl opacity-70" aria-hidden="true">☁️</span>
       </div>
@@ -159,9 +164,14 @@ const personSchema = {
   <!-- ───────── MEET VEGA ───────── -->
   <section class="max-w-7xl mx-auto px-5 py-14 grid lg:grid-cols-[320px_1fr] gap-10 items-start">
     <div class="lg:sticky lg:top-24 space-y-4">
-      <div class="aspect-[4/5] rounded-3xl overflow-hidden bg-gradient-to-br from-[#E6F0FB] via-[#FBE6EE] to-[#FBF0E6] shadow-md flex items-center justify-center text-[#6B7B91] text-sm">
-        <span class="opacity-50">Vega portrait</span>
-      </div>
+      <img
+        src="/images/about/vega-portrait.jpg"
+        alt="Vega Lin smiling and holding her baby on a cream sofa in a bright, plant-filled living room"
+        class="w-full aspect-[4/5] rounded-3xl object-cover object-center shadow-md"
+        width="1200"
+        height="1500"
+        loading="lazy"
+      />
       <div class="flex flex-wrap gap-2 text-xs">
         <a href={vega.linkedin} target="_blank" rel="noopener" class="inline-flex items-center gap-1 px-3 py-1.5 bg-white rounded-full text-[#2E6FB8] no-underline shadow-sm">LinkedIn ↗</a>
         <a href={`mailto:${vega.email}`} class="inline-flex items-center gap-1 px-3 py-1.5 bg-white rounded-full text-[#2E6FB8] no-underline shadow-sm">{vega.email}</a>
@@ -228,9 +238,14 @@ const personSchema = {
     <div class="grid grid-cols-3 gap-3">
       {storyPhotos.map((s) => (
         <div>
-          <div class={`aspect-square rounded-2xl bg-gradient-to-br ${s.gradient} shadow-sm flex items-center justify-center text-[10px] text-[#6B7B91]`}>
-            <span class="opacity-50">photo</span>
-          </div>
+          <img
+            src={s.image}
+            alt={s.alt}
+            class="w-full aspect-square rounded-2xl object-cover object-center shadow-sm"
+            width="800"
+            height="800"
+            loading="lazy"
+          />
           <p class="text-center text-xs text-[#5B9BD5] font-medium mt-2">{s.caption}</p>
         </div>
       ))}
