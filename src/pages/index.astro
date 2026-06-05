@@ -47,50 +47,57 @@ const trustPills = [
   hideFooter
 >
   <!-- ───────── HERO ─────────
-       Mobile (<lg): serves a baby+teddy crop (pills + wave removed
-                     so nothing is too small to read). Title + eyebrow
-                     overlay on the LEFT half of the photo; description +
-                     CTA stack BELOW the image against the cream-blue bg.
-       Desktop (lg+): original photo + full text overlay (unchanged). -->
+       Mobile (<lg): inline cropped image + title overlay on its left,
+                     description + CTA stack BELOW.
+       Desktop (lg+): inline original image (full natural aspect — all
+                     5 baked-in pills visible, no crop), text content
+                     absolute-positioned over the photo's left zone. -->
   <section class="relative overflow-hidden bg-gradient-to-b from-[#F1F7FD] to-[#E6F0FB]">
-    <!-- IMAGE wrapper carries the mobile title overlay -->
-    <div class="relative lg:static">
-      <picture>
-        <source media="(min-width: 1024px)" srcset="/images/hero/baby-home-banner.jpg" />
-        <img
-          src="/images/hero/baby-home-banner-mobile.jpg"
-          alt="Smiling baby in a blue onesie holding a teddy bear on a soft bed surrounded by pastel star and footprint decorations"
-          class="block w-full h-auto lg:absolute lg:inset-0 lg:h-full lg:w-full lg:object-cover lg:object-center"
-          width="2000"
-          height="1143"
-          loading="eager"
-          fetchpriority="high"
-        />
-      </picture>
+    <picture>
+      <source media="(min-width: 1024px)" srcset="/images/hero/baby-home-banner.jpg" />
+      <img
+        src="/images/hero/baby-home-banner-mobile.jpg"
+        alt="Smiling baby in a blue onesie holding a teddy bear on a soft bed surrounded by pastel star and footprint decorations"
+        class="block w-full h-auto"
+        width="2000"
+        height="1143"
+        loading="eager"
+        fetchpriority="high"
+      />
+    </picture>
 
-      <!-- MOBILE title overlay: eyebrow + H1 on the left of the photo -->
-      <div class="lg:hidden absolute inset-y-0 left-0 right-1/2 flex flex-col justify-center px-5">
-        <span class="inline-flex w-fit items-center gap-1.5 text-[10px] font-semibold text-[#2E6FB8] bg-white/90 px-2.5 py-1 rounded-full mb-3 shadow-sm">
+    <!-- MOBILE-ONLY title overlay: eyebrow + H1 on the left of the photo -->
+    <div class="lg:hidden absolute inset-y-0 left-0 right-1/2 top-0 bottom-auto h-[60%] flex flex-col justify-center px-5 z-10">
+      <span class="inline-flex w-fit items-center gap-1.5 text-[10px] font-semibold text-[#2E6FB8] bg-white/90 px-2.5 py-1 rounded-full mb-3 shadow-sm">
+        <span aria-hidden="true">♡</span> {siteConfig.tagline}
+      </span>
+      <h1 class="font-display text-[#1E3A5F] leading-[1.1] text-2xl sm:text-3xl">
+        Complete<br/>Baby Care<br/>Guide
+      </h1>
+    </div>
+
+    <!-- DESKTOP-ONLY full text overlay over the photo's left zone -->
+    <div class="hidden lg:flex absolute inset-0 max-w-7xl mx-auto px-5 items-center z-10">
+      <div class="max-w-xl">
+        <span class="inline-flex items-center gap-1.5 text-xs font-semibold text-[#2E6FB8] bg-white/90 px-3 py-1.5 rounded-full mb-5 shadow-sm">
           <span aria-hidden="true">♡</span> {siteConfig.tagline}
         </span>
-        <h1 class="font-display text-[#1E3A5F] leading-[1.1] text-2xl sm:text-3xl">
-          Complete<br/>Baby Care<br/>Guide
+        <h1 class="font-display text-[#1E3A5F] leading-[1.1] mb-5 text-5xl xl:text-6xl">
+          Complete<br/>Baby Care Guide
         </h1>
+        <p class="text-[#3F5575] text-lg leading-relaxed max-w-md mb-6">
+          Evidence-based support for sleep, feeding, development, and everyday parenting.
+        </p>
+        <a href="#guides" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white font-semibold px-6 py-3 rounded-full no-underline transition-colors shadow-md">
+          Explore Guides <span aria-hidden="true">→</span>
+        </a>
       </div>
     </div>
 
-    <!-- BELOW-IMAGE on mobile (description + CTA), full overlay on desktop -->
-    <div class="relative max-w-7xl mx-auto px-5 py-8 lg:pt-24 lg:pb-56">
+    <!-- MOBILE-ONLY description + CTA below the photo -->
+    <div class="lg:hidden max-w-7xl mx-auto px-5 py-8">
       <div class="max-w-xl">
-        <!-- Eyebrow + H1: hidden on mobile (already shown in the photo
-             overlay above), visible on desktop. -->
-        <span class="hidden lg:inline-flex items-center gap-1.5 text-xs font-semibold text-[#2E6FB8] bg-white/90 px-3 py-1.5 rounded-full mb-5 shadow-sm">
-          <span aria-hidden="true">♡</span> {siteConfig.tagline}
-        </span>
-        <h1 class="hidden lg:block font-display text-[#1E3A5F] leading-[1.1] mb-5 text-3xl md:text-5xl lg:text-6xl">
-          Complete<br/>Baby Care Guide
-        </h1>
-        <p class="text-[#3F5575] text-sm md:text-lg leading-relaxed max-w-md mb-5 lg:mb-6">
+        <p class="text-[#3F5575] text-sm leading-relaxed max-w-md mb-5">
           Evidence-based support for sleep, feeding, development, and everyday parenting.
         </p>
         <a href="#guides" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white font-semibold px-6 py-3 rounded-full no-underline transition-colors shadow-md">
