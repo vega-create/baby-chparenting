@@ -170,7 +170,7 @@ const trustPills = [
         {latestPosts.map((p) => (
           <a href={`/blog/${p.data.slug || p.slug}/`} class="block bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow no-underline">
             {p.data.image ? (
-              <img src={p.data.image} alt={p.data.title} class="w-full h-44 object-cover object-center" loading="lazy" />
+              <img src={p.data.image} alt={p.data.title} class="w-full h-44 object-cover object-[50%_25%]" loading="lazy" />
             ) : (
               <div class="w-full h-44 bg-gradient-to-br from-[#E6F0FB] to-[#FBE6EE]"></div>
             )}

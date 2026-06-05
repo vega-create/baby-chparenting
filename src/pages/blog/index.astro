@@ -82,7 +82,7 @@ const catColor = (slug: string | undefined) => {
             <a href={`/blog/${p.data.slug || p.slug}/`} data-cat={(p.data.category || "").toLowerCase()} class="article-item group flex flex-col sm:flex-row gap-4 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow no-underline">
               <div class="sm:w-56 shrink-0">
                 {p.data.image ? (
-                  <img src={p.data.image} alt={p.data.title} class="w-full h-44 sm:h-full object-cover object-center" loading="lazy" />
+                  <img src={p.data.image} alt={p.data.title} class="w-full h-44 sm:h-full object-cover object-[50%_25%]" loading="lazy" />
                 ) : (
                   <div class="w-full h-44 sm:h-full bg-gradient-to-br from-[#E6F0FB] to-[#FBE6EE]"></div>
                 )}
