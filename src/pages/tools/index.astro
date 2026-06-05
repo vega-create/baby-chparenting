@@ -2,54 +2,60 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { siteConfig } from "../../../site.config";
 
-// ─── 5 Popular tool cards ────────────────────────────────────────────
-// Each tool carries its own pastel theme so the row reads as a
-// playful palette but stays cohesive (matches the mockup).
+/* Tools page — now using the user-supplied 3D illustrated assets
+   in public/images/tools/ for the hero banner, every tool icon,
+   the "How It Works" diagram, and the bottom free-tools banner.
+   Each tool entry now carries an `img` field pointing at one of the
+   icon JPEGs; some icons (sleep/feeding/growth/names/feet) get
+   reused across both the Popular Tools row AND the per-category
+   sections to keep the visual language tight. */
+
 const popularTools = [
   {
     title: "Sleep Tracker",
     desc:  "Track naps, nighttime sleep, and sleep patterns.",
     href:  "/tools/sleep-tracker/",
-    theme: { bg: "#E6F0FB", btnBg: "#E6F0FB", btnText: "#2E6FB8", iconColor: "#5B9BD5" },
-    icon:  "moon",
+    theme: { bg: "#E6F0FB", btnBg: "#E6F0FB", btnText: "#2E6FB8" },
+    img:   "/images/tools/icon-sleep.jpg",
   },
   {
     title: "Feeding Timer",
     desc:  "Track feedings, bottles or nursing sessions.",
     href:  "/tools/feeding-timer/",
-    theme: { bg: "#DDF0E5", btnBg: "#CFE9D6", btnText: "#3E8A66", iconColor: "#7BC0A0" },
-    icon:  "bottle",
+    theme: { bg: "#DDF0E5", btnBg: "#CFE9D6", btnText: "#3E8A66" },
+    img:   "/images/tools/icon-feeding.jpg",
   },
   {
     title: "Growth Calculator",
     desc:  "Track height, weight, and head circumference.",
     href:  "/tools/growth-calculator/",
-    theme: { bg: "#FBEED5", btnBg: "#F8E1B7", btnText: "#A37224", iconColor: "#E8B86E" },
-    icon:  "ruler",
+    theme: { bg: "#FBEED5", btnBg: "#F8E1B7", btnText: "#A37224" },
+    img:   "/images/tools/icon-growth-ruler.jpg",
   },
   {
     title: "Name Generator",
     desc:  "Find beautiful baby names and their meanings.",
     href:  "/tools/name-generator/",
-    theme: { bg: "#E4DEF0", btnBg: "#D7CCEB", btnText: "#6C5BA1", iconColor: "#A89BD4" },
-    icon:  "blocks",
+    theme: { bg: "#E4DEF0", btnBg: "#D7CCEB", btnText: "#6C5BA1" },
+    img:   "/images/tools/icon-names.jpg",
   },
   {
     title: "Milestone Tracker",
     desc:  "Track developmental milestones with ease.",
     href:  "/tools/milestone-checker/",
-    theme: { bg: "#E6F0FB", btnBg: "#D5E6F4", btnText: "#2E6FB8", iconColor: "#5B9BD5" },
-    icon:  "feet",
+    theme: { bg: "#E6F0FB", btnBg: "#D5E6F4", btnText: "#2E6FB8" },
+    img:   "/images/tools/icon-feet.jpg",
   },
 ];
 
-// ─── Tool categories — each links via anchor to a section lower on
-// this same page (NOT to article categories). The list of tools per
-// category is the single source of truth in the catGroups array
-// below.
+/* Per-category groups. The `img` here drives the category chip icon
+   AND the section heading icon. Health & Safety + Gear pull in the
+   new heart + stroller PNGs; Growth uses the bar-chart variant to
+   differentiate from the ruler used in the popular-tools row. */
 const catGroups = [
   {
-    slug: "sleep", label: "Sleep", color: "#5B9BD5", bg: "#E6F0FB", icon: "moon",
+    slug: "sleep", label: "Sleep", color: "#5B9BD5", bg: "#E6F0FB",
+    img: "/images/tools/icon-sleep.jpg",
     tools: [
       { title: "Sleep Tracker",      desc: "Log naps, nighttime sleep, and patterns.",     href: "/tools/sleep-tracker/" },
       { title: "Bedtime Calculator", desc: "Find baby's ideal bedtime by age + wake time.", href: "/tools/bedtime-calculator/" },
@@ -57,7 +63,8 @@ const catGroups = [
     ],
   },
   {
-    slug: "feeding", label: "Feeding", color: "#7BC0A0", bg: "#DDF0E5", icon: "bottle",
+    slug: "feeding", label: "Feeding", color: "#7BC0A0", bg: "#DDF0E5",
+    img: "/images/tools/icon-feeding.jpg",
     tools: [
       { title: "Feeding Timer",     desc: "Time breastfeeding sessions or bottles.",   href: "/tools/feeding-timer/" },
       { title: "Bottle Calculator", desc: "Work out daily formula / breast-milk needs.", href: "/tools/bottle-calculator/" },
@@ -65,14 +72,16 @@ const catGroups = [
     ],
   },
   {
-    slug: "growth", label: "Growth", color: "#E8B86E", bg: "#FBEED5", icon: "chart",
+    slug: "growth", label: "Growth", color: "#E8B86E", bg: "#FBEED5",
+    img: "/images/tools/icon-chart.jpg",
     tools: [
       { title: "Growth Calculator",  desc: "Plot weight + length on WHO percentile.",     href: "/tools/growth-calculator/" },
       { title: "Tummy Time Tracker", desc: "Log daily tummy-time with a 7-day history.",  href: "/tools/tummy-time/" },
     ],
   },
   {
-    slug: "names", label: "Names", color: "#A89BD4", bg: "#E4DEF0", icon: "blocks",
+    slug: "names", label: "Names", color: "#A89BD4", bg: "#E4DEF0",
+    img: "/images/tools/icon-names.jpg",
     tools: [
       { title: "Name Generator", desc: "Discover names with meanings and origins.",      href: "/tools/name-generator/" },
       { title: "Sibling Names",  desc: "Find names that pair with an existing sibling.", href: "/tools/sibling-names/" },
@@ -80,20 +89,23 @@ const catGroups = [
     ],
   },
   {
-    slug: "development", label: "Development", color: "#5B9BD5", bg: "#E6F0FB", icon: "feet",
+    slug: "development", label: "Development", color: "#5B9BD5", bg: "#E6F0FB",
+    img: "/images/tools/icon-feet.jpg",
     tools: [
       { title: "Milestone Checker", desc: "Track milestones from newborn to 24 months.", href: "/tools/milestone-checker/" },
       { title: "Language Quiz",     desc: "Check baby's language milestones by age.",     href: "/tools/language-quiz/" },
     ],
   },
   {
-    slug: "health-safety", label: "Health & Safety", color: "#E89BAE", bg: "#FBE0E6", icon: "heart",
+    slug: "health-safety", label: "Health & Safety", color: "#E89BAE", bg: "#FBE0E6",
+    img: "/images/tools/icon-heart.jpg",
     tools: [
       { title: "Car Seat Finder", desc: "Pick the right car-seat by age + weight.", href: "/tools/car-seat-finder/" },
     ],
   },
   {
-    slug: "gear", label: "Gear", color: "#B68C73", bg: "#F1E2D3", icon: "stroller",
+    slug: "gear", label: "Gear", color: "#5B9BD5", bg: "#E6F0FB",
+    img: "/images/tools/icon-stroller.jpg",
     tools: [
       { title: "Diaper Size Guide", desc: "Find the right diaper size by baby's weight.", href: "/tools/diaper-size/" },
     ],
@@ -106,16 +118,8 @@ const categories = catGroups.map((g) => ({
   count: g.tools.length,
   color: g.color,
   bg:    g.bg,
-  icon:  g.icon,
+  img:   g.img,
 }));
-
-// ─── 4-step process ──────────────────────────────────────────────────
-const steps = [
-  { n: 1, color: "#5B9BD5", title: "Choose a Tool",   desc: "Pick the tool that matches your need.", icon: "laptop" },
-  { n: 2, color: "#7BC0A0", title: "Enter Details",   desc: "Add a few details about you and your baby.", icon: "clipboard" },
-  { n: 3, color: "#E8B86E", title: "Get Results",     desc: "See personalized results and recommendations.", icon: "chart" },
-  { n: 4, color: "#A89BD4", title: "Feel Confident",  desc: "Use the insights to make informed decisions.", icon: "heart" },
-];
 ---
 
 <BaseLayout
@@ -123,8 +127,11 @@ const steps = [
   description="Free, easy-to-use baby care tools — sleep tracker, feeding timer, growth calculator, name generator, milestone tracker and more."
 >
   <!-- ───────── HERO ───────── -->
+  <!-- Two-column hero: copy + CTA on the left, real photo (the
+       smiling baby holding a teddy on a soft blue blanket) on the
+       right. The image is the user-supplied baby_tool_banner.png. -->
   <section class="relative bg-gradient-to-b from-[#F1F7FD] to-[#E6F0FB] overflow-hidden">
-    <div class="max-w-7xl mx-auto px-5 pt-12 md:pt-16 pb-16 md:pb-24 grid lg:grid-cols-2 gap-10 items-center">
+    <div class="max-w-7xl mx-auto px-5 pt-12 md:pt-16 pb-16 md:pb-20 grid lg:grid-cols-2 gap-10 items-center">
       <div>
         <span class="inline-flex items-center gap-1.5 text-xs font-semibold text-[#2E6FB8] bg-white/80 px-3 py-1.5 rounded-full mb-5">
           <span aria-hidden="true">♡</span> TOOLS &amp; RESOURCES
@@ -140,12 +147,15 @@ const steps = [
         </a>
       </div>
       <div class="relative">
-        <div class="aspect-[4/3] rounded-3xl overflow-hidden bg-gradient-to-br from-[#E6F0FB] via-[#F0E6FB] to-[#FBF0E6] shadow-md flex items-center justify-center text-[#6B7B91] text-sm">
-          <span class="opacity-50">Baby with teddy hero photo</span>
-        </div>
-        <span class="absolute -top-2 left-6 text-2xl opacity-70" aria-hidden="true">⭐</span>
-        <span class="absolute top-5 -right-2 text-2xl opacity-70" aria-hidden="true">☁️</span>
-        <span class="absolute bottom-10 -left-3 text-xl opacity-60" aria-hidden="true">⭐</span>
+        <img
+          src="/images/tools/tools-banner.jpg"
+          alt="Smiling baby in a blue onesie holding a teddy bear on a soft blue bed surrounded by pastel stars and clouds"
+          class="block w-full h-auto rounded-3xl shadow-md"
+          width="1600"
+          height="693"
+          loading="eager"
+          fetchpriority="high"
+        />
       </div>
     </div>
     <svg class="block w-full text-[#F8FAFC] -mb-px" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true">
@@ -164,14 +174,8 @@ const steps = [
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-5">
       {popularTools.map((t) => (
         <a href={t.href} class="group flex flex-col bg-white rounded-2xl shadow-sm hover:shadow-lg hover:-translate-y-0.5 transition-all overflow-hidden no-underline">
-          <div class="aspect-square flex items-center justify-center" style={`background:${t.theme.bg};`}>
-            <span aria-hidden="true" style={`color:${t.theme.iconColor};`}>
-              {t.icon === "moon"   && <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/><circle cx="15" cy="6" r="1" fill="currentColor"/><circle cx="19" cy="10" r="0.7" fill="currentColor"/></svg>}
-              {t.icon === "bottle" && <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="9" width="8" height="13" rx="2"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/><path d="M10 4h4"/><path d="M9 14h6"/><circle cx="12" cy="17" r="1.5"/></svg>}
-              {t.icon === "ruler"  && <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="3" width="4" height="18" rx="1"/><path d="M6 7h2M6 11h2M6 15h2M6 19h2"/><circle cx="16" cy="14" r="3"/><path d="M16 17v4"/></svg>}
-              {t.icon === "blocks" && <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="13" width="8" height="8" rx="1"/><rect x="13" y="13" width="8" height="8" rx="1"/><rect x="8" y="3" width="8" height="8" rx="1"/></svg>}
-              {t.icon === "feet"   && <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="8" cy="11" rx="3" ry="4"/><circle cx="5" cy="6" r="1"/><circle cx="8" cy="4.5" r="1"/><circle cx="11" cy="6" r="1"/><ellipse cx="17" cy="15" rx="3" ry="4"/><circle cx="14" cy="10" r="1"/><circle cx="17" cy="8.5" r="1"/><circle cx="20" cy="10" r="1"/></svg>}
-            </span>
+          <div class="aspect-square flex items-center justify-center p-6" style={`background:${t.theme.bg};`}>
+            <img src={t.img} alt={t.title + " icon"} class="block max-w-[78%] max-h-[78%] w-auto h-auto object-contain mix-blend-multiply" loading="lazy" />
           </div>
           <div class="p-5 text-center flex-1 flex flex-col">
             <h3 class="font-display font-bold text-[15px] text-[#1E3A5F] mb-2">{t.title}</h3>
@@ -194,14 +198,8 @@ const steps = [
     <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-3">
       {categories.map((c) => (
         <a href={`/tools/all/?cat=${c.slug}`} class="group flex items-center gap-3 bg-white border border-[#E6F0FB] rounded-2xl p-3 hover:shadow-md hover:-translate-y-0.5 transition-all no-underline">
-          <span class="inline-flex items-center justify-center w-11 h-11 rounded-xl shrink-0" style={`background:${c.bg}; color:${c.color};`} aria-hidden="true">
-            {c.icon === "moon"   && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>}
-            {c.icon === "bottle" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="9" width="8" height="13" rx="2"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/></svg>}
-            {c.icon === "chart"  && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21v-7m6 7V10m6 11v-5m6 5V4"/></svg>}
-            {c.icon === "blocks" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="13" width="8" height="8" rx="1"/><rect x="13" y="13" width="8" height="8" rx="1"/><rect x="8" y="3" width="8" height="8" rx="1"/></svg>}
-            {c.icon === "feet"   && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="8" cy="11" rx="3" ry="4"/><ellipse cx="17" cy="15" rx="3" ry="4"/></svg>}
-            {c.icon === "heart"  && <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-7-4.5-9.5-9C.8 8.8 2.6 5 6.2 5c2 0 3.4 1.1 4.3 2.5C11.4 6.1 12.8 5 14.8 5c3.6 0 5.4 3.8 3.7 7C19 16.5 12 21 12 21z"/></svg>}
-            {c.icon === "stroller" && <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 13a7 7 0 0 1 7-7v7H5z"/><path d="M5 13h11v3a4 4 0 0 1-4 4H9a4 4 0 0 1-4-4v-3z"/><circle cx="8" cy="20" r="1.5"/><circle cx="15" cy="20" r="1.5"/></svg>}
+          <span class="inline-flex items-center justify-center w-11 h-11 rounded-xl shrink-0 overflow-hidden" style={`background:${c.bg};`} aria-hidden="true">
+            <img src={c.img} alt="" class="block w-9 h-9 object-contain mix-blend-multiply" loading="lazy" />
           </span>
           <div class="flex-1 min-w-0">
             <div class="font-bold text-sm text-[#1E3A5F] truncate">{c.label}</div>
@@ -218,14 +216,8 @@ const steps = [
     {catGroups.map((g) => (
       <div id={`cat-${g.slug}`} class="scroll-mt-24 mb-10">
         <div class="flex items-center gap-3 mb-4">
-          <span class="inline-flex items-center justify-center w-11 h-11 rounded-xl" style={`background:${g.bg}; color:${g.color};`} aria-hidden="true">
-            {g.icon === "moon"     && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>}
-            {g.icon === "bottle"   && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="8" y="9" width="8" height="13" rx="2"/><path d="M9 9V6a3 3 0 0 1 6 0v3"/></svg>}
-            {g.icon === "chart"    && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 21v-7m6 7V10m6 11v-5m6 5V4"/></svg>}
-            {g.icon === "blocks"   && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="13" width="8" height="8" rx="1"/><rect x="13" y="13" width="8" height="8" rx="1"/><rect x="8" y="3" width="8" height="8" rx="1"/></svg>}
-            {g.icon === "feet"     && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><ellipse cx="8" cy="11" rx="3" ry="4"/><ellipse cx="17" cy="15" rx="3" ry="4"/></svg>}
-            {g.icon === "heart"    && <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-7-4.5-9.5-9C.8 8.8 2.6 5 6.2 5c2 0 3.4 1.1 4.3 2.5C11.4 6.1 12.8 5 14.8 5c3.6 0 5.4 3.8 3.7 7C19 16.5 12 21 12 21z"/></svg>}
-            {g.icon === "stroller" && <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 13a7 7 0 0 1 7-7v7H5z"/><circle cx="8" cy="20" r="1.5"/><circle cx="15" cy="20" r="1.5"/></svg>}
+          <span class="inline-flex items-center justify-center w-12 h-12 rounded-xl overflow-hidden" style={`background:${g.bg};`} aria-hidden="true">
+            <img src={g.img} alt="" class="block w-10 h-10 object-contain mix-blend-multiply" loading="lazy" />
           </span>
           <div>
             <h2 class="font-display text-xl text-[#1E3A5F] m-0">{g.label} Tools</h2>
@@ -245,43 +237,49 @@ const steps = [
     ))}
   </section>
 
-  <!-- ───────── HOW OUR TOOLS WORK ───────── -->
+  <!-- ───────── HOW IT WORKS ─────────
+       The user-supplied works-steps.jpg already bakes in the 4
+       numbered steps (Create Profile → Record Details → Track
+       Growth → Stay Connected) plus the friendly plush dog mascot.
+       We just frame it inside a light card with a heading. -->
   <section class="px-5 py-12">
-    <div class="max-w-7xl mx-auto bg-[#F1F7FD] rounded-3xl py-10 px-6 md:px-10 relative overflow-hidden">
-      <div class="text-center mb-10">
+    <div class="max-w-7xl mx-auto bg-[#F1F7FD] rounded-3xl py-10 px-6 md:px-10">
+      <div class="text-center mb-8">
         <h2 class="font-display text-2xl md:text-3xl text-[#1E3A5F] flex items-center justify-center gap-2">
-          <span class="text-[#5B9BD5]">♡</span> How Our Tools Work <span class="text-[#5B9BD5]">♡</span>
+          <span class="text-[#5B9BD5]">♡</span> How It Works <span class="text-[#5B9BD5]">♡</span>
         </h2>
+        <p class="text-[#6B7B91] mt-2 text-sm md:text-base">Four simple steps from sign-up to confident parenting.</p>
       </div>
-      <div class="grid grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-4 relative">
-        {steps.map((s) => (
-          <div class="text-center relative">
-            <span class="inline-flex items-center justify-center w-9 h-9 rounded-full text-white font-bold text-sm mx-auto mb-3" style={`background:${s.color};`}>{s.n}</span>
-            <div class="w-20 h-20 mx-auto mb-3 rounded-2xl bg-white flex items-center justify-center" style={`color:${s.color};`} aria-hidden="true">
-              {s.icon === "laptop"    && <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="12" rx="2"/><path d="M2 20h20"/><path d="M12 11l1.5 1.5"/></svg>}
-              {s.icon === "clipboard" && <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="4" width="12" height="17" rx="2"/><path d="M9 3h6v3H9z"/><path d="M9 11h6M9 14h6M9 17h4"/></svg>}
-              {s.icon === "chart"     && <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 16l3-4 3 3 4-5"/><circle cx="17" cy="10" r="1" fill="currentColor"/></svg>}
-              {s.icon === "heart"     && <svg width="36" height="36" viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-7-4.5-9.5-9C.8 8.8 2.6 5 6.2 5c2 0 3.4 1.1 4.3 2.5C11.4 6.1 12.8 5 14.8 5c3.6 0 5.4 3.8 3.7 7C19 16.5 12 21 12 21z"/></svg>}
-            </div>
-            <h3 class="font-bold text-sm text-[#1E3A5F] mb-1">{s.title}</h3>
-            <p class="text-xs text-[#6B7B91] leading-relaxed">{s.desc}</p>
-          </div>
-        ))}
-      </div>
-      <!-- Decorative plush bunny on the right (placeholder) -->
-      <span class="hidden lg:block absolute right-6 top-1/2 -translate-y-1/2 text-6xl opacity-70" aria-hidden="true">🐰</span>
+      <img
+        src="/images/tools/works-steps.jpg"
+        alt="Four-step process diagram: 1. Create Profile, 2. Record Details, 3. Track Growth, 4. Stay Connected — with a plush puppy mascot on the right"
+        class="block w-full h-auto max-w-[1100px] mx-auto rounded-2xl"
+        width="1400"
+        height="630"
+        loading="lazy"
+      />
     </div>
   </section>
 
-  <!-- ───────── BOTTOM CTA STRIP ───────── -->
+  <!-- ───────── BOTTOM CTA STRIP ─────────
+       The free-tools-banner.jpg already contains the headline +
+       sub-copy + cloud mascot, so the banner image IS the CTA copy.
+       We add a dedicated "Explore All Tools" pill below the image
+       (rather than over it) so the button stays accessible even on
+       narrow mobile widths and never sits on top of the artwork. -->
   <section class="max-w-7xl mx-auto px-5 pb-16">
-    <div class="bg-[#E6F0FB] rounded-3xl py-6 px-6 md:px-8 flex flex-col md:flex-row items-center gap-5">
-      <span class="text-4xl" aria-hidden="true">☁️</span>
-      <div class="flex-1 text-center md:text-left">
-        <h3 class="font-display font-bold text-[#1E3A5F] text-lg">All our tools are free and always will be.</h3>
-        <p class="text-sm text-[#6B7B91]">Created with <span class="text-[#E89BAE]">♥</span> by parents, for parents.</p>
-      </div>
-      <a href="/tools/all/" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white text-sm font-semibold px-6 py-3 rounded-full no-underline whitespace-nowrap transition-colors">
+    <div class="rounded-3xl overflow-hidden shadow-sm">
+      <img
+        src="/images/tools/free-tools-banner.jpg"
+        alt="All our tools are free and always will be. Created with love by parents, for parents."
+        class="block w-full h-auto"
+        width="1400"
+        height="494"
+        loading="lazy"
+      />
+    </div>
+    <div class="text-center mt-6">
+      <a href="/tools/all/" class="inline-flex items-center gap-2 bg-[#5B9BD5] hover:bg-[#2E6FB8] text-white text-sm font-semibold px-7 py-3 rounded-full no-underline transition-colors shadow-md">
         Explore All Tools <span aria-hidden="true">→</span>
       </a>
     </div>
