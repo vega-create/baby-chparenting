@@ -167,29 +167,23 @@ const trustPills = [
     )}
   </section>
 
-  <!-- ───────── MISSION + FOOTER (single banner) ───────── -->
-  <!-- The supplied photo is a single tall illustration that serves as
-       BOTH the mission strip background AND the footer background.
-       Mission text overlays the cream upper zone; footer copy overlays
-       the blue lower zone next to the bear. The global <Footer /> is
-       hidden in BaseLayout (hideFooter prop) to avoid duplication. -->
+  <!-- ───────── MISSION + FOOTER (responsive banner) ─────────
+       Desktop (lg+): supplied photo is the bg of a single section.
+                      Mission text overlays the upper cream zone;
+                      footer copy overlays the lower blue band next
+                      to the bear.
+       Mobile (<lg):  DOM order — Mission (cream block) → image →
+                      Footer (blue block). Each block stands on its
+                      own bg so the colour story stays
+                      cream→image→blue with no jumps. -->
   <section class="relative">
-    <img
-      src="/images/hero/baby-home-mission.jpg"
-      alt="Mother tenderly kissing her baby's forehead, with a teddy bear on a cloud below — cream-and-blue illustrated banner"
-      class="block w-full h-auto"
-      width="1536"
-      height="1024"
-      loading="lazy"
-    />
-
-    <!-- TOP overlay: Mission text in the right cream zone (~top 55%) -->
-    <div class="absolute inset-x-0 top-0 h-[55%]">
-      <div class="max-w-7xl mx-auto px-5 grid lg:grid-cols-2 gap-10 items-center h-full">
+    <!-- TOP: Mission text — mobile cream block, desktop absolute overlay -->
+    <div class="bg-[#FBF6EF] lg:bg-transparent lg:absolute lg:inset-x-0 lg:top-0 lg:h-[55%] lg:z-10">
+      <div class="max-w-7xl mx-auto px-5 py-10 lg:py-0 grid lg:grid-cols-2 gap-6 lg:gap-10 items-center lg:h-full">
         <div class="hidden lg:block" aria-hidden="true"></div>
-        <div class="py-8 lg:py-0">
-          <span class="text-[10px] sm:text-xs font-semibold text-[#5B9BD5] tracking-wider">OUR MISSION</span>
-          <h2 class="font-display text-xl sm:text-2xl md:text-3xl text-[#1E3A5F] mt-2 mb-3">Helping Parents Feel Confident<br/>Every Step of the Journey</h2>
+        <div>
+          <span class="text-[11px] sm:text-xs font-semibold text-[#5B9BD5] tracking-wider">OUR MISSION</span>
+          <h2 class="font-display text-2xl sm:text-2xl md:text-3xl text-[#1E3A5F] mt-2 mb-3 leading-tight">Helping Parents Feel Confident Every Step of the Journey</h2>
           <p class="text-[#5A6F89] leading-relaxed mb-5 max-w-lg text-sm md:text-base">
             Baby Care Guide is here to support you with trusted information, practical tools, and a caring community. You don't have to do it alone.
           </p>
@@ -213,15 +207,22 @@ const trustPills = [
       </div>
     </div>
 
-    <!-- BOTTOM overlay: Footer content sits on the BOTTOM HALF of the
-         blue zone (not the top edge where the cream→blue wave is).
-         Leftmost column stays empty so the bear-on-cloud reads as the
-         brand mark. -->
-    <div class="absolute inset-x-0 bottom-0 h-[42%]">
-      <div class="max-w-7xl mx-auto px-5 h-full flex flex-col justify-end pb-3 md:pb-5 pt-[8%] md:pt-[12%] gap-4 md:gap-6">
+    <!-- IMAGE — natural aspect, always visible -->
+    <img
+      src="/images/hero/baby-home-mission.jpg"
+      alt="Mother tenderly kissing her baby's forehead, with a teddy bear on a cloud below — cream-and-blue illustrated banner"
+      class="block w-full h-auto"
+      width="1536"
+      height="1024"
+      loading="lazy"
+    />
+
+    <!-- BOTTOM: Footer content — mobile blue block, desktop absolute overlay -->
+    <div class="bg-[#CCDEF2] lg:bg-transparent lg:absolute lg:inset-x-0 lg:bottom-0 lg:h-[42%] lg:z-10">
+      <div class="max-w-7xl mx-auto px-5 py-8 lg:py-0 lg:h-full lg:flex lg:flex-col lg:justify-end lg:pb-3 lg:pt-[12%] lg:gap-6">
         <!-- Top row: 4 link columns + a small social cluster, all sitting
              to the right of the bear (lg:pl-[20%] reserves the bear's lane) -->
-        <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-[1fr_1fr_1fr_1fr_auto] gap-4 md:gap-6 lg:pl-[20%]">
+        <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-[1fr_1fr_1fr_1fr_auto] gap-5 md:gap-6 lg:pl-[20%]">
           <div>
             <h4 class="banner-col-title">Guides</h4>
             <ul class="banner-col-list">
@@ -256,7 +257,7 @@ const trustPills = [
         </div>
 
         <!-- Copyright sits at the very bottom -->
-        <p class="text-center text-[10px] md:text-xs text-[#5A6F89] pb-1">© {new Date().getFullYear()} {siteConfig.name}. All rights reserved.</p>
+        <p class="text-center text-[10px] md:text-xs text-[#5A6F89] mt-5 lg:mt-0 lg:pb-1">© {new Date().getFullYear()} {siteConfig.name}. All rights reserved.</p>
       </div>
     </div>
   </section>
