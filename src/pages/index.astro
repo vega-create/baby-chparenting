@@ -210,16 +210,23 @@ const trustPills = [
       </div>
     </div>
 
-    <!-- IMAGE — desktop natural aspect; mobile cropped + zoomed so
-         mom-baby fills the frame (no empty cream zone next to her). -->
-    <img
-      src="/images/hero/baby-home-mission.jpg"
-      alt="Mother tenderly kissing her baby's forehead, with a teddy bear on a cloud below — cream-and-blue illustrated banner"
-      class="block w-full h-[45vh] lg:h-auto object-cover object-[28%_30%] lg:object-center"
-      width="1536"
-      height="1024"
-      loading="lazy"
-    />
+    <!-- IMAGE — desktop uses the tall 3:2 original (cream middle is
+         needed because the right column overlays text there).
+         Mobile uses a pre-cropped variant that drops the empty
+         cream middle band so mom-baby and bear sit close together
+         instead of being separated by a void. The seam falls in
+         pure cream → invisible. -->
+    <picture>
+      <source media="(min-width: 1024px)" srcset="/images/hero/baby-home-mission.jpg" />
+      <img
+        src="/images/hero/baby-home-mission-mobile.jpg"
+        alt="Mother tenderly kissing her baby's forehead, with a teddy bear on a cloud below — cream-and-blue illustrated banner"
+        class="block w-full h-auto"
+        width="1600"
+        height="949"
+        loading="lazy"
+      />
+    </picture>
 
     <!-- BOTTOM: Footer content — mobile blue block, desktop absolute overlay -->
     <div class="bg-[#CCDEF2] lg:bg-transparent lg:absolute lg:inset-x-0 lg:bottom-0 lg:h-[42%] lg:z-10">
