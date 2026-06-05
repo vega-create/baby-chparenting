@@ -13,9 +13,12 @@ interface Props {
   type?: "website" | "article";
   publishDate?: string;
   author?: string;
+  /** Set to true on pages that inline their own footer onto an
+      image (e.g. the home Mission section). Defaults to false. */
+  hideFooter?: boolean;
 }
 
-const { title, description, image, canonical, type, publishDate, author } =
+const { title, description, image, canonical, type, publishDate, author, hideFooter = false } =
   Astro.props;
 
 const ga4Id: string = siteConfig.analytics.ga4 || "";
@@ -132,6 +135,6 @@ const organizationSchema = {
     <main>
       <slot />
     </main>
-    <Footer />
+    {!hideFooter && <Footer />}
   </body>
 </html>
