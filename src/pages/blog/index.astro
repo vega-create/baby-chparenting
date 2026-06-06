@@ -160,13 +160,24 @@ const catColor = (slug: string | undefined) => {
 
     <!-- SIDEBAR -->
     <aside class="space-y-7">
-      <!-- Search -->
-      <form action="/blog/" method="get" class="relative">
-        <input type="search" name="q" placeholder="Search articles..." class="w-full px-4 py-3 pr-10 rounded-full bg-white border border-[#D5E6F4] text-sm text-[#1E3A5F] placeholder:text-[#94A8C2]" />
+      <!-- Search — id="search" so the header search button can deep-link
+           to /blog/#search and the inline script below auto-focuses the
+           input + scrolls into view when the page loads with that hash. -->
+      <form id="search" action="/blog/" method="get" class="relative scroll-mt-24">
+        <input id="blog-search-input" type="search" name="q" placeholder="Search articles..." class="w-full px-4 py-3 pr-10 rounded-full bg-white border border-[#D5E6F4] text-sm text-[#1E3A5F] placeholder:text-[#94A8C2]" />
         <button type="submit" class="absolute right-3 top-1/2 -translate-y-1/2 w-7 h-7 inline-flex items-center justify-center rounded-full text-[#2E6FB8]" aria-label="Search">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
         </button>
       </form>
+      <script is:inline>
+        // When user clicks the header search icon (/blog/#search), bring the
+        // search input into view AND give it cursor focus so they can type
+        // immediately. Plain hash anchors only scroll; they don't focus.
+        if (window.location.hash === '#search') {
+          const input = document.getElementById('blog-search-input');
+          if (input) setTimeout(() => input.focus({ preventScroll: false }), 100);
+        }
+      </script>
 
       <!-- Categories -->
       <div class="bg-white rounded-2xl p-5 shadow-sm">
