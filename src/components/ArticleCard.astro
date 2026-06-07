@@ -6,8 +6,9 @@ interface Props {
   href: string;
   image?: string;
   readTime?: string;
+  publishDate?: Date;
 }
-const { title, description, category, href, image, readTime } = Astro.props;
+const { title, description, category, href, image, readTime, publishDate } = Astro.props;
 
 const categoryLabels: Record<string, string> = {
   sleep: "Sleep",
@@ -16,6 +17,14 @@ const categoryLabels: Record<string, string> = {
   gear: "Gear",
   development: "Development",
 };
+
+const formattedDate = publishDate
+  ? publishDate.toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    })
+  : null;
 ---
 
 <a href={href} class="card block no-underline text-[#1E293B] hover:shadow-lg transition-shadow !p-0 overflow-hidden">
@@ -37,6 +46,12 @@ const categoryLabels: Record<string, string> = {
       {title}
     </h3>
     <p class="text-sm text-[#9CA3AF] leading-relaxed line-clamp-2">{description}</p>
-    {readTime && <p class="mt-3 text-xs text-[#9CA3AF]">{readTime}</p>}
+    {(formattedDate || readTime) && (
+      <p class="mt-3 text-xs text-[#9CA3AF] flex items-center gap-2">
+        {formattedDate && <span>📅 {formattedDate}</span>}
+        {formattedDate && readTime && <span class="text-blue-200">•</span>}
+        {readTime && <span>{readTime}</span>}
+      </p>
+    )}
   </div>
 </a>

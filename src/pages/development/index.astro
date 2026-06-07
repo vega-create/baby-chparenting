@@ -32,6 +32,7 @@ const posts = allPosts.sort(
             category={post.data.category || ""}
             href={`/blog/${post.data.slug}/`}
             image={post.data.image}
+            publishDate={post.data.publishDate}
           />
         ))}
       </div>
