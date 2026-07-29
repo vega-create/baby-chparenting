@@ -118,7 +118,7 @@ Diaper rash is nearly universal and usually easy to beat. Keep these principles 
 - **Bright red with satellite spots = likely yeast** — needs an antifungal
 - **Call the doctor** for rash that lasts beyond 3 days, blisters, pus, or comes with fever
 
-A little prevention — frequent changes and daily air time — keeps most rashes from ever starting. Your baby's skin is delicate, but it heals fast with the right care.
+A little prevention — frequent changes and daily air time — keeps most rashes from ever starting. Your baby's skin is delicate, but most rashes usually clear up quickly with gentle, consistent care.
 
 > 💡 **Further reading:** See [baby's first fever](/blog/baby-first-fever-when-to-worry/) and our [month-by-month milestones guide](/blog/baby-developmental-milestones-month-by-month/). For more parenting support, visit [媽媽生活復原力 Lab](https://chparenting.com).
 
