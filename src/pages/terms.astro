@@ -1,0 +1,82 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumb from "../components/Breadcrumb.astro";
+---
+
+<BaseLayout
+  title="Terms of Use"
+  description="Terms of use for baby.chparenting.com"
+>
+  <section class="max-w-3xl mx-auto px-4 py-10">
+    <Breadcrumb
+      items={[{ label: "Home", href: "/" }, { label: "Terms of Use" }]}
+    />
+    <h1 class="mb-6">Terms of Use</h1>
+    <div class="card space-y-4 text-[#1E293B] leading-relaxed">
+      <p>
+        Welcome to baby.chparenting.com ("the site", "we", "us"). By accessing
+        or using this site, you agree to these Terms of Use. If you do not agree,
+        please do not use the site.
+      </p>
+
+      <h2 class="text-xl font-semibold mt-6">Educational information only</h2>
+      <p>
+        All content on this site — including articles, guides, checklists, and
+        interactive tools — is provided for general informational and
+        educational purposes only. It is <strong>not medical advice</strong> and
+        is not a substitute for professional care. Always consult your
+        pediatrician or a qualified healthcare provider about your child's
+        health, feeding, sleep, or development, and never disregard professional
+        medical advice because of something you read here.
+      </p>
+
+      <h2 class="text-xl font-semibold mt-6">Use of our tools</h2>
+      <p>
+        Calculators and trackers (such as the Growth Calculator, Feeding Timer,
+        and Sleep Tracker) produce estimates for general guidance only. Results
+        are not diagnoses and should not be relied on for medical decisions. Any
+        data you enter is saved to your own browser's local storage and never
+        leaves your device.
+      </p>
+
+      <h2 class="text-xl font-semibold mt-6">Intellectual property</h2>
+      <p>
+        The content and design of this site are owned by us and protected by
+        applicable copyright laws. You may share links to our pages freely, but
+        you may not republish, copy, or reproduce substantial portions of our
+        content without prior written permission.
+      </p>
+
+      <h2 class="text-xl font-semibold mt-6">Third-party links and ads</h2>
+      <p>
+        We may link to third-party websites and display advertising. We are not
+        responsible for the content, products, or practices of any third-party
+        sites. Some links may be affiliate links, meaning we may earn a small
+        commission at no extra cost to you.
+      </p>
+
+      <h2 class="text-xl font-semibold mt-6">Limitation of liability</h2>
+      <p>
+        This site is provided "as is" without warranties of any kind. To the
+        fullest extent permitted by law, we are not liable for any loss or
+        damage arising from your use of, or reliance on, the site or its content.
+      </p>
+
+      <h2 class="text-xl font-semibold mt-6">Changes to these terms</h2>
+      <p>
+        We may update these Terms of Use from time to time. Continued use of the
+        site after changes are posted means you accept the revised terms.
+      </p>
+
+      <h2 class="text-xl font-semibold mt-6">Contact</h2>
+      <p>
+        If you have any questions about these terms, please reach out via our
+        <a href="/contact/">contact page</a>.
+      </p>
+
+      <p class="text-sm text-[#9CA3AF] italic mt-8">
+        Last updated: July 2026
+      </p>
+    </div>
+  </section>
+</BaseLayout>

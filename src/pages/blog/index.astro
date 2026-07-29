@@ -9,14 +9,13 @@ const allPosts = (await getCollection("blog", ({ data }) => !data.draft && data.
   .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
 
 // Category counts for the sidebar.
+// Only real categories that have a landing page AND published articles.
 const categoryDefs = [
+  { id: "names",       label: "Names",       color: "#A89BD4" },
+  { id: "development", label: "Development", color: "#E8B86E" },
   { id: "sleep",       label: "Sleep",       color: "#5B9BD5" },
   { id: "feeding",     label: "Feeding",     color: "#7BC0A0" },
-  { id: "development", label: "Development", color: "#E8B86E" },
-  { id: "parenting",   label: "Parenting",   color: "#A89BD4" },
   { id: "gear",        label: "Gear",        color: "#B68C73" },
-  { id: "health",      label: "Health",      color: "#E89BAE" },
-  { id: "activities",  label: "Activities",  color: "#7FB6C9" },
 ];
 
 const counts: Record<string, number> = {};

@@ -98,8 +98,8 @@ export const siteConfig = {
     tools: [
       { label: "Sleep Tracker",     href: "/tools/sleep-tracker/" },
       { label: "Feeding Timer",     href: "/tools/feeding-timer/" },
-      { label: "Growth Tracker",    href: "/tools/growth-tracker/" },
-      { label: "Milestone Tracker", href: "/tools/milestone-tracker/" },
+      { label: "Growth Calculator",  href: "/tools/growth-calculator/" },
+      { label: "Milestone Checker",  href: "/tools/milestone-checker/" },
       { label: "Name Generator",    href: "/names/" },
     ],
     resources: [
