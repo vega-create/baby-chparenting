@@ -8,7 +8,7 @@ category: "feeding"
 tags: ["starting solids", "6 months", "infant feeding", "first foods", "complementary feeding"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
-image: "https://images.pexels.com/photos/1483938/pexels-photo-1483938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "https://images.pexels.com/photos/3662845/pexels-photo-3662845.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 
