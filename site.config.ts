@@ -106,6 +106,7 @@ export const siteConfig = {
       { label: "Blog",         href: "/blog/" },
       { label: "About Us",     href: "/about/" },
       { label: "For Parents",  href: "/about/" },
+      { label: "Mommy Startup ↗", href: "https://mommystartup.com/" },
     ],
     legal: [
       { label: "Privacy Policy", href: "/privacy/" },
