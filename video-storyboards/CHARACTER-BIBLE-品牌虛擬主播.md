@@ -1,79 +1,65 @@
-# 品牌虛擬主播 — 角色設定（三站共用）
+# 品牌虛擬主播 — 三站共用（以 MommyStartup A2 為母版）
 
-> Vega Lin 的 AI 形象版。**真實身分 + AI 生成視覺**，不是虛構人設。
-> 適用：mommystartup.com / baby.chparenting.com / pregnancy.chparenting.com
-
----
-
-## 🎯 定位（很重要，先讀這段）
-
-| 項目 | 設定 |
-|---|---|
-| **她是誰** | Vega Lin 本人 — 真實姓名、真實創業與育兒經歷、網站文章的真實作者 |
-| **這個形象是什麼** | 用 AI 生成的視覺呈現，讓影片可以無限量產、不用真人出鏡 |
-| **不是什麼** | ❌ 不是虛構的假人設 ❌ 不冒充別人 ❌ 不宣稱是實拍照片 |
-| **對外揭露** | 影片簡介／片尾標示「AI-generated presenter · Written and reviewed by Vega Lin」 |
-
-**為什麼這樣設計**：作者身分是真的 → Google E-E-A-T 保住（育兒/懷孕屬 YMYL，這點很關鍵）；
-視覺是 AI → 可以量產影片。兩者不衝突，但**身分絕不能造假**。
+> ⚠️ 本檔 2026-08-25 依 Vega 既有產線更正。先前版本是在不知道已有產線時寫的，內容已作廢。
 
 ---
 
-## 👤 主角參考圖描述（每個 A-roll image_prompt 都要完整重打這段）
+## 主播母版（沿用 MommyStartup，不另外生新角色）
 
-> ⚠️ 這是最關鍵的一段。VideoExpress 圖生圖無記憶，**每張圖都要把這整段重打一次**，
-> 不可以寫 "same character as before"，否則 AI 會自己編一個新長相。
+候選圖與原始 prompt 在 `~/Desktop/MommyStartup虛擬主播候選/`（含 `prompts記錄.md`）。
 
+| 代號 | mediaId | 形象 | 適用 |
+|---|---|---|---|
+| **A2** ⭐母版 | 39000651 | 亞洲女性・粉色西外＋白T・居家辦公室 | 三站通用 |
+| B2 | 39000653 | 亞洲女性・米白麻花針織衫・廚房中島 | 育兒／孕期特別對味 |
+| C2 | 39000654 | 亞洲女性・鼠尾草綠襯衫・創作者工作室 | 創業站；育兒題材商務感偏強，少用 |
+
+**A2 原始 prompt（要再生同款時用）：**
 ```
-A photorealistic Asian woman in her early 30s with a warm, friendly presence,
-shoulder-length dark brown hair with soft natural waves parted slightly to one side,
-light natural makeup with soft pink lips, gentle genuine smile, warm brown eyes,
-wearing a cream ivory chunky knit sweater, bright sunlit home interior background
-with soft blush pink and warm beige tones, golden natural window light,
-photorealistic portrait photography, shallow depth of field, warm color grading,
-vertical 9:16 composition
+A friendly Asian woman in her mid 30s, warm genuine smile, shoulder-length soft black hair, wearing a blush-pink blazer over a white tee, sitting in a bright cozy home office with a laptop, plants and warm morning light, looking directly at the camera, professional portrait photo, upper body, vertical composition
 ```
 
-**風格依據**：對齊 mommystartup 現有形象 `public/images/about-hero.png`（寫實攝影、亞洲女性、
-溫暖粉色調、居家自然光）。三站視覺統一，觀眾從影片點進網站認得出是同一個品牌。
+生成方式：VideoExpress → Create Video From Prompt → Vertical 9:16 → Image Type: Human → Create Image。
+選定後 `POST /ai/api/save_generated_image` FormData{uuid} 存入媒體庫取得 mediaId。
 
 ---
 
-## 🎨 品牌視覺規範
+## 產線（已驗證，不用自己錄音）
 
-| 元素 | 規範 |
-|---|---|
-| 色調 | 暖粉 (blush pink)、米白 (ivory)、暖米色 (warm beige) |
-| 光線 | 自然窗光、golden hour 質感、柔和不刺眼 |
-| 場景 | 居家：客廳、書桌、育兒房、廚房角落 |
-| 服裝 | 米白／奶油色針織衫為主，可換淺粉、淺灰的柔軟材質 |
-| 情緒 | 溫暖、可信賴、不誇張、不做作 |
-| 畫幅 | **9:16 直式**（Reels / Shorts / TikTok） |
+**文字驅動 Lipsync HD** — `image2video` 帶 `isTalkingVideoFromText=1`，`speech1` 直接餵英文台詞，
+AI 產生語音＋嘴型。英文發音先前已驗證 OK，**不需要 ElevenLabs 或 Voice Changer**。
 
----
+每支影片 = 3 段台詞 `s1` / `s2` / `s3`，各生一段，再用 `gen.py` 疊字卡、修尾靜音、concat。
 
-## 🚫 不要做的事
-
-- ❌ 不要讓她「宣稱親身經歷」超出 Vega 本人真實有的經驗
-- ❌ 健康主題不做治癒／保證／療效宣稱（沿用網站文章的謹慎口吻）
-- ❌ 不要換臉、換髮色、換人種 — 一旦跑掉品牌一致性就毀了
-- ❌ 不要在畫面上做「醫師袍」「聽診器」等暗示醫療專業身分的元素
+**腳本公式（沿用 MommyStartup 已驗證的節奏）：**
+- `s1` 鉤子：數字 + 好處，一句話講完
+- `s2` 具體：真實例子、真實含義，不空泛
+- `s3` CTA：`... on <站台> dot com.`（gen.py 會把它換成可讀網址並標色）
 
 ---
 
-## ✅ 每支影片的合規檢查
+## 各站量產資料夾
 
-- [ ] 影片簡介／片尾有 **AI-generated presenter** 揭露
-- [ ] 健康類內容有「資訊參考，請諮詢醫療專業」字卡或旁白
-- [ ] 內容出處對應到網站真實文章（影片與文章說法一致）
-- [ ] 平台端的 AI 內容標籤有勾（YouTube / TikTok 後台都有選項）
-
----
-
-## 📌 內容策略：先做名字，再做健康
-
-| 階段 | 主題 | 原因 |
+| 站 | 資料夾 | 狀態 |
 |---|---|---|
-| **第一階段** | baby names（站上有 78 篇） | 零醫療風險、短影音最容易爆、留言互動高 |
-| **第二階段** | 育兒知識（teething、wonder weeks、growth spurts） | 有粉絲基礎後再進，共鳴度高 |
-| **第三階段** | 孕期知識（腿抽筋、咖啡因、孕期運動） | 導流到 pregnancy 站，完成「懷孕→育兒」漏斗 |
+| mommystartup.com | `~/Desktop/MommyStartup量產-第1批/` | 第 1 批 10 支已完成 |
+| baby.chparenting.com | `~/Desktop/Baby量產-第1批/` | manifest + gen.py 已備妥，待生 segs |
+| pregnancy.chparenting.com | 待建 | 題材：腿抽筋、孕期咖啡因、NIPT、doula vs midwife |
+| learn.chparenting.com | `~/Desktop/Learn站虛擬主播候選/` | **另一套主播與格式，不與本檔混用** |
+
+---
+
+## 內容策略順序
+
+1. **名字類先做** — 零醫療合規風險、短影音最易起量、留言區自帶互動（baby 站有 78 篇）
+2. 育兒知識（teething、wonder weeks、growth spurts）— 有粉絲基礎再上
+3. 孕期知識 — 完成「懷孕 → 育兒」漏斗
+
+---
+
+## ⚖️ 合規
+
+- 頻道簡介／片尾標示 **AI-generated presenter**；平台後台勾 AI 生成內容標籤
+- 網站文章作者仍是 **Vega Lin 本人**（真實身分、真實經歷）→ E-E-A-T 不受影響
+- 健康類影片加「資訊參考，請諮詢醫療專業」；不做療效／治癒／保證宣稱
+- ❌ 主播形象不可用於「使用者見證」「客戶實例」等會被視為假見證的用途
