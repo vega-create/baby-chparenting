@@ -8,7 +8,7 @@ category: "names"
 tags: ["Sagittarius baby names", "zodiac baby names", "baby names meaning adventure", "baby names meaning freedom", "Jupiter names"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
-image: "https://images.pexels.com/photos/4254548/pexels-photo-4254548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "/images/zodiac/sagittarius.jpg"
 draft: false
 ---
 
@@ -18,7 +18,7 @@ Sagittarius, the ninth sign of the zodiac, spans November 22 through December 21
 
 For more names inspired by the natural world and adventure, explore [baby names meaning nature](/blog/names-meaning-nature/) and [baby names meaning star](/blog/names-meaning-star/).
 
-![Starry night sky with Milky Way](https://images.pexels.com/photos/4254548/pexels-photo-4254548.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Sagittarius constellation — Sagittarius baby names](/images/zodiac/sagittarius.jpg)
 
 ## Understanding Sagittarius Traits
 
@@ -205,7 +205,7 @@ The Archer symbol directly inspires names like Archer and Fletcher (arrow maker)
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/4254548/pexels-photo-4254548.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://baby.chparenting.com/images/zodiac/sagittarius.jpg",
         "width": 1200,
         "height": 630
       },

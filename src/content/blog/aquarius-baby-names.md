@@ -8,7 +8,7 @@ category: "names"
 tags: ["Aquarius baby names", "zodiac baby names", "baby names meaning unique", "baby names meaning freedom", "Uranus names"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
-image: "https://images.pexels.com/photos/93767/pexels-photo-93767.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "/images/zodiac/aquarius.jpg"
 draft: false
 ---
 
@@ -18,7 +18,7 @@ Aquarius, the eleventh sign of the zodiac, spans January 20 through February 18 
 
 For more distinctive name choices, explore [baby names meaning ocean](/blog/names-meaning-ocean/) and [the name Noah](/blog/name-noah/).
 
-![Night sky with stars and milky way](https://images.pexels.com/photos/93767/pexels-photo-93767.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Aquarius constellation — Aquarius baby names](/images/zodiac/aquarius.jpg)
 
 ## Understanding Aquarius Traits
 
@@ -203,7 +203,7 @@ Balance uniqueness with usability. Consider names that are uncommon but still re
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/93767/pexels-photo-93767.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://baby.chparenting.com/images/zodiac/aquarius.jpg",
         "width": 1200,
         "height": 630
       },

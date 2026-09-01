@@ -8,7 +8,7 @@ category: "names"
 tags: ["baby names", "cancer baby names", "zodiac names", "water names", "moon names", "june baby names", "july baby names"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
-image: "https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "/images/zodiac/cancer.jpg"
 draft: false
 ---
 
@@ -18,7 +18,7 @@ The crab symbolizes Cancer, representing protection (the hard shell), emotional 
 
 > **Key Takeaway:** Cancer baby names should reflect the sign's nurturing, intuitive nature and lunar connection. Look for names meaning moon, water, love, or protection. For more gentle inspiration, explore our guide to [baby names meaning love](/blog/names-meaning-love/) and [baby names meaning grace](/blog/names-meaning-grace/).
 
-![Moon and stars in the night sky](https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Cancer constellation — Cancer baby names](/images/zodiac/cancer.jpg)
 
 ## Understanding the Cancer Personality
 
@@ -174,7 +174,7 @@ Nurturing names for Cancer babies include Haven (safe place), Amara (beloved), N
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://baby.chparenting.com/images/zodiac/cancer.jpg",
         "width": 1200,
         "height": 630
       },

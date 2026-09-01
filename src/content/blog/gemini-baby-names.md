@@ -8,7 +8,7 @@ category: "names"
 tags: ["baby names", "gemini baby names", "zodiac names", "air names", "may baby names", "june baby names", "clever baby names"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
-image: "https://images.pexels.com/photos/2892619/pexels-photo-2892619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "/images/zodiac/gemini.jpg"
 draft: false
 ---
 
@@ -18,7 +18,7 @@ The twins symbolize Gemini, representing duality, adaptability, and the ability 
 
 > **Key Takeaway:** Gemini baby names should reflect the sign's clever, communicative nature. Look for names meaning wisdom, speech, air, or wit. For more brainy inspiration, explore our guide to [baby names meaning star](/blog/names-meaning-star/) and the classic name [Emma](/blog/name-emma/), which carries a meaning of universal wholeness that Gemini appreciates.
 
-![Stars and constellation in outer space](https://images.pexels.com/photos/2892619/pexels-photo-2892619.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Gemini constellation — Gemini baby names](/images/zodiac/gemini.jpg)
 
 ## Understanding the Gemini Personality
 
@@ -185,7 +185,7 @@ Popular Gemini-inspired twin pairs include Aria and Clio (song and glory), Felix
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/2892619/pexels-photo-2892619.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://baby.chparenting.com/images/zodiac/gemini.jpg",
         "width": 1200,
         "height": 630
       },

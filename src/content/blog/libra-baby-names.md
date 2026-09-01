@@ -8,7 +8,7 @@ category: "names"
 tags: ["Libra baby names", "zodiac baby names", "baby names meaning balance", "baby names meaning harmony", "Venus names"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
-image: "https://images.pexels.com/photos/1274260/pexels-photo-1274260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "/images/zodiac/libra.jpg"
 draft: false
 ---
 
@@ -18,7 +18,7 @@ Libra, the seventh sign of the zodiac, spans September 23 through October 22 and
 
 For more celestially inspired names, explore [baby names meaning peace](/blog/names-meaning-peace/) and [baby names meaning star](/blog/names-meaning-star/).
 
-![Balanced scales against a starry sky](https://images.pexels.com/photos/1274260/pexels-photo-1274260.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Libra constellation — Libra baby names](/images/zodiac/libra.jpg)
 
 ## Understanding Libra Traits
 
@@ -199,7 +199,7 @@ Libra is an air sign, which is associated with intellect, communication, and soc
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/1274260/pexels-photo-1274260.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://baby.chparenting.com/images/zodiac/libra.jpg",
         "width": 1200,
         "height": 630
       },

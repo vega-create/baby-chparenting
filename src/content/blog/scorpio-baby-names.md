@@ -8,7 +8,7 @@ category: "names"
 tags: ["Scorpio baby names", "zodiac baby names", "baby names meaning power", "baby names meaning mystery", "Pluto names"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
-image: "https://images.pexels.com/photos/1252890/pexels-photo-1252890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "/images/zodiac/scorpio.jpg"
 draft: false
 ---
 
@@ -18,7 +18,7 @@ Scorpio, the eighth sign of the zodiac, spans October 23 through November 21 and
 
 For additional powerful name inspiration, explore [baby names meaning strength](/blog/names-meaning-strength/) and [Greek baby names](/blog/greek-baby-names/).
 
-![Milky Way galaxy in the night sky](https://images.pexels.com/photos/1252890/pexels-photo-1252890.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Scorpio constellation — Scorpio baby names](/images/zodiac/scorpio.jpg)
 
 ## Understanding Scorpio Traits
 
@@ -200,7 +200,7 @@ Not at all. While Scorpio-inspired names carry power and depth, many are versati
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/1252890/pexels-photo-1252890.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://baby.chparenting.com/images/zodiac/scorpio.jpg",
         "width": 1200,
         "height": 630
       },

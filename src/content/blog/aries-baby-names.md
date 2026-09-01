@@ -8,7 +8,7 @@ category: "names"
 tags: ["baby names", "aries baby names", "zodiac names", "fire names", "spring baby names", "bold baby names", "march baby names", "april baby names"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
-image: "https://images.pexels.com/photos/1558916/pexels-photo-1558916.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "/images/zodiac/aries.jpg"
 draft: false
 ---
 
@@ -18,7 +18,7 @@ The ram symbolizes Aries, representing strength, initiative, and the willingness
 
 > **Key Takeaway:** Aries baby names should capture the sign's bold, pioneering energy. Look for names meaning fire, courage, strength, or leadership. For more fiery inspiration, explore our guide to [baby names meaning fire](/blog/names-meaning-fire/) and [baby names meaning brave](/blog/names-meaning-brave/).
 
-![Vibrant fire representing Aries energy](https://images.pexels.com/photos/1558916/pexels-photo-1558916.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Aries constellation — Aries baby names](/images/zodiac/aries.jpg)
 
 ## Understanding the Aries Personality
 
@@ -174,7 +174,7 @@ Zodiac-based names are a meaningful way to honor the time and season of your chi
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/1558916/pexels-photo-1558916.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://baby.chparenting.com/images/zodiac/aries.jpg",
         "width": 1200,
         "height": 630
       },

@@ -8,7 +8,7 @@ category: "names"
 tags: ["Capricorn baby names", "zodiac baby names", "baby names meaning strength", "baby names meaning ambition", "Saturn names"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
-image: "https://images.pexels.com/photos/2670898/pexels-photo-2670898.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "/images/zodiac/capricorn.jpg"
 draft: false
 ---
 
@@ -18,7 +18,7 @@ Capricorn, the tenth sign of the zodiac, spans December 22 through January 19 an
 
 For additional grounded name inspiration, explore [Scottish baby names](/blog/scottish-baby-names/) and [biblical baby names](/blog/biblical-baby-names/).
 
-![Milky Way over mountain landscape](https://images.pexels.com/photos/2670898/pexels-photo-2670898.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Capricorn constellation — Capricorn baby names](/images/zodiac/capricorn.jpg)
 
 ## Understanding Capricorn Traits
 
@@ -204,7 +204,7 @@ The Sea-Goat is a mythical creature with the front body of a goat and the tail o
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/2670898/pexels-photo-2670898.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://baby.chparenting.com/images/zodiac/capricorn.jpg",
         "width": 1200,
         "height": 630
       },

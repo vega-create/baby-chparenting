@@ -8,7 +8,7 @@ category: "names"
 tags: ["Pisces baby names", "zodiac baby names", "baby names meaning sea", "baby names meaning dream", "Neptune names"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
-image: "https://images.pexels.com/photos/19824837/pexels-photo-19824837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "/images/zodiac/pisces.jpg"
 draft: false
 ---
 
@@ -18,7 +18,7 @@ Pisces, the twelfth and final sign of the zodiac, spans February 19 through Marc
 
 For more names with beautiful meanings, explore [baby names meaning love](/blog/names-meaning-love/) and [baby names meaning peace](/blog/names-meaning-peace/).
 
-![Photo of the Milky Way and Stars](https://images.pexels.com/photos/19824837/pexels-photo-19824837.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Pisces constellation — Pisces baby names](/images/zodiac/pisces.jpg)
 
 ## Understanding Pisces Traits
 
@@ -215,7 +215,7 @@ Pisces is widely considered the most artistically gifted sign of the zodiac, tha
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/19824837/pexels-photo-19824837.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://baby.chparenting.com/images/zodiac/pisces.jpg",
         "width": 1200,
         "height": 630
       },

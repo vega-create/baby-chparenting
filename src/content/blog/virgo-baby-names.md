@@ -8,7 +8,7 @@ category: "names"
 tags: ["baby names", "virgo baby names", "zodiac names", "earth names", "elegant baby names", "august baby names", "september baby names"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
-image: "https://images.pexels.com/photos/16880958/pexels-photo-16880958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "/images/zodiac/virgo.jpg"
 draft: false
 ---
 
@@ -18,7 +18,7 @@ The maiden symbolizes Virgo, representing purity, harvest, wisdom, and the caref
 
 > **Key Takeaway:** Virgo baby names should reflect the sign's elegant, analytical nature and earthy wisdom. Look for names meaning wise, pure, harvest, or earth. For more refined inspiration, explore our guide to [baby names meaning grace](/blog/names-meaning-grace/) and [baby names meaning strength](/blog/names-meaning-strength/).
 
-![Stars constellation in a galaxy](https://images.pexels.com/photos/16880958/pexels-photo-16880958.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Virgo constellation — Virgo baby names](/images/zodiac/virgo.jpg)
 
 ## Understanding the Virgo Personality
 
@@ -174,7 +174,7 @@ Virgo loves timeless elegance, making classic names a perfect match. For boys, F
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/16880958/pexels-photo-16880958.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://baby.chparenting.com/images/zodiac/virgo.jpg",
         "width": 1200,
         "height": 630
       },

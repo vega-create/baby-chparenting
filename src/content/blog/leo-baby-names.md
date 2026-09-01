@@ -8,7 +8,7 @@ category: "names"
 tags: ["baby names", "leo baby names", "zodiac names", "royal names", "sun names", "july baby names", "august baby names"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
-image: "https://images.pexels.com/photos/28844179/pexels-photo-28844179.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "/images/zodiac/leo.jpg"
 draft: false
 ---
 
@@ -18,7 +18,7 @@ The lion symbolizes Leo, representing strength, nobility, courage, and natural a
 
 > **Key Takeaway:** Leo baby names should reflect the sign's royal, sun-kissed nature. Look for names meaning lion, king, queen, gold, or sun. For more regal inspiration, explore our guide to [baby names meaning fire](/blog/names-meaning-fire/) and the timeless name [Oliver](/blog/name-oliver/), which carries strength and noble roots that Leo admires.
 
-![Majestic lion portrait in dramatic light](https://images.pexels.com/photos/28844179/pexels-photo-28844179.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Leo constellation — Leo baby names](/images/zodiac/leo.jpg)
 
 ## Understanding the Leo Personality
 
@@ -174,7 +174,7 @@ Leo is the sign of kings and queens, making royal names especially fitting. For 
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/28844179/pexels-photo-28844179.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://baby.chparenting.com/images/zodiac/leo.jpg",
         "width": 1200,
         "height": 630
       },
