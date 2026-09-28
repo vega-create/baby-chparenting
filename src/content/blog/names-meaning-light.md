@@ -2,7 +2,7 @@
 title: "40 Baby Names That Mean Light"
 description: "Explore 40 radiant baby names that mean light for boys, girls, and unisex choices. Discover luminous names from every culture with origins and full meanings."
 publishDate: 2026-04-16
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "names-meaning-light"
 category: "names"
 tags: ["baby names", "names meaning light", "luminous baby names", "bright names", "boy names", "girl names"]
@@ -12,7 +12,7 @@ image: "https://images.pexels.com/photos/29924768/pexels-photo-29924768.jpeg?aut
 draft: false
 ---
 
-There is something deeply poetic about naming your baby after light. Light represents hope, clarity, warmth, and new beginnings — all the things a newborn brings into a family. Across every culture and language, parents have given their children names that evoke brightness, radiance, and illumination, from the ancient Latin Lucia to the modern favorite Nora.
+There is something deeply poetic about naming your baby after light. Light represents hope, clarity, warmth, and new beginnings — all the things a newborn brings into a family. Across every culture and language, parents have given their children names that evoke brightness, radiance, and illumination, from the ancient Latin Lucia to the Hebrew Liora.
 
 Names meaning light carry an effortless beauty that works across generations. They feel timeless rather than trendy, soft yet full of energy. Whether you picture your child as a quiet glow or a blazing beacon, this collection of 40 luminous names offers something for every family. Each entry includes the name's origin and complete meaning so you can make a confident, informed choice.
 
@@ -26,58 +26,58 @@ One of the most popular light-inspired names today is Lucas --- learn more in ou
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Lucas | Boy | Latin | "Bringer of light, luminous" |
-| Aaron | Boy | Hebrew | "Mountain of strength, enlightened" |
-| Robert | Boy | German | "Bright fame, shining glory" |
-| Lucian | Boy | Latin | "Light, born at daybreak" |
-| Beacon | Boy | English | "Signal light, guiding flame" |
-| Oran | Boy | Irish | "Light, pale, radiant one" |
-| Abner | Boy | Hebrew | "Father of light" |
-| Anwar | Boy | Arabic | "Luminous, radiant, brightest" |
-| Pradeep | Boy | Sanskrit | "Lamp, light, illumination" |
+| Lucas | Boy | Greek, via Latin | "From Lucania; often associated with Latin lux, 'light'" |
+| Elior | Boy | Hebrew | "My God is my light" |
+| Robert | Boy | Germanic | "Bright fame" |
+| Lucian | Boy | Latin | "From Lucius, 'light'" |
+| Beacon | Boy | English | "A signal light" |
+| Meir | Boy | Hebrew | "One who gives light" |
+| Abner | Boy | Hebrew | "My father is a light" |
+| Anwar | Boy | Arabic | "Brighter, more luminous" |
+| Pradeep | Boy | Sanskrit | "Lamp, light" |
 | Uriel | Boy | Hebrew | "God is my light" |
-| Chand | Boy | Hindi | "Shining moon, luminous" |
-| Lucius | Boy | Latin | "Light, born at dawn" |
-| Sheridan | Boy | Irish | "Bright, searcher of light" |
-| Bertram | Boy | German | "Bright raven, illustrious" |
-| Mishal | Boy | Arabic | "Torch, radiant light" |
+| Kiran | Boy | Sanskrit | "Ray of light" |
+| Lucius | Boy | Latin | "Light" |
+| Nuri | Boy | Arabic | "My light" |
+| Bertram | Boy | Germanic | "Bright raven" |
+| Mishal | Boy | Arabic | "Torch" |
 
 ## Girl Names That Mean Light
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Lucy | Girl | Latin | "Light, born at daybreak" |
-| Nora | Girl | Irish | "Honor, light, shining torch" |
-| Elena | Girl | Greek | "Bright shining light, sun ray" |
-| Claire | Girl | French | "Clear, bright, luminous" |
-| Lucia | Girl | Italian/Latin | "Light, graceful illumination" |
-| Dawn | Girl | English | "First light, daybreak" |
-| Elaine | Girl | French | "Bright shining light" |
-| Phoebe | Girl | Greek | "Bright, radiant, shining" |
-| Chiara | Girl | Italian | "Light, clear, bright" |
-| Thea | Girl | Greek | "Goddess of light, divine radiance" |
-| Zara | Girl | Arabic | "Blooming flower, radiance, light" |
-| Ilona | Girl | Hungarian | "Light, beautiful, torch" |
-| Niamh | Girl | Irish | "Bright, radiant, lustrous" |
-| Svetlana | Girl | Slavic | "Light, pure, luminous" |
-| Hikari | Girl | Japanese | "Light, radiance, brilliance" |
+| Lucy | Girl | Latin | "Light" |
+| Liora | Girl | Hebrew | "My light" |
+| Elena | Girl | Greek | "Form of Helen; probably 'torch' or 'shining light'" |
+| Claire | Girl | French | "Clear, bright" |
+| Lucia | Girl | Italian/Latin | "Light" |
+| Dawn | Girl | English | "Daybreak, first light" |
+| Elaine | Girl | French | "Old French form of Helen, probably 'shining light'" |
+| Phoebe | Girl | Greek | "Bright, radiant" |
+| Chiara | Girl | Italian | "Italian form of Clara, 'bright, clear'" |
+| Thea | Girl | Greek | "Short form of Dorothea; also Theia, the Titan goddess of light" |
+| Roshni | Girl | Hindi, from Persian | "Light, brightness" |
+| Ilona | Girl | Hungarian | "Hungarian form of Helen, probably 'shining light'" |
+| Niamh | Girl | Irish | "Bright, radiant" |
+| Svetlana | Girl | Slavic | "From the Slavic word for light" |
+| Hikari | Girl | Japanese | "Light" |
 
 ## Unisex Names That Mean Light
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Lux | Unisex | Latin | "Light, luminescence" |
-| Noor | Unisex | Arabic | "Light, divine radiance" |
-| Bodhi | Unisex | Sanskrit | "Enlightenment, awakened light" |
-| Raya | Unisex | Hebrew/Arabic | "Friend, ray of light" |
-| Ori | Unisex | Hebrew | "My light, illumination" |
-| Arun | Unisex | Sanskrit | "Dawn, reddish glow of sunrise" |
-| Kira | Unisex | Russian/Greek | "Light, beam, ruler" |
-| Lucerne | Unisex | Latin | "Lamp, circle of light" |
-| Nur | Unisex | Arabic | "Light, brightness, glow" |
-| Aster | Unisex | Greek | "Star, celestial light" |
+| Lux | Unisex | Latin | "Light" |
+| Noor | Unisex | Arabic | "Light" |
+| Bodhi | Unisex | Sanskrit | "Awakening, enlightenment" |
+| Roshan | Unisex | Persian | "Bright, shining" |
+| Ori | Unisex | Hebrew | "My light" |
+| Arun | Unisex | Sanskrit | "Dawn; the charioteer of the sun" |
+| Lior | Unisex | Hebrew | "My light" |
+| Lucerne | Unisex | Latin | "Lamp; also a city in Switzerland" |
+| Nur | Unisex | Arabic | "Light" |
+| Zia | Unisex | Arabic | "Light, glow" |
 
-> 💡 **Tip: Trending Picks** — Nora, Lux, Bodhi, and Thea are among the fastest-rising light-inspired names in 2026. They combine brevity with rich meaning, fitting the current trend toward short, impactful names.
+> 💡 **Tip: Short Picks** — Lux, Ori, Nur, and Thea are all four letters or fewer. They combine brevity with a clear meaning, which suits parents who want a short name that still says something.
 
 ## Choosing a Name Inspired by Light
 
@@ -89,7 +89,7 @@ Explore more options with our [Baby Name Generator](/tools/name-generator/) or s
 
 ### What is the most popular baby name meaning light?
 
-Lucy and Lucas are consistently among the top baby names meaning light in English-speaking countries. Nora has also climbed rapidly in recent years, particularly in the United States and across Europe. These names balance familiar appeal with a luminous meaning that resonates with parents everywhere.
+Lucy and Lucas are consistently among the top baby names meaning light in English-speaking countries. Lucia and Elena are widely used across Europe and Latin America. These names balance familiar appeal with a luminous meaning that resonates with parents everywhere.
 
 ### Are there short baby names that mean light?
 
@@ -168,7 +168,7 @@ For parents seeking rarer options, Hikari is a beautiful Japanese name meaning r
           "name": "What is the most popular baby name meaning light?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Lucy and Lucas are consistently among the top baby names meaning light in English-speaking countries. Nora has also climbed rapidly in recent years, particularly in the United States and across Europe. These names balance familiar appeal with a luminous meaning that resonates with parents everywhere."
+            "text": "Lucy and Lucas are consistently among the top baby names meaning light in English-speaking countries. Lucia and Elena are widely used across Europe and Latin America. These names balance familiar appeal with a luminous meaning that resonates with parents everywhere."
           }
         },
         {

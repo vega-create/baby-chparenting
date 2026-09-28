@@ -1,106 +1,142 @@
 ---
 title: "50 Baby Names Meaning Grace (Girls, Boys & Unisex)"
-description: "50 beautiful baby names meaning grace for girls, boys, and unisex options. Includes Hebrew, Greek, and modern picks with meanings and popularity."
+description: "50 baby names meaning grace for girls, boys, and unisex options, from Hannah and Anna to John, Sean, and Gianna, with origins, meanings, and pronunciation."
 publishDate: 2026-04-17
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "names-meaning-grace"
 category: "names"
-tags: ["baby names", "names meaning grace", "beautiful baby names", "elegant names", "boy names", "girl names"]
+tags: ["baby names", "names meaning grace", "names meaning gracious", "elegant names", "boy names", "girl names"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
-image: "https://images.pexels.com/photos/6224242/pexels-photo-6224242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "/images/names/names-meaning-grace.jpg"
 draft: false
 ---
 
-Grace and beauty are qualities that never fade, and names that carry these meanings have endured across centuries and cultures. Parents who choose names meaning grace or beautiful are giving their children a gift of elegance — a name that sounds lovely and carries a meaning to match. From the timeless simplicity of Grace itself to the exotic beauty of Jamal, these names span the full spectrum of style and origin.
+Grace is one of the oldest ideas parents have put into a name. In Hebrew it is *chen*, in Greek *charis*, in Latin *gratia*, and each of those words has produced a whole family of names.
 
-What makes grace and beauty names so appealing is their versatility. They work for every personality type, from quiet and contemplative to bold and outgoing. A graceful name does not box a child in — instead, it provides a foundation of poise that can express itself in countless ways. The 35 names below offer a curated selection of the most beautiful options available.
+Two of those families are enormous. **Hannah** ("grace, favor") gave us Anna, Anne, Annika, Anya, and Nancy. **John** ("God is gracious") gave us Jack, Sean, Ian, Evan, Ivan, Juan, Giovanni, Jane, and Gianna. If you want a name that means grace, there is a good chance you already know several. This list has 50, grouped by gender, with the origin of each.
 
-> 📌 **Key Takeaway:** Names meaning grace or beautiful are among the most elegant choices a parent can make. They carry inherent sophistication without feeling pretentious, making them ideal for families who value both meaning and style. For more names with refined elegance, see our guides to [baby names meaning royal](/blog/names-meaning-royal/) and [baby names meaning love](/blog/names-meaning-love/).
+> 📌 **Key Takeaway:** Most names meaning grace trace back to just two Hebrew names: Hannah ("grace") and John ("God is gracious"). Almost every European language has its own version of both, which is why Anna, Anya, and Anouk are the same name, and so are Sean, Ian, Ivan, and Juan. For more names with a similar spirit, see [names meaning miracle, gift, or blessing](/blog/names-meaning-miracle/) and [names meaning love](/blog/names-meaning-love/).
 
-Some of the most graceful names come from Romance languages --- explore our lists of [French baby names](/blog/french-baby-names/) and [Italian baby names](/blog/italian-baby-names/).
+![50 Baby Names Meaning Grace (Girls, Boys & Unisex)](/images/names/names-meaning-grace.jpg)
 
-![Baby in a serene pose](https://images.pexels.com/photos/6224242/pexels-photo-6224242.jpeg?auto=compress&cs=tinysrgb&w=800)
+## Girl Names Meaning Grace
 
-## Boy Names That Mean Grace or Beautiful
+| Name | Gender | Origin | Meaning | Say it |
+|------|--------|--------|---------|--------|
+| Grace | Girl | Latin, via English | "Grace"; from Latin *gratia* | GRAYSS |
+| Hannah | Girl | Hebrew | "Grace, favor" | HAN-uh |
+| Chana | Girl | Hebrew | The original Hebrew form of Hannah | KHAH-nah |
+| Anna | Girl | Hebrew, via Greek and Latin | Form of Hannah, "grace" | AN-uh |
+| Anne | Girl | French / English | Form of Hannah, "grace" | AN |
+| Anya | Girl | Russian | Pet form of Anna | AHN-yah |
+| Annika | Girl | Scandinavian / German | Pet form of Anna | AH-nih-kah |
+| Anita | Girl | Spanish | Pet form of Ana | ah-NEE-tah |
+| Anaïs | Girl | French / Occitan | Form of Anna | ah-nah-EES |
+| Anouk | Girl | Dutch / French | Pet form of Anna | ah-NOOK |
+| Nancy | Girl | English | Originally a pet form of Ann | NAN-see |
+| Charis | Girl | Greek | "Grace, kindness" | KAIR-is |
+| Carissa | Girl | Greek, via English | From *charis*, "grace" | kuh-RISS-uh |
+| Grazia | Girl | Italian | "Grace" | GRAHT-syah |
+| Graziella | Girl | Italian | Pet form of Grazia | graht-see-EL-lah |
+| Gracia | Girl | Spanish | "Grace" | GRAH-syah |
+| Engracia | Girl | Spanish | From Latin *in gratia*, "in grace" | en-GRAH-syah |
+| Jane | Girl | English | Feminine form of John, "God is gracious" | JAYN |
+| Joanna | Girl | Hebrew, via Greek and Latin | Feminine form of John, "God is gracious" | jo-AN-uh |
+| Gianna | Girl | Italian | Short form of Giovanna, the Italian feminine of John | JAH-nah |
+| Ivana | Girl | Slavic | Feminine form of Ivan, the Slavic John | ee-VAH-nah |
+| Siobhan | Girl | Irish | Irish form of Joan | shih-VAWN |
+| Amara | Girl | Igbo | "Grace" | ah-MAH-rah |
+| Kripa | Girl | Sanskrit | "Grace, mercy" | KRIP-ah |
+| Mila | Girl | Slavic | From *mil*, "gracious, dear" | MEE-lah |
+| Milena | Girl | Slavic | From *mil*, "gracious, dear" | mee-LEH-nah |
 
-| Name | Gender | Origin | Full Meaning |
-|------|--------|--------|-------------|
-| Jamal | Boy | Arabic | "Beauty, grace, handsome" |
-| Allen | Boy | Irish | "Handsome, cheerful, noble" |
-| Beau | Boy | French | "Beautiful, handsome, fine" |
-| Kenneth | Boy | Scottish | "Handsome, born of fire" |
-| Adonis | Boy | Greek | "Extremely handsome, lord" |
-| Hassan | Boy | Arabic | "Handsome, good, benefactor" |
-| Kevin | Boy | Irish | "Gentle, handsome, beloved" |
-| Keanu | Boy | Hawaiian | "Cool breeze, graceful one" |
-| Jamil | Boy | Arabic | "Beautiful, graceful, elegant" |
-| Naim | Boy | Arabic | "Comfort, tranquility, grace" |
-| Calix | Boy | Greek | "Very handsome, most beautiful" |
-| Bellamy | Boy | French | "Beautiful friend, fine companion" |
+## Boy Names Meaning Grace
 
-## Girl Names That Mean Grace or Beautiful
+Nearly all of these are forms of John. The Hebrew original, Yochanan, means "God is gracious."
 
-| Name | Gender | Origin | Full Meaning |
-|------|--------|--------|-------------|
-| Grace | Girl | Latin | "Charm, goodness, generosity" |
-| Bella | Girl | Italian | "Beautiful, lovely, fair" |
-| Hannah | Girl | Hebrew | "Grace, favor, beauty" |
-| Annika | Girl | Swedish | "Grace, sweet-faced, favor" |
-| Calista | Girl | Greek | "Most beautiful, fairest" |
-| Jolie | Girl | French | "Pretty, beautiful, attractive" |
-| Anwen | Girl | Welsh | "Very beautiful, very fair" |
-| Rosalind | Girl | German | "Beautiful rose, gentle horse" |
-| Bonnie | Girl | Scottish | "Beautiful, cheerful, pretty" |
-| Linda | Girl | Spanish/German | "Beautiful, pretty, tender" |
-| Cosima | Girl | Greek | "Order, beauty, harmony" |
-| Mei | Girl | Chinese | "Beautiful, plum blossom" |
-| Naomi | Girl | Hebrew | "Pleasantness, beauty, delight" |
-| Arabella | Girl | Latin | "Yielding to prayer, beautiful" |
-| Astrid | Girl | Norse | "Divinely beautiful, god's strength" |
+| Name | Gender | Origin | Meaning | Say it |
+|------|--------|--------|---------|--------|
+| John | Boy | Hebrew, via Greek and Latin | "God is gracious" | JON |
+| Jack | Boy | English | Medieval pet form of John | JAK |
+| Ian | Boy | Scottish | Scottish form of John | EE-un |
+| Sean | Boy | Irish | Irish form of John | SHAWN |
+| Shane | Boy | Irish | Anglicized form of Seán | SHAYN |
+| Eoin | Boy | Irish | Older Irish form of John | OH-in |
+| Evan | Boy | Welsh | Welsh form of John | EV-un |
+| Ivan | Boy | Slavic | Slavic form of John | EYE-vun or ee-VAHN |
+| Juan | Boy | Spanish | Spanish form of John | HWAHN |
+| João | Boy | Portuguese | Portuguese form of John | ZHWOWN |
+| Giovanni | Boy | Italian | Italian form of John | jo-VAH-nee |
+| Gianni | Boy | Italian | Short form of Giovanni | JAH-nee |
+| Johannes | Boy | German / Dutch / Scandinavian | The Latin form of John, still used in northern Europe | yo-HAH-nes |
+| Johan | Boy | Scandinavian / Dutch | Short form of Johannes | YO-hahn |
+| Hans | Boy | German | Short form of Johannes | HAHNS |
+| Jan | Boy | Dutch / Czech / Polish | Form of John | YAHN |
+| Keoni | Boy | Hawaiian | Hawaiian form of John | keh-OH-nee |
+| Hananiah | Boy | Hebrew | "God is gracious" | han-uh-NYE-uh |
+| Milan | Boy | Slavic | From *mil*, "gracious, dear" | MEE-lahn |
+| Miloš | Boy | Slavic | From *mil*, "gracious, dear" | MEE-losh |
 
-## Unisex Names That Mean Grace or Beautiful
+## Unisex Names Meaning Grace
 
-| Name | Gender | Origin | Full Meaning |
-|------|--------|--------|-------------|
-| Ari | Unisex | Hebrew | "Lion, eagle, graceful" |
-| Noor | Unisex | Arabic | "Light, beauty, divine radiance" |
-| Jae | Unisex | Korean | "Talent, beauty, grace" |
-| Amari | Unisex | Hebrew/African | "Eternal, beautiful, strength" |
-| Milan | Unisex | Slavic | "Gracious, dear, beloved" |
-| Rumi | Unisex | Japanese | "Beauty, flow, lapis lazuli" |
-| Shay | Unisex | Irish | "Admirable, hawk-like, graceful" |
-| Ennis | Unisex | Irish | "From the island, graceful" |
+| Name | Gender | Origin | Meaning | Say it |
+|------|--------|--------|---------|--------|
+| Jean | Unisex | French / English | A form of John in French, and of Jane in English | ZHAHN or JEEN |
+| Chen | Unisex | Hebrew | "Grace, charm" | KHEN |
+| Hanan | Unisex | Hebrew / Arabic | "Gracious" in Hebrew; "tenderness, compassion" in Arabic | hah-NAHN |
+| Jackie | Unisex | English | Pet form of Jack or Jacqueline | JAK-ee |
 
-> 💡 **Tip: Trending Picks** — Beau, Amari, Calista, and Rumi are the grace and beauty names drawing the most attention in 2026. They blend multicultural appeal with an effortless elegance that modern parents find irresistible.
+## One Name, Many Languages
 
-## The Power of an Elegant Name
+If you have family ties to more than one country, the John and Hannah families are useful because the same name exists almost everywhere:
 
-An elegant name carries itself. It needs no explanation, no justification — it simply sounds right. When choosing a grace or beauty name, pay attention to how it flows with your surname. Names with soft consonants and open vowels tend to sound especially graceful. Consider also whether the name ages well — a name that sounds beautiful on a baby should sound equally fitting on an adult.
+| Language | Form of John | Form of Hannah |
+|----------|--------------|----------------|
+| English | John, Jack | Hannah, Anne |
+| Irish | Seán, Eoin | Áine (a separate Irish name often used as its equivalent) |
+| Spanish | Juan | Ana |
+| Italian | Giovanni | Anna |
+| French | Jean | Anne, Anaïs |
+| German | Johannes, Hans | Anna, Anke |
+| Russian | Ivan | Anna, Anya |
+| Welsh | Ioan, Evan | Ann |
 
-Explore more elegant options with our [Baby Name Generator](/tools/name-generator/) or discover which graceful names are trending on our [Name Trends](/tools/name-trends/) page.
+This makes them a practical choice for a child with grandparents in two countries: each side of the family can use the form that is natural to them.
+
+## How to Choose a Name Meaning Grace
+
+**Decide whether you want the word or the meaning.** Grace, Grazia, and Charis say it directly. Anna, Sean, and Gianna carry the meaning without announcing it.
+
+**Grace is one of the most popular middle names.** It is one syllable and pairs with almost anything: Olivia Grace, Eleanor Grace, Lily Grace. If you like the name but find it too common as a first name, the middle spot is its natural home.
+
+**Check pronunciation for the Irish forms.** Siobhan (shih-VAWN) and Eoin (OH-in) are not pronounced the way they look in English. They are beautiful names, and they come with a lifetime of spelling them out.
+
+Try first and middle combinations in our [Baby Name Generator](/tools/name-generator/), or browse more [middle name ideas](/blog/best-middle-name-ideas/).
 
 ## FAQ
 
 ### What girl name means grace?
 
-Grace itself is the most direct and popular option. Hannah means grace and favor in Hebrew and has been a top name for decades. Annika is a Swedish name meaning grace and sweet-faced. Arabella carries graceful overtones from its Latin roots. Each offers a different style while sharing the same beautiful meaning.
+Grace is the most direct choice. Hannah and its many forms, including Anna, Anne, Anya, and Annika, come from the Hebrew word for grace. Charis is the Greek word for grace, and Amara means grace in Igbo.
 
-### What boy name means beautiful?
+### What boy name means grace?
 
-Beau is a French name meaning beautiful and handsome that has become increasingly popular. Jamal is an Arabic name meaning beauty and grace. Adonis, from Greek mythology, means extremely handsome. Keanu is a Hawaiian name meaning graceful one that gained fame through popular culture.
+John means God is gracious, and so do all of its forms: Jack, Ian, Sean, Evan, Ivan, Juan, and Giovanni. Milan and Miloš come from a Slavic word meaning gracious or dear.
 
-### What are elegant unisex names?
+### What name means God is gracious?
 
-Amari, meaning eternal and beautiful, works beautifully for any gender. Rumi, a Japanese name meaning beauty and flow, has a poetic quality. Milan, from Slavic origins meaning gracious, sounds refined for both boys and girls. Noor, meaning light and beauty in Arabic, carries a luminous elegance.
+John and its feminine forms Jane, Joanna, and Gianna all mean God is gracious. Hananiah has the same meaning and is built from the same Hebrew words in a different order.
 
-> 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
+### Are Anna and Hannah the same name?
 
-## References
+Yes. Hannah is the Hebrew original, meaning grace or favor. Anna is the form the name took in Greek and Latin, and Anne is the French and English form.
 
-- Nameberry (2026). "Baby Names Meaning Beautiful." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-beautiful)
-- Behind the Name (2026). "Names with Meaning Containing Grace." [behindthename.com](https://www.behindthename.com/names/meaning/grace)
-- BabyCenter (2026). "Graceful Baby Names." [babycenter.com](https://www.babycenter.com/baby-names)
+## Sources
+
+- Behind the Name. [Name etymologies and histories](https://www.behindthename.com/).
+- Oxford University Press. *A Dictionary of First Names* (Hanks, Hardcastle, and Hodges).
+- U.S. Social Security Administration. [Popular Baby Names](https://www.ssa.gov/oact/babynames/).
 
 <script type="application/ld+json">
 {
@@ -109,10 +145,10 @@ Amari, meaning eternal and beautiful, works beautifully for any gender. Rumi, a 
     {
       "@type": "BlogPosting",
       "@id": "https://baby.chparenting.com/blog/names-meaning-grace/#article",
-      "headline": "35 Baby Names That Mean Grace or Beautiful",
-      "description": "Browse 35 elegant baby names that mean grace or beautiful for boys, girls, and unisex options. Discover graceful names with origins, meanings, and trending picks.",
-      "datePublished": "2026-05-17T00:00:00Z",
-      "dateModified": "2026-05-17T00:00:00Z",
+      "headline": "50 Baby Names Meaning Grace (Girls, Boys & Unisex)",
+      "description": "50 baby names meaning grace for girls, boys, and unisex options, from Hannah and Anna to John, Sean, and Gianna, with origins, meanings, and pronunciation.",
+      "datePublished": "2026-04-17T00:00:00+08:00",
+      "dateModified": "2026-09-28T00:00:00+08:00",
       "author": {
         "@id": "https://baby.chparenting.com/author/vega-lin/#person"
       },
@@ -121,7 +157,7 @@ Amari, meaning eternal and beautiful, works beautifully for any gender. Rumi, a 
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://images.pexels.com/photos/3662770/pexels-photo-3662770.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "url": "https://baby.chparenting.com/images/names/names-meaning-grace.jpg",
         "width": 1200,
         "height": 630
       },
@@ -129,9 +165,16 @@ Amari, meaning eternal and beautiful, works beautifully for any gender. Rumi, a 
         "@type": "WebPage",
         "@id": "https://baby.chparenting.com/blog/names-meaning-grace/"
       },
-      "wordCount": 1900,
+      "wordCount": 1466,
       "articleSection": "Names",
-      "keywords": ["baby names", "names meaning grace", "beautiful baby names", "elegant names"],
+      "keywords": [
+        "baby names",
+        "names meaning grace",
+        "names meaning gracious",
+        "elegant names",
+        "boy names",
+        "girl names"
+      ],
       "inLanguage": "en-US"
     },
     {
@@ -163,23 +206,31 @@ Amari, meaning eternal and beautiful, works beautifully for any gender. Rumi, a 
           "name": "What girl name means grace?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Grace itself is the most direct and popular option. Hannah means grace and favor in Hebrew and has been a top name for decades. Annika is a Swedish name meaning grace and sweet-faced. Arabella carries graceful overtones from its Latin roots. Each offers a different style while sharing the same beautiful meaning."
+            "text": "Grace is the most direct choice. Hannah and its many forms, including Anna, Anne, Anya, and Annika, come from the Hebrew word for grace. Charis is the Greek word for grace, and Amara means grace in Igbo."
           }
         },
         {
           "@type": "Question",
-          "name": "What boy name means beautiful?",
+          "name": "What boy name means grace?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Beau is a French name meaning beautiful and handsome that has become increasingly popular. Jamal is an Arabic name meaning beauty and grace. Adonis, from Greek mythology, means extremely handsome. Keanu is a Hawaiian name meaning graceful one that gained fame through popular culture."
+            "text": "John means God is gracious, and so do all of its forms: Jack, Ian, Sean, Evan, Ivan, Juan, and Giovanni. Milan and Miloš come from a Slavic word meaning gracious or dear."
           }
         },
         {
           "@type": "Question",
-          "name": "What are elegant unisex names?",
+          "name": "What name means God is gracious?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Amari, meaning eternal and beautiful, works beautifully for any gender. Rumi, a Japanese name meaning beauty and flow, has a poetic quality. Milan, from Slavic origins meaning gracious, sounds refined for both boys and girls. Noor, meaning light and beauty in Arabic, carries a luminous elegance."
+            "text": "John and its feminine forms Jane, Joanna, and Gianna all mean God is gracious. Hananiah has the same meaning and is built from the same Hebrew words in a different order."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are Anna and Hannah the same name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Hannah is the Hebrew original, meaning grace or favor. Anna is the form the name took in Greek and Latin, and Anne is the French and English form."
           }
         }
       ]
@@ -188,9 +239,24 @@ Amari, meaning eternal and beautiful, works beautifully for any gender. Rumi, a 
       "@type": "BreadcrumbList",
       "@id": "https://baby.chparenting.com/blog/names-meaning-grace/#breadcrumb",
       "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://baby.chparenting.com"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://baby.chparenting.com/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "35 Baby Names That Mean Grace or Beautiful", "item": "https://baby.chparenting.com/blog/names-meaning-grace/"}
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://baby.chparenting.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://baby.chparenting.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "50 Baby Names Meaning Grace (Girls, Boys & Unisex)",
+          "item": "https://baby.chparenting.com/blog/names-meaning-grace/"
+        }
       ]
     }
   ]

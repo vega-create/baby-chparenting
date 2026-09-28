@@ -76,7 +76,7 @@ def render(p):
     words = len(md_body.split())
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "BlogPosting", "@id": url + "#article", "headline": p["title"], "description": p["description"],
-         "datePublished": p["date"] + "T00:00:00+08:00", "dateModified": p["date"] + "T00:00:00+08:00",
+         "datePublished": p["date"] + "T00:00:00+08:00", "dateModified": p.get("reviewed", p["date"]) + "T00:00:00+08:00",
          "author": {"@id": SITE + "/author/vega-lin/#person"}, "publisher": {"@id": SITE + "/#organization"},
          "image": {"@type": "ImageObject", "url": SITE + img, "width": W, "height": H},
          "mainEntityOfPage": {"@type": "WebPage", "@id": url}, "wordCount": words, "articleSection": "Names",
@@ -93,7 +93,7 @@ def render(p):
             {"@type": "ListItem", "position": 2, "name": "Blog", "item": SITE + "/blog/"},
             {"@type": "ListItem", "position": 3, "name": p["title"], "item": url}]}]}
     fm = "\n".join(["---", f'title: {json.dumps(p["title"])}', f'description: {json.dumps(p["description"])}',
-        f'publishDate: {p["date"]}', f'slug: "{p["slug"]}"', 'category: "names"', f'tags: {json.dumps(p["tags"])}',
+        f'publishDate: {p["date"]}'] + ([f'lastReviewed: {p["reviewed"]}'] if p.get("reviewed") else []) + [f'slug: "{p["slug"]}"', 'category: "names"', f'tags: {json.dumps(p["tags"])}',
         'author: "Vega Lin"', f'authorUrl: "{SITE}/author/vega-lin/"', f'image: "{img}"', "draft: false", "---"])
     md = fm + "\n\n" + md_body + "\n\n" + '<script type="application/ld+json">\n' + json.dumps(ld, indent=2, ensure_ascii=False) + "\n</script>\n"
     open(os.path.join(ROOT, "src/content/blog", p["slug"] + ".md"), "w").write(md)

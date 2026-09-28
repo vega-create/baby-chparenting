@@ -2,7 +2,7 @@
 title: "45 Baby Names That Mean Brave or Courageous"
 description: "Find 45 bold baby names that mean brave or courageous for boys, girls, and unisex options. Explore fearless names with origins, meanings, and trending picks."
 publishDate: 2026-04-16
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "names-meaning-brave"
 category: "names"
 tags: ["baby names", "names meaning brave", "courageous baby names", "fearless names", "boy names", "girl names"]
@@ -26,67 +26,67 @@ Celtic bravery names have a particularly rich heritage --- discover more in our 
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Richard | Boy | German | "Brave ruler, powerful leader" |
-| Leonard | Boy | German | "Brave lion, lion-hearted" |
-| Bernard | Boy | German | "Strong, brave as a bear" |
-| Everett | Boy | English | "Brave as a wild boar, enduring" |
-| Harvey | Boy | French | "Battle worthy, blazing and brave" |
-| Conrad | Boy | German | "Bold counsel, brave advisor" |
-| Willard | Boy | German | "Resolute and brave" |
-| Reynard | Boy | German | "Brave counsel, strong decision" |
-| Howard | Boy | English | "Brave heart, high guardian" |
-| Hardy | Boy | German | "Brave, bold, daring" |
-| Koa | Boy | Hawaiian | "Brave one, fearless warrior" |
-| Baldric | Boy | German | "Bold ruler, brave prince" |
-| Archibald | Boy | German | "Truly brave, genuinely bold" |
-| Leopold | Boy | German | "Bold people, brave nation" |
-| Balder | Boy | Norse | "Bold, brave, princely" |
-| Wyatt | Boy | English | "Brave in war, hardy fighter" |
-| Cedric | Boy | English | "Bounty, war leader, brave chief" |
-| Dustin | Boy | Norse | "Brave warrior, valiant fighter" |
+| Richard | Boy | Germanic | "Brave ruler" |
+| Leonard | Boy | Germanic | "Brave as a lion" |
+| Bernard | Boy | Germanic | "Brave as a bear" |
+| Everett | Boy | English, from Germanic | "Brave as a wild boar" |
+| Harvey | Boy | Breton, via French | "Battle worthy" |
+| Conrad | Boy | Germanic | "Bold counsel" |
+| Willard | Boy | Germanic | "Resolute and brave" |
+| Reynard | Boy | Germanic | "Strong, brave counsel" |
+| Howard | Boy | English | "Uncertain; possibly 'brave heart' or 'high guardian'" |
+| Hardy | Boy | Germanic | "Bold, brave" |
+| Koa | Boy | Hawaiian | "Brave, bold; also the koa tree" |
+| Baldric | Boy | Germanic | "Bold ruler" |
+| Archibald | Boy | Germanic | "Genuine and bold" |
+| Leopold | Boy | Germanic | "Bold people" |
+| Balder | Boy | Norse | "Possibly 'brave' or 'lord'; the Norse god of light" |
+| Wyatt | Boy | English | "Brave in war" |
+| Andrew | Boy | Greek | "Manly, brave" |
+| Gerard | Boy | Germanic | "Brave with the spear" |
 
 ## Girl Names That Mean Brave or Courageous
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Valerie | Girl | Latin | "Strong, brave, healthy" |
-| Andrea | Girl | Greek | "Brave, courageous, womanly" |
-| Bernadette | Girl | French | "Brave as a bear" |
-| Matilda | Girl | German | "Mighty in battle, brave warrior" |
-| Trudy | Girl | German | "Strength of the spear, brave" |
-| Maia | Girl | Greek | "Brave, great mother" |
-| Brielle | Girl | French | "God is my strength, brave" |
-| Valentina | Girl | Latin | "Brave, strong, vigorous" |
-| Leona | Girl | Latin | "Lioness, brave one" |
-| Moxie | Girl | English | "Aggressive energy, bold courage" |
-| Geraldine | Girl | German | "Ruler with the spear, brave" |
-| Bria | Girl | Irish | "Noble, strong, brave" |
-| Fernanda | Girl | Spanish | "Brave voyager, adventurous" |
-| Millicent | Girl | German | "Strong in work, brave industrious" |
-| Sharya | Girl | Sanskrit | "Brave, heroic, courageous" |
-| Tyra | Girl | Scandinavian | "Thor's warrior, brave battler" |
-| Kiera | Girl | Irish | "Dark-haired, brave one" |
+| Valerie | Girl | Latin | "Strong, vigorous; from the Latin root of 'valor'" |
+| Andrea | Girl | Greek | "Feminine form of Andrew, 'manly, brave'" |
+| Bernadette | Girl | French | "Feminine form of Bernard, 'brave as a bear'" |
+| Matilda | Girl | Germanic | "Mighty in battle" |
+| Trudy | Girl | Germanic | "Short form of Gertrude, 'strength of the spear'" |
+| Veera | Girl | Sanskrit | "Brave, heroic" |
+| Valencia | Girl | Latin, via Spanish | "Strength, valor" |
+| Valentina | Girl | Latin | "Strong, vigorous" |
+| Leona | Girl | Latin | "Lioness, a symbol of courage" |
+| Moxie | Girl | American English | "Nerve, courage, determination" |
+| Richelle | Girl | French | "Feminine form of Richard, 'brave ruler'" |
+| Abhaya | Girl | Sanskrit | "Fearless" |
+| Fernanda | Girl | Germanic, via Spanish | "Bold voyager" |
+| Basila | Girl | Arabic | "Brave" |
+| Bernardine | Girl | French | "Feminine form of Bernard, 'brave as a bear'" |
+| Andrina | Girl | Scottish | "Feminine form of Andrew, 'brave'" |
+| Leonarda | Girl | Italian | "Feminine form of Leonard, 'brave as a lion'" |
 
 ## Unisex Names That Mean Brave
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Casey | Unisex | Irish | "Brave, vigilant, watchful" |
-| Riley | Unisex | Irish | "Courageous, valiant" |
-| Emery | Unisex | German | "Brave, powerful ruler" |
-| Valor | Unisex | Latin | "Bravery, courage, worth" |
-| Phoenix | Unisex | Greek | "Reborn from fire, brave rebirth" |
-| Bailey | Unisex | English | "Brave, able, steward" |
-| Drew | Unisex | Greek | "Strong, brave, courageous" |
-| Harley | Unisex | English | "From the hare meadow, brave spirit" |
-| Jesse | Unisex | Hebrew | "Gift, wealthy, brave" |
-| Tierney | Unisex | Irish | "Lord, chief, brave noble" |
+| Jasiri | Unisex | Swahili | "Brave, bold" |
+| Riley | Unisex | Irish / English | "Often given as 'valiant' from Irish; also English 'rye clearing'" |
+| Courage | Unisex | English | "Bravery" |
+| Valor | Unisex | Latin | "Bravery, courage" |
+| Yong | Unisex | Chinese / Korean | "'Brave' when written 勇" |
+| Kekoa | Boy | Hawaiian | "The brave one, the warrior" |
+| Drew | Unisex | Greek | "Short form of Andrew, 'manly, brave'" |
+| Shaurya | Unisex | Sanskrit | "Bravery, valor" |
+| Andy | Unisex | English | "Short form of Andrew or Andrea, 'brave'" |
+| Ari | Unisex | Hebrew | "Lion, a symbol of courage" |
 
-> 💡 **Tip: Trending Picks** — Koa, Valor, Brielle, and Wyatt are making waves on 2026 baby name charts. These names feel fresh and bold while carrying deep roots in the language of courage, perfect for parents who want a name that stands out.
+> 💡 **Tip: Modern-Sounding Picks** — Koa, Valor, and Wyatt feel fresh while carrying deep roots in the language of courage. If you want the meaning without the boldness, Andrew, Drew, and Andrea all come from the Greek word for brave.
 
 ## Pairing Brave Names with Middle Names
 
-A courage-themed first name pairs well with softer or nature-inspired middle names to create a balanced full name. For example, Valor James, Brielle Rose, or Koa Alexander all flow naturally. Think about syllable count and how the names sound together when spoken aloud.
+A courage-themed first name pairs well with softer or nature-inspired middle names to create a balanced full name. For example, Valor James, Valencia Rose, or Koa Alexander all flow naturally. Think about syllable count and how the names sound together when spoken aloud.
 
 Browse additional combinations with our [Baby Name Generator](/tools/name-generator/) or track what other parents are choosing on our [Name Trends](/tools/name-trends/) page.
 
@@ -94,15 +94,15 @@ Browse additional combinations with our [Baby Name Generator](/tools/name-genera
 
 ### What boy name means brave?
 
-Several boy names carry the meaning of brave. Richard is a classic German name meaning brave ruler. Leonard means brave lion. Koa is a Hawaiian name meaning brave one that has been rising in popularity. Wyatt, Everett, and Conrad also carry courage-based meanings from English and German origins.
+Several boy names carry the meaning of brave. Richard is a classic Germanic name meaning brave ruler. Leonard means brave as a lion. Koa is a Hawaiian name meaning brave one that has been rising in popularity. Wyatt, Everett, and Conrad also carry courage-based meanings from English and German origins.
 
 ### What girl name means courageous?
 
-Valentina, from Latin, means brave, strong, and vigorous. Matilda is a German name meaning mighty in battle. Leona, meaning lioness, conveys natural bravery. For something more modern, Brielle and Moxie both carry bold, courageous energy.
+Andrea is the feminine form of Andrew, from the Greek word for brave. Bernadette means brave as a bear, and Veera comes from the Sanskrit word for brave or heroic. Valentina and Valerie share the Latin root of the word valor, and Matilda means mighty in battle.
 
 ### What is a unisex name meaning brave?
 
-Valor is a direct Latin word-name meaning bravery and courage that works for any gender. Emery, meaning brave and powerful, is another popular unisex option. Casey from Irish means brave and vigilant, and Riley means courageous and valiant.
+Valor is a word-name meaning bravery and courage that works for any gender. Drew is a short form of Andrew, meaning brave. Jasiri means brave in Swahili, Shaurya means bravery in Sanskrit, and Riley is often given the meaning valiant.
 
 > 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
 
@@ -173,7 +173,7 @@ Valor is a direct Latin word-name meaning bravery and courage that works for any
           "name": "What boy name means brave?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Several boy names carry the meaning of brave. Richard is a classic German name meaning brave ruler. Leonard means brave lion. Koa is a Hawaiian name meaning brave one that has been rising in popularity. Wyatt, Everett, and Conrad also carry courage-based meanings from English and German origins."
+            "text": "Several boy names carry the meaning of brave. Richard is a classic Germanic name meaning brave ruler. Leonard means brave as a lion. Koa is a Hawaiian name meaning brave one that has been rising in popularity. Wyatt, Everett, and Conrad also carry courage-based meanings from English and German origins."
           }
         },
         {
@@ -181,7 +181,7 @@ Valor is a direct Latin word-name meaning bravery and courage that works for any
           "name": "What girl name means courageous?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Valentina, from Latin, means brave, strong, and vigorous. Matilda is a German name meaning mighty in battle. Leona, meaning lioness, conveys natural bravery. For something more modern, Brielle and Moxie both carry bold, courageous energy."
+            "text": "Andrea is the feminine form of Andrew, from the Greek word for brave. Bernadette means brave as a bear, and Veera comes from the Sanskrit word for brave or heroic. Valentina and Valerie share the Latin root of the word valor, and Matilda means mighty in battle."
           }
         },
         {
@@ -189,7 +189,7 @@ Valor is a direct Latin word-name meaning bravery and courage that works for any
           "name": "What is a unisex name meaning brave?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Valor is a direct Latin word-name meaning bravery and courage that works for any gender. Emery, meaning brave and powerful, is another popular unisex option. Casey from Irish means brave and vigilant, and Riley means courageous and valiant."
+            "text": "Valor is a word-name meaning bravery and courage that works for any gender. Drew is a short form of Andrew, meaning brave. Jasiri means brave in Swahili, Shaurya means bravery in Sanskrit, and Riley is often given the meaning valiant."
           }
         }
       ]

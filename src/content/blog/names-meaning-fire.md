@@ -2,7 +2,7 @@
 title: "35 Baby Names That Mean Fire or Flame"
 description: "Discover 35 fiery baby names that mean fire or flame for boys, girls, and unisex options. Explore blazing names with origins, meanings, and trending picks."
 publishDate: 2026-04-26
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "names-meaning-fire"
 category: "names"
 tags: ["baby names", "names meaning fire", "flame baby names", "fiery names", "boy names", "girl names"]
@@ -26,51 +26,51 @@ The Irish name Aiden, meaning "little fire," is one of the most popular --- disc
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Aiden | Boy | Irish | "Little fire, fiery one" |
-| Ignatius | Boy | Latin | "Fiery one, ardent, burning" |
-| Kenneth | Boy | Scottish | "Born of fire, handsome" |
-| Blaze | Boy | English | "Flame, fire, inferno" |
-| Tyson | Boy | French | "Firebrand, high-spirited" |
-| Vulcan | Boy | Latin | "God of fire, forge master" |
-| Agni | Boy | Sanskrit | "Fire, god of fire" |
-| Egan | Boy | Irish | "Little fire, ardent" |
-| Fintan | Boy | Irish | "White fire, white bull" |
-| Brenton | Boy | English | "Fire town, flame settlement" |
-| Hagan | Boy | Irish | "Little fire, young one" |
-| Keegan | Boy | Irish | "Son of fire, small and fiery" |
-| Conleth | Boy | Irish | "Chaste fire, pure flame" |
-| Hayden | Boy | English | "Fire, heather-grown hill" |
+| Aiden | Boy | Irish | "Little fire; from the Irish name Aodhán" |
+| Ignatius | Boy | Latin | "From a Roman family name; long associated with Latin ignis, 'fire'" |
+| Kenneth | Boy | Scottish | "From two Gaelic names meaning 'born of fire' and 'handsome'" |
+| Blaze | Boy | English | "Flame" |
+| Tyson | Boy | English, from French | "Firebrand" |
+| Vulcan | Boy | Latin | "The Roman god of fire and the forge" |
+| Agni | Boy | Sanskrit | "Fire; the Hindu god of fire" |
+| Egan | Boy | Irish | "Little fire" |
+| Fintan | Boy | Irish | "Possibly 'white fire' or 'white bull'" |
+| Brenton | Boy | English | "Bryni's town; the Old English name Bryni means 'flame'" |
+| Hagan | Boy | Irish | "From Irish surnames meaning 'little fire' or 'young'" |
+| Keegan | Boy | Irish | "Son of Egan, 'little fire'" |
+| Conleth | Boy | Irish | "Possibly 'chaste fire'" |
+| Aodh | Boy | Irish | "Fire; the root of Aidan, Egan, and Keegan" |
 
 ## Girl Names That Mean Fire or Flame
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Seraphina | Girl | Hebrew | "Fiery ones, burning angel" |
-| Bridget | Girl | Irish | "Exalted one, goddess of fire" |
-| Fiamma | Girl | Italian | "Flame, little fire" |
-| Calida | Girl | Spanish | "Warm, ardent, fiery" |
-| Enya | Girl | Irish | "Little fire, kernel, seed" |
-| Pele | Girl | Hawaiian | "Goddess of fire and volcanoes" |
-| Soleil | Girl | French | "Sun, blazing fire in the sky" |
-| Adara | Girl | Hebrew | "Fire, noble, exalted" |
-| Kalama | Girl | Hawaiian | "Flaming torch, burning brightly" |
-| Anala | Girl | Hindi | "Fire, fiery, burning" |
-| Hestia | Girl | Greek | "Goddess of the hearth, hearth fire" |
-| Edana | Girl | Irish | "Little fire, fiery woman" |
+| Seraphina | Girl | Hebrew | "From the seraphim, 'the burning ones'" |
+| Bridget | Girl | Irish | "Exalted one; the Irish goddess of fire and poetry" |
+| Fiamma | Girl | Italian | "Flame" |
+| Calida | Girl | Spanish | "Warm" |
+| Tanwen | Girl | Welsh | "White fire, holy fire" |
+| Pele | Girl | Hawaiian | "The Hawaiian goddess of fire and volcanoes" |
+| Azar | Girl | Persian | "Fire" |
+| Iskra | Girl | Slavic | "Spark" |
+| Kalama | Girl | Hawaiian | "The torch" |
+| Anala | Girl | Sanskrit | "Fire" |
+| Hestia | Girl | Greek | "Hearth, fireside; the Greek goddess of the hearth" |
+| Edana | Girl | Irish | "Feminine form of Aidan, 'little fire'" |
 
 ## Unisex Names That Mean Fire or Flame
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Ember | Unisex | English | "Glowing coal, spark, smoldering fire" |
-| Phoenix | Unisex | Greek | "Dark red, mythical bird reborn from fire" |
-| Ash | Unisex | English | "Ash tree, remains of fire" |
-| Kindle | Unisex | English | "To set alight, to inspire, to ignite" |
-| Blaine | Unisex | Irish | "Slender, yellow, flame" |
-| Aidan | Unisex | Irish | "Little fire, fiery spirit" |
-| Flannery | Unisex | Irish | "Red valor, fiery courage" |
-| Kiran | Unisex | Sanskrit | "Ray of light, beam of fire" |
-| Rory | Unisex | Irish | "Red king, fiery ruler" |
+| Ember | Unisex | English | "A glowing coal" |
+| Phoenix | Unisex | Greek | "Dark red; the mythical bird reborn from fire" |
+| Ash | Unisex | English | "The ash tree; also what remains after a fire" |
+| Kindle | Unisex | English | "To set alight" |
+| Flint | Boy | English | "A hard stone used to strike a spark" |
+| Aidan | Unisex | Irish | "Little fire; from the Irish name Aodhán" |
+| Brant | Boy | Germanic | "Firebrand, sword" |
+| Shula | Girl | Arabic | "Flame" |
+| Plamen | Boy | Bulgarian | "Flame" |
 
 > 💡 **Tip: Trending Picks** — Ember, Seraphina, Aiden, and Phoenix are the fire-themed names burning brightest on 2026 charts. They capture the elemental power of fire while remaining wearable and modern, making them ideal for parents seeking names with both heat and heart.
 
@@ -88,11 +88,11 @@ Aiden is the most popular boy name meaning fire, coming from the Irish word for 
 
 ### What girl name means fire or flame?
 
-Seraphina means fiery ones in Hebrew and refers to the burning angels in biblical tradition. Bridget is an Irish name associated with the goddess of fire. Enya means little fire. Fiamma is the Italian word for flame used as a name. Pele is the Hawaiian goddess of fire and volcanoes.
+Seraphina means fiery ones in Hebrew and refers to the burning angels in biblical tradition. Bridget is an Irish name associated with the goddess of fire. Tanwen is a Welsh name meaning white fire. Fiamma is the Italian word for flame used as a name. Pele is the Hawaiian goddess of fire and volcanoes.
 
 ### What are gentle fire names for babies?
 
-Ember is a soft, warm name meaning a glowing coal — it suggests warmth without intensity. Kiran means ray of light in Sanskrit, carrying a gentle fire connection. Edana means little fire in Irish with a feminine, delicate sound. Soleil, meaning sun in French, evokes the warmth of fire without the harshness.
+Ember is a soft, warm name meaning a glowing coal — it suggests warmth without intensity. Iskra means spark in several Slavic languages. Edana means little fire in Irish with a feminine, delicate sound. Calida, from the Spanish word for warm, suggests heat without the blaze.
 
 > 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
 
@@ -171,7 +171,7 @@ Ember is a soft, warm name meaning a glowing coal — it suggests warmth without
           "name": "What girl name means fire or flame?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Seraphina means fiery ones in Hebrew and refers to the burning angels in biblical tradition. Bridget is an Irish name associated with the goddess of fire. Enya means little fire. Fiamma is the Italian word for flame used as a name. Pele is the Hawaiian goddess of fire and volcanoes."
+            "text": "Seraphina means fiery ones in Hebrew and refers to the burning angels in biblical tradition. Bridget is an Irish name associated with the goddess of fire. Tanwen is a Welsh name meaning white fire. Fiamma is the Italian word for flame used as a name. Pele is the Hawaiian goddess of fire and volcanoes."
           }
         },
         {
@@ -179,7 +179,7 @@ Ember is a soft, warm name meaning a glowing coal — it suggests warmth without
           "name": "What are gentle fire names for babies?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ember is a soft, warm name meaning a glowing coal — it suggests warmth without intensity. Kiran means ray of light in Sanskrit, carrying a gentle fire connection. Edana means little fire in Irish with a feminine, delicate sound. Soleil, meaning sun in French, evokes the warmth of fire without the harshness."
+            "text": "Ember is a soft, warm name meaning a glowing coal — it suggests warmth without intensity. Iskra means spark in several Slavic languages. Edana means little fire in Irish with a feminine, delicate sound. Calida, from the Spanish word for warm, suggests heat without the blaze."
           }
         }
       ]
