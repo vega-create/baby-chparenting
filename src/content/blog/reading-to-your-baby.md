@@ -99,7 +99,6 @@ Of everything you can do for a baby's development, reading aloud has the best ef
 
 ## References
 
-- American Academy of Pediatrics — HealthyChildren.org (2024). "[Reading With Your Child from Birth](https://www.healthychildren.org/English/ages-stages/baby/Pages/Reading-to-babies.aspx)."
 - Reach Out and Read (2024). "[The Evidence: Why Reading Aloud Matters](https://reachoutandread.org/why-we-matter/the-evidence/)."
 - Ohio State University (2019). "[A 'Million Word Gap' for Children Who Aren't Read to at Home](https://news.osu.edu/a-million-word-gap-for-children-who-arent-read-to-at-home/)."
 

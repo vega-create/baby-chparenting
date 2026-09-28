@@ -285,7 +285,6 @@ Yes — pick your battles thoughtfully. Don't reverse a "no" to escape a tantrum
 
 ## References
 
-- American Academy of Pediatrics. (2024). [Temper Tantrums](https://www.healthychildren.org/English/ages-stages/toddler/Pages/Temper-Tantrums.aspx). HealthyChildren.org.
 - Centers for Disease Control and Prevention. (2024). [Positive Parenting Tips for Toddlers](https://www.cdc.gov/ncbddd/childdevelopment/positiveparenting/toddlers.html). CDC.
 - American Academy of Pediatrics. (2023). [How to Shape and Manage Your Young Child's Behavior](https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/How-to-Shape-Manage-Young-Child-Behavior.aspx). HealthyChildren.org.
 - Mayo Clinic. (2024). [Temper Tantrums in Toddlers: How to Keep the Peace](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/tantrum/art-20047845). Mayo Clinic.

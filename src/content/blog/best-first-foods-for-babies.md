@@ -283,4 +283,3 @@ Gagging is a normal protective reflex that helps babies learn to manage food in 
 - Du Toit, G., et al. (2015). [Randomized Trial of Peanut Consumption in Infants at Risk for Peanut Allergy](https://www.nejm.org/doi/full/10.1056/NEJMoa1414850). New England Journal of Medicine, 372, 803-813.
 - Mayo Clinic. (2024). [Solid foods: How to get your baby started](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20046200). Mayo Clinic.
 - National Institutes of Health. (2024). [Iron: Fact Sheet for Health Professionals](https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/). NIH Office of Dietary Supplements.
-- U.S. Food & Drug Administration. (2024). [Metals and Your Food](https://www.fda.gov/food/metals-and-your-food). FDA.

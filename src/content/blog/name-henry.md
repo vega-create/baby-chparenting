@@ -174,7 +174,6 @@ Yes, Henry currently ranks in the US top 10 for boy names, having climbed steadi
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)
-- BabyCenter (2025). "Henry: Baby Name Meaning, Origin, and Popularity." [babycenter.com](https://www.babycenter.com/baby-names/henry)
 - Nameberry (2025). "Henry: Name Meaning, Popularity, and Similar Names." [nameberry.com](https://nameberry.com/babyname/henry)
 - Behind the Name (2025). "Henry." [behindthename.com](https://www.behindthename.com/name/henry)
 

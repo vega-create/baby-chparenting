@@ -131,7 +131,6 @@ Trust your instincts. You know your baby's normal fussy from their "something's 
 - American Academy of Pediatrics (2024). "[Teething: 4 to 7 Months](https://www.healthychildren.org/English/ages-stages/baby/teething-tooth-care/Pages/Teething-4-to-7-Months.aspx)." HealthyChildren.org.
 - U.S. Food & Drug Administration (2023). "[Safely Soothing Teething Pain and Sensory Needs in Babies and Older Children](https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-and-sensory-needs-babies-and-older-children)."
 - Macknin, M. L., et al. (2000). "[Symptoms Associated With Infant Teething: A Prospective Study](https://publications.aap.org/pediatrics/article/105/4/747/62332)." Pediatrics.
-- American Dental Association (2024). "[Baby Teeth & Teething](https://www.mouthhealthy.org/en/babies-and-kids/)." MouthHealthy.org.
 
 <script type="application/ld+json">
 {

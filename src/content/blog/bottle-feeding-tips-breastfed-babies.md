@@ -280,5 +280,4 @@ This depends on how long you will be away. Most babies at daycare take 3 to 4 bo
 - American Academy of Pediatrics. (2022). [Breastfeeding and the Use of Human Milk](https://publications.aap.org/pediatrics/article/150/1/e2022057988/188347/Breastfeeding-and-the-Use-of-Human-Milk). *Pediatrics*, 150(1).
 - World Health Organization. (2023). [Breastfeeding](https://www.who.int/health-topics/breastfeeding).
 - Centers for Disease Control and Prevention. (2023). [Proper Storage and Preparation of Breast Milk](https://www.cdc.gov/breastfeeding/recommendations/handling_breastmilk.htm).
-- La Leche League International. (2023). [Introducing a Bottle to a Breastfed Baby](https://lllusa.org/introducing-a-bottle-to-a-breastfed-baby/).
 - Mayo Clinic. (2023). [Breast Milk Storage: Do's and Don'ts](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/breast-milk-storage/art-20046350).

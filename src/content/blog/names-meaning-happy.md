@@ -103,7 +103,6 @@ Yes, many cultures have beautiful happy names. Sachiko and Keiko come from Japan
 
 ## References
 
-- Nameberry (2026). "Baby Names Meaning Happy." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-happy)
 - Behind the Name (2026). "Names with Meaning Containing Happy." [behindthename.com](https://www.behindthename.com/names/meaning/happy)
 - BabyCenter (2026). "Happy and Blessed Baby Names." [babycenter.com](https://www.babycenter.com/baby-names)
 

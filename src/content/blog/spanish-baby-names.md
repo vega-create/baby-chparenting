@@ -113,7 +113,6 @@ Yes, many Spanish-speaking countries have naming regulations, though they vary b
 ## References
 
 - Behind the Name (2026). "Spanish Names." [behindthename.com](https://www.behindthename.com/names/usage/spanish)
-- Nameberry (2026). "Spanish Baby Names." [nameberry.com](https://www.nameberry.com/list/spanish-baby-names)
 - Instituto Nacional de Estadística (2025). "Nombres Más Frecuentes." [ine.es](https://www.ine.es)
 - Social Security Administration (2025). "Popular Baby Names." [ssa.gov](https://www.ssa.gov/oact/babynames/)
 

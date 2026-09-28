@@ -124,10 +124,8 @@ A little prevention — frequent changes and daily air time — keeps most rashe
 
 ## References
 
-- American Academy of Dermatology (2024). "[Diaper Rash: How to Treat](https://www.aad.org/public/everyday-care/skin-care-basics/dry/treat-diaper-rash)."
 - American Academy of Pediatrics (2024). "[Diaper Rash](https://www.healthychildren.org/English/ages-stages/baby/diapers-clothing/Pages/Diaper-Rash.aspx)." HealthyChildren.org.
 - Mayo Clinic (2024). "[Diaper Rash: Symptoms & Causes](https://www.mayoclinic.org/diseases-conditions/diaper-rash/symptoms-causes/syc-20371636)."
-- NHS (2024). "[Nappy Rash](https://www.nhs.uk/conditions/nappy-rash/)."
 
 <script type="application/ld+json">
 {

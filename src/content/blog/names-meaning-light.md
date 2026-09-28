@@ -103,7 +103,6 @@ For parents seeking rarer options, Hikari is a beautiful Japanese name meaning r
 
 ## References
 
-- Nameberry (2026). "Baby Names That Mean Light." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-light)
 - Behind the Name (2026). "Names with Meaning Containing Light." [behindthename.com](https://www.behindthename.com/names/meaning/light)
 - BabyCenter (2026). "Light-Inspired Baby Names." [babycenter.com](https://www.babycenter.com/baby-names)
 

@@ -98,7 +98,6 @@ Yes, water and ocean names are among the fastest-growing categories in baby nami
 
 ## References
 
-- Nameberry (2026). "Baby Names Meaning Water." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-water)
 - Behind the Name (2026). "Names with Meaning Containing Sea." [behindthename.com](https://www.behindthename.com/names/meaning/sea)
 - BabyCenter (2026). "Ocean-Inspired Baby Names." [babycenter.com](https://www.babycenter.com/baby-names)
 

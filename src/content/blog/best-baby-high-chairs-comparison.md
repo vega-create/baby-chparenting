@@ -391,7 +391,6 @@ No, hook-on high chairs are not compatible with all table types. They should not
 ## References
 
 - [Consumer Product Safety Commission (CPSC) - High Chair Safety](https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies/High-Chairs)
-- [ASTM International - F404 Standard Consumer Safety Specification for High Chairs](https://www.astm.org/f0404-22.html)
 - [Juvenile Products Manufacturers Association (JPMA) - Certification Program](https://www.jpma.org/page/certification)
 - [American Academy of Pediatrics - Starting Solid Foods](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx)
 - [Consumer Reports - High Chair Buying Guide](https://www.consumerreports.org/babies-kids/high-chairs/buying-guide/)

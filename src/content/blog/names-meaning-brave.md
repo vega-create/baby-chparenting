@@ -108,7 +108,6 @@ Valor is a word-name meaning bravery and courage that works for any gender. Drew
 
 ## References
 
-- Nameberry (2026). "Baby Names Meaning Brave." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-brave)
 - Behind the Name (2026). "Names with Meaning Containing Brave." [behindthename.com](https://www.behindthename.com/names/meaning/brave)
 - BabyCenter (2026). "Brave and Courageous Baby Names." [babycenter.com](https://www.babycenter.com/baby-names)
 

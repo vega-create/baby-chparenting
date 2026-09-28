@@ -100,8 +100,6 @@ Your baby isn't bothered by it at all — so once you know it's harmless, you ca
 
 ## References
 
-- American Academy of Dermatology (2024). "[Cradle Cap: Overview and Treatment](https://www.aad.org/public/diseases/a-z/cradle-cap-overview)."
-- American Academy of Pediatrics (2024). "[Cradle Cap](https://www.healthychildren.org/English/health-issues/conditions/skin/Pages/Cradle-Cap.aspx)." HealthyChildren.org.
 - Mayo Clinic (2024). "[Cradle Cap: Symptoms & Causes](https://www.mayoclinic.org/diseases-conditions/cradle-cap/symptoms-causes/syc-20350396)."
 - NHS (2024). "[Cradle Cap](https://www.nhs.uk/conditions/cradle-cap/)."
 

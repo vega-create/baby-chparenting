@@ -193,7 +193,6 @@ Absolutely. Sleep training and breastfeeding are not mutually exclusive. You can
 - Gradisar, M., et al. (2016). "Behavioral Interventions for Infant Sleep Problems." *Pediatrics*, 137(6). [pediatrics.aappublications.org](https://publications.aap.org/pediatrics/article/137/6/e20151486/81436)
 - American Academy of Pediatrics (2022). "Safe Sleep Guidelines." [aap.org](https://www.aap.org/en/patient-care/safe-sleep/)
 - Mindell, J.A., et al. (2006). "Behavioral Treatment of Bedtime Problems and Night Wakings in Infants and Young Children." *Sleep*, 29(10). [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep/sleep-training)
-- Healthline (2025). "Sleep Training Methods." [healthline.com](https://www.healthline.com/health/baby/sleep-training)
 - Mayo Clinic (2026). "Baby Sleep Training: Helping Your Infant Sleep Through the Night." [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-sleep/art-20045014)
 
 <script type="application/ld+json">

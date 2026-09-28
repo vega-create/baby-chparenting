@@ -149,7 +149,6 @@ First, lower the crib mattress to its lowest setting. Use a sleep sack to make c
 ## References
 
 - American Academy of Pediatrics. "Healthy Sleep Habits in Toddlers." [https://www.healthychildren.org/English/healthy-living/sleep/Pages/default.aspx](https://www.healthychildren.org/English/healthy-living/sleep/Pages/default.aspx)
-- American Academy of Sleep Medicine. "Recommended Amount of Sleep for Pediatric Populations." [https://aasm.org/recommended-amount-of-sleep-for-pediatric-populations/](https://aasm.org/recommended-amount-of-sleep-for-pediatric-populations/)
 - Centers for Disease Control and Prevention. "Developmental Milestones at 18 Months." [https://www.cdc.gov/ncbddd/actearly/milestones/milestones-18mo.html](https://www.cdc.gov/ncbddd/actearly/milestones/milestones-18mo.html)
 - National Sleep Foundation. "Toddlers and Sleep." [https://www.sleepfoundation.org/children-and-sleep](https://www.sleepfoundation.org/children-and-sleep)
 

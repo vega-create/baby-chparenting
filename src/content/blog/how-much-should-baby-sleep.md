@@ -153,7 +153,6 @@ The ranges provided are guidelines based on population averages. Individual babi
 - National Sleep Foundation (2025). "How Much Sleep Do Babies Need?" [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep)
 - American Academy of Pediatrics (2022). "Recommended Amount of Sleep for Pediatric Populations." [aap.org](https://www.aap.org/en/patient-care/healthy-active-living-for-families/sleep/)
 - Centers for Disease Control and Prevention (2025). "How Much Sleep Do I Need?" [cdc.gov](https://www.cdc.gov/sleep/about/how-much-sleep.html)
-- Healthline (2025). "Baby Sleep Schedule by Age." [healthline.com](https://www.healthline.com/health/baby/baby-sleep-schedule)
 - Mayo Clinic (2026). "How Much Sleep Do Babies Need?" [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/expert-answers/how-much-sleep-does-my-baby-need/faq-20057952)
 
 <script type="application/ld+json">

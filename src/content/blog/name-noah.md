@@ -171,7 +171,6 @@ Strong middle name options for Noah include James, Alexander, Benjamin, William,
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)
-- BabyCenter (2025). "Noah: Baby Name Meaning, Origin, and Popularity." [babycenter.com](https://www.babycenter.com/baby-names/noah)
 - Nameberry (2025). "Noah: Name Meaning, Popularity, and Similar Names." [nameberry.com](https://nameberry.com/babyname/noah)
 - Behind the Name (2025). "Noah." [behindthename.com](https://www.behindthename.com/name/noah)
 

@@ -383,7 +383,6 @@ First, know that it is completely normal and most passengers are understanding. 
 ## References
 
 - [TSA - Traveling with Children](https://www.tsa.gov/travel/special-procedures/traveling-children)
-- [FAA - Child Safety on Airplanes](https://www.faa.gov/travelers/fly_children)
 - [American Academy of Pediatrics - Car Seat Safety](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx)
 - [Consumer Product Safety Commission (CPSC) - Crib Safety](https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies/Cribs)
 - [CDC - Traveling with Infants and Children](https://wwwnc.cdc.gov/travel/page/children)

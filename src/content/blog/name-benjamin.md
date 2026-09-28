@@ -172,7 +172,6 @@ Yes, Benjamin is a significant biblical name. In the Book of Genesis, Benjamin i
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)
-- BabyCenter (2025). "Benjamin: Baby Name Meaning, Origin, and Popularity." [babycenter.com](https://www.babycenter.com/baby-names/benjamin)
 - Nameberry (2025). "Benjamin: Name Meaning, Popularity, and Similar Names." [nameberry.com](https://nameberry.com/babyname/benjamin)
 - Behind the Name (2025). "Benjamin." [behindthename.com](https://www.behindthename.com/name/benjamin)
 

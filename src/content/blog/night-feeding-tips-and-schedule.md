@@ -311,11 +311,9 @@ Your partner can give a pumped bottle for one of the night feeds, allowing you t
 
 ## References
 
-- [American Academy of Pediatrics - Amount and Schedule of Baby Feedings](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Amount-and-Schedule-of-Formula-Feedings.aspx)
 - [American Academy of Pediatrics - Sleep](https://www.healthychildren.org/English/healthy-living/sleep/Pages/default.aspx)
 - [Centers for Disease Control and Prevention - Infant and Toddler Nutrition](https://www.cdc.gov/nutrition/infantandtoddlernutrition/index.html)
 - [World Health Organization - Infant and Young Child Feeding](https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding)
 - [Mayo Clinic - Baby Sleep](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-sleep/art-20045014)
-- [La Leche League International - Nighttime Breastfeeding](https://lllusa.org/breastfeeding-at-night/)
 - [National Institutes of Health - Infant Sleep and Night Feeding Patterns](https://pubmed.ncbi.nlm.nih.gov/)
 - [American Academy of Pediatrics - Safe Sleep](https://www.aap.org/en/patient-care/safe-sleep/)

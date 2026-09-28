@@ -108,7 +108,6 @@ Agape is a Greek name meaning unconditional or divine love, representing the hig
 
 ## References
 
-- Nameberry (2026). "Baby Names Meaning Love." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-love)
 - Behind the Name (2026). "Names with Meaning Containing Love." [behindthename.com](https://www.behindthename.com/names/meaning/love)
 - BabyCenter (2026). "Romantic Baby Names." [babycenter.com](https://www.babycenter.com/baby-names)
 

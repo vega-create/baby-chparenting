@@ -355,6 +355,5 @@ Bilingual language development follows the same timeline as monolingual developm
 - [AAP Policy on Media Use in Children Under 2](https://publications.aap.org/pediatrics/article/138/5/e20162591/60503/Media-and-Young-Minds) - American Academy of Pediatrics
 - [NIDCD: Speech and Language Developmental Milestones](https://www.nidcd.nih.gov/health/speech-and-language) - National Institute on Deafness and Other Communication Disorders
 - [WHO Child Development Indicators](https://www.who.int/tools/child-growth-standards) - World Health Organization
-- [HealthyChildren.org: Language Development](https://www.healthychildren.org/English/ages-stages/baby/Pages/Language-Development-1-Month.aspx) - American Academy of Pediatrics
 - [ASHA: How Does Your Child Hear and Talk?](https://www.asha.org/public/speech/development/) - American Speech-Language-Hearing Association
 - Kuhl, P. K. (2010). Brain Mechanisms in Early Language Acquisition. *Neuron*, 67(5), 713-727.

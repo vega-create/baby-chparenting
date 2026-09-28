@@ -103,7 +103,6 @@ Absolutely. Warrior names are not about violence — they are about strength, re
 
 ## References
 
-- Nameberry (2026). "Baby Names Meaning Warrior." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-warrior)
 - Behind the Name (2026). "Names with Meaning Containing Warrior." [behindthename.com](https://www.behindthename.com/names/meaning/warrior)
 - BabyCenter (2026). "Warrior Baby Names." [babycenter.com](https://www.babycenter.com/baby-names)
 

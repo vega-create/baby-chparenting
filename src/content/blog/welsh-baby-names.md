@@ -106,7 +106,6 @@ While Welsh, Irish, and Scottish names all have Celtic roots, they come from dif
 ## References
 
 - Behind the Name (2026). "Welsh Names." [behindthename.com](https://www.behindthename.com/names/usage/welsh)
-- Nameberry (2026). "Welsh Baby Names." [nameberry.com](https://www.nameberry.com/list/welsh-baby-names)
 - StatsWales (2025). "Baby Names in Wales." [statswales.gov.wales](https://statswales.gov.wales)
 - Welsh Government (2026). "Cymraeg Language Resources." [gov.wales](https://www.gov.wales/welsh-language)
 

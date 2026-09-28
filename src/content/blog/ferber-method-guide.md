@@ -162,7 +162,6 @@ If your baby wakes before 6:00 AM and it's not time for a scheduled feed, treat 
 - Gradisar, M., et al. (2016). "Behavioral Interventions for Infant Sleep Problems." *Pediatrics*, 137(6). [pediatrics.aappublications.org](https://publications.aap.org/pediatrics/article/137/6/e20151486/81436)
 - Price, A.M., et al. (2012). "Five-Year Follow-up of Harms and Benefits of Behavioral Infant Sleep Intervention." *Pediatrics*, 130(4). [pediatrics.aappublications.org](https://publications.aap.org/pediatrics/article/130/4/643/30241)
 - American Academy of Pediatrics (2022). "Infant Sleep." [aap.org](https://www.aap.org/en/patient-care/healthy-active-living-for-families/sleep/)
-- Healthline (2025). "Ferber Method: What It Is and How to Do It." [healthline.com](https://www.healthline.com/health/baby/ferber-method)
 
 <script type="application/ld+json">
 {

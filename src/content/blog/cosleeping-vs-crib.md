@@ -164,7 +164,6 @@ Yes. A bedside bassinet or sidecar-style co-sleeper keeps baby on their own firm
 - American Academy of Pediatrics (2022). "Sleep-Related Infant Deaths: Updated 2022 Recommendations." [aap.org](https://www.aap.org/en/patient-care/safe-sleep/)
 - Centers for Disease Control and Prevention (2025). "Safe Sleep for Babies." [cdc.gov](https://www.cdc.gov/sids/safe-sleep.html)
 - National Institutes of Health (2025). "Safe to Sleep Campaign." [nichd.nih.gov](https://safetosleep.nichd.nih.gov/)
-- Healthline (2025). "Co-Sleeping With Baby: Risks, Benefits, and Safety Tips." [healthline.com](https://www.healthline.com/health/baby/co-sleeping-with-baby)
 - Mayo Clinic (2026). "Co-Sleeping: Is It Safe?" [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/expert-answers/co-sleeping/faq-20058144)
 
 <script type="application/ld+json">

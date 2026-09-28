@@ -329,7 +329,6 @@ Expensive strollers typically offer better materials, smoother rides, longer dur
 ## References
 
 - [CPSC Stroller Safety Information](https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies/Strollers)
-- [ASTM F833 Standard Consumer Safety Specification for Carriages and Strollers](https://www.astm.org/f0833-23.html)
 - [AAP Car Safety Seats: A Guide for Families](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx)
 - [JPMA Certification Program](https://www.jpma.org/page/certification)
 - [Consumer Reports Stroller Buying Guide](https://www.consumerreports.org/babies-kids/strollers/buying-guide/)

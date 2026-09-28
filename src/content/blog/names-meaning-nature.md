@@ -113,7 +113,6 @@ Alder, named after the riverside tree, is a distinctive choice for boys. Azalea,
 
 ## References
 
-- Nameberry (2026). "Nature Baby Names." [nameberry.com](https://www.nameberry.com/list/nature-baby-names)
 - Behind the Name (2026). "Names Related to Nature." [behindthename.com](https://www.behindthename.com/names/tag/nature)
 - BabyCenter (2026). "Nature-Inspired Baby Names." [babycenter.com](https://www.babycenter.com/baby-names)
 

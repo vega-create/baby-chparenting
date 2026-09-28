@@ -149,7 +149,6 @@ Typically no. Once a baby's circadian rhythm is established (usually by 8–12 w
 
 - National Sleep Foundation (2025). "Newborn Sleep Patterns." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep/newborn-sleep)
 - American Academy of Pediatrics (2022). "Sleep and Your Newborn." [aap.org](https://www.aap.org/en/patient-care/healthy-active-living-for-families/sleep/)
-- Healthline (2025). "Day-Night Confusion in Newborns." [healthline.com](https://www.healthline.com/health/baby/day-night-confusion)
 - Mayo Clinic (2026). "Newborn Sleep: Helping Your Baby Through the Night." [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/newborn-sleep/art-20048101)
 - Centers for Disease Control and Prevention (2025). "Infant Sleep." [cdc.gov](https://www.cdc.gov/sleep/about/how-much-sleep.html)
 

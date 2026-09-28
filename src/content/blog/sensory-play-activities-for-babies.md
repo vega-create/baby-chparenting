@@ -364,7 +364,6 @@ Not at all. The best sensory play materials are often things you already have at
 ## References
 
 - [CDC Developmental Milestones](https://www.cdc.gov/ncbddd/actearly/milestones/index.html) - Centers for Disease Control and Prevention
-- [HealthyChildren.org: The Power of Play](https://www.healthychildren.org/English/ages-stages/baby/Pages/The-Power-of-Play-How-Fun-and-Games-Help-Children-Thrive.aspx) - American Academy of Pediatrics
 - [Zero to Three: Play and Learning](https://www.zerotothree.org/resource/play/) - ZERO TO THREE
 - [WHO Guidelines on Physical Activity for Children Under 5](https://www.who.int/publications/i/item/9789241550536) - World Health Organization
 - [NAEYC: Sensory Play](https://www.naeyc.org/our-work/families/sensory-play-not-just-messy) - National Association for the Education of Young Children

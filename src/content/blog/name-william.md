@@ -176,7 +176,6 @@ William has more nickname options than almost any other name: Will (modern and s
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)
-- BabyCenter (2025). "William: Baby Name Meaning, Origin, and Popularity." [babycenter.com](https://www.babycenter.com/baby-names/william)
 - Nameberry (2025). "William: Name Meaning, Popularity, and Similar Names." [nameberry.com](https://nameberry.com/babyname/william)
 - Behind the Name (2025). "William." [behindthename.com](https://www.behindthename.com/name/william)
 

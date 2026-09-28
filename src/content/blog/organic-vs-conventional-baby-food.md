@@ -315,7 +315,6 @@ No. The term "natural" is not regulated for baby food products and does not carr
 
 - Smith-Spangler, C., et al. (2012). [Are Organic Foods Safer or Healthier Than Conventional Alternatives?](https://annals.org/aim/article-abstract/1355685/are-organic-foods-safer-healthier-than-conventional-alternatives-systematic-review). *Annals of Internal Medicine*, 157(5), 348-366.
 - Baranski, M., et al. (2014). [Higher Antioxidant and Lower Cadmium Concentrations in Organically Grown Crops](https://doi.org/10.1017/S0007114514001366). *British Journal of Nutrition*, 112(5), 794-811.
-- U.S. House of Representatives Subcommittee on Economic and Consumer Policy. (2021). [Baby Foods Are Tainted with Dangerous Levels of Arsenic, Lead, Cadmium, and Mercury](https://oversight.house.gov/sites/democrats.oversight.house.gov/files/2021-02-04%20ECP%20Baby%20Food%20Staff%20Report.pdf).
 - U.S. Food and Drug Administration. (2021). [Closer to Zero: Action Plan for Baby Foods](https://www.fda.gov/food/metals-and-your-food/closer-zero-action-plan-baby-foods).
 - Environmental Working Group. (2024). [EWG's Shopper's Guide to Pesticides in Produce](https://www.ewg.org/foodnews/).
 - American Academy of Pediatrics. (2012). [Organic Foods: Health and Environmental Advantages and Disadvantages](https://publications.aap.org/pediatrics/article/130/5/e1406/30225/Organic-Foods-Health-and-Environmental-Advantages). *Pediatrics*, 130(5), e1406-e1415.

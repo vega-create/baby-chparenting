@@ -230,6 +230,5 @@ Yes, especially when you read them together. Interactive features that distract 
 ## References
 
 - American Academy of Pediatrics. (2024). [Media and Children](https://www.healthychildren.org/English/family-life/Media/Pages/default.aspx). HealthyChildren.org.
-- American Academy of Pediatrics. (2023). [Where We Stand: Screen Time](https://www.healthychildren.org/English/family-life/Media/Pages/Where-We-Stand-TV-Viewing-Time.aspx). HealthyChildren.org.
 - Centers for Disease Control and Prevention. (2024). [Screen Time vs. Lean Time](https://www.cdc.gov/nccdphp/dnpao/multimedia/infographics/getmoving.html). CDC.
 - Mayo Clinic. (2024). [Screen Time and Children: How to Guide Your Child](https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/screen-time/art-20047952). Mayo Clinic.

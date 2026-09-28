@@ -326,4 +326,3 @@ A crib mattress should be very firm. Press your hand into the center and edges; 
 - [GREENGUARD Certification](https://www.ul.com/resources/ul-greenguard-certification-program)
 - [JPMA Crib Certification](https://www.jpma.org/page/certification)
 - [Consumer Reports Crib Buying Guide](https://www.consumerreports.org/babies-kids/cribs/buying-guide/)
-- [FDA Warning on Infant Sleep Positioners](https://www.fda.gov/consumers/consumer-updates/do-not-use-infant-sleep-positioners-due-risk-suffocation)

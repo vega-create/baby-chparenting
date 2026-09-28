@@ -116,7 +116,6 @@ Japan has specific legal requirements for naming. Names must use approved kanji 
 ## References
 
 - Behind the Name (2026). "Japanese Names." [behindthename.com](https://www.behindthename.com/names/usage/japanese)
-- Nameberry (2026). "Japanese Baby Names." [nameberry.com](https://www.nameberry.com/list/japanese-baby-names)
 - Ministry of Justice Japan (2025). "Jinmeiyou Kanji List." [moj.go.jp](https://www.moj.go.jp)
 - Meiji Yasuda Life Insurance (2025). "Popular Baby Names in Japan." [meijiyasuda.co.jp](https://www.meijiyasuda.co.jp)
 

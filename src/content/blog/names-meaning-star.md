@@ -98,7 +98,6 @@ Orion, Lyra, Leo, Cassiopeia, and Draco are all names taken directly from conste
 
 ## References
 
-- Nameberry (2026). "Baby Names Meaning Star." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-star)
 - Behind the Name (2026). "Names with Meaning Containing Star." [behindthename.com](https://www.behindthename.com/names/meaning/star)
 - BabyCenter (2026). "Celestial Baby Names." [babycenter.com](https://www.babycenter.com/baby-names)
 

@@ -171,7 +171,6 @@ Charlotte currently ranks in the top 5 girl names in the United States. It has b
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)
-- BabyCenter (2025). "Charlotte: Baby Name Meaning, Origin, and Popularity." [babycenter.com](https://www.babycenter.com/baby-names/charlotte)
 - Nameberry (2025). "Charlotte: Name Meaning, Popularity, and Similar Names." [nameberry.com](https://nameberry.com/babyname/charlotte)
 - Behind the Name (2025). "Charlotte." [behindthename.com](https://www.behindthename.com/name/charlotte)
 

@@ -130,7 +130,6 @@ PUPD is generally most effective for babies 4–8 months. Older babies (9+ month
 - Hogg, T. (2005). *The Baby Whisperer Solves All Your Problems*. Atria Books.
 - National Sleep Foundation (2025). "Sleep Training Methods for Babies." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep/sleep-training)
 - American Academy of Pediatrics (2022). "Infant Sleep." [aap.org](https://www.aap.org/en/patient-care/healthy-active-living-for-families/sleep/)
-- Healthline (2025). "Pick Up Put Down Method Guide." [healthline.com](https://www.healthline.com/health/baby/pick-up-put-down-method)
 - Mayo Clinic (2026). "Baby Sleep Training." [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-sleep/art-20045014)
 
 <script type="application/ld+json">

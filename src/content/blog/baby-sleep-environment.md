@@ -167,10 +167,8 @@ The AAP recommends waiting until at least 12 months for blankets and at least 18
 ## References
 
 - American Academy of Pediatrics (2022). "Safe Sleep Guidelines for Infants." [aap.org](https://www.aap.org/en/patient-care/safe-sleep/)
-- National Sleep Foundation (2025). "Baby Sleep Environment." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep/baby-sleep-environment)
 - Centers for Disease Control and Prevention (2025). "Safe Sleep for Babies." [cdc.gov](https://www.cdc.gov/sids/safe-sleep.html)
 - Mayo Clinic (2026). "Creating a Safe Sleep Environment." [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-sleep/art-20045014)
-- Healthline (2025). "Best Room Temperature for Baby Sleep." [healthline.com](https://www.healthline.com/health/baby/what-temperature-should-a-baby-room-be)
 
 <script type="application/ld+json">
 {

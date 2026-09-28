@@ -127,9 +127,7 @@ Consistency wins. A steady daily routine keeps your baby's skin calm and comfort
 
 ## References
 
-- American Academy of Dermatology (2024). "[Eczema in Children: How to Treat](https://www.aad.org/public/diseases/eczema/childhood/treating/treat-child)."
 - American Academy of Pediatrics (2024). "[Eczema in Babies and Children](https://www.healthychildren.org/English/health-issues/conditions/skin/Pages/Eczema.aspx)." HealthyChildren.org.
-- National Eczema Association (2024). "[Eczema in Babies](https://nationaleczema.org/eczema/children/infants-toddlers/)."
 - Mayo Clinic (2024). "[Atopic Dermatitis (Eczema)](https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/syc-20353273)."
 
 <script type="application/ld+json">

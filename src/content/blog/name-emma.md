@@ -167,7 +167,6 @@ Classic names pair well with Emma. For sisters, consider Charlotte, Olivia, Soph
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)
-- BabyCenter (2025). "Emma: Baby Name Meaning, Origin, and Popularity." [babycenter.com](https://www.babycenter.com/baby-names/emma)
 - Nameberry (2025). "Emma: Name Meaning, Popularity, and Similar Names." [nameberry.com](https://nameberry.com/babyname/emma)
 - Behind the Name (2025). "Emma." [behindthename.com](https://www.behindthename.com/name/emma)
 

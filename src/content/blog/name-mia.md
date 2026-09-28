@@ -173,7 +173,6 @@ Short, sweet names complement Mia well --- think Emma, Ava, Ella, Leo, or Noah. 
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)
-- BabyCenter (2025). "Mia: Baby Name Meaning, Origin, and Popularity." [babycenter.com](https://www.babycenter.com/baby-names/mia)
 - Nameberry (2025). "Mia: Name Meaning, Popularity, and Similar Names." [nameberry.com](https://nameberry.com/babyname/mia)
 - Behind the Name (2025). "Mia." [behindthename.com](https://www.behindthename.com/name/mia)
 

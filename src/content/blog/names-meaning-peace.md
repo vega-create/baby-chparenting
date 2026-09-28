@@ -98,7 +98,6 @@ Pax is the Latin word for peace and is short enough to feel modern. Stellan is a
 
 ## References
 
-- Nameberry (2026). "Baby Names Meaning Peace." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-peace)
 - Behind the Name (2026). "Names with Meaning Containing Peace." [behindthename.com](https://www.behindthename.com/names/meaning/peace)
 - BabyCenter (2026). "Peaceful Baby Names." [babycenter.com](https://www.babycenter.com/baby-names)
 

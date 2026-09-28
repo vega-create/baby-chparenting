@@ -171,7 +171,6 @@ The AAP recommends waiting until your child is at least 12 months old before int
 - Centers for Disease Control and Prevention (2025). "Sudden Unexpected Infant Death and SIDS." [cdc.gov](https://www.cdc.gov/sids/)
 - National Institutes of Health (2025). "Safe to Sleep Campaign." [nichd.nih.gov](https://safetosleep.nichd.nih.gov/)
 - Mayo Clinic (2026). "Sudden Infant Death Syndrome (SIDS)." [mayoclinic.org](https://www.mayoclinic.org/diseases-conditions/sudden-infant-death-syndrome/symptoms-causes/syc-20352800)
-- Healthline (2025). "SIDS Prevention: What Every Parent Should Know." [healthline.com](https://www.healthline.com/health/baby/sids-prevention)
 
 <script type="application/ld+json">
 {

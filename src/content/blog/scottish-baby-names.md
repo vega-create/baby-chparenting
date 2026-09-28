@@ -111,8 +111,6 @@ Scotland's dramatic landscape has inspired many beloved names. Isla comes from t
 ## References
 
 - Behind the Name (2026). "Scottish Names." [behindthename.com](https://www.behindthename.com/names/usage/scottish)
-- Nameberry (2026). "Scottish Baby Names." [nameberry.com](https://www.nameberry.com/list/scottish-baby-names)
-- National Records of Scotland (2025). "Popular Baby Names." [nrscotland.gov.uk](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/names/babies-first-names)
 - Ainmean-Cloinne.org (2026). "Scottish Gaelic Names for Children." [ainmean-cloinne.org](https://www.ainmean-cloinne.org)
 
 <script type="application/ld+json">

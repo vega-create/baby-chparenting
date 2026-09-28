@@ -162,7 +162,6 @@ Popular middle names for Harper include Grace, Rose, Jane, Elizabeth, Mae, and L
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)
-- BabyCenter (2025). "Harper: Baby Name Meaning, Origin, and Popularity." [babycenter.com](https://www.babycenter.com/baby-names/harper)
 - Nameberry (2025). "Harper: Name Meaning, Popularity, and Similar Names." [nameberry.com](https://nameberry.com/babyname/harper)
 - Behind the Name (2025). "Harper." [behindthename.com](https://www.behindthename.com/name/harper)
 

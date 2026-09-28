@@ -246,6 +246,5 @@ Most kids' worst pickiness is between 18 months and 3 years, with gradual improv
 ## References
 
 - American Academy of Pediatrics. (2024). [Picky Eaters](https://www.healthychildren.org/English/ages-stages/toddler/nutrition/Pages/Picky-Eaters.aspx). HealthyChildren.org.
-- American Academy of Pediatrics. (2023). [Selective Eating vs. ARFID](https://www.healthychildren.org/English/healthy-living/nutrition/Pages/Picky-Eater-or-Problem-Feeder.aspx). HealthyChildren.org.
 - Centers for Disease Control and Prevention. (2024). [Foods and Drinks for 6 to 24 Month Olds](https://www.cdc.gov/nutrition/infantandtoddlernutrition/foods-and-drinks/index.html). CDC.
 - Mayo Clinic. (2024). [Children's Nutrition: 10 Tips for Picky Eaters](https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/childrens-health/art-20044948). Mayo Clinic.

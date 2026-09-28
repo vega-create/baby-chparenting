@@ -362,6 +362,4 @@ Avoid registering for items that have been deemed unsafe by the CPSC or AAP, inc
 - [Consumer Product Safety Commission (CPSC) - Nursery Product Safety](https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies)
 - [American Academy of Pediatrics - Safe Sleep Recommendations](https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx)
 - [AAP - Baby Walkers: A Dangerous Choice](https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Baby-Walkers-A-Dangerous-Choice.aspx)
-- [AAP - Vitamin D Supplementation for Infants](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Vitamin-D-On-the-Double.aspx)
-- [Consumer Reports - Baby Registry Checklist](https://www.consumerreports.org/babies-kids/baby-registry-checklist/)
 - [Healthcare.gov - Breastfeeding Benefits and Coverage](https://www.healthcare.gov/coverage/breast-feeding-benefits/)

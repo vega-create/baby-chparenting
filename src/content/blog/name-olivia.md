@@ -171,7 +171,6 @@ Most name historians believe Shakespeare coined the name Olivia for his comedy T
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)
-- BabyCenter (2025). "Olivia: Baby Name Meaning, Origin, and Popularity." [babycenter.com](https://www.babycenter.com/baby-names/olivia)
 - Nameberry (2025). "Olivia: Name Meaning, Popularity, and Similar Names." [nameberry.com](https://nameberry.com/babyname/olivia)
 - Behind the Name (2025). "Olivia." [behindthename.com](https://www.behindthename.com/name/olivia)
 

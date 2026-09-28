@@ -128,7 +128,6 @@ Trust the stool, not the schedule. If it's soft and your baby is comfortable, al
 - American Academy of Pediatrics (2024). "[Constipation in Children](https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/Constipation.aspx)." HealthyChildren.org.
 - Mayo Clinic (2024). "[Infant Constipation](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/expert-answers/infant-constipation/faq-20058519)."
 - NHS (2024). "[Constipation in Babies](https://www.nhs.uk/conditions/baby/health/constipation-in-children/)."
-- Cleveland Clinic (2024). "[Baby Constipation: Causes and Remedies](https://health.clevelandclinic.org/baby-constipation)."
 
 <script type="application/ld+json">
 {

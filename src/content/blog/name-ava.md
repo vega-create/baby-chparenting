@@ -171,7 +171,6 @@ Ava pairs beautifully with both short names (Emma, Mia, Leo) and longer names (B
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)
-- BabyCenter (2025). "Ava: Baby Name Meaning, Origin, and Popularity." [babycenter.com](https://www.babycenter.com/baby-names/ava)
 - Nameberry (2025). "Ava: Name Meaning, Popularity, and Similar Names." [nameberry.com](https://nameberry.com/babyname/ava)
 - Behind the Name (2025). "Ava." [behindthename.com](https://www.behindthename.com/name/ava)
 

@@ -320,7 +320,6 @@ Rather than a specific age, watch for a pattern of missed milestones or a loss o
 
 ## References
 
-- American Academy of Pediatrics. "Cognitive Development in Infants and Toddlers." [https://www.healthychildren.org/English/ages-stages/baby/Pages/Cognitive-Development.aspx](https://www.healthychildren.org/English/ages-stages/baby/Pages/Cognitive-Development.aspx)
 - Centers for Disease Control and Prevention. "Important Milestones: Your Baby By Two Years." [https://www.cdc.gov/ncbddd/actearly/milestones/milestones-2yr.html](https://www.cdc.gov/ncbddd/actearly/milestones/milestones-2yr.html)
 - World Health Organization. "Guidelines on Physical Activity, Sedentary Behaviour and Sleep for Children Under 5 Years of Age." [https://www.who.int/publications/i/item/9789241550536](https://www.who.int/publications/i/item/9789241550536)
 - Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press.

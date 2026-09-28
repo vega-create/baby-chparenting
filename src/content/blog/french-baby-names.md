@@ -116,7 +116,6 @@ Many names exist in both French and English forms with subtle differences. Guill
 ## References
 
 - Behind the Name (2026). "French Names." [behindthename.com](https://www.behindthename.com/names/usage/french)
-- Nameberry (2026). "French Baby Names." [nameberry.com](https://www.nameberry.com/list/french-baby-names)
 - INSEE France (2025). "Les Prenoms en France." [insee.fr](https://www.insee.fr/fr/statistiques/3532172)
 - Service-Public.fr (2026). "Choix du Prenom de l'Enfant." [service-public.fr](https://www.service-public.fr)
 

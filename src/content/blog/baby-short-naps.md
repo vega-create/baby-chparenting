@@ -131,9 +131,7 @@ Yes, this is very common and completely normal for babies 7+ months. Many babies
 
 ## References
 
-- National Sleep Foundation (2025). "Baby Nap Guide." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep/baby-nap-schedule)
 - American Academy of Pediatrics (2022). "Sleep and Your Baby." [aap.org](https://www.aap.org/en/patient-care/healthy-active-living-for-families/sleep/)
-- Healthline (2025). "Why Does My Baby Only Nap for 30 Minutes?" [healthline.com](https://www.healthline.com/health/baby/short-naps)
 - Mayo Clinic (2026). "Baby Naps: Daytime Sleep Tips." [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-naps/art-20047421)
 - Centers for Disease Control and Prevention (2025). "How Much Sleep Do Babies Need?" [cdc.gov](https://www.cdc.gov/sleep/about/how-much-sleep.html)
 

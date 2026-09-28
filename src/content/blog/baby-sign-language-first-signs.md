@@ -220,6 +220,5 @@ Most families taper off naturally between 18 and 30 months as spoken language ta
 ## References
 
 - American Speech-Language-Hearing Association. (2024). [Communication Milestones](https://www.asha.org/public/developmental-milestones/communication-milestones-birth-to-1-year/). ASHA.
-- American Academy of Pediatrics. (2024). [Communication and Your 8 to 12 Month Old](https://www.healthychildren.org/English/ages-stages/baby/Pages/Communicating-with-Your-Baby.aspx). HealthyChildren.org.
 - Centers for Disease Control and Prevention. (2024). [Important Milestones: Your Baby By Nine Months](https://www.cdc.gov/ncbddd/actearly/milestones/milestones-9mo.html). CDC.
 - Mayo Clinic. (2024). [Language Development: Speech Milestones for Babies](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/language-development/art-20045163). Mayo Clinic.

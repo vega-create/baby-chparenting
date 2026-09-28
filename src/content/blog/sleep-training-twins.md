@@ -148,7 +148,6 @@ Absolutely. Spend 1–2 weeks synchronizing their schedules before starting form
 
 - American Academy of Pediatrics (2022). "Safe Sleep for Twins and Multiples." [aap.org](https://www.aap.org/en/patient-care/safe-sleep/)
 - National Sleep Foundation (2025). "Sleep Tips for Parents of Multiples." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep)
-- Healthline (2025). "Sleep Training Twins: A Complete Guide." [healthline.com](https://www.healthline.com/health/baby/sleep-training-twins)
 - Mayo Clinic (2026). "Twins and Multiples: Sleep Tips." [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/twins/art-20043922)
 - Centers for Disease Control and Prevention (2025). "Multiple Births." [cdc.gov](https://www.cdc.gov/nchs/fastats/multiple.htm)
 

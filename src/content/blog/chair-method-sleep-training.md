@@ -146,7 +146,6 @@ Yes, but it requires patience. Start with the twin who is the better sleeper (th
 - Mindell, J.A., et al. (2006). "Behavioral Treatment of Bedtime Problems." *Sleep*, 29(10). [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep/sleep-training)
 - National Sleep Foundation (2025). "Chair Method for Baby Sleep." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep)
 - American Academy of Pediatrics (2022). "Infant Sleep." [aap.org](https://www.aap.org/en/patient-care/healthy-active-living-for-families/sleep/)
-- Healthline (2025). "Chair Method Sleep Training." [healthline.com](https://www.healthline.com/health/baby/chair-method-sleep-training)
 - Mayo Clinic (2026). "Baby Sleep Training Methods." [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-sleep/art-20045014)
 
 <script type="application/ld+json">

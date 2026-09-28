@@ -112,8 +112,6 @@ If you've just found a flat patch, you haven't broken your baby — you've been 
 
 ## References
 
-- American Academy of Pediatrics — HealthyChildren.org (2024). "[Flat Head Syndrome (Positional Plagiocephaly)](https://www.healthychildren.org/English/health-issues/conditions/Cleft-Craniofacial/Pages/Flat-Head-Syndrome-Positional-Plagiocephaly.aspx)."
-- U.S. Food & Drug Administration (2023). "[Do Not Use Infant Head Shaping Pillows](https://www.fda.gov/medical-devices/safety-communications/do-not-use-infant-head-shaping-pillows-prevent-or-treat-any-medical-condition-fda-safety-communication)."
 - Mayo Clinic (2024). "[Craniosynostosis: Symptoms and Causes](https://www.mayoclinic.org/diseases-conditions/craniosynostosis/symptoms-causes/syc-20354513)."
 
 <script type="application/ld+json">

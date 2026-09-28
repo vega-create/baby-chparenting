@@ -137,7 +137,6 @@ You're likely not doing anything wrong — some babies are naturally higher-need
 
 - National Sleep Foundation (2025). "Why Is My Baby Fighting Sleep?" [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep)
 - American Academy of Pediatrics (2022). "Infant Sleep Patterns." [aap.org](https://www.aap.org/en/patient-care/healthy-active-living-for-families/sleep/)
-- Healthline (2025). "Baby Fighting Sleep: Causes and Solutions." [healthline.com](https://www.healthline.com/health/baby/baby-fighting-sleep)
 - Mayo Clinic (2026). "Baby Sleep Tips." [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-sleep/art-20045014)
 - Centers for Disease Control and Prevention (2025). "Child Development." [cdc.gov](https://www.cdc.gov/ncbddd/actearly/milestones/index.html)
 

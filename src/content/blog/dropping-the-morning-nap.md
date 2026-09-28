@@ -176,7 +176,6 @@ Yes, often even more during the transition because of the early bedtime. Total d
 ## References
 
 - American Academy of Pediatrics. "Healthy Sleep Habits in Toddlers." [https://www.healthychildren.org/English/healthy-living/sleep/Pages/default.aspx](https://www.healthychildren.org/English/healthy-living/sleep/Pages/default.aspx)
-- American Academy of Sleep Medicine. "Recommended Amount of Sleep for Pediatric Populations." [https://aasm.org/recommended-amount-of-sleep-for-pediatric-populations/](https://aasm.org/recommended-amount-of-sleep-for-pediatric-populations/)
 - National Sleep Foundation. "Toddlers and Sleep." [https://www.sleepfoundation.org/children-and-sleep](https://www.sleepfoundation.org/children-and-sleep)
 - Mindell JA, Owens JA. "A Clinical Guide to Pediatric Sleep." [https://pubmed.ncbi.nlm.nih.gov/26511263/](https://pubmed.ncbi.nlm.nih.gov/26511263/)
 

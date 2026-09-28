@@ -387,7 +387,6 @@ Absolutely. Drawing, painting, tearing paper, manipulating play dough, and other
 ## References
 
 - [CDC Developmental Milestones](https://www.cdc.gov/ncbddd/actearly/milestones/index.html) - Centers for Disease Control and Prevention
-- [HealthyChildren.org: Fine Motor Activities](https://www.healthychildren.org/English/ages-stages/baby/Pages/Hand-and-Finger-Skills-1-Year-Olds.aspx) - American Academy of Pediatrics
 - [Mayo Clinic: Infant Development](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/infant-development/art-20048012) - Mayo Clinic
 - [WHO Motor Development Milestones](https://www.who.int/tools/child-growth-standards/standards/motor-development-milestones) - World Health Organization
 - [AOTA: Developmental Milestones](https://www.aota.org/practice/children-youth/developmental-milestones) - American Occupational Therapy Association

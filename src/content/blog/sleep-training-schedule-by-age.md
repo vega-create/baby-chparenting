@@ -216,10 +216,8 @@ Yes, in most cases. Capping naps helps protect bedtime and ensures your baby has
 
 ## References
 
-- National Sleep Foundation (2025). "Baby Sleep Schedule by Age." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep/baby-sleep-schedule)
 - American Academy of Pediatrics (2022). "Sleep Recommendations by Age." [aap.org](https://www.aap.org/en/patient-care/healthy-active-living-for-families/sleep/)
 - Centers for Disease Control and Prevention (2025). "How Much Sleep Do Babies Need?" [cdc.gov](https://www.cdc.gov/sleep/about/how-much-sleep.html)
-- Healthline (2025). "Baby Sleep Schedule: Newborn to 12 Months." [healthline.com](https://www.healthline.com/health/baby/baby-sleep-schedule)
 - Mayo Clinic (2026). "Baby Naps: Daytime Sleep Tips." [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-naps/art-20047421)
 
 <script type="application/ld+json">

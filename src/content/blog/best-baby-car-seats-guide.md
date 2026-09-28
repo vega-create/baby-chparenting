@@ -332,5 +332,4 @@ Perform these checks: the seat should not move more than 1 inch side to side or 
 - [AAP Policy Statement on Child Passenger Safety](https://publications.aap.org/pediatrics/article/142/5/e20182461/37388/Child-Passenger-Safety)
 - [CPSC Car Seat Safety](https://www.cpsc.gov/Safety-Education/Safety-Guides/Sports-Fitness-and-Recreation/Children-s-car-seats)
 - [NHTSA Car Seat Inspection Station Locator](https://www.nhtsa.gov/equipment/car-seats-and-booster-seats#702)
-- [FAA Child Safety in Aircraft](https://www.faa.gov/travelers/fly_children)
 - [Consumer Reports Car Seat Ratings](https://www.consumerreports.org/babies-kids/car-seats/buying-guide/)

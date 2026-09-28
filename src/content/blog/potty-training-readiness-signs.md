@@ -255,6 +255,5 @@ Brief regressions are normal, especially around new siblings, moves, illness, or
 ## References
 
 - American Academy of Pediatrics. (2024). [Toilet Training Children](https://www.healthychildren.org/English/ages-stages/toddler/toilet-training/Pages/default.aspx). HealthyChildren.org.
-- American Academy of Pediatrics. (2023). [Signs of Toilet Training Readiness](https://www.healthychildren.org/English/ages-stages/toddler/toilet-training/Pages/Signs-of-Readiness-to-Toilet-Train.aspx). HealthyChildren.org.
 - Centers for Disease Control and Prevention. (2024). [Positive Parenting Tips for Toddlers](https://www.cdc.gov/ncbddd/childdevelopment/positiveparenting/toddlers.html). CDC.
 - Mayo Clinic. (2024). [Potty Training: How to Get the Job Done](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/potty-training/art-20045230). Mayo Clinic.

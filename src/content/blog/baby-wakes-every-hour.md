@@ -139,7 +139,6 @@ See your pediatrician if: waking is accompanied by fever, breathing issues, or o
 - American Academy of Pediatrics (2022). "Infant Sleep." [aap.org](https://www.aap.org/en/patient-care/healthy-active-living-for-families/sleep/)
 - National Sleep Foundation (2025). "Night Wakings in Babies." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep)
 - Centers for Disease Control and Prevention (2025). "Infant Health." [cdc.gov](https://www.cdc.gov/infant-health/)
-- Healthline (2025). "Why Does My Baby Wake Up Every Hour?" [healthline.com](https://www.healthline.com/health/baby/baby-waking-every-hour)
 - Mayo Clinic (2026). "Baby Sleep Problems." [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-sleep/art-20045014)
 
 <script type="application/ld+json">

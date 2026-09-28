@@ -113,7 +113,6 @@ When your baby suddenly wants to eat around the clock, remind yourself: this is 
 ## References
 
 - American Academy of Pediatrics (2024). "[Growth Spurts and Cluster Feeding](https://www.healthychildren.org/English/ages-stages/baby/breastfeeding/Pages/default.aspx)." HealthyChildren.org.
-- La Leche League International (2024). "[Growth Spurts and Frequency Days](https://llli.org/breastfeeding-info/growth-spurts/)."
 - NHS (2024). "[Growth Spurts and Feeding](https://www.nhs.uk/conditions/baby/breastfeeding-and-bottle-feeding/)."
 
 <script type="application/ld+json">

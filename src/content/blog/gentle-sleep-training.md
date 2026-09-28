@@ -181,7 +181,6 @@ Yes. Many families use a hybrid approach — for example, combining bedtime fadi
 - Pantley, E. (2002). *The No-Cry Sleep Solution*. McGraw-Hill.
 - Gradisar, M., et al. (2016). "Behavioral Interventions for Infant Sleep Problems." *Pediatrics*, 137(6). [pediatrics.aappublications.org](https://publications.aap.org/pediatrics/article/137/6/e20151486/81436)
 - American Academy of Pediatrics (2022). "Sleep and Your Baby." [aap.org](https://www.aap.org/en/patient-care/healthy-active-living-for-families/sleep/)
-- Healthline (2025). "Gentle Sleep Training Methods." [healthline.com](https://www.healthline.com/health/baby/gentle-sleep-training)
 
 <script type="application/ld+json">
 {

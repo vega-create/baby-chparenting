@@ -286,4 +286,3 @@ Use a leather-specific cleaner and conditioner. Wipe spills immediately with a d
 - [Consumer Product Safety Commission (CPSC) -- Baby Products](https://www.cpsc.gov/Safety-Education/Baby-Safety)
 - [American Academy of Pediatrics -- Getting Your Baby Ready for Travel](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Travel-Safety-Tips.aspx)
 - [Consumer Reports -- Best Diaper Bags](https://www.consumerreports.org/babies-kids/diaper-bags/)
-- [What to Expect -- Diaper Bag Essentials Checklist](https://www.whattoexpect.com/baby-products/diaper-bags/what-to-pack-in-diaper-bag)

@@ -177,7 +177,6 @@ Most well-rested babies fall asleep within 5-15 minutes of being placed down. If
 
 ## References
 
-- American Academy of Sleep Medicine. "Recommended Amount of Sleep for Pediatric Populations." [https://aasm.org/recommended-amount-of-sleep-for-pediatric-populations/](https://aasm.org/recommended-amount-of-sleep-for-pediatric-populations/)
 - National Sleep Foundation. "Babies and Sleep." [https://www.sleepfoundation.org/baby-sleep](https://www.sleepfoundation.org/baby-sleep)
 - American Academy of Pediatrics. "Sleep and Your Baby." [https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/default.aspx](https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/default.aspx)
 - Paruthi S, et al. "Recommended Amount of Sleep for Pediatric Populations." *Journal of Clinical Sleep Medicine*. [https://pubmed.ncbi.nlm.nih.gov/27250809/](https://pubmed.ncbi.nlm.nih.gov/27250809/)

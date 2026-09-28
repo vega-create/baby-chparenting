@@ -113,7 +113,6 @@ Absolutely. Kenzo is a Japanese name often written with a character meaning stro
 
 ## References
 
-- Nameberry (2026). "Baby Names Meaning Strong." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-strong)
 - Behind the Name (2026). "Names with Meaning Containing Strong." [behindthename.com](https://www.behindthename.com/names/meaning/strong)
 - BabyCenter (2026). "Strong Baby Names." [babycenter.com](https://www.babycenter.com/baby-names)
 

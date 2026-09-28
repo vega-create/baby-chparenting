@@ -302,7 +302,6 @@ Postpartum depression can affect the quality of parent-infant interactions, pote
 
 ## References
 
-- American Academy of Pediatrics. "Social Development in Children." [https://www.healthychildren.org/English/ages-stages/baby/Pages/Emotional-and-Social-Development-Birth-to-5-Months.aspx](https://www.healthychildren.org/English/ages-stages/baby/Pages/Emotional-and-Social-Development-Birth-to-5-Months.aspx)
 - Centers for Disease Control and Prevention. "Positive Parenting Tips." [https://www.cdc.gov/ncbddd/childdevelopment/positiveparenting/index.html](https://www.cdc.gov/ncbddd/childdevelopment/positiveparenting/index.html)
 - Bowlby, J. (1969). *Attachment and Loss: Vol. 1. Attachment*. Basic Books.
 - Ainsworth, M. D. S., Blehar, M. C., Waters, E., & Wall, S. (1978). *Patterns of Attachment*. Lawrence Erlbaum Associates.

@@ -186,7 +186,6 @@ Newborns are used to the constant warmth, pressure, and motion of the womb. Bein
 - National Sleep Foundation (2025). "How Much Sleep Do Babies Need?" [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep)
 - Centers for Disease Control and Prevention (2025). "Sudden Unexpected Infant Death and Sudden Infant Death Syndrome." [cdc.gov](https://www.cdc.gov/sids/)
 - Mayo Clinic (2026). "Newborn Sleep: Helping Your Baby Sleep Through the Night." [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/newborn-sleep/art-20048101)
-- Healthline (2025). "Newborn Sleep Patterns and Schedule." [healthline.com](https://www.healthline.com/health/baby/newborn-sleep-patterns-chart)
 
 <script type="application/ld+json">
 {

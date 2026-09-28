@@ -111,7 +111,6 @@ Many African languages, particularly those in the Niger-Congo family like Yoruba
 ## References
 
 - Behind the Name (2026). "African Names." [behindthename.com](https://www.behindthename.com/names/usage/african)
-- Nameberry (2026). "African Baby Names." [nameberry.com](https://www.nameberry.com/list/african-baby-names)
 - African Names Database (2026). "Names from Across Africa." [africannames.org](https://www.africannames.org)
 - Ethnologue (2026). "Languages of Africa." [ethnologue.com](https://www.ethnologue.com)
 

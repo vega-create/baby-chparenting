@@ -137,7 +137,6 @@ While it's within the range of normal, by 6 months most babies are developmental
 
 - American Academy of Pediatrics (2022). "Safe Sleep Guidelines." [aap.org](https://www.aap.org/en/patient-care/safe-sleep/)
 - National Sleep Foundation (2025). "Baby Sleep and Parental Involvement." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep)
-- Healthline (2025). "Baby Only Sleeps When Held: What to Do." [healthline.com](https://www.healthline.com/health/baby/baby-only-sleeps-when-held)
 - Mayo Clinic (2026). "Infant Sleep: Tips for the First Year." [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-sleep/art-20045014)
 
 <script type="application/ld+json">

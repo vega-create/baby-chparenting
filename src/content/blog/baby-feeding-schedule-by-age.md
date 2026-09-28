@@ -371,4 +371,3 @@ The AAP recommends transitioning from formula to whole cow's milk at 12 months o
 - World Health Organization. (2023). [Complementary Feeding](https://www.who.int/health-topics/complementary-feeding).
 - Centers for Disease Control and Prevention. (2023). [How Much and How Often to Feed Infant Formula](https://www.cdc.gov/nutrition/infantandtoddlernutrition/formula-feeding/how-much-how-often.html).
 - Mayo Clinic. (2023). [Feeding Your Newborn: Tips for New Parents](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20047741).
-- La Leche League International. (2023). [How Often Should Baby Nurse?](https://lllusa.org/how-often-should-baby-nurse/).

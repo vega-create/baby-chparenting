@@ -116,7 +116,6 @@ Italian names are distinguished by their strong vowel endings (-o for boys, -a f
 ## References
 
 - Behind the Name (2026). "Italian Names." [behindthename.com](https://www.behindthename.com/names/usage/italian)
-- Nameberry (2026). "Italian Baby Names." [nameberry.com](https://www.nameberry.com/list/italian-baby-names)
 - ISTAT (2025). "Nomi e Cognomi Piu Diffusi." [istat.it](https://www.istat.it)
 - Accademia della Crusca (2026). "Italian Language and Names." [accademiadellacrusca.it](https://www.accademiadellacrusca.it)
 

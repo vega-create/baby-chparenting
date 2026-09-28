@@ -168,7 +168,6 @@ Most healthy, full-term breastfed babies who are gaining weight well can sleep 1
 - American Academy of Pediatrics (2022). "Breastfeeding and Sleep." [aap.org](https://www.aap.org/en/patient-care/breastfeeding/)
 - National Sleep Foundation (2025). "Sleep Training and Breastfeeding." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep/sleep-training)
 - Gradisar, M., et al. (2016). "Behavioral Interventions for Infant Sleep." *Pediatrics*, 137(6). [pediatrics.aappublications.org](https://publications.aap.org/pediatrics/article/137/6/e20151486/81436)
-- Healthline (2025). "Sleep Training While Breastfeeding." [healthline.com](https://www.healthline.com/health/baby/sleep-training-while-breastfeeding)
 - Mayo Clinic (2026). "Night Weaning: When and How." [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/breast-feeding/art-20047788)
 
 <script type="application/ld+json">

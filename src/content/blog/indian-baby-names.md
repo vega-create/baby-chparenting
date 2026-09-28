@@ -116,7 +116,6 @@ Absolutely. Many Indian names are already popular internationally, including May
 ## References
 
 - Behind the Name (2026). "Indian Names." [behindthename.com](https://www.behindthename.com/names/usage/indian)
-- Nameberry (2026). "Indian Baby Names." [nameberry.com](https://www.nameberry.com/list/indian-baby-names)
 - Baby Names India (2026). "Popular Indian Baby Names." [babynamesindia.com](https://www.babynamesindia.com)
 - Sanskrit Dictionary (2026). "Sanskrit Name Meanings." [sanskritdictionary.com](https://www.sanskritdictionary.com)
 

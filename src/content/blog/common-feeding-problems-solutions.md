@@ -373,6 +373,4 @@ Texture progression is important for oral motor development. If your baby is bet
 - American Academy of Pediatrics. (2024). [Gastroesophageal Reflux in Infants](https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/GERD-Reflux.aspx). HealthyChildren.org.
 - National Institute of Diabetes and Digestive and Kidney Diseases. (2023). [Acid Reflux (GER & GERD) in Infants](https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-infants).
 - Mayo Clinic. (2023). [Infant Reflux](https://www.mayoclinic.org/diseases-conditions/infant-acid-reflux/symptoms-causes/syc-20351408).
-- American Academy of Pediatrics. (2024). [Tongue-Tie in Babies](https://www.healthychildren.org/English/ages-stages/baby/breastfeeding/Pages/Tongue-Tie.aspx). HealthyChildren.org.
-- Satter, E. (2023). [Division of Responsibility in Feeding](https://www.ellynsatterinstitute.org/how-to-feed/the-division-of-responsibility-in-feeding/). Ellyn Satter Institute.
 - World Health Organization. (2023). [Infant and Young Child Feeding](https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding).

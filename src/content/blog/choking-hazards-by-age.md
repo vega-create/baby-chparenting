@@ -230,5 +230,4 @@ If they are breathing and not in distress, watch them closely. Most small swallo
 
 - American Academy of Pediatrics. (2024). [Choking Prevention](https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/Choking-Prevention.aspx). HealthyChildren.org.
 - Centers for Disease Control and Prevention. (2024). [Choking Hazards in Children](https://www.cdc.gov/nutrition/infantandtoddlernutrition/foods-and-drinks/choking-hazards.html). CDC.
-- American Academy of Pediatrics. (2023). [Responding to a Choking Emergency](https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/Responding-to-a-Choking-Emergency.aspx). HealthyChildren.org.
 - Mayo Clinic. (2024). [Choking First Aid for Babies and Children](https://www.mayoclinic.org/first-aid/first-aid-choking/basics/art-20056637). Mayo Clinic.

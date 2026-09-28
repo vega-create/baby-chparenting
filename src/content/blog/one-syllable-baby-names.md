@@ -202,7 +202,6 @@ Yes. Names like Grace, Luke, and Pearl carry both warmth and dignity. Pair with 
 - U.S. Social Security Administration. "Top Baby Names." [https://www.ssa.gov/oact/babynames/](https://www.ssa.gov/oact/babynames/)
 - Behind the Name. "Etymology and History of Names." [https://www.behindthename.com/](https://www.behindthename.com/)
 - Nameberry. "Short Baby Names." [https://nameberry.com/](https://nameberry.com/)
-- Office for National Statistics (UK). "Baby Names in England and Wales." [https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/babynamesenglandandwales/previousReleases](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/babynamesenglandandwales/previousReleases)
 
 <script type="application/ld+json">
 {

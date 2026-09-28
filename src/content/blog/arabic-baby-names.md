@@ -116,8 +116,6 @@ Arabic names are used and appreciated by people of many backgrounds worldwide. I
 ## References
 
 - Behind the Name (2026). "Arabic Names." [behindthename.com](https://www.behindthename.com/names/usage/arabic)
-- Nameberry (2026). "Arabic Baby Names." [nameberry.com](https://www.nameberry.com/list/arabic-baby-names)
-- IslamicFinder (2026). "Muslim Baby Names." [islamicfinder.org](https://www.islamicfinder.org/baby-names/)
 - Al Jazeera (2025). "Arabic Naming Traditions." [aljazeera.com](https://www.aljazeera.com)
 
 <script type="application/ld+json">

@@ -344,7 +344,5 @@ Most families need only one monitor for the nursery. If your home is large or ha
 
 - [AAP Safe Sleep Recommendations](https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx)
 - [CPSC Baby Monitor Safety Alert](https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies/Baby-Monitors)
-- [FDA Warning Letter to Owlet (2021)](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/owlet-baby-care-inc-616292-10052021)
 - [AAP Policy on Home Cardiorespiratory Monitoring](https://publications.aap.org/pediatrics/article/112/4/914/28683/Apnea-Sudden-Infant-Death-Syndrome-and-Home)
 - [Consumer Reports Baby Monitor Ratings](https://www.consumerreports.org/babies-kids/baby-monitors/buying-guide/)
-- [FTC IoT Security Guidelines](https://www.ftc.gov/business-guidance/resources/careful-connections-building-security-internet-things)

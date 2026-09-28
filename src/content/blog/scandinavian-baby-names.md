@@ -111,9 +111,7 @@ Nordic languages use several characters not found in English. The Danish/Norwegi
 ## References
 
 - Behind the Name (2026). "Scandinavian Names." [behindthename.com](https://www.behindthename.com/names/usage/scandinavian)
-- Nameberry (2026). "Scandinavian Baby Names." [nameberry.com](https://www.nameberry.com/list/scandinavian-baby-names)
 - Statistics Norway (2025). "Name Statistics." [ssb.no](https://www.ssb.no/en/befolkning/navn)
-- Statistics Sweden (2025). "Popular Baby Names." [scb.se](https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning/amnesovergripande-statistik/namnstatistik/)
 
 <script type="application/ld+json">
 {

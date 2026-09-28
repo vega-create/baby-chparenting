@@ -167,9 +167,7 @@ Sleep regressions are characterized by sudden changes in a previously good sleep
 
 ## References
 
-- National Sleep Foundation (2025). "Sleep Regression in Babies." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep/sleep-regression)
 - American Academy of Pediatrics (2022). "Sleep and Your Infant." [aap.org](https://www.aap.org/en/patient-care/healthy-active-living-for-families/sleep/)
-- Healthline (2025). "Baby Sleep Regressions: Ages, Signs, and Tips." [healthline.com](https://www.healthline.com/health/baby/sleep-regression)
 - Mayo Clinic (2026). "Baby Sleep: Common Issues and Solutions." [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-sleep/art-20045014)
 - Centers for Disease Control and Prevention (2025). "Child Development Milestones." [cdc.gov](https://www.cdc.gov/ncbddd/actearly/milestones/index.html)
 

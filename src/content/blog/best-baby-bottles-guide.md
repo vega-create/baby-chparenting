@@ -300,7 +300,6 @@ A dedicated sterilizer is not strictly necessary. Boiling water or the heated dr
 ## References
 
 - [American Academy of Pediatrics -- Bottle Feeding Basics](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Bottle-Feeding-How-Its-Done.aspx)
-- [U.S. Food & Drug Administration -- Bisphenol A (BPA)](https://www.fda.gov/food/food-additives-petitions/bpa-food-contact-applications)
 - [Centers for Disease Control and Prevention -- How to Clean, Sanitize, and Store Infant Feeding Items](https://www.cdc.gov/hygiene/about/how-to-clean-sanitize-and-store-infant-feeding-items.html)
 - [Consumer Product Safety Commission -- Baby Products Safety](https://www.cpsc.gov/Safety-Education/Baby-Safety)
 - [World Health Organization -- Infant and Young Child Feeding](https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding)

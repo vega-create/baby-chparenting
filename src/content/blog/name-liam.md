@@ -170,7 +170,6 @@ Names that complement Liam's clean, classic sound include Emma, Charlotte, Nora,
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)
-- BabyCenter (2025). "Liam: Baby Name Meaning, Origin, and Popularity." [babycenter.com](https://www.babycenter.com/baby-names/liam)
 - Nameberry (2025). "Liam: Name Meaning, Popularity, and Similar Names." [nameberry.com](https://nameberry.com/babyname/liam)
 - Behind the Name (2025). "Liam." [behindthename.com](https://www.behindthename.com/name/liam)
 

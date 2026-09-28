@@ -106,7 +106,6 @@ Hawaiian names have their flowing, musical quality because the Hawaiian language
 ## References
 
 - Behind the Name (2026). "Hawaiian Names." [behindthename.com](https://www.behindthename.com/names/usage/hawaiian)
-- Nameberry (2026). "Hawaiian Baby Names." [nameberry.com](https://www.nameberry.com/list/hawaiian-baby-names)
 - Ulukau Hawaiian Electronic Library (2026). "Hawaiian Dictionary." [ulukau.org](https://www.ulukau.org)
 - Office of Hawaiian Affairs (2026). "Hawaiian Language Resources." [oha.org](https://www.oha.org)
 

@@ -368,5 +368,4 @@ Stretchy wraps and woven wraps are inherently one-size-fits-all and accommodate 
 - [CPSC Baby Sling Safety](https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies/Slings)
 - [Babywearing International - TICKS Safety Guidelines](https://babywearinginternational.org/what-is-babywearing/safety/)
 - [Hunziker, U.A. & Barr, R.G. (1986). Increased carrying reduces infant crying. Pediatrics, 77(5), 641-648.](https://publications.aap.org/pediatrics/article-abstract/77/5/641/56848/Increased-Carrying-Reduces-Infant-Crying-A)
-- [Consumer Reports Baby Carrier Guide](https://www.consumerreports.org/babies-kids/baby-carriers/buying-guide/)
 - [ASTM F2236 Standard for Soft Infant and Toddler Carriers](https://www.astm.org/f2236-16a.html)

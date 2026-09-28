@@ -172,7 +172,6 @@ The most popular nickname for Elijah is Eli, which has a warm, friendly quality 
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)
-- BabyCenter (2025). "Elijah: Baby Name Meaning, Origin, and Popularity." [babycenter.com](https://www.babycenter.com/baby-names/elijah)
 - Nameberry (2025). "Elijah: Name Meaning, Popularity, and Similar Names." [nameberry.com](https://nameberry.com/babyname/elijah)
 - Behind the Name (2025). "Elijah." [behindthename.com](https://www.behindthename.com/name/elijah)
 

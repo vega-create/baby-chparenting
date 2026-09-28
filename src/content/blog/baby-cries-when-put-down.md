@@ -128,7 +128,6 @@ Most sleep experts suggest working toward "drowsy but awake" placement starting 
 
 - American Academy of Pediatrics (2022). "Safe Sleep and Your Baby." [aap.org](https://www.aap.org/en/patient-care/safe-sleep/)
 - National Sleep Foundation (2025). "Helping Baby Sleep in the Crib." [sleepfoundation.org](https://www.sleepfoundation.org/baby-sleep)
-- Healthline (2025). "My Baby Cries When Put Down." [healthline.com](https://www.healthline.com/health/baby/baby-cries-when-put-down)
 - Mayo Clinic (2026). "Separation Anxiety in Babies." [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/expert-answers/separation-anxiety/faq-20058136)
 
 <script type="application/ld+json">

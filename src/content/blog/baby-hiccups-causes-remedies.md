@@ -113,7 +113,6 @@ Somewhere around the fourth bout of the day, it helps to remember: your baby has
 ## References
 
 - American Academy of Pediatrics — HealthyChildren.org (2024). "[Why Babies Spit Up](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Why-Babies-Spit-Up.aspx)."
-- Cleveland Clinic (2024). "[Newborn Hiccups](https://health.clevelandclinic.org/newborn-hiccups)."
 - NHS (2024). "[Reflux in Babies](https://www.nhs.uk/conditions/reflux-in-babies/)."
 
 <script type="application/ld+json">

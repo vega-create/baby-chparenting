@@ -103,7 +103,6 @@ Veda is a Sanskrit name meaning sacred wisdom and truth. Solon comes from the na
 
 ## References
 
-- Nameberry (2026). "Baby Names Meaning Wise." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-wise)
 - Behind the Name (2026). "Names with Meaning Containing Wisdom." [behindthename.com](https://www.behindthename.com/names/meaning/wisdom)
 - BabyCenter (2026). "Wisdom-Inspired Baby Names." [babycenter.com](https://www.babycenter.com/baby-names)
 

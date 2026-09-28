@@ -116,7 +116,6 @@ No. Irish names are used and loved by families of all backgrounds around the wor
 ## References
 
 - Behind the Name (2026). "Irish Names." [behindthename.com](https://www.behindthename.com/names/usage/irish)
-- Nameberry (2026). "Irish Baby Names." [nameberry.com](https://www.nameberry.com/list/irish-baby-names)
 - Central Statistics Office Ireland (2025). "Baby Names of Ireland." [cso.ie](https://www.cso.ie/en/interactivezone/visualisationtools/babynamesofireland/)
 - Foras na Gaeilge (2026). "Irish Language Names." [gaeilge.ie](https://www.gaeilge.ie)
 

@@ -118,7 +118,6 @@ Snap that photo, then start the twice-daily brushing habit. Baby teeth matter â€
 
 - American Academy of Pediatric Dentistry (2024). "[Baby's First Tooth and Dental Care](https://www.aapd.org/resources/parent/)."
 - American Academy of Pediatrics (2024). "[Baby Teeth and Teething](https://www.healthychildren.org/English/ages-stages/baby/teething-tooth-care/Pages/default.aspx)." HealthyChildren.org.
-- American Dental Association (2024). "[Baby Teeth](https://www.mouthhealthy.org/en/babies-and-kids/)." MouthHealthy.org.
 
 <script type="application/ld+json">
 {

@@ -138,7 +138,6 @@ Absolutely. Pairing a biblical first name with a modern or trendy middle name is
 ## References
 
 - Behind the Name (2026). "Biblical Names." [behindthename.com](https://www.behindthename.com/names/usage/biblical)
-- Nameberry (2026). "Biblical Baby Names." [nameberry.com](https://www.nameberry.com/list/biblical-names)
 - Bible Gateway (2026). "Name Meanings in the Bible." [biblegateway.com](https://www.biblegateway.com)
 - Social Security Administration (2025). "Popular Baby Names." [ssa.gov](https://www.ssa.gov/oact/babynames/)
 

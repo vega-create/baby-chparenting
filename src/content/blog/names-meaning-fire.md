@@ -98,7 +98,6 @@ Ember is a soft, warm name meaning a glowing coal — it suggests warmth without
 
 ## References
 
-- Nameberry (2026). "Baby Names Meaning Fire." [nameberry.com](https://www.nameberry.com/list/baby-names-meaning-fire)
 - Behind the Name (2026). "Names with Meaning Containing Fire." [behindthename.com](https://www.behindthename.com/names/meaning/fire)
 - BabyCenter (2026). "Fire-Inspired Baby Names." [babycenter.com](https://www.babycenter.com/baby-names)
 

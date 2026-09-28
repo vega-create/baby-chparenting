@@ -106,7 +106,6 @@ Yes, since the 1990s Korean law has allowed given names to be written purely in 
 ## References
 
 - Behind the Name (2026). "Korean Names." [behindthename.com](https://www.behindthename.com/names/usage/korean)
-- Nameberry (2026). "Korean Baby Names." [nameberry.com](https://www.nameberry.com/list/korean-baby-names)
 - Statistics Korea (2025). "Popular Baby Names." [kostat.go.kr](https://kostat.go.kr)
 - National Institute of Korean Language (2026). "Korean Name Standards." [korean.go.kr](https://www.korean.go.kr)
 

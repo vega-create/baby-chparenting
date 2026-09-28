@@ -340,6 +340,5 @@ This is every parent's challenge. Use a toothbrush or bottle brush to scrub groo
 
 - American Academy of Pediatrics. (2024). [Starting Solid Foods](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx). HealthyChildren.org.
 - Consumer Product Safety Commission. (2023). [High Chairs Safety](https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies/High-Chairs).
-- ASTM International. (2023). [ASTM F404 - Standard Consumer Safety Specification for High Chairs](https://www.astm.org/f0404-22.html).
 - Juvenile Products Manufacturers Association. (2024). [JPMA Certification Program](https://www.jpma.org/page/certification).
 - Mayo Clinic. (2023). [Solid Foods: How to Get Your Baby Started](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20046200).

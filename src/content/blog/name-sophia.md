@@ -173,7 +173,6 @@ Yes, Sophia is a Greek name derived directly from the Greek word for wisdom. It 
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)
-- BabyCenter (2025). "Sophia: Baby Name Meaning, Origin, and Popularity." [babycenter.com](https://www.babycenter.com/baby-names/sophia)
 - Nameberry (2025). "Sophia: Name Meaning, Popularity, and Similar Names." [nameberry.com](https://nameberry.com/babyname/sophia)
 - Behind the Name (2025). "Sophia." [behindthename.com](https://www.behindthename.com/name/sophia)
 

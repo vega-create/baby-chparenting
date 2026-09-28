@@ -111,7 +111,6 @@ Greek names often have well-established English equivalents that developed over 
 ## References
 
 - Behind the Name (2026). "Greek Names." [behindthename.com](https://www.behindthename.com/names/usage/greek)
-- Nameberry (2026). "Greek Baby Names." [nameberry.com](https://www.nameberry.com/list/greek-baby-names)
 - Hellenic Statistical Authority (2025). "Most Popular Greek Names." [statistics.gr](https://www.statistics.gr)
 - Theoi Greek Mythology (2026). "Greek Gods and Heroes." [theoi.com](https://www.theoi.com)
 

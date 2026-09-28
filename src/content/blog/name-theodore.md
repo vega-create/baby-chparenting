@@ -174,7 +174,6 @@ The teddy bear was named after President Theodore "Teddy" Roosevelt. In 1902, Ro
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)
-- BabyCenter (2025). "Theodore: Baby Name Meaning, Origin, and Popularity." [babycenter.com](https://www.babycenter.com/baby-names/theodore)
 - Nameberry (2025). "Theodore: Name Meaning, Popularity, and Similar Names." [nameberry.com](https://nameberry.com/babyname/theodore)
 - Behind the Name (2025). "Theodore." [behindthename.com](https://www.behindthename.com/name/theodore)
 

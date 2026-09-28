@@ -103,7 +103,6 @@ Reign is a modern word name that directly evokes royalty. Kingsley combines the 
 
 ## References
 
-- Nameberry (2026). "Royal Baby Names." [nameberry.com](https://www.nameberry.com/list/royal-baby-names)
 - Behind the Name (2026). "Names with Meaning Containing King." [behindthename.com](https://www.behindthename.com/names/meaning/king)
 - BabyCenter (2026). "Royal and Noble Baby Names." [babycenter.com](https://www.babycenter.com/baby-names)
 

@@ -165,7 +165,6 @@ Yes. A new baby is a major life change and often triggers or worsens sleep regre
 ## References
 
 - American Academy of Pediatrics. "Healthy Sleep Habits in Toddlers." [https://www.healthychildren.org/English/healthy-living/sleep/Pages/default.aspx](https://www.healthychildren.org/English/healthy-living/sleep/Pages/default.aspx)
-- American Academy of Sleep Medicine. "Recommended Amount of Sleep for Pediatric Populations." [https://aasm.org/recommended-amount-of-sleep-for-pediatric-populations/](https://aasm.org/recommended-amount-of-sleep-for-pediatric-populations/)
 - National Sleep Foundation. "Children and Sleep." [https://www.sleepfoundation.org/children-and-sleep](https://www.sleepfoundation.org/children-and-sleep)
 - Centers for Disease Control and Prevention. "Developmental Milestones at 2 Years." [https://www.cdc.gov/ncbddd/actearly/milestones/milestones-2yr.html](https://www.cdc.gov/ncbddd/actearly/milestones/milestones-2yr.html)
 

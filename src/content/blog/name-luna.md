@@ -168,7 +168,6 @@ Popular middle names for Luna include Rose, Grace, Mae, Marie, and Celeste. Shor
 ## References
 
 - Social Security Administration (2025). "Top Names of the Last 100 Years." [ssa.gov](https://www.ssa.gov/oact/babynames/)
-- BabyCenter (2025). "Luna: Baby Name Meaning, Origin, and Popularity." [babycenter.com](https://www.babycenter.com/baby-names/luna)
 - Nameberry (2025). "Luna: Name Meaning, Popularity, and Similar Names." [nameberry.com](https://nameberry.com/babyname/luna)
 - Behind the Name (2025). "Luna." [behindthename.com](https://www.behindthename.com/name/luna)
 
