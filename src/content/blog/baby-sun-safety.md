@@ -9,7 +9,7 @@ tags: ["sun safety", "baby sunscreen", "summer with baby", "heat safety", "outdo
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/1007773/pexels-photo-1007773.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-draft: true   # 2026-09-28 暫停：GSC 顯示一般育兒文在 Google 無效，先集中做名字主題；要恢復改回 false
+draft: false
 ---
 
 Sunshine and babies go together beautifully — walks, park blankets, the first beach trip — right up until you remember that baby skin burns faster than yours, can't be slathered in just anything, and that overheating is its own separate hazard. The good news is that baby sun safety runs on a simple hierarchy: shade first, clothing second, sunscreen third — and the rules shift at the six-month mark in ways worth knowing cold. Here's the whole system, from stroller shade to sunscreen shopping to the heat rules that matter as much as the UV ones.

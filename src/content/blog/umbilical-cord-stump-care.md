@@ -1,7 +1,7 @@
 ---
 title: "Umbilical Cord Stump Care: Healing Timeline & Warning Signs"
 description: "How to care for your newborn's umbilical cord stump: the dry-care method, a realistic healing timeline, what's normal at each stage, and the infection signs to know."
-publishDate: 2026-10-31
+publishDate: 2026-11-02
 lastReviewed: 2026-10-18
 slug: "umbilical-cord-stump-care"
 category: "development"
@@ -9,7 +9,7 @@ tags: ["umbilical cord", "newborn care", "cord stump", "newborn hygiene", "first
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3662824/pexels-photo-3662824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-draft: true   # 2026-09-28 暫停：GSC 顯示一般育兒文在 Google 無效，先集中做名字主題；要恢復改回 false
+draft: false
 ---
 
 Of all the things nobody warns you about, the cord stump might be the strangest: a small, dark, drying remnant on your beautiful new baby that you're somehow supposed to just… leave alone. New parents worry about it constantly — is it supposed to look like that? Smell like that? When does it come off? The reassuring truth is that cord care in 2026 is mostly about *not* doing things, and the stump takes care of itself in a week or three. Here's the routine, the timeline, what's normal at each stage, and the short list of signs that mean a call to the pediatrician.
@@ -137,8 +137,8 @@ The cord stump is one of those newborn features that looks alarming and almost a
       "@id": "https://baby.chparenting.com/blog/umbilical-cord-stump-care#article",
       "headline": "Umbilical Cord Stump Care: Healing Timeline & Warning Signs",
       "description": "How to care for your newborn's umbilical cord stump: the dry-care method, a realistic healing timeline, what's normal at each stage, and the infection signs to know.",
-      "datePublished": "2026-10-31T00:00:00+08:00",
-      "dateModified": "2026-10-31T00:00:00+08:00",
+      "datePublished": "2026-11-02T00:00:00+08:00",
+      "dateModified": "2026-11-02T00:00:00+08:00",
       "author": { "@id": "https://baby.chparenting.com/author/vega-lin#person" },
       "publisher": { "@id": "https://baby.chparenting.com#organization" },
       "image": { "@type": "ImageObject", "url": "https://images.pexels.com/photos/3662824/pexels-photo-3662824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750", "width": 1200, "height": 630 },

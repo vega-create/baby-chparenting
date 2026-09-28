@@ -9,7 +9,7 @@ tags: ["flat head syndrome", "plagiocephaly", "tummy time", "newborn development
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3845130/pexels-photo-3845130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-draft: true   # 2026-09-28 暫停：GSC 顯示一般育兒文在 Google 無效，先集中做名字主題；要恢復改回 false
+draft: false
 ---
 
 Run your hand over the back of your baby's head at two or three months, and you might find it: a flat patch, maybe more on one side, maybe with one ear looking slightly forward of the other. Cue the spiral of guilt and late-night searching. Take a breath first: flat spots became dramatically more common for the best possible reason — back sleeping, which the AAP recommends because it sharply reduced SIDS deaths. The trade-off is positional plagiocephaly, which is cosmetic in the vast majority of cases, responds well to simple habits, and does not affect brain development. Here's the practical playbook.

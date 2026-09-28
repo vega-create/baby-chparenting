@@ -1,7 +1,7 @@
 ---
 title: "Baby's First Tooth: Timeline & Care Tips"
 description: "When does baby's first tooth come in? The typical timeline, the order teeth appear, how to care for that first tooth, and when late teething is worth a mention."
-publishDate: 2026-10-03
+publishDate: 2026-10-05
 lastReviewed: 2026-07-29
 slug: "babys-first-tooth-timeline-care"
 category: "development"
@@ -9,7 +9,7 @@ tags: ["first tooth", "baby teeth", "dental care", "teething", "oral health"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/1912864/pexels-photo-1912864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-draft: true   # 2026-09-28 暫停：GSC 顯示一般育兒文在 Google 無效，先集中做名字主題；要恢復改回 false
+draft: false
 ---
 
 That first tiny tooth peeking through your baby's gum is a photo-worthy milestone — and the start of a lifetime of dental care. But it also raises practical questions: when should it appear, is your baby "late" if it hasn't, and how do you actually care for a single tooth? This guide covers the typical timeline for that first tooth, the order the rest follow, exactly how to care for baby's new teeth, and when to bring up late teething with your pediatrician or dentist. Grab your camera and let's get you ready.
@@ -146,8 +146,8 @@ Snap that photo, then start the twice-daily brushing habit. Baby teeth matter �
       "@id": "https://baby.chparenting.com/blog/babys-first-tooth-timeline-care#article",
       "headline": "Baby's First Tooth: Timeline & Care Tips",
       "description": "When does baby's first tooth come in? The typical timeline, the order teeth appear, how to care for that first tooth, and when late teething is worth a mention.",
-      "datePublished": "2026-10-03T00:00:00+08:00",
-      "dateModified": "2026-10-03T00:00:00+08:00",
+      "datePublished": "2026-10-05T00:00:00+08:00",
+      "dateModified": "2026-10-05T00:00:00+08:00",
       "author": { "@id": "https://baby.chparenting.com/author/vega-lin#person" },
       "publisher": { "@id": "https://baby.chparenting.com#organization" },
       "image": { "@type": "ImageObject", "url": "https://images.pexels.com/photos/1912864/pexels-photo-1912864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750", "width": 1200, "height": 630 },

@@ -1,7 +1,7 @@
 ---
 title: "Toddler Biting & Hitting: Why It Happens & How to Respond"
 description: "Toddler biting and hitting is normal but stressful. Here's why toddlers do it by age, exactly how to respond calmly and effectively, and when to seek extra help."
-publishDate: 2026-10-12
+publishDate: 2026-10-14
 lastReviewed: 2026-07-29
 slug: "toddler-biting-and-hitting"
 category: "development"
@@ -9,7 +9,7 @@ tags: ["toddler biting", "hitting", "toddler behavior", "discipline", "aggressio
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/35537/child-children-girl-happy.jpg?auto=compress&cs=tinysrgb&w=1260&h=750"
-draft: true   # 2026-09-28 暫停：GSC 顯示一般育兒文在 Google 無效，先集中做名字主題；要恢復改回 false
+draft: false
 ---
 
 Your sweet toddler just chomped down on a playmate's arm — or hauled off and hit you in the face — and you're mortified, worried, and unsure what to do. First, take a breath: biting and hitting are extremely common toddler behaviors, and they don't mean your child is "bad" or that you're failing as a parent. At this age, little ones simply don't yet have the words or self-control to handle big feelings. The good news is these behaviors are very manageable with a calm, consistent approach. This guide explains why toddlers bite and hit, and exactly how to respond.
@@ -147,8 +147,8 @@ This stage tests every parent's patience, but it does pass. Every calm, consiste
       "@id": "https://baby.chparenting.com/blog/toddler-biting-and-hitting#article",
       "headline": "Toddler Biting & Hitting: Why It Happens & How to Respond",
       "description": "Toddler biting and hitting is normal but stressful. Here's why toddlers do it by age, exactly how to respond calmly and effectively, and when to seek extra help.",
-      "datePublished": "2026-10-12T00:00:00+08:00",
-      "dateModified": "2026-10-12T00:00:00+08:00",
+      "datePublished": "2026-10-14T00:00:00+08:00",
+      "dateModified": "2026-10-14T00:00:00+08:00",
       "author": { "@id": "https://baby.chparenting.com/author/vega-lin#person" },
       "publisher": { "@id": "https://baby.chparenting.com#organization" },
       "image": { "@type": "ImageObject", "url": "https://images.pexels.com/photos/35537/child-children-girl-happy.jpg?auto=compress&cs=tinysrgb&w=1260&h=750", "width": 1200, "height": 630 },

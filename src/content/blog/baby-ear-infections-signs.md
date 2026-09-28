@@ -9,7 +9,7 @@ tags: ["ear infection", "baby health", "otitis media", "baby illness", "preventi
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/6849395/pexels-photo-6849395.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-draft: true   # 2026-09-28 暫停：GSC 顯示一般育兒文在 Google 無效，先集中做名字主題；要恢復改回 false
+draft: false
 ---
 
 A baby with an ear infection can't point to their ear and say it hurts — which is exactly what makes ear infections one of the most guessed-about illnesses of the first two years. Is the ear-tugging meaningful? The bad night? The fussiness after a cold? Ear infections are the most common reason young children receive antibiotics, and most children have at least one by age three — so learning the real signs (and the decoy signs) pays off repeatedly. Here's how to read a preverbal baby, what actually happens at the doctor's office, and the prevention levers that genuinely move the odds.
