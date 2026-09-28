@@ -2,7 +2,7 @@
 title: "50 Best Cancer Baby Names: Nurturing Names for Your Little Crab (June 21 – July 22)"
 description: "Discover 50 nurturing Cancer baby names for boys and girls inspired by the moon, water, and love. Find the perfect name for your June or July baby born under the crab."
 publishDate: 2026-04-12
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "cancer-baby-names"
 category: "names"
 tags: ["baby names", "cancer baby names", "zodiac names", "water names", "moon names", "june baby names", "july baby names"]
@@ -38,61 +38,61 @@ The water element gives Cancer their emotional depth, empathy, and flowing adapt
 
 | Name | Meaning | Origin |
 |------|---------|--------|
-| Dylan | Son of the sea, great tide | Welsh |
-| Adrian | Sea, water, dark one | Latin |
-| Morgan | Sea-born, great circle | Welsh |
-| Noah | Rest, comfort, peace | Hebrew |
-| Kai | Sea, ocean, forgiveness | Hawaiian |
-| Lachlan | From the fjord land, lake | Scottish |
-| Nereus | Water, sea god | Greek |
-| Caspian | From the Caspian Sea | Persian |
-| Irving | Green water, sea friend | Scottish |
-| Brooks | Of the brook, small stream | English |
-| Dorian | Gift from the sea, of the sea | Greek |
-| Kelvin | Narrow river, friend of ships | Scottish |
-| Murphy | Sea warrior, sea battler | Irish |
-| Beckett | Bee cottage, brook, stream | English |
-| Corin | Spear, heart, caring | Latin |
-| Edmund | Wealthy protector, guardian | English |
-| Fidel | Faithful, loyal, trustworthy | Latin |
-| Gideon | Great warrior, mighty feller | Hebrew |
-| Hartley | Deer meadow, loving heart | English |
-| Jasper | Treasurer, bringer of treasure | Persian |
-| Liam | Strong-willed warrior, protector | Irish |
-| Osmond | Divine protector, God's shield | English |
-| Rafael | God has healed, healer | Hebrew |
-| Soren | Stern, thunder, gentle | Scandinavian |
-| Warren | Loyal, watchman, protector | French |
+| Dylan | Great tide | Welsh |
+| Adrian | From Hadria, the town that gave the Adriatic Sea its name | Latin |
+| Morgan | Possibly 'sea chief' or 'sea circle' | Welsh |
+| Noah | Rest, comfort | Hebrew |
+| Kai | Sea | Hawaiian |
+| Lachlan | From the land of lakes; originally a name for a Norseman | Scottish |
+| Nereus | A Greek god of the sea | Greek |
+| Caspian | Of the Caspian Sea | English |
+| Irving | Green water, fresh water | Scottish |
+| Brooks | Of the brook | English |
+| Dorian | Of the Dorians, an ancient Greek people | Greek |
+| Kelvin | From the River Kelvin in Scotland | Scottish |
+| Murphy | Sea warrior | Irish |
+| Beckett | From an English surname, possibly 'little brook' | English |
+| Corin | From Quirinus, possibly 'spear' | Latin |
+| Edmund | Rich protector | English |
+| Fidel | Faithful | Latin |
+| Gideon | One who cuts down, hewer | Hebrew |
+| Hartley | Stag clearing | English |
+| Jasper | Treasurer | Persian |
+| Liam | Short form of William, 'resolute protector' | Irish |
+| Osmond | Divine protector | English |
+| Rafael | God has healed | Hebrew |
+| Soren | Danish form of Severinus, 'stern' | Danish |
+| Warren | From a Norman place name; also linked to a Germanic word for 'guard' | English, from Norman French |
 
 ## 25 Cancer Girl Names
 
 | Name | Meaning | Origin |
 |------|---------|--------|
-| Luna | Moon, moonlight | Latin |
-| Marina | Of the sea, from the ocean | Latin |
-| Cordelia | Heart, daughter of the sea | Celtic |
-| Selene | Moon, moon goddess | Greek |
-| Pearl | Precious gem from the sea | English |
-| Maren | Sea, star of the sea | Latin |
-| Diana | Divine, heavenly, moon goddess | Latin |
-| Nerida | Sea nymph, mermaid | Greek |
-| Isla | Island, calm waters | Scottish |
-| Oceane | Ocean, vast sea | French |
-| Phoebe | Bright, shining, moon titan | Greek |
-| Rosemary | Dew of the sea, remembrance | Latin |
-| Serena | Tranquil, serene, calm | Latin |
-| Tallulah | Leaping water, lady of abundance | Native American |
-| Undine | Little wave, water spirit | Latin |
-| Vivian | Alive, living, full of life | Latin |
-| Waverly | Meadow of quivering aspens, wave | English |
-| Yara | Small butterfly, water lady | Arabic |
-| Zarya | Dawn, morning star | Slavic |
-| Amara | Grace, eternal, beloved | Igbo |
-| Brynn | Hill, gentle, kind | Welsh |
-| Celeste | Heavenly, celestial | Latin |
-| Daphne | Laurel tree, bay tree | Greek |
-| Estelle | Star, celestial light | French |
-| Haven | Safe place, shelter, refuge | English |
+| Luna | Moon | Latin |
+| Marina | Of the sea | Latin |
+| Cordelia | Uncertain; sometimes explained as 'daughter of the sea' | Celtic |
+| Selene | Moon; the Greek goddess of the moon | Greek |
+| Pearl | Pearl | English |
+| Maren | Danish form of Marina, 'of the sea' | Danish |
+| Diana | Divine; the Roman goddess of the moon | Latin |
+| Nerida | From the Nereids, the sea nymphs | Greek |
+| Isla | From Islay, a Scottish island | Scottish |
+| Oceane | Ocean | French |
+| Phoebe | Bright, radiant; a Titan linked with the moon | Greek |
+| Rosemary | The herb; from Latin for 'dew of the sea' | Latin |
+| Serena | Serene, calm | Latin |
+| Tallulah | Often given as 'leaping water'; from a place name in Georgia | Native American |
+| Undine | From Latin unda, 'wave' | Latin |
+| Vivian | Alive | Latin |
+| Waverly | Meadow of quivering aspens | English |
+| Yara | In Tupi legend, 'lady of the water'; also used in Arabic | Tupi / Arabic |
+| Zarya | Dawn | Slavic |
+| Amara | In Igbo, 'grace'; in Sanskrit, 'immortal' | Igbo |
+| Brynn | Hill | Welsh |
+| Celeste | Heavenly | Latin |
+| Daphne | Laurel | Greek |
+| Estelle | Star | French |
+| Haven | Harbor, safe place | English |
 
 ## Famous Cancer Personalities
 

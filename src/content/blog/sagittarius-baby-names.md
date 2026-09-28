@@ -2,7 +2,7 @@
 title: "50 Best Sagittarius Baby Names: Adventurous Names for Your Little Archer (November 22 – December 21)"
 description: "Discover 50 adventurous Sagittarius baby names inspired by travel, freedom, truth, and wisdom. Perfect names for babies born under the sign of the Archer, ruled by Jupiter."
 publishDate: 2026-05-02
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "sagittarius-baby-names"
 category: "names"
 tags: ["Sagittarius baby names", "zodiac baby names", "baby names meaning adventure", "baby names meaning freedom", "Jupiter names"]
@@ -59,59 +59,59 @@ As a fire sign ruled by the planet of expansion, names linked to flames, warmth,
 |------|---------|--------|
 | Archer | Bowman | English |
 | Fletcher | Arrow maker | English |
-| Quinn | Wise; counsel | Irish |
-| Atlas | Bearer of the heavens | Greek |
-| Everett | Brave as a wild boar; strong | English |
-| Wilder | Untamed; wild | English |
-| Cato | Wise; all-knowing | Latin |
-| Blaze | Flame; fire | English |
+| Quinn | From Conn, 'chief' or 'intelligence' | Irish |
+| Atlas | The Titan who held up the sky | Greek |
+| Everett | Brave as a wild boar | English |
+| Wilder | Wild, untamed | English |
+| Cato | Wise, shrewd | Latin |
+| Blaze | Flame | English |
 | Theron | Hunter | Greek |
 | Sorin | Sun | Romanian |
-| Colton | Coal town; dark settlement | English |
-| Waylan | Land by the road; traveler | English |
-| Hugo | Mind; intellect | Germanic |
+| Colton | Coal town | English |
+| Waylan | Land by the road | English |
+| Hugo | Mind, spirit | Germanic |
 | Orson | Bear cub | Latin |
-| Apollo | Destroyer; god of light and truth | Greek |
-| Finnegan | Fair; white; adventurer | Irish |
-| Bodhi | Enlightenment; awakening | Sanskrit |
-| Leif | Heir; descendant; beloved | Norse |
-| Jasper | Treasurer; bringer of treasure | Persian |
-| Rowan | Little red one; rowan tree | Irish |
-| Caleb | Faithful; bold | Hebrew |
-| Sterling | Little star; genuine; excellent | English |
-| Dashiell | Page boy; herald | French |
-| Altair | Flying eagle; bright star | Arabic |
-| Idris | Ardent lord; studious | Welsh/Arabic |
+| Apollo | The Greek god of light, music, and archery | Greek |
+| Finnegan | From an Irish surname meaning 'fair' | Irish |
+| Bodhi | Awakening, enlightenment | Sanskrit |
+| Leif | Heir, descendant | Norse |
+| Jasper | Treasurer | Persian |
+| Rowan | Little red-haired one; also the rowan tree | Irish |
+| Caleb | Meaning uncertain; often given as 'whole-hearted' | Hebrew |
+| Sterling | Of high quality; from the name of an old English silver coin | English |
+| Dashiell | From a French surname; meaning uncertain | French |
+| Altair | The flyer; the brightest star in Aquila | Arabic |
+| Idris | In Welsh, 'ardent lord'; in Arabic, the name of a prophet | Welsh/Arabic |
 
 ## 25 Sagittarius Girl Names
 
 | Name | Meaning | Origin |
 |------|---------|--------|
-| Artemis | Goddess of the hunt and moon | Greek |
-| Sage | Wise; herb | English/Latin |
-| Wren | Small bird | English |
-| Vera | Truth; faith | Russian/Latin |
-| Athena | Goddess of wisdom | Greek |
-| Journey | A trip; voyage | English |
+| Artemis | The Greek goddess of the hunt and the moon | Greek |
+| Sage | Wise; also the herb | English/Latin |
+| Wren | A small songbird | English |
+| Vera | Faith; also Latin for 'true' | Russian/Latin |
+| Athena | The Greek goddess of wisdom | Greek |
+| Journey | A journey | English |
 | Seren | Star | Welsh |
-| Clementine | Merciful; gentle | Latin |
-| Diana | Divine; goddess of the hunt | Latin |
-| Faye | Fairy; loyalty | English/French |
-| Haven | Safe place; refuge | English |
-| Thalia | To blossom; joyful | Greek |
-| Scout | To listen; explorer | English |
-| Valentina | Strong; vigorous; healthy | Latin |
-| Kira | Beam of light; sun | Russian |
+| Clementine | Merciful | Latin |
+| Diana | Divine; the Roman goddess of the hunt | Latin |
+| Faye | Fairy | English/French |
+| Haven | Harbor, safe place | English |
+| Thalia | To blossom; the muse of comedy | Greek |
+| Scout | To explore, to gather information | English |
+| Valentina | Strong, vigorous | Latin |
+| Kira | Russian feminine form of Cyrus | Russian |
 | Soleil | Sun | French |
-| Adelaide | Noble nature | Germanic |
+| Adelaide | Noble kind | Germanic |
 | Felicity | Happiness; good fortune | Latin |
 | Verity | Truth | English/Latin |
-| Brielle | God is my strength | French/Hebrew |
-| Zara | Princess; flower; dawn | Arabic/Hebrew |
-| Ember | Spark; burning coal | English |
-| Nova | New; star | Latin |
+| Brielle | Short form of Gabrielle, 'God is my strength' | French/Hebrew |
+| Zara | Possibly from Arabic zahrah, 'blossom' | Arabic |
+| Ember | A glowing coal | English |
+| Nova | New | Latin |
 | Alethea | Truth | Greek |
-| Juniper | Young; evergreen tree | Latin |
+| Juniper | The juniper, an evergreen shrub | Latin |
 
 ## The Jupiter Influence on Sagittarius Names
 

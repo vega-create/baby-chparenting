@@ -15,15 +15,26 @@ def run(slug):
     m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
     path = os.path.join(ROOT, "src/content/blog", slug + ".md"); t = open(path).read()
     lines = t.split("\n"); done = set(); removed = []
+    cols = {}; seen = {}
     for i, l in enumerate(lines):
-        if not l.startswith("| ") or l.startswith("| Name") or l.startswith("|--"): continue
+        if not l.startswith("| ") or l.startswith("|--"): continue
         c = [x.strip() for x in l.strip().strip("|").split("|")]
-        if len(c) < 4 or c[0] not in m.ROWS: continue
-        new, gender, origin, meaning = m.ROWS[c[0]]
+        if c[0] == "Name":                       # 表頭：各篇欄位順序不同（有的沒有 Gender、有的 Meaning 在 Origin 前）
+            cols = {("Meaning" if "Meaning" in h else h): k for k, h in enumerate(c)}
+            continue
+        if not cols or len(c) != len(cols): continue
+        seen[c[0]] = seen.get(c[0], 0) + 1
+        key = f"{c[0]}#{seen[c[0]]}" if f"{c[0]}#{seen[c[0]]}" in m.ROWS else c[0]   # 重複列用 「名字#2」指定第 2 次出現
+        if key not in m.ROWS: continue
+        new, gender, origin, meaning = m.ROWS[key]
         if new and new != c[0]: removed.append(c[0])
-        done.add(c[0])
-        c[0] = new or c[0]; c[1] = gender or c[1]; c[2] = origin or c[2]
-        c[3] = '"' + meaning.replace('"', "'") + '"' if c[3].startswith('"') else meaning
+        done.add(key)
+        c[0] = new or c[0]
+        if gender and "Gender" in cols: c[cols["Gender"]] = gender
+        if origin and "Origin" in cols: c[cols["Origin"]] = origin
+        if meaning and "Meaning" in cols:
+            k = cols["Meaning"]
+            c[k] = '"' + meaning.replace('"', "'") + '"' if c[k].startswith('"') else meaning
         lines[i] = "| " + " | ".join(c) + " |"
     t = "\n".join(lines)
     for a, b in getattr(m, "PROSE", []):

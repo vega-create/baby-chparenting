@@ -2,7 +2,7 @@
 title: "50 Best Virgo Baby Names: Elegant Names for Your Little Maiden (August 23 – September 22)"
 description: "Discover 50 elegant Virgo baby names for boys and girls inspired by wisdom, earth, and purity. Find the perfect name for your August or September baby born under the maiden."
 publishDate: 2026-05-07
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "virgo-baby-names"
 category: "names"
 tags: ["baby names", "virgo baby names", "zodiac names", "earth names", "elegant baby names", "august baby names", "september baby names"]
@@ -38,61 +38,61 @@ The earth element gives Virgo their practicality, reliability, and connection to
 
 | Name | Meaning | Origin |
 |------|---------|--------|
-| Alden | Old friend, wise protector | English |
-| Benedict | Blessed, well spoken of | Latin |
-| Calvin | Bald, little bald one, devotion | French |
-| Desmond | Gracious defender, world | Irish |
-| Elliott | The Lord is my God, devout | English |
-| Frederick | Peaceful ruler, wise sovereign | German |
-| Graham | Gravelly homestead, grand home | Scottish |
-| Hugh | Mind, intellect, spirit | German |
-| Isaac | Laughter, he will laugh | Hebrew |
-| Julian | Youthful, soft, downy | Latin |
-| Kenneth | Handsome, born of fire | Scottish |
-| Lawrence | From Laurentum, laurel crowned | Latin |
-| Maxwell | Great stream, dependable | Scottish |
-| Nathaniel | Gift of God, divine gift | Hebrew |
-| Owen | Young warrior, noble born | Welsh |
-| Philip | Lover of horses, friend | Greek |
-| Reid | Red-haired, clearing, wise | Scottish |
-| Sebastian | Venerable, revered, majestic | Greek |
-| Tobias | God is good, goodness | Hebrew |
-| Virgil | Flourishing, staff bearer | Latin |
-| Wesley | Western meadow, clearing | English |
-| Xavier | New house, bright, splendid | Basque |
+| Alden | Old friend | English |
+| Benedict | Blessed | Latin |
+| Calvin | Bald | French |
+| Desmond | From South Munster, a region of Ireland | Irish |
+| Elliott | From Elias, the Greek form of Elijah, 'my God is Yahweh' | English |
+| Frederick | Peaceful ruler | Germanic |
+| Graham | Gravelly homestead | Scottish |
+| Hugh | Mind, spirit | Germanic |
+| Isaac | He will laugh | Hebrew |
+| Julian | From Julius; possibly 'youthful' | Latin |
+| Kenneth | From two Gaelic names meaning 'born of fire' and 'handsome' | Scottish |
+| Lawrence | From Laurentum, a city whose name may come from 'laurel' | Latin |
+| Maxwell | Mack's stream | Scottish |
+| Nathaniel | God has given | Hebrew |
+| Owen | Possibly 'well-born' or 'youth' | Welsh |
+| Philip | Lover of horses | Greek |
+| Reid | Red-haired | Scottish |
+| Sebastian | From Sebaste; from a Greek word meaning 'venerable' | Greek |
+| Tobias | God is good | Hebrew |
+| Virgil | From a Roman family name; the poet Virgil | Latin |
+| Wesley | Western meadow | English |
+| Xavier | New house | Basque |
 | Zachary | The Lord has remembered | Hebrew |
-| Cedric | Bounty, generous, kind chief | Celtic |
-| Alistair | Defender of the people | Scottish |
+| Cedric | Coined by Sir Walter Scott for Ivanhoe; meaning uncertain | English |
+| Alistair | Scottish form of Alexander, 'defender of men' | Scottish |
 
 ## 25 Virgo Girl Names
 
 | Name | Meaning | Origin |
 |------|---------|--------|
-| Adelaide | Noble natured, nobility | German |
+| Adelaide | Noble kind | Germanic |
 | Beatrice | She who brings happiness | Latin |
-| Catherine | Pure, clear, innocent | Greek |
-| Daphne | Laurel tree, bay tree | Greek |
-| Eleanor | Shining light, compassion | Greek |
-| Frances | Free one, from France | Latin |
-| Genevieve | Woman of the people, white wave | French |
-| Harriet | Ruler of the home, estate | German |
-| Imogen | Maiden, innocent, beloved | Celtic |
-| Josephine | God will increase, addition | French |
-| Katherine | Pure, unsullied, clear | Greek |
-| Louisa | Renowned warrior, famous battle | German |
-| Margaret | Pearl, precious, child of light | Greek |
-| Nora | Honor, light, woman of honor | Irish |
-| Ophelia | Helper, wise woman | Greek |
-| Prudence | Good judgment, careful | Latin |
-| Rosalind | Gentle horse, pretty rose | German |
-| Sophia | Wisdom, divine wisdom | Greek |
-| Teresa | Harvester, reaper, summer | Greek |
-| Ursula | Little bear, strength | Latin |
-| Violet | Purple flower, modest, faithful | Latin |
-| Willa | Resolute protector, determined | German |
-| Clara | Clear, bright, famous | Latin |
-| Edith | Prosperous in war, blessed | English |
-| Flora | Flower, goddess of spring | Latin |
+| Catherine | Meaning uncertain; long associated with Greek katharos, 'pure' | Greek |
+| Daphne | Laurel | Greek |
+| Eleanor | Meaning uncertain | French |
+| Frances | Frenchman; later understood as 'free one' | Latin |
+| Genevieve | Meaning uncertain; possibly 'woman of the people' | French |
+| Harriet | Feminine form of Henry, 'home ruler' | English |
+| Imogen | Probably 'maiden' | Celtic |
+| Josephine | Feminine form of Joseph, 'God will add' | French |
+| Katherine | Meaning uncertain; long associated with Greek katharos, 'pure' | Greek |
+| Louisa | Feminine form of Louis, 'famous warrior' | Germanic |
+| Margaret | Pearl | Greek |
+| Nora | Short form of Honora, 'honor', or of Eleanor | Irish |
+| Ophelia | Help | Greek |
+| Prudence | Good judgment | Latin |
+| Rosalind | 'Horse' + 'tender'; later read as Latin for 'pretty rose' | Germanic |
+| Sophia | Wisdom | Greek |
+| Teresa | Meaning uncertain; possibly 'harvest' or 'summer' | Greek |
+| Ursula | Little bear | Latin |
+| Violet | The violet flower; purple | Latin |
+| Willa | Feminine form of William, 'resolute protector' | Germanic |
+| Clara | Clear, bright | Latin |
+| Edith | Rich in war | English |
+| Flora | Flower; the Roman goddess of flowers and spring | Latin |
 
 ## Famous Virgo Personalities
 

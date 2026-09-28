@@ -2,7 +2,7 @@
 title: "50 Best Gemini Baby Names: Clever Names for Your Little Twin (May 21 – June 20)"
 description: "Discover 50 clever Gemini baby names for boys and girls inspired by air, wit, and communication. Find the perfect name for your May or June baby born under the twins."
 publishDate: 2026-04-10
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "gemini-baby-names"
 category: "names"
 tags: ["baby names", "gemini baby names", "zodiac names", "air names", "may baby names", "june baby names", "clever baby names"]
@@ -38,61 +38,61 @@ The air element gives Gemini their lightness, mental agility, and love of ideas.
 
 | Name | Meaning | Origin |
 |------|---------|--------|
-| Hugo | Mind, intellect, spirit | German |
-| Felix | Happy, fortunate, lucky | Latin |
-| Caspian | From the Caspian, white | Persian |
-| Sage | Wise, learned, herb | Latin |
-| Alaric | All-powerful ruler, noble | German |
-| Corbin | Raven, clever bird | French |
-| Dashiell | Page boy, messenger | French |
-| Emrys | Immortal, wise counselor | Welsh |
-| Hermes | Messenger of the gods | Greek |
-| Luca | Light, bringer of light | Italian |
+| Hugo | Mind, spirit | Germanic |
+| Felix | Lucky, happy | Latin |
+| Caspian | Of the Caspian Sea | English |
+| Sage | Wise; also the herb | Latin |
+| Alaric | Ruler of all | Gothic |
+| Corbin | Raven | French |
+| Dashiell | From a French surname; meaning uncertain | French |
+| Emrys | Immortal; the Welsh form of Ambrose | Welsh |
+| Hermes | The messenger of the Greek gods | Greek |
+| Luca | Italian form of Luke, 'from Lucania' | Italian |
 | Nico | Victory of the people | Greek |
-| Orion | Rising in the sky, hunter | Greek |
-| Phineas | Oracle, serpent's mouth | Hebrew |
-| Quinn | Wisdom, intelligence, chief | Irish |
-| Rafferty | Prosperous, abundance | Irish |
-| Stellan | Calm, peaceful, star | Scandinavian |
-| Theron | Hunter, seeker | Greek |
-| Vincent | Conquering, prevailing | Latin |
-| Wyatt | Brave in war, guide | English |
-| Caelum | Sky, heaven, celestial | Latin |
-| Idris | Studious, learned lord | Welsh |
-| Jasper | Treasurer, bringer of treasure | Persian |
-| Kellan | Slender, fair, bright | Irish |
-| Leander | Lion man, brave | Greek |
+| Orion | Meaning uncertain; the hunter constellation | Greek |
+| Phineas | Meaning uncertain; possibly Egyptian, 'the Nubian' | Hebrew |
+| Quinn | From Conn, 'chief' or 'intelligence' | Irish |
+| Rafferty | From an Irish surname meaning 'prosperity' | Irish |
+| Stellan | Possibly 'calm' | Swedish |
+| Theron | Hunter | Greek |
+| Vincent | Conquering | Latin |
+| Wyatt | Brave in war | English |
+| Caelum | Sky, heaven | Latin |
+| Idris | In Welsh, 'ardent lord'; in Arabic, the name of a prophet | Welsh / Arabic |
+| Jasper | Treasurer | Persian |
+| Kellan | From an Irish surname, possibly 'slender' | Irish |
+| Leander | Lion man | Greek |
 | Bodhi | Enlightenment, awakening | Sanskrit |
 
 ## 25 Gemini Girl Names
 
 | Name | Meaning | Origin |
 |------|---------|--------|
-| Aria | Air, song, melody | Italian |
-| Clio | Glory, fame, celebrate | Greek |
-| Elara | Bright, shining one | Greek |
-| Gemma | Precious stone, jewel | Italian |
+| Aria | Air; a solo song in opera | Italian |
+| Clio | Glory; the muse of history | Greek |
+| Elara | A figure in Greek myth and a moon of Jupiter; meaning uncertain | Greek |
+| Gemma | Gem, jewel | Italian |
 | Iris | Rainbow, messenger goddess | Greek |
-| Juno | Queen of heaven, youth | Latin |
-| Kaia | Earth, sea, pure | Scandinavian |
-| Luna | Moon, light in darkness | Latin |
-| Mira | Wonderful, admirable, peace | Latin |
-| Nova | New, star, bright | Latin |
-| Ophelia | Helper, wise woman | Greek |
-| Paloma | Dove, peace, gentle | Spanish |
-| Rhea | Flowing, mother of gods | Greek |
-| Seren | Star, bright, serene | Welsh |
-| Thalia | Blooming, joyful, muse of comedy | Greek |
-| Una | One, unity, truth | Irish |
-| Vera | Truth, faith, genuine | Russian |
-| Wren | Small bird, songbird | English |
-| Xanthe | Golden, yellow, bright | Greek |
-| Yara | Small butterfly, water lady | Arabic |
-| Zelda | Gray warrior, blessed | German |
-| Astrid | Divinely beautiful, star strength | Scandinavian |
-| Calliope | Beautiful voice, muse of poetry | Greek |
-| Daphne | Laurel tree, victory | Greek |
-| Eloise | Healthy, wide, famous warrior | French |
+| Juno | Queen of the Roman gods; possibly 'youth' | Latin |
+| Kaia | Scandinavian pet form of Katarina; also linked to Hawaiian kai, 'sea' | Scandinavian |
+| Luna | Moon | Latin |
+| Mira | Wonderful; in Slavic languages, 'peace' | Latin / Slavic |
+| Nova | New | Latin |
+| Ophelia | Help | Greek |
+| Paloma | Dove | Spanish |
+| Rhea | Mother of the Greek gods; possibly 'flowing' | Greek |
+| Seren | Star | Welsh |
+| Thalia | To blossom; the muse of comedy | Greek |
+| Una | In Latin, 'one'; the Irish name Úna may mean 'lamb' | Latin / Irish |
+| Vera | Faith; also Latin for 'true' | Russian |
+| Wren | A small songbird | English |
+| Xanthe | Golden, yellow | Greek |
+| Yara | In Tupi legend, 'lady of the water'; also used in Arabic | Tupi / Arabic |
+| Zelda | Short form of Griselda, 'gray battle' | Germanic |
+| Astrid | Divinely beautiful | Scandinavian |
+| Calliope | Beautiful voice; the muse of epic poetry | Greek |
+| Daphne | Laurel | Greek |
+| Eloise | Meaning uncertain; possibly Germanic, 'healthy' + 'wide' | French |
 
 ## Famous Gemini Personalities
 

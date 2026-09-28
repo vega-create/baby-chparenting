@@ -2,7 +2,7 @@
 title: "50 Best Aquarius Baby Names: Unique Names for Your Little Water Bearer (January 20 – February 18)"
 description: "Discover 50 unique Aquarius baby names inspired by innovation, independence, and humanitarianism. Perfect names for babies born under the sign of the Water Bearer, ruled by Uranus."
 publishDate: 2026-05-04
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "aquarius-baby-names"
 category: "names"
 tags: ["Aquarius baby names", "zodiac baby names", "baby names meaning unique", "baby names meaning freedom", "Uranus names"]
@@ -57,61 +57,61 @@ Aquarius is the zodiac's humanitarian, driven by concern for collective well-bei
 
 | Name | Meaning | Origin |
 |------|---------|--------|
-| Aiden | Little fire; born of fire | Irish |
-| Caelum | Sky; heaven; chisel (constellation name) | Latin |
-| Darwin | Dear friend; gifted | English |
-| Edison | Son of Edward; innovation | English |
-| Finn | Fair; white; clear | Irish |
-| Galileo | From Galilee; after the astronomer | Italian |
-| Hudson | Son of Hugh; mind and spirit | English |
-| Idris | Ardent lord; interpreter | Welsh/Arabic |
-| Jove | Jupiter; sky father | Latin |
-| Kai | Sea; ocean; forgiveness | Hawaiian/Japanese |
-| Leo | Lion; brave | Latin |
-| Miles | Soldier; merciful | Latin/Germanic |
-| Noel | Christmas; new birth | French |
-| Orion | Rising in the sky; hunter | Greek |
-| Phoenix | Rising from ashes; renewed | Greek |
-| Rainer | Wise army; counsel | Germanic |
-| Skyler | Scholar; sky | Dutch/English |
+| Aiden | Little fire | Irish |
+| Caelum | Sky, heaven; also a constellation | Latin |
+| Darwin | Dear friend | English |
+| Edison | From an English surname; the name of inventor Thomas Edison | English |
+| Finn | Fair, white | Irish |
+| Galileo | From Galilee; the name of the astronomer | Italian |
+| Hudson | Son of Hugh | English |
+| Idris | In Welsh, 'ardent lord'; in Arabic, the name of a prophet | Welsh/Arabic |
+| Jove | Jupiter, the Roman king of the gods | Latin |
+| Kai | Sea | Hawaiian |
+| Leo | Lion | Latin |
+| Miles | Meaning uncertain; often linked to Latin miles, 'soldier' | Latin/Germanic |
+| Noel | Christmas | French |
+| Orion | Meaning uncertain; the hunter constellation | Greek |
+| Phoenix | Dark red; the mythical bird reborn from fire | Greek |
+| Rainer | Counsel + army | Germanic |
+| Skyler | From the Dutch surname Schuyler, 'scholar' | Dutch |
 | Tobias | God is good | Hebrew |
 | Uri | My light; my flame | Hebrew |
-| Wade | To go; ford; river crossing | English |
-| Xander | Defender of the people | Greek |
-| Zephyr | West wind; gentle breeze | Greek |
-| Cedric | Bounty; war leader | Celtic |
-| Brooks | Of the brook; small stream | English |
-| Novak | New; newcomer | Slavic |
+| Wade | Ford, river crossing | English |
+| Xander | Short form of Alexander, 'defender of men' | Greek |
+| Zephyr | West wind | Greek |
+| Cedric | Coined by Sir Walter Scott for Ivanhoe; meaning uncertain | English |
+| Brooks | Of the brook | English |
+| Novak | New man, newcomer | Slavic |
 
 ## 25 Aquarius Girl Names
 
 | Name | Meaning | Origin |
 |------|---------|--------|
-| Aquata | Water | Latin |
-| Celeste | Heavenly; celestial | Latin |
-| Delta | Fourth letter; river mouth | Greek |
-| Eden | Delight; paradise | Hebrew |
-| Freya | Noble woman; freedom | Norse |
+| Aqua | Water | Latin |
+| Celeste | Heavenly | Latin |
+| Delta | The mouth of a river; the fourth Greek letter | Greek |
+| Eden | Delight | Hebrew |
+| Freya | Lady; the Norse goddess of love | Norse |
 | Genesis | Beginning; origin | Greek |
-| Haven | Safe place; sanctuary | English |
+| Haven | Harbor, safe place | English |
 | Iris | Rainbow; messenger of the gods | Greek |
-| Juno | Queen of the heavens | Latin |
-| Kaia | Earth; sea; pure | Scandinavian |
+| Juno | Queen of the Roman gods; possibly 'youth' | Latin |
+| Kaia | Scandinavian pet form of Katarina; also linked to Hawaiian kai, 'sea' | Scandinavian |
 | Liberty | Freedom | English |
 | Marina | Of the sea | Latin |
-| Neve | Snow; bright; radiant | Irish/Italian |
+| Neve | In Italian, 'snow'; also an English spelling of Niamh, 'bright' | Irish/Italian |
 | Ondina | Little wave | Latin |
-| Phoebe | Bright; shining; pure | Greek |
-| Rain | Abundant blessings from above | English |
-| Skye | Cloud; sky; isle of Skye | Scottish |
-| Tallulah | Leaping water | Native American |
-| Unity | Oneness; togetherness | English |
-| Vera | Truth; faith | Russian/Latin |
+| Phoebe | Bright, radiant | Greek |
+| Rain | Rain | English |
+| Skye | From the Isle of Skye in Scotland | Scottish |
+| Tallulah | Often given as 'leaping water'; from a place name in Georgia | Native American |
+| Unity | Oneness | English |
+| Vera | Faith; also Latin for 'true' | Russian/Latin |
 | Wren | Small songbird | English |
-| Xenia | Hospitality; welcoming | Greek |
-| Zora | Dawn; aurora | Slavic |
-| Astrid | Divine strength; star | Norse |
-| Lyra | Lyre; constellation | Greek |
+| Xenia | Hospitality | Greek |
+| Zora | Dawn | Slavic |
+| Astrid | Divinely beautiful | Norse |
+| Lyra | Lyre; the constellation Lyra | Greek |
 
 ## The Uranus Influence on Aquarius Names
 

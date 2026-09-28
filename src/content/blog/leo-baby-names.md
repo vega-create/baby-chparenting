@@ -2,7 +2,7 @@
 title: "50 Best Leo Baby Names: Royal Names for Your Little Lion (July 23 – August 22)"
 description: "Discover 50 regal Leo baby names for boys and girls inspired by the sun, lions, and royalty. Find the perfect name for your July or August baby born under the lion."
 publishDate: 2026-04-14
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "leo-baby-names"
 category: "names"
 tags: ["baby names", "leo baby names", "zodiac names", "royal names", "sun names", "july baby names", "august baby names"]
@@ -38,61 +38,61 @@ The fire element gives Leo their passion, creativity, and vibrant energy. Fire s
 
 | Name | Meaning | Origin |
 |------|---------|--------|
-| Leo | Lion, brave and bold | Latin |
-| Leon | Lion, lionhearted | Greek |
-| Arthur | Bear king, noble, courageous | Celtic |
-| Rex | King, ruler, sovereign | Latin |
-| Cyrus | Sun, lord, throne | Persian |
-| Apollo | God of sun, light, music | Greek |
-| Alaric | All-powerful ruler, noble | German |
-| Augustus | Great, magnificent, venerable | Latin |
-| Felix | Happy, fortunate, blessed | Latin |
-| Griffin | Strong lord, fierce | Welsh |
-| Henry | Ruler of the home, estate ruler | German |
-| Jasper | Treasurer, bringer of treasure | Persian |
-| Kingston | King's town, royal settlement | English |
-| Leopold | Brave people, bold leader | German |
-| Magnus | Great, mighty, supreme | Latin |
-| Orion | Rising in the sky, great hunter | Greek |
-| Patrick | Noble, patrician, nobleman | Latin |
-| Quentin | Fifth, but implies leadership | Latin |
-| Regis | Kingly, of the king | Latin |
-| Samson | Sun child, bright sun | Hebrew |
-| Solomon | Peace, wisdom, king | Hebrew |
-| Alaric | All-powerful ruler | German |
-| Bastian | Venerable, revered, majestic | Greek |
-| Darius | Kingly, possessing goodness | Persian |
-| Emeric | Power, ruler, king | German |
+| Leo | Lion | Latin |
+| Leon | Lion | Greek |
+| Arthur | Meaning uncertain, possibly 'bear'; the legendary king of Britain | Celtic |
+| Rex | King | Latin |
+| Cyrus | Meaning uncertain; the founder of the Persian Empire | Persian |
+| Apollo | The Greek god of light, music, and the sun | Greek |
+| Alaric | Ruler of all | Gothic |
+| Augustus | Venerable, majestic | Latin |
+| Felix | Lucky, happy | Latin |
+| Griffin | From Gruffudd, 'strong lord' | Welsh |
+| Henry | Home ruler | Germanic |
+| Jasper | Treasurer | Persian |
+| Kingston | King's town | English |
+| Leopold | Bold people | Germanic |
+| Magnus | Great | Latin |
+| Orion | Meaning uncertain; the hunter constellation | Greek |
+| Patrick | Nobleman, patrician | Latin |
+| Quentin | Fifth | Latin |
+| Regis | Of the king | Latin |
+| Samson | From shemesh, 'sun' | Hebrew |
+| Solomon | Peace; the wise king of the Bible | Hebrew |
+| Lionel | Little lion | French |
+| Bastian | Short form of Sebastian, from a Greek word meaning 'venerable' | Greek |
+| Darius | Possessing goodness; the name of Persian kings | Persian |
+| Emeric | From a name ending in ric, 'ruler, power' | Germanic |
 
 ## 25 Leo Girl Names
 
 | Name | Meaning | Origin |
 |------|---------|--------|
-| Leona | Lioness, brave woman | Latin |
-| Aurora | Dawn, golden light | Latin |
-| Regina | Queen, ruler, sovereign | Latin |
-| Solana | Sunshine, sunlight | Spanish |
-| Eleonora | Shining light, compassion | Greek |
-| Aurelia | Golden, gilded, radiant | Latin |
-| Victoria | Victory, conqueror, triumphant | Latin |
-| Helena | Bright, shining torch | Greek |
-| Marisol | Sea and sun, Mary of solace | Spanish |
-| Orla | Golden princess, golden queen | Irish |
-| Queenie | Queen, royal woman | English |
-| Roxana | Dawn, brilliant, radiant | Persian |
-| Savannah | Open plain, treeless | Spanish |
-| Thea | Goddess, divine gift | Greek |
-| Valentina | Strong, vigorous, brave | Latin |
-| Winifred | Blessed peacemaking, fair one | Welsh |
-| Xiomara | Ready for battle, famous | Spanish |
-| Yolanda | Violet flower, humble, modest | Greek |
-| Zara | Princess, blooming flower, dawn | Arabic |
-| Ariadne | Most holy, divine | Greek |
-| Beatrix | She who brings happiness, blessed | Latin |
-| Cleopatra | Glory of the father, famous | Greek |
-| Dahlia | Valley flower, elegant | Scandinavian |
-| Elara | Bright, shining, cheerful | Greek |
-| Goldie | Gold, precious, golden | English |
+| Leona | Lioness | Latin |
+| Aurora | Dawn | Latin |
+| Regina | Queen | Latin |
+| Solana | Sunny place | Spanish |
+| Eleonora | Italian form of Eleanor; meaning uncertain | Italian |
+| Aurelia | Golden | Latin |
+| Victoria | Victory | Latin |
+| Helena | Form of Helen; probably 'torch' or 'shining light' | Greek |
+| Marisol | A blend of María and Soledad; popularly understood as 'sea and sun' | Spanish |
+| Orla | Golden princess | Irish |
+| Queenie | Queen | English |
+| Roxana | Dawn, bright | Persian |
+| Savannah | A treeless plain | Spanish, from Taino |
+| Thea | Short form of Dorothea or Theodora; also Theia, the Titan goddess of light | Greek |
+| Valentina | Strong, vigorous | Latin |
+| Winifred | Blessed peace | Welsh |
+| Xiomara | Possibly 'famous in battle' | Spanish |
+| Yolanda | Probably 'violet' | Spanish |
+| Zara | Possibly from Arabic zahrah, 'blossom' | Arabic |
+| Ariadne | Most holy | Greek |
+| Beatrix | She who brings happiness | Latin |
+| Cleopatra | Glory of the father | Greek |
+| Dahlia | The dahlia flower, named for botanist Anders Dahl | Swedish, via botany |
+| Elara | A figure in Greek myth and a moon of Jupiter; meaning uncertain | Greek |
+| Goldie | Gold | English |
 
 ## Famous Leo Personalities
 

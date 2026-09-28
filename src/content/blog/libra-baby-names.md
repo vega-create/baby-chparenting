@@ -2,7 +2,7 @@
 title: "50 Best Libra Baby Names: Harmonious Names for Your Little Scale (September 23 – October 22)"
 description: "Discover 50 beautiful Libra baby names inspired by balance, harmony, justice, and beauty. Perfect names for babies born under the sign of the Scales, ruled by Venus."
 publishDate: 2026-04-30
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "libra-baby-names"
 category: "names"
 tags: ["Libra baby names", "zodiac baby names", "baby names meaning balance", "baby names meaning harmony", "Venus names"]
@@ -57,58 +57,58 @@ As an air sign ruled by Venus, names linked to the wind, sky, love, and the plan
 | Name | Meaning | Origin |
 |------|---------|--------|
 | Solomon | Peace | Hebrew |
-| Jasper | Treasurer; bringer of treasure | Persian |
+| Jasper | Treasurer | Persian |
 | Felix | Happy; fortunate | Latin |
 | Pax | Peace | Latin |
 | Oliver | Olive tree (symbol of peace) | Latin |
-| Cedric | Bounty; pattern of generosity | Celtic |
-| Alaric | Noble ruler | Germanic |
+| Cedric | Coined by Sir Walter Scott for Ivanhoe; meaning uncertain | English |
+| Alaric | Ruler of all | Gothic |
 | Callum | Dove (symbol of peace) | Scottish Gaelic |
 | Beau | Handsome; beautiful | French |
-| Adonis | Extremely handsome | Greek |
+| Adonis | Lord; the beautiful youth of Greek myth | Greek |
 | Justin | Just; righteous | Latin |
-| Asa | Healer; physician | Hebrew |
-| Caius | Rejoice | Latin |
+| Asa | Possibly 'healer' | Hebrew |
+| Caius | Uncertain; possibly related to Latin gaudere, 'to rejoice' | Latin |
 | Frederick | Peaceful ruler | Germanic |
-| Stellan | Calm; peaceful | Swedish |
+| Stellan | Possibly 'calm' | Swedish |
 | Zephyr | West wind | Greek |
-| Lorcan | Little fierce one; brave | Irish |
-| Geoffrey | Peaceful territory | Germanic |
-| Emeric | Power; ruler of work | Germanic |
+| Lorcan | Little fierce one | Irish |
+| Geoffrey | A Germanic name ending in frid, 'peace' | Germanic |
+| Emeric | From a name ending in ric, 'ruler, power' | Germanic |
 | Axel | Father of peace | Scandinavian |
-| Shiloh | Tranquil; peaceful | Hebrew |
-| Cassius | Hollow; vain; clever | Latin |
-| Dorian | Gift; from the sea | Greek |
+| Shiloh | Uncertain; often given as 'tranquil' | Hebrew |
+| Cassius | From a Roman family name, possibly 'hollow' | Latin |
+| Dorian | Of the Dorians, an ancient Greek people | Greek |
 | Amadeus | Lover of God | Latin |
-| Ren | Lotus; love | Japanese |
+| Ren | 'Lotus' when written 蓮; 'love' when written 恋 | Japanese |
 
 ## 25 Libra Girl Names
 
 | Name | Meaning | Origin |
 |------|---------|--------|
-| Harmony | Musical combination; balance | English |
+| Harmony | Harmony | English |
 | Irene | Peace | Greek |
 | Serena | Tranquil; serene | Latin |
 | Bella | Beautiful | Italian |
-| Grace | Elegance; grace of God | Latin |
-| Freya | Noble woman; goddess of love | Norse |
+| Grace | Grace | Latin |
+| Freya | Lady; the Norse goddess of love | Norse |
 | Justine | Just; righteous | Latin |
 | Olive | Olive tree (symbol of peace) | English |
 | Calista | Most beautiful | Greek |
 | Venus | Goddess of love and beauty | Latin |
-| Mira | Wonderful; peace; female ruler | Latin/Slavic |
+| Mira | Wonderful; in Slavic languages, 'peace' | Latin/Slavic |
 | Paloma | Dove | Spanish |
-| Winifred | Blessed peacemaking | Welsh |
-| Eir | Peace; mercy | Norse |
-| Galena | Calm; healer | Greek |
+| Winifred | Blessed peace | Welsh |
+| Eir | Mercy; the Norse goddess of healing | Norse |
+| Galena | Calm | Greek |
 | Ariella | Lioness of God | Hebrew |
 | Gemma | Precious stone | Italian |
 | Concordia | Harmony; agreement | Latin |
 | Linnea | Linden tree; twinflower | Swedish |
 | Celia | Heavenly | Latin |
-| Naomi | Pleasant; beautiful | Hebrew |
+| Naomi | Pleasantness | Hebrew |
 | Grazia | Grace | Italian |
-| Halcyon | Calm; peaceful; kingfisher bird | Greek |
+| Halcyon | Kingfisher; calm and peaceful | Greek |
 | Dulcie | Sweet | Latin |
 | Salome | Peace | Hebrew |
 

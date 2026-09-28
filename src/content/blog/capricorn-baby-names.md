@@ -2,7 +2,7 @@
 title: "50 Best Capricorn Baby Names: Ambitious Names for Your Little Goat (December 22 – January 19)"
 description: "Discover 50 strong Capricorn baby names inspired by ambition, endurance, discipline, and strength. Perfect names for babies born under the sign of the Sea-Goat, ruled by Saturn."
 publishDate: 2026-05-03
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "capricorn-baby-names"
 category: "names"
 tags: ["Capricorn baby names", "zodiac baby names", "baby names meaning strength", "baby names meaning ambition", "Saturn names"]
@@ -58,30 +58,30 @@ As a cardinal sign, Capricorn is a natural leader. Names that evoke governance, 
 | Name | Meaning | Origin |
 |------|---------|--------|
 | Ethan | Strong; firm; enduring | Hebrew |
-| Conrad | Brave counsel | Germanic |
-| Edmund | Prosperous protector | English |
-| Flint | Hard quartz rock | English |
-| Barrett | Bear strength | Germanic |
-| Callum | Dove; peace | Scottish |
-| Garrison | Stronghold; fortress | English |
-| Desmond | Gracious defender | Irish |
-| Cedric | Bounty; war leader | Celtic |
-| Everest | Highest peak | English |
-| Garrett | Brave with a spear | Germanic |
-| Aldric | Old ruler; wise ruler | Germanic |
-| Bernard | Strong as a bear | Germanic |
-| Clayton | Settlement on clay; earth | English |
-| Emery | Brave; powerful | Germanic |
-| Henry | Ruler of the home | Germanic |
-| Marcus | Warlike; dedicated to Mars | Latin |
-| Nolan | Champion; noble | Irish |
+| Conrad | Bold counsel | Germanic |
+| Edmund | Rich protector | English |
+| Flint | A hard stone | English |
+| Barrett | From a surname, possibly 'bear strength' | English |
+| Callum | Dove | Scottish |
+| Garrison | Son of Garret; also a fortified post | English |
+| Desmond | From South Munster, a region of Ireland | Irish |
+| Cedric | Coined by Sir Walter Scott for Ivanhoe; meaning uncertain | English |
+| Everest | From an English surname; the name of the world's highest mountain | English |
+| Garrett | From Gerard or Gerald: spear + 'brave' or 'ruler' | Germanic |
+| Aldric | Old ruler | Germanic |
+| Bernard | Brave as a bear | Germanic |
+| Clayton | Settlement on clay | English |
+| Emery | From a name ending in ric, 'power' | Germanic |
+| Henry | Home ruler | Germanic |
+| Marcus | Dedicated to Mars | Latin |
+| Nolan | From an Irish surname meaning 'noble, famous' | Irish |
 | Patrick | Nobleman | Latin |
-| Quentin | Fifth; steady | Latin |
+| Quentin | Fifth | Latin |
 | Raymond | Wise protector | Germanic |
-| Thaddeus | Courageous heart | Aramaic |
-| Warren | Watchman; guardian | Germanic |
+| Thaddeus | Meaning uncertain; possibly 'heart' | Aramaic |
+| Warren | From a Norman place name; also linked to a Germanic word for 'guard' | English, from Norman French |
 | Wyatt | Brave in war | English |
-| Arthur | Bear king; noble | Celtic |
+| Arthur | Meaning uncertain, possibly 'bear' | Celtic |
 
 ## 25 Capricorn Girl Names
 
@@ -90,28 +90,28 @@ As a cardinal sign, Capricorn is a natural leader. Names that evoke governance, 
 | Petra | Rock; stone | Greek |
 | Matilda | Mighty in battle | Germanic |
 | Constance | Steadfast; constant | Latin |
-| Bridget | Strength; exalted one | Irish |
+| Bridget | Exalted one | Irish |
 | Ramona | Wise protector | Spanish |
-| Sierra | Mountain range | Spanish |
-| Elara | Bright; shining | Greek |
-| Honora | Honor; dignity | Latin |
-| Millicent | Strong in work | Germanic |
-| Brynn | Hill; mound | Welsh |
-| Adelaide | Noble nature | Germanic |
-| Greta | Pearl | Germanic |
-| Hildegard | Battle enclosure; protection | Germanic |
-| Edith | Prosperous in war | English |
-| Maura | Great; dark | Irish/Latin |
+| Sierra | Mountain range; literally 'saw' | Spanish |
+| Elara | A figure in Greek myth and a moon of Jupiter; meaning uncertain | Greek |
+| Honora | Honor | Latin |
+| Millicent | Work + strength | Germanic |
+| Brynn | Hill | Welsh |
+| Adelaide | Noble kind | Germanic |
+| Greta | Short form of Margarete, 'pearl' | German |
+| Hildegard | Battle + enclosure | Germanic |
+| Edith | Rich in war | English |
+| Maura | Irish form of Mary; also from Latin Maurus, 'dark' | Irish/Latin |
 | Patricia | Noblewoman | Latin |
 | Sabine | Of the Sabine people | Latin |
-| Theresa | Harvester; summer | Greek |
+| Theresa | Meaning uncertain; possibly 'harvest' or 'summer' | Greek |
 | Ursula | Little bear | Latin |
-| Vivienne | Alive; full of life | French |
-| Willa | Resolute protector | Germanic |
-| Harriet | Estate ruler | English |
+| Vivienne | Alive | French |
+| Willa | Feminine form of William, 'resolute protector' | Germanic |
+| Harriet | Feminine form of Henry, 'home ruler' | English |
 | Bernadette | Brave as a bear | French/Germanic |
-| Daphne | Laurel tree; victory | Greek |
-| Imogen | Maiden; beloved child | Celtic |
+| Daphne | Laurel | Greek |
+| Imogen | Probably 'maiden' | Celtic |
 
 ## The Saturn Influence on Capricorn Names
 

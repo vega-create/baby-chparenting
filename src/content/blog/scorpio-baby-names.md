@@ -2,7 +2,7 @@
 title: "50 Best Scorpio Baby Names: Powerful Names for Your Little Scorpion (October 23 – November 21)"
 description: "Explore 50 powerful Scorpio baby names inspired by mystery, transformation, and depth. Perfect names for babies born under the intense and passionate sign of the Scorpion."
 publishDate: 2026-05-01
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "scorpio-baby-names"
 category: "names"
 tags: ["Scorpio baby names", "zodiac baby names", "baby names meaning power", "baby names meaning mystery", "Pluto names"]
@@ -57,29 +57,29 @@ As a water sign with deep ties to the night sky and the unseen world, names link
 
 | Name | Meaning | Origin |
 |------|---------|--------|
-| Phoenix | Rising from ashes; reborn | Greek |
+| Phoenix | Dark red; the mythical bird reborn from fire | Greek |
 | Kieran | Little dark one | Irish |
 | Maverick | Independent; nonconformist | American English |
-| Griffin | Strong lord; fierce | Welsh |
-| Damian | To tame; subdue | Greek |
+| Griffin | From Gruffudd, 'strong lord' | Welsh |
+| Damian | To tame | Greek |
 | Blade | Sword; knife edge | English |
-| Magnus | Great; mighty | Latin |
-| Draven | Hunter; child of shadows | American English |
+| Magnus | Great | Latin |
+| Draven | From the surname of the hero of The Crow; meaning uncertain | American English |
 | Osiris | God of the underworld and rebirth | Egyptian |
-| Brennan | Descendant of the sad one; sorrow | Irish |
-| Alaric | Ruler of all | Germanic |
-| Orion | Rising in the sky; hunter | Greek |
+| Brennan | Descendant of Braonán, 'sorrow' or 'drop' | Irish |
+| Alaric | Ruler of all | Gothic |
+| Orion | Meaning uncertain; the hunter constellation | Greek |
 | Maximus | Greatest | Latin |
-| Damon | To tame; spirit | Greek |
-| Evander | Good man; strong man | Greek |
-| Kael | Mighty warrior | Irish |
-| Samson | Sun; strong one | Hebrew |
+| Damon | To tame | Greek |
+| Evander | Good man | Greek |
+| Kael | From Irish caol, 'slender' | Irish |
+| Samson | From shemesh, 'sun' | Hebrew |
 | Ronan | Little seal | Irish |
-| Cyrus | Sun; lord | Persian |
-| Drake | Dragon; male duck | English |
-| Ulric | Wolf ruler; power | Germanic |
-| Zane | God is gracious; gift | Hebrew |
-| Knox | Round hill; from the hillock | Scottish |
+| Cyrus | Meaning uncertain; the founder of the Persian Empire | Persian |
+| Drake | Dragon; also a male duck | English |
+| Ulric | Wolf ruler; or a form of Ulrich, 'prosperity and power' | Germanic |
+| Zane | Meaning uncertain; sometimes explained as a form of John | English |
+| Knox | Round hill | Scottish |
 | Caspian | Of the Caspian Sea | English |
 | Leander | Lion man | Greek |
 
@@ -87,31 +87,31 @@ As a water sign with deep ties to the night sky and the unseen world, names link
 
 | Name | Meaning | Origin |
 |------|---------|--------|
-| Raven | Dark-haired; blackbird | English |
-| Lilith | Of the night | Hebrew |
-| Valeria | Strong; brave | Latin |
+| Raven | The raven | English |
+| Lilith | Of the night; a figure of Jewish folklore | Hebrew |
+| Valeria | Strong, healthy | Latin |
 | Nyx | Night | Greek |
-| Kendra | Knowledge; champion | English/Welsh |
+| Kendra | Feminine form of Kendrick; meaning uncertain | English/Welsh |
 | Morrigan | Phantom queen; great queen | Irish |
-| Tempest | Storm; turbulent | English |
-| Ondine | Little wave; water spirit | Latin |
-| Elektra | Shining; bright; amber | Greek |
-| Briar | Thorny bush; nature | English |
-| Cordelia | Heart; daughter of the sea | Latin/Celtic |
-| Seraphina | Fiery; burning one | Hebrew |
-| Persephone | Bringer of destruction | Greek |
-| Enya | Little fire | Irish |
-| Morgana | Sea circle; great brightness | Welsh |
-| Thea | Goddess; divine | Greek |
-| Astrid | Divine strength | Norse |
+| Tempest | Storm | English |
+| Ondine | From Latin unda, 'wave' | Latin |
+| Elektra | Amber; shining | Greek |
+| Briar | A thorny shrub | English |
+| Cordelia | Uncertain; sometimes explained as 'daughter of the sea' | Latin/Celtic |
+| Seraphina | From the seraphim, 'the burning ones' | Hebrew |
+| Persephone | Meaning uncertain; the queen of the underworld in Greek myth | Greek |
+| Enya | Anglicized form of Eithne, 'kernel' | Irish |
+| Morgana | Feminine form of Morgan; the enchantress of Arthurian legend | Welsh |
+| Thea | Short form of Dorothea or Theodora; also Theia, the Titan goddess of light | Greek |
+| Astrid | Divinely beautiful | Norse |
 | Maeve | She who intoxicates | Irish |
 | Sabrina | From the River Severn | Celtic |
-| Isolde | Ice ruler; beautiful | Germanic |
-| Lorelei | Alluring enchantress | German |
-| Vesper | Evening star | Latin |
-| Ingrid | Beautiful; beloved | Norse |
-| Arya | Noble; honorable | Sanskrit |
-| Reverie | Daydream; deep thought | French |
+| Isolde | Meaning uncertain; possibly 'ice ruler' | Germanic |
+| Lorelei | A rock on the Rhine, probably 'murmuring rock'; in legend, a siren | German |
+| Vesper | Evening; the evening star | Latin |
+| Ingrid | Ing is beautiful; Ing was a Norse god | Norse |
+| Arya | Noble | Sanskrit |
+| Reverie | Daydream | French |
 
 ## The Pluto and Mars Influence
 

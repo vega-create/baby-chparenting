@@ -2,7 +2,7 @@
 title: "50 Best Pisces Baby Names: Dreamy Names for Your Little Fish (February 19 – March 20)"
 description: "Discover 50 dreamy Pisces baby names inspired by the sea, imagination, music, and compassion. Perfect names for babies born under the sign of the Fish, ruled by Neptune."
 publishDate: 2026-05-05
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "pisces-baby-names"
 category: "names"
 tags: ["Pisces baby names", "zodiac baby names", "baby names meaning sea", "baby names meaning dream", "Neptune names"]
@@ -57,60 +57,60 @@ The tender, empathetic nature of Pisces calls for names that convey kindness, me
 
 | Name | Meaning | Origin |
 |------|---------|--------|
-| Dylan | Son of the sea; great tide | Welsh |
-| Adrian | Of the Adriatic Sea; dark one | Latin |
+| Dylan | Great tide | Welsh |
+| Adrian | From Hadria, the town that gave the Adriatic Sea its name | Latin |
 | Caspian | Of the Caspian Sea | English |
-| Morgan | Sea born; sea circle | Welsh |
-| Nolan | Champion; cloud | Irish |
-| Ira | Watchful; peace | Hebrew |
-| Tristan | Tumult; bold; sorrowful | Celtic |
-| Dorian | Gift; of the sea | Greek |
+| Morgan | Possibly 'sea chief' or 'sea circle' | Welsh |
+| Nolan | From an Irish surname meaning 'noble, famous' | Irish |
+| Ira | Watchful | Hebrew |
+| Tristan | From the Celtic name Drustan; linked by legend to French triste, 'sad' | Celtic |
+| Dorian | Of the Dorians, an ancient Greek people | Greek |
 | Lucian | Light | Latin |
-| Calder | Rough waters; stream | Scottish |
-| Arun | Dawn; sun | Sanskrit |
-| Caleb | Faithful; wholehearted | Hebrew |
-| Dillon | Like a lion; faithful | Irish |
-| Everest | Highest; brave | English |
-| Gabriel | God is my strength; messenger | Hebrew |
+| Calder | Rough or rocky water | Scottish |
+| Arun | Dawn | Sanskrit |
+| Caleb | Meaning uncertain; often given as 'whole-hearted' | Hebrew |
+| Dillon | A form of Dylan; also an Irish surname | Welsh / Irish |
+| Everest | From an English surname; the name of the world's highest mountain | English |
+| Gabriel | God is my strength | Hebrew |
 | Jonah | Dove | Hebrew |
-| Kai | Sea; ocean | Hawaiian |
-| Lir | The sea | Irish |
-| Milo | Merciful; gracious | Germanic |
-| Neptune | God of the sea | Latin |
+| Kai | Sea | Hawaiian |
+| Lir | The sea; the Irish god of the sea | Irish |
+| Milo | Meaning uncertain; possibly 'gracious' | Germanic |
+| Neptune | The Roman god of the sea | Latin |
 | Raphael | God has healed | Hebrew |
-| Shiloh | Peaceful; tranquil | Hebrew |
-| Wilder | Untamed; wild | English |
-| Aldous | Old; wise | English |
-| Corin | Spear | Latin |
+| Shiloh | Uncertain; often given as 'tranquil' | Hebrew |
+| Wilder | Wild, untamed | English |
+| Aldous | Old | English |
+| Corin | From Quirinus, possibly 'spear' | Latin |
 
 ## 25 Pisces Girl Names
 
 | Name | Meaning | Origin |
 |------|---------|--------|
 | Marina | Of the sea | Latin |
-| Cordelia | Heart; daughter of the sea | Latin/Celtic |
-| Melody | Song; music | Greek |
+| Cordelia | Uncertain; sometimes explained as 'daughter of the sea' | Latin/Celtic |
+| Melody | Song | Greek |
 | Luna | Moon | Latin |
-| Ariel | Lion of God; spirit of water | Hebrew |
-| Serena | Tranquil; serene | Latin |
-| Pearl | Precious gem of the sea | English |
-| Calypso | She who hides; sea nymph | Greek |
-| Iris | Rainbow; messenger goddess | Greek |
-| Leilani | Heavenly flowers; royal child | Hawaiian |
-| Ondine | Little wave; water spirit | Latin |
-| Coral | Precious sea growth | English |
-| Nerissa | From the sea; sea nymph | Greek |
-| Amara | Grace; immortal; beloved | Igbo/Sanskrit |
-| Beatrix | She who brings happiness; voyager | Latin |
+| Ariel | Lion of God; also the spirit in Shakespeare's The Tempest | Hebrew |
+| Serena | Serene, calm | Latin |
+| Pearl | Pearl | English |
+| Calypso | She who conceals; a sea nymph in the Odyssey | Greek |
+| Iris | Rainbow; the messenger goddess | Greek |
+| Leilani | Heavenly flowers | Hawaiian |
+| Ondine | From Latin unda, 'wave' | Latin |
+| Coral | Coral | English |
+| Nerissa | From the Nereids, the sea nymphs | Greek |
+| Amara | In Igbo, 'grace'; in Sanskrit, 'immortal' | Igbo/Sanskrit |
+| Beatrix | She who brings happiness; originally Viatrix, 'voyager' | Latin |
 | Celeste | Heavenly | Latin |
-| Esme | Beloved; esteemed | French |
-| Fiona | White; fair; beautiful | Irish |
-| Giselle | Pledge; hostage; bright | Germanic |
-| Isla | Island | Scottish |
-| Larissa | Cheerful; citadel | Greek |
-| Mirabel | Wonderful; extraordinary | Latin |
+| Esme | Esteemed, loved | Old French |
+| Fiona | White, fair | Scottish |
+| Giselle | Pledge | Germanic |
+| Isla | From Islay, a Scottish island | Scottish |
+| Larissa | A city in Greece, possibly 'citadel' | Greek |
+| Mirabel | Wonderful | Latin |
 | Naida | Water nymph | Greek |
-| Selene | Moon; brightness | Greek |
+| Selene | Moon | Greek |
 | Thalassa | The sea | Greek |
 
 ## The Neptune Influence on Pisces Names
