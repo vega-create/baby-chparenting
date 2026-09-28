@@ -2,7 +2,7 @@
 title: "Name James: Meaning, Origin, Popularity & 20 Famous"
 description: "The name James means 'supplanter' — Hebrew origin, #5 US boy name. Discover famous Jameses, nicknames (Jamie, Jim), and sibling name pairings."
 publishDate: 2026-03-21
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "name-james"
 category: "names"
 tags: ["baby name James", "James meaning", "James origin", "boy names", "popular baby names"]
@@ -71,15 +71,15 @@ If you love the sound or feel of James, these alternatives might also appeal to 
 | Name | Origin | Meaning | Notes |
 |------|--------|---------|-------|
 | Jacob | Hebrew | "Supplanter" | Same root name |
-| Jack | English | "God is gracious" | Similar strong simplicity |
+| Jack | English | "Medieval pet form of John, 'God is gracious'" | Similar strong simplicity |
 | John | Hebrew | "God is gracious" | Same biblical weight |
 | Thomas | Aramaic | "Twin" | Classic apostle name |
 | Charles | Germanic | "Free man" | Same royal heritage |
 | Edward | Old English | "Wealthy guardian" | Same regal quality |
 | George | Greek | "Farmer" | Royal British brother |
-| Henry | Germanic | "Ruler of the home" | Same timeless appeal |
+| Henry | Germanic | "Home ruler" | Same timeless appeal |
 | Robert | Germanic | "Bright fame" | Classic pairing partner |
-| Alexander | Greek | "Defender of people" | Same grandeur |
+| Alexander | Greek | "Defender of men" | Same grandeur |
 
 Looking for more names like James? Try our [Baby Name Generator](/tools/name-generator/) for personalized suggestions based on the style, origin, and sound you love.
 
@@ -159,7 +159,7 @@ James means "supplanter" or "one who follows." It derives from the Hebrew name Y
 
 ### Has James always been a popular name?
 
-Yes, James has been in the US top 20 continuously since government records began in 1880 --- over 140 years without interruption. It held the number 1 spot for decades in the early-to-mid 20th century and remains in the top 5 today.
+Yes, James has been in the US top 20 continuously since government records began in 1880 --- over 140 years without interruption. It held the number 1 spot from 1940 to 1952 and remains in the top 5 today.
 
 ### Is James a good middle name?
 

@@ -2,7 +2,7 @@
 title: "All About the Name Liam: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Liam. Explore famous Liams, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-16
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "name-liam"
 category: "names"
 tags: ["baby name Liam", "Liam meaning", "Liam origin", "boy names", "popular baby names"]
@@ -14,7 +14,7 @@ draft: false
 
 Liam has rocketed from a distinctly Irish nickname to the undisputed king of American baby names. Strong, short, and brimming with Celtic charm, Liam has spent more time at the top of the Social Security Administration charts than almost any other modern name. If you are drawn to Liam for your son, here is everything you need to know about this powerhouse of a name.
 
-> 📌 **Key Takeaway:** Liam is an Irish short form of William, meaning "resolute protector." It has been the number 1 boy name in the US for six of the last seven years and shows no sign of slowing down.
+> 📌 **Key Takeaway:** Liam is an Irish short form of William, meaning "resolute protector." It has been the number 1 boy name in the US every year since 2017.
 
 ![Happy baby with bright eyes](https://images.pexels.com/photos/14788988/pexels-photo-14788988.jpeg?auto=compress&cs=tinysrgb&w=800)
 
@@ -49,7 +49,7 @@ Liam's rise in the United States has been nothing short of meteoric. It barely r
 | 2010s | #1 (2017--2019) | Dominant force |
 | 2020s | #1 or #2 | Still at the peak |
 
-Liam's current US rank is number 1 or 2, making it the defining boy name of this generation. It is also wildly popular in Canada, Australia, the UK, and several European countries.
+Liam has ranked number 1 in the US since 2017, making it the defining boy name of this generation. It is also wildly popular in Canada, Australia, the UK, and several European countries.
 
 > 💡 **Tip:** If you love Liam but want something slightly less common, consider the full form William with Liam as a nickname, or explore alternatives like Lachlan, Leon, or Luca.
 
@@ -70,7 +70,7 @@ If you love the sound or feel of Liam, these alternatives might also appeal to y
 | Name | Origin | Meaning | Notes |
 |------|--------|---------|-------|
 | William | Germanic | "Resolute protector" | The full form of Liam |
-| Owen | Welsh | "Young warrior" | Similar Celtic charm |
+| Owen | Welsh | "Possibly 'well-born' or 'youth'" | Similar Celtic charm |
 | Finn | Irish | "Fair, white" | Short and Irish like Liam |
 | Declan | Irish | "Full of goodness" | Irish heritage name |
 | Luca | Italian/Latin | "Bringer of light" | Modern, international feel |
@@ -155,7 +155,7 @@ Liam means "resolute protector" or "strong-willed warrior." It is the Irish shor
 
 ### How popular is the name Liam?
 
-Liam is currently the number 1 or 2 most popular boy name in the United States, a position it has held for most of the last decade. It first reached the top spot in 2017 and has remained dominant ever since. It is also a top-ranked name in Canada, the UK, and Australia.
+Liam has been the number 1 boy name in the United States every year since 2017. It first reached the top spot in 2017 and has remained dominant ever since. It is also a top-ranked name in Canada, the UK, and Australia.
 
 ### Is Liam short for William?
 
@@ -242,7 +242,7 @@ Names that complement Liam's clean, classic sound include Emma, Charlotte, Nora,
           "name": "How popular is the name Liam?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Liam is currently the number 1 or 2 most popular boy name in the United States, a position it has held for most of the last decade."
+            "text": "Liam has been the number 1 boy name in the United States every year since 2017."
           }
         },
         {

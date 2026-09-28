@@ -2,7 +2,7 @@
 title: "50 Vintage Baby Names Making a Stunning Comeback in 2026"
 description: "Discover 50 vintage baby names returning to popularity in 2026. Explore the 100-year name cycle, Victorian-era revivals, and timeless old-fashioned names."
 publishDate: 2026-04-11
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "vintage-baby-names-comeback"
 category: "names"
 tags: ["vintage baby names", "old-fashioned names", "retro baby names", "classic names", "Victorian names"]
@@ -53,61 +53,61 @@ Beyond the cyclical theory, several modern factors accelerate the vintage name r
 
 | # | Name | Meaning | Origin | Peak Era | Famous Bearer |
 |---|------|---------|--------|----------|---------------|
-| 1 | Arthur | Bear; noble | Celtic | 1890s-1920s | King Arthur; Arthur Conan Doyle |
-| 2 | August | Great; venerable | Latin | 1900s-1910s | August Wilson (playwright) |
+| 1 | Arthur | Meaning uncertain, possibly 'bear' | Celtic | 1890s-1920s | King Arthur; Arthur Conan Doyle |
+| 2 | August | Venerable | Latin | 1900s-1910s | August Wilson (playwright) |
 | 3 | Clarence | Bright; clear | Latin | 1890s-1910s | Clarence Darrow (lawyer) |
-| 4 | Edmund | Prosperous protector | English | 1880s-1920s | Edmund Burke (philosopher) |
+| 4 | Edmund | Rich protector | English | 1880s-1920s | Edmund Burke (philosopher) |
 | 5 | Felix | Happy; fortunate | Latin | 1880s-1900s | Felix Mendelssohn (composer) |
 | 6 | Frederick | Peaceful ruler | Germanic | 1890s-1920s | Frederick Douglass |
 | 7 | George | Farmer | Greek | 1880s-1930s | George Washington |
 | 8 | Harold | Army ruler | Scandinavian | 1900s-1930s | Harold Lloyd (actor) |
 | 9 | Harvey | Battle worthy | French | 1890s-1910s | Harvey Keitel (actor) |
-| 10 | Henry | Estate ruler | Germanic | 1880s-1920s | Henry David Thoreau |
-| 11 | Hugo | Mind; intellect | Germanic | 1880s-1900s | Victor Hugo (author) |
+| 10 | Henry | Home ruler | Germanic | 1880s-1920s | Henry David Thoreau |
+| 11 | Hugo | Mind, spirit | Germanic | 1880s-1900s | Victor Hugo (author) |
 | 12 | Jasper | Treasurer | Persian | 1880s-1900s | Jasper Johns (artist) |
-| 13 | Leonard | Brave lion | Germanic | 1900s-1930s | Leonard Cohen (musician) |
-| 14 | Lionel | Young lion | Latin | 1900s-1920s | Lionel Barrymore (actor) |
-| 15 | Milo | Gracious; soldier | Germanic | 1880s-1910s | Milo Ventimiglia (actor) |
-| 16 | Oscar | God's spear | Irish | 1880s-1920s | Oscar Wilde (author) |
+| 13 | Leonard | Brave as a lion | Germanic | 1900s-1930s | Leonard Cohen (musician) |
+| 14 | Lionel | Little lion | French | 1900s-1920s | Lionel Barrymore (actor) |
+| 15 | Milo | Meaning uncertain; possibly 'gracious' | Germanic | 1880s-1910s | Milo Ventimiglia (actor) |
+| 16 | Oscar | Deer friend; or 'spear of the gods' | Irish / Old English | 1880s-1920s | Oscar Wilde (author) |
 | 17 | Otto | Wealth; fortune | Germanic | 1880s-1910s | Otto von Bismarck |
-| 18 | Percy | Pierces the valley | French | 1890s-1920s | Percy Bysshe Shelley (poet) |
-| 19 | Reginald | King's advisor | Latin | 1900s-1930s | Reginald VelJohnson (actor) |
-| 20 | Silas | Of the forest | Latin | 1880s-1900s | Silas Marner (literary character) |
+| 18 | Percy | From a Norman place name | French | 1890s-1920s | Percy Bysshe Shelley (poet) |
+| 19 | Reginald | Ruler's counsel | Germanic, via Latin | 1900s-1930s | Reginald VelJohnson (actor) |
+| 20 | Silas | From Silvanus, 'of the forest' | Latin | 1880s-1900s | Silas Marner (literary character) |
 | 21 | Stanley | Stone clearing | English | 1900s-1930s | Stanley Kubrick (director) |
-| 22 | Theodore | God's gift | Greek | 1880s-1920s | Theodore Roosevelt |
+| 22 | Theodore | Gift of God | Greek | 1880s-1920s | Theodore Roosevelt |
 | 23 | Vincent | Conquering | Latin | 1890s-1920s | Vincent van Gogh |
 | 24 | Walter | Army ruler | Germanic | 1890s-1930s | Walter Whitman (poet) |
-| 25 | Winston | Joy stone | English | 1900s-1940s | Winston Churchill |
+| 25 | Winston | From an English place name, 'Wynn's town' | English | 1900s-1940s | Winston Churchill |
 
 ## 25 Vintage Girl Names Making a Comeback
 
 | # | Name | Meaning | Origin | Peak Era | Famous Bearer |
 |---|------|---------|--------|----------|---------------|
-| 1 | Adelaide | Noble nature | Germanic | 1880s-1900s | Queen Adelaide of England |
+| 1 | Adelaide | Noble kind | Germanic | 1880s-1900s | Queen Adelaide of England |
 | 2 | Beatrice | She who brings happiness | Latin | 1880s-1920s | Beatrice of Dante's works |
-| 3 | Cecilia | Blind; heavenly | Latin | 1900s-1920s | Saint Cecilia (patron of music) |
+| 3 | Cecilia | Blind | Latin | 1900s-1920s | Saint Cecilia (patron of music) |
 | 4 | Clara | Bright; clear | Latin | 1880s-1910s | Clara Barton (nurse) |
 | 5 | Clementine | Mild; merciful | Latin | 1880s-1900s | Clementine Churchill |
 | 6 | Cora | Maiden | Greek | 1880s-1910s | Cora from *Downton Abbey* |
 | 7 | Dorothy | Gift of God | Greek | 1900s-1930s | Dorothy Parker (writer) |
 | 8 | Edith | Prosperous in war | English | 1880s-1920s | Edith Wharton (author) |
-| 9 | Eleanor | Bright; shining one | Greek | 1890s-1920s | Eleanor Roosevelt |
-| 10 | Elsie | Pledged to God | Scottish | 1890s-1920s | Elsie de Wolfe (designer) |
-| 11 | Florence | Flourishing; prosperous | Latin | 1880s-1910s | Florence Nightingale |
-| 12 | Genevieve | Woman of the people | French | 1900s-1920s | Saint Genevieve of Paris |
-| 13 | Harriet | Home ruler | English | 1880s-1900s | Harriet Tubman |
+| 9 | Eleanor | Meaning uncertain | French | 1890s-1920s | Eleanor Roosevelt |
+| 10 | Elsie | Scottish pet form of Elizabeth, 'my God is an oath' | Scottish | 1890s-1920s | Elsie de Wolfe (designer) |
+| 11 | Florence | Flourishing | Latin | 1880s-1910s | Florence Nightingale |
+| 12 | Genevieve | Meaning uncertain; possibly 'woman of the people' | French | 1900s-1920s | Saint Genevieve of Paris |
+| 13 | Harriet | Feminine form of Henry, 'home ruler' | English | 1880s-1900s | Harriet Tubman |
 | 14 | Hazel | The hazel tree | English | 1890s-1920s | Hazel Scott (musician) |
 | 15 | Iris | Rainbow | Greek | 1900s-1930s | Iris Murdoch (author) |
-| 16 | Josephine | God will increase | Hebrew | 1890s-1920s | Josephine Baker |
-| 17 | Lillian | Lily; pure | Latin | 1890s-1920s | Lillian Gish (actress) |
-| 18 | Margot | Pearl | French | 1900s-1920s | Margot Fonteyn (ballerina) |
+| 16 | Josephine | Feminine form of Joseph, 'God will add' | French | 1890s-1920s | Josephine Baker |
+| 17 | Lillian | Lily | Latin | 1890s-1920s | Lillian Gish (actress) |
+| 18 | Margot | French pet form of Marguerite, 'pearl' | French | 1900s-1920s | Margot Fonteyn (ballerina) |
 | 19 | Matilda | Mighty in battle | Germanic | 1880s-1900s | Roald Dahl's Matilda |
 | 20 | Mabel | Lovable | Latin | 1880s-1910s | Mabel Normand (actress) |
-| 21 | Pearl | Precious gem | English | 1880s-1910s | Pearl S. Buck (author) |
-| 22 | Rosalind | Pretty rose | Germanic | 1890s-1920s | Rosalind Russell (actress) |
+| 21 | Pearl | Pearl | English | 1880s-1910s | Pearl S. Buck (author) |
+| 22 | Rosalind | 'Horse' + 'tender'; later read as Latin for 'pretty rose' | Germanic | 1890s-1920s | Rosalind Russell (actress) |
 | 23 | Stella | Star | Latin | 1880s-1920s | Stella McCartney (designer) |
 | 24 | Theodora | Gift of God | Greek | 1890s-1910s | Empress Theodora of Byzantium |
-| 25 | Winifred | Blessed peacemaking | Welsh | 1890s-1920s | Winifred Holtby (author) |
+| 25 | Winifred | Blessed peace | Welsh | 1890s-1920s | Winifred Holtby (author) |
 
 For another beloved name with vintage origins, explore [the name Emma](/blog/name-emma/) and discover its rich history.
 

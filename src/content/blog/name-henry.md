@@ -2,7 +2,7 @@
 title: "All About the Name Henry: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Henry. Explore famous Henrys, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-04-04
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "name-henry"
 category: "names"
 tags: ["baby name Henry", "Henry meaning", "Henry origin", "boy names", "popular baby names"]
@@ -72,12 +72,12 @@ If you love the sound or feel of Henry, these alternatives might also appeal to 
 |------|--------|---------|-------|
 | Harry | English | "Ruler of the home" | Medieval English form of Henry |
 | Harvey | French/Breton | "Battle worthy" | Same vintage revival |
-| Arthur | Celtic | "Bear" | Same regal, old-soul feel |
+| Arthur | Celtic | "Meaning uncertain, possibly 'bear'" | Same regal, old-soul feel |
 | Frederick | Germanic | "Peaceful ruler" | Same aristocratic weight |
 | Edward | Old English | "Wealthy guardian" | Royal brother name |
 | Charles | Germanic | "Free man" | Same royal lineage |
 | Walter | Germanic | "Ruler of the army" | Similar vintage appeal |
-| Hugo | Germanic | "Mind, intellect" | Same Continental charm |
+| Hugo | Germanic | "Mind, spirit" | Same Continental charm |
 | Theodore | Greek | "Gift of God" | Same revival trajectory |
 | George | Greek | "Farmer" | Same British royal tie |
 

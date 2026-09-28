@@ -2,7 +2,7 @@
 title: "All About the Name Lucas: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Lucas. Explore famous people named Lucas, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-28
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "name-lucas"
 category: "names"
 tags: ["baby name Lucas", "Lucas meaning", "Lucas origin", "boy names", "popular baby names"]
@@ -71,16 +71,16 @@ If you love the sound or feel of Lucas, these alternatives might also appeal to 
 
 | Name | Origin | Meaning | Notes |
 |------|--------|---------|-------|
-| Luke | Greek/Latin | "Light" | Shorter form, equally classic |
+| Luke | Greek/Latin | "From Lucania" | Shorter form, equally classic |
 | Luca | Italian | "Light" | Italian form, gender-neutral in some countries |
 | Marcus | Latin | "Dedicated to Mars" | Same Latin elegance |
-| Sebastian | Greek/Latin | "Venerable" | Same Mediterranean feel |
+| Sebastian | Greek/Latin | "From Sebaste; from a Greek word meaning 'venerable'" | Same Mediterranean feel |
 | Julian | Latin | "Youthful" | Same classical roots |
 | Felix | Latin | "Happy, fortunate" | Same Latin warmth |
 | Leo | Latin | "Lion" | Same short Latin power |
 | Mateo | Spanish | "Gift of God" | Same Spanish-influenced appeal |
 | Adrian | Latin | "From Hadria" | Same international smoothness |
-| Hugo | Germanic | "Mind, intellect" | Same European sophistication |
+| Hugo | Germanic | "Mind, spirit" | Same European sophistication |
 
 Looking for more names like Lucas? Try our [Baby Name Generator](/tools/name-generator/) for personalized suggestions based on the style, origin, and sound you love.
 

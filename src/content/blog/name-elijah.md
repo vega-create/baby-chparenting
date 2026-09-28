@@ -2,7 +2,7 @@
 title: "All About the Name Elijah: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Elijah. Explore famous Elijahs, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-04-05
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "name-elijah"
 category: "names"
 tags: ["baby name Elijah", "Elijah meaning", "Elijah origin", "boy names", "popular baby names"]
@@ -70,14 +70,14 @@ If you love the sound or feel of Elijah, these alternatives might also appeal to
 
 | Name | Origin | Meaning | Notes |
 |------|--------|---------|-------|
-| Isaiah | Hebrew | "God is salvation" | Same prophetic grandeur |
+| Isaiah | Hebrew | "Yahweh is salvation" | Same prophetic grandeur |
 | Ezekiel | Hebrew | "God strengthens" | Biblical, dramatic |
 | Josiah | Hebrew | "God heals" | Same -iah ending |
 | Elias | Greek/Hebrew | "The Lord is my God" | Greek form of Elijah |
 | Ezra | Hebrew | "Help" | Short, biblical, trendy |
 | Micah | Hebrew | "Who is like God?" | Softer biblical choice |
 | Gabriel | Hebrew | "God is my strength" | Angelic connection |
-| Silas | Latin/Aramaic | "Of the forest" | Biblical, similar length |
+| Silas | Latin/Aramaic | "From Silvanus, 'of the forest'" | Biblical, similar length |
 | Tobias | Hebrew | "God is good" | Same -ias ending |
 | Malachi | Hebrew | "My messenger" | Prophetic, distinctive |
 

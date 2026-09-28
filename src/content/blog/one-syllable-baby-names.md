@@ -2,7 +2,7 @@
 title: "40 One-Syllable Baby Names: Strong & Simple"
 description: "One-syllable baby names are punchy, memorable, and timeless. Browse 40 short and powerful name picks for boys, girls, and unisex with meanings and origins."
 publishDate: 2026-06-07
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "one-syllable-baby-names"
 category: "names"
 tags: ["one syllable names", "short names", "baby names", "strong names", "name meanings"]
@@ -34,21 +34,21 @@ For more inspiration, see our [strong baby boy names](/blog/strong-baby-boy-name
 
 | Name | Meaning | Origin |
 |---|---|---|
-| Jack | God is gracious | English |
+| Jack | Medieval pet form of John, 'God is gracious' | English |
 | Beau | Handsome | French |
-| Cole | Charcoal | English |
-| Finn | Fair | Irish |
+| Cole | Charcoal; swarthy | English |
+| Finn | Fair, white | Irish |
 | Knox | Round hill | Scottish |
 | Reed | Red-haired | English |
-| Luke | Light | Greek |
+| Luke | From Lucania | Greek |
 | Grant | Great, large | Scottish |
 | Jude | Praised | Hebrew |
-| Zane | God is gracious | Hebrew |
+| Zane | Meaning uncertain; sometimes explained as a form of John | English |
 | Wells | Of the wells | English |
 | Hayes | Hedged area | English |
 | Boone | Good, blessing | French |
 | Ford | River crossing | English |
-| Tate | Cheerful | English |
+| Tate | Possibly 'cheerful' | English |
 
 ### Girl One-Syllable Names
 
@@ -60,15 +60,15 @@ For more inspiration, see our [strong baby boy names](/blog/strong-baby-boy-name
 | Hope | Hope | English |
 | Faith | Faith | English |
 | Joy | Joy | English |
-| June | Young | Latin |
+| June | The month of June, named for the goddess Juno | Latin |
 | Pearl | Pearl | Latin |
-| Maeve | Intoxicating | Irish |
+| Maeve | She who intoxicates | Irish |
 | Wren | Small bird | English |
 | Belle | Beautiful | French |
-| Blake | Pale, dark | English |
-| Bree | Strength | Irish |
-| Tess | To harvest | Greek |
-| Quinn | Wise | Irish |
+| Blake | Dark; or pale | English |
+| Bree | Short form of Bridget or Brianna | Irish |
+| Tess | Short form of Theresa | Greek |
+| Quinn | From Conn, 'chief' or 'intelligence' | Irish |
 
 ### Unisex One-Syllable Names
 
@@ -77,7 +77,7 @@ For more inspiration, see our [strong baby boy names](/blog/strong-baby-boy-name
 | Sage | Wise | Latin |
 | Sky | Sky | English |
 | Reese | Ardor | Welsh |
-| Drew | Manly, strong | Greek |
+| Drew | Short form of Andrew, 'manly, brave' | Greek |
 | Brooke | Small stream | English |
 | Lane | Path | English |
 | Rain | Rain | English |

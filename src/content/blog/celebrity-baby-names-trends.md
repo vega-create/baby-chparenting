@@ -2,7 +2,7 @@
 title: "Celebrity Baby Names 2025-2026: Trends and Inspiration"
 description: "Explore the latest celebrity baby name trends for 2025-2026. From nature-inspired picks to classic revivals, discover how famous parents are shaping naming trends."
 publishDate: 2026-05-06
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "celebrity-baby-names-trends"
 category: "names"
 tags: ["celebrity baby names", "baby name trends", "famous baby names", "2026 baby names", "trending names"]
@@ -42,12 +42,12 @@ Nature names have been one of the strongest and most consistent celebrity trends
 
 | Celebrity Parents | Baby Name | Nature Connection | Year |
 |-------------------|-----------|-------------------|------|
-| Gigi Hadid & Zayn Malik | Khai | Related to nature/earth | 2020 |
+| Gigi Hadid & Zayn Malik | Khai | Meaning not shared publicly | 2020 |
 | Hilary Duff & Matthew Koma | Mae | Month of spring | 2021 |
-| Meghan Trainor & Daryl Sabara | Riley | Courageous (Irish meadow) | 2021 |
+| Meghan Trainor & Daryl Sabara | Riley | English: rye clearing | 2021 |
 | Ed Sheeran & Cherry Seaborn | Jupiter | The planet | 2022 |
 | Elsa Hosk | Tuulikki | Finnish: little wind | 2021 |
-| Jennifer Lawrence | Cy | Short for Cypress | 2022 |
+| Jennifer Lawrence | Cy | Named for the painter Cy Twombly | 2022 |
 
 The nature name trend extends beyond these specific picks. Celebrities have popularized names like Willow (Will Smith), Bear (Alicia Silverstone), River (Kelly Clarkson), and Stormi (Kylie Jenner), creating a broad category that continues to expand.
 
@@ -67,7 +67,6 @@ Contrary to the stereotype that celebrities always choose outlandish names, many
 | Emma Stone | Louise | French classic | 2021 |
 | Mandy Moore | August (Gus) | Edwardian | 2021 |
 | Scarlett Johansson | Cosmo | Greek classic | 2021 |
-| Jake Gyllenhaal | n/a | Trend noted broadly | - |
 
 The classic revival in celebrity circles has directly boosted names like Theodore, Arthur, Margot, Beatrice, and Florence. When celebrities choose these names, it signals that classic does not mean boring --- it means sophisticated.
 

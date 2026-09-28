@@ -2,7 +2,7 @@
 title: "60 Unique and Rare Baby Names You Haven't Heard Before"
 description: "Explore 60 truly unique and rare baby names from cultures around the world. Includes pronunciation guides, meanings, and tips for choosing unusual names."
 publishDate: 2026-04-13
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "unique-rare-baby-names"
 category: "names"
 tags: ["unique baby names", "rare baby names", "unusual names", "uncommon baby names", "distinctive names"]
@@ -45,35 +45,35 @@ The richest sources of unique baby names include:
 
 | # | Name | Pronunciation | Meaning | Origin | Notes |
 |---|------|---------------|---------|--------|-------|
-| 1 | Alaric | AL-ah-rik | All-powerful ruler | Germanic | Visigothic king who sacked Rome |
-| 2 | Amias | ah-MY-us | Loved | Latin | Rare English name from medieval period |
-| 3 | Bastian | BAS-tee-un | Venerable; revered | Greek | Short form of Sebastian, used independently in Europe |
-| 4 | Caius | KY-us | Rejoice | Latin | Ancient Roman name with gravitas |
+| 1 | Alaric | AL-ah-rik | Ruler of all | Germanic | Visigothic king who sacked Rome |
+| 2 | Amias | ah-MY-us | Possibly from Latin amatus, 'loved' | Latin | Rare English name from medieval period |
+| 3 | Bastian | BAS-tee-un | Short form of Sebastian, from a Greek word meaning 'venerable' | Greek | Short form of Sebastian, used independently in Europe |
+| 4 | Caius | KY-us | Uncertain; possibly related to Latin gaudere, 'to rejoice' | Latin | Ancient Roman name with gravitas |
 | 5 | Cosimo | KOH-zee-moh | Order; beauty | Greek/Italian | Borne by the Medici family |
-| 6 | Dashiell | da-SHEEL | Page boy | French | Made famous by author Dashiell Hammett |
+| 6 | Dashiell | da-SHEEL | From a French surname; meaning uncertain | French | Made famous by author Dashiell Hammett |
 | 7 | Elio | EH-lee-oh | Sun | Italian/Spanish | Radiant and warm |
 | 8 | Florian | FLOR-ee-un | Flowering; flourishing | Latin | Common in Austria and Germany, rare elsewhere |
-| 9 | Idris | ID-riss | Studious lord | Welsh/Arabic | Dual heritage, meaning varies by culture |
-| 10 | Iskander | is-KAHN-der | Defender of the people | Persian | Persian form of Alexander |
-| 11 | Jorvik | YOR-vik | Wild boar settlement | Norse | Ancient Viking name for York |
-| 12 | Kael | KAYL | Slender | Irish | Variant of the Gaelic "caol" |
+| 9 | Idris | ID-riss | In Welsh, 'ardent lord'; in Arabic, the name of a prophet | Welsh/Arabic | Dual heritage, meaning varies by culture |
+| 10 | Iskander | is-KAHN-der | A form of Alexander, 'defender of men' | Persian | Persian form of Alexander |
+| 11 | Jorvik | YOR-vik | The Old Norse name for the city of York | Norse | Ancient Viking name for York |
+| 12 | Kael | KAYL | From Irish caol, 'slender' | Irish | Variant of the Gaelic "caol" |
 | 13 | Leander | lee-AN-der | Lion man | Greek | Mythological romantic hero |
 | 14 | Lysander | ly-SAN-der | Liberator | Greek | Shakespearean and ancient |
-| 15 | Marcellus | mar-SEL-us | Young warrior | Latin | Noble Roman family name |
+| 15 | Marcellus | mar-SEL-us | Little Marcus; dedicated to Mars | Latin | Noble Roman family name |
 | 16 | Nicanor | nih-KAH-nor | Victorious | Greek | Ancient military leader name |
-| 17 | Oberon | OH-beh-ron | Noble bear | Germanic | King of the fairies in Shakespeare |
+| 17 | Oberon | OH-beh-ron | King of the fairies in Shakespeare; probably 'elf ruler' | Germanic | King of the fairies in Shakespeare |
 | 18 | Peregrine | PAIR-eh-grin | Traveler; pilgrim | Latin | Adventurous and literary |
-| 19 | Quillon | KWIL-on | Crossing swords | Latin | Sword guard, strong and unusual |
+| 19 | Quillon | KWIL-on | From the French word for the crossguard of a sword | Latin | Sword guard, strong and unusual |
 | 20 | Rafferty | RAF-er-tee | Abundance | Irish | Cheerful and energetic |
-| 21 | Soren | SOR-en | Stern; severe | Scandinavian | Danish philosopher Soren Kierkegaard |
+| 21 | Soren | SOR-en | Danish form of Severinus, 'stern' | Scandinavian | Danish philosopher Soren Kierkegaard |
 | 22 | Theron | THAIR-on | Hunter | Greek | Ancient and powerful |
 | 23 | Torsten | TOR-sten | Thor's stone | Scandinavian | Norse mythology connection |
-| 24 | Vesper | VES-per | Evening star | Latin | Atmospheric and celestial |
+| 24 | Vesper | VES-per | Evening; the evening star | Latin | Atmospheric and celestial |
 | 25 | Wilder | WYL-der | Untamed; wild | English | Surname-turned-first name, literary feel |
-| 26 | Xander | ZAN-der | Defender of the people | Greek | Modern short form with edge |
+| 26 | Xander | ZAN-der | Short form of Alexander, 'defender of men' | Greek | Modern short form with edge |
 | 27 | Yaroslav | YAR-oh-slav | Fierce and glorious | Slavic | Historic Slavic rulers' name |
 | 28 | Zephyr | ZEF-er | West wind | Greek | Mythological god of the west wind |
-| 29 | Cassius | KASH-us | Hollow; vain | Latin | Roman senator; Muhammad Ali's birth name |
+| 29 | Cassius | KASH-us | From a Roman family name, possibly 'hollow' | Latin | Roman senator; Muhammad Ali's birth name |
 | 30 | Tavish | TAH-vish | Twin | Scottish | Scottish form of Thomas |
 
 ## 30 Rare Girl Names from Around the World
@@ -82,7 +82,7 @@ The richest sources of unique baby names include:
 |---|------|---------------|---------|--------|-------|
 | 1 | Alouette | ah-loo-ET | Skylark | French | Musical and joyful |
 | 2 | Anwen | AN-wen | Very beautiful | Welsh | Pure Welsh gem |
-| 3 | Brielle | bree-EL | God is my strength | French | Elegant short form of Gabrielle |
+| 3 | Brielle | bree-EL | Short form of Gabrielle, 'God is my strength' | French | Elegant short form of Gabrielle |
 | 4 | Calista | kah-LIS-tah | Most beautiful | Greek | Uncommon classic beauty |
 | 5 | Cressida | KRES-ih-dah | Gold | Greek | Shakespearean heroine |
 | 6 | Dagny | DAG-nee | New day | Scandinavian | Norse strength and freshness |
@@ -97,18 +97,18 @@ The richest sources of unique baby names include:
 | 15 | Liora | lee-OR-ah | My light | Hebrew | Luminous and spiritual |
 | 16 | Maristela | mah-ree-STEH-lah | Star of the sea | Latin/Portuguese | Celestial maritime beauty |
 | 17 | Nephele | NEF-eh-lee | Cloud | Greek | Mythological cloud goddess |
-| 18 | Ondine | on-DEEN | Little wave | Latin | Water spirit of European folklore |
-| 19 | Ottilie | OT-ih-lee | Prosperous in battle | Germanic | Charming vintage European name |
+| 18 | Ondine | on-DEEN | From Latin unda, 'wave' | Latin | Water spirit of European folklore |
+| 19 | Ottilie | OT-ih-lee | Wealth, fortune | Germanic | Charming vintage European name |
 | 20 | Perdita | per-DEE-tah | Lost one | Latin | Shakespeare's *The Winter's Tale* |
 | 21 | Reverie | REV-er-ee | Daydream | French | Poetic and dreamy |
 | 22 | Sable | SAY-bul | Black; the animal | English | Luxurious and distinctive |
-| 23 | Seraphina | sair-ah-FEE-nah | Fiery; burning ones | Hebrew | Angelic and radiant |
+| 23 | Seraphina | sair-ah-FEE-nah | From the seraphim, 'the burning ones' | Hebrew | Angelic and radiant |
 | 24 | Solene | soh-LEN | Solemn; dignified | French | Quiet elegance |
 | 25 | Thalassa | thah-LAS-ah | The sea | Greek | Primordial sea goddess |
 | 26 | Valeria | vah-LAIR-ee-ah | Strong; healthy | Latin | Classic Roman with modern edge |
 | 27 | Vesna | VEZ-nah | Spring | Slavic | Slavic goddess of spring |
 | 28 | Winona | wih-NO-nah | Firstborn daughter | Native American | Graceful and meaningful |
-| 29 | Xiomara | zee-oh-MAR-ah | Ready for battle | Spanish | Strong and melodic |
+| 29 | Xiomara | zee-oh-MAR-ah | Possibly 'famous in battle' | Spanish | Strong and melodic |
 | 30 | Zinnia | ZIN-ee-ah | The flower | Latin | Bright botanical name |
 
 For more distinctive names drawn from rich cultural traditions, explore our guide to [Japanese baby names](/blog/japanese-baby-names/) and [French baby names](/blog/french-baby-names/).

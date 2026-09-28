@@ -2,7 +2,7 @@
 title: "60 Beautiful Short Baby Names: 4 Letters or Less"
 description: "Discover 60 gorgeous short baby names with 4 letters or fewer. Explore powerful one- and two-syllable names for boys and girls with meanings and origins."
 publishDate: 2026-04-09
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "short-baby-names"
 category: "names"
 tags: ["short baby names", "baby names", "one-syllable names", "four-letter names", "short names for boys", "short names for girls"]
@@ -48,27 +48,27 @@ The choice between one and two syllables often comes down to the surname. Say bo
 
 | # | Name | Meaning | Origin | Letters | Syllables |
 |---|------|---------|--------|---------|-----------|
-| 1 | Ace | One; unity | Latin | 3 | 1 |
-| 2 | Axel | Father of peace | Scandinavian | 4 | 2 |
+| 1 | Ace | One; the highest card | Latin | 3 | 1 |
+| 2 | Axel | Scandinavian form of Absalom, 'father of peace' | Scandinavian | 4 | 2 |
 | 3 | Bear | The animal | English | 4 | 1 |
-| 4 | Bo | To live; precious | Scandinavian | 2 | 1 |
-| 5 | Cole | Dark; charcoal | English | 4 | 1 |
+| 4 | Bo | To live | Scandinavian | 2 | 1 |
+| 5 | Cole | Charcoal; swarthy | English | 4 | 1 |
 | 6 | Cruz | Cross | Spanish | 4 | 1 |
 | 7 | Dean | Valley | English | 4 | 1 |
-| 8 | Eli | Ascended; my God | Hebrew | 3 | 2 |
-| 9 | Ezra | Helper | Hebrew | 4 | 2 |
-| 10 | Finn | Fair | Irish | 4 | 1 |
+| 8 | Eli | High, ascended | Hebrew | 3 | 2 |
+| 9 | Ezra | Help | Hebrew | 4 | 2 |
+| 10 | Finn | Fair, white | Irish | 4 | 1 |
 | 11 | Gage | Pledge; oath | French | 4 | 1 |
-| 12 | Hugo | Mind; intellect | Germanic | 4 | 2 |
-| 13 | Ivan | God is gracious | Russian | 4 | 2 |
-| 14 | Jack | God is gracious | English | 4 | 1 |
+| 12 | Hugo | Mind, spirit | Germanic | 4 | 2 |
+| 13 | Ivan | Slavic form of John, 'God is gracious' | Russian | 4 | 2 |
+| 14 | Jack | Medieval pet form of John, 'God is gracious' | English | 4 | 1 |
 | 15 | Jude | Praised | Hebrew | 4 | 1 |
 | 16 | Kai | Sea | Hawaiian | 3 | 1 |
 | 17 | Knox | Round hill | Scottish | 4 | 1 |
 | 18 | Leo | Lion | Latin | 3 | 2 |
-| 19 | Liam | Strong-willed warrior | Irish | 4 | 2 |
-| 20 | Luke | Light | Greek | 4 | 1 |
-| 21 | Max | Greatest | Latin | 3 | 1 |
+| 19 | Liam | Short form of William, 'resolute protector' | Irish | 4 | 2 |
+| 20 | Luke | From Lucania | Greek | 4 | 1 |
+| 21 | Max | Short form of Maximilian, 'greatest' | Latin | 3 | 1 |
 | 22 | Nash | By the ash tree | English | 4 | 1 |
 | 23 | Nico | Victory of the people | Greek | 4 | 2 |
 | 24 | Noah | Rest; comfort | Hebrew | 4 | 2 |
@@ -77,7 +77,7 @@ The choice between one and two syllables often comes down to the surname. Say bo
 | 27 | Rex | King | Latin | 3 | 1 |
 | 28 | Seth | Appointed | Hebrew | 4 | 1 |
 | 29 | Theo | God's gift | Greek | 4 | 2 |
-| 30 | Zane | God is gracious | Hebrew | 4 | 1 |
+| 30 | Zane | Meaning uncertain; sometimes explained as a form of John | English | 4 | 1 |
 
 Want to learn more about some of these names? Read our in-depth profiles of [the name Liam](/blog/name-liam/) and [the name Noah](/blog/name-noah/).
 
@@ -85,34 +85,34 @@ Want to learn more about some of these names? Read our in-depth profiles of [the
 
 | # | Name | Meaning | Origin | Letters | Syllables |
 |---|------|---------|--------|---------|-----------|
-| 1 | Ada | Noble; adorned | Germanic | 3 | 2 |
-| 2 | Alma | Nurturing soul | Latin | 4 | 2 |
-| 3 | Aria | Air; melody | Italian | 4 | 3 |
-| 4 | Bea | Blessed; voyager | Latin | 3 | 1 |
-| 5 | Cleo | Pride; glory | Greek | 4 | 2 |
+| 1 | Ada | Noble | Germanic | 3 | 2 |
+| 2 | Alma | Nourishing; in Spanish, 'soul' | Latin | 4 | 2 |
+| 3 | Aria | Air; a solo song in opera | Italian | 4 | 3 |
+| 4 | Bea | Short form of Beatrice, 'she who brings happiness' | Latin | 3 | 1 |
+| 5 | Cleo | Glory; short form of Cleopatra | Greek | 4 | 2 |
 | 6 | Cora | Maiden | Greek | 4 | 2 |
 | 7 | Dawn | Daybreak | English | 4 | 1 |
-| 8 | Eden | Delight; paradise | Hebrew | 4 | 2 |
-| 9 | Ella | Beautiful fairy | Germanic | 4 | 2 |
-| 10 | Faye | Fairy; loyalty | English | 4 | 1 |
+| 8 | Eden | Delight | Hebrew | 4 | 2 |
+| 9 | Ella | From a Germanic word meaning 'all'; also a short form of Eleanor | Germanic | 4 | 2 |
+| 10 | Faye | Fairy | English | 4 | 1 |
 | 11 | Gwen | White; blessed | Welsh | 4 | 1 |
 | 12 | Hope | Hope; expectation | English | 4 | 1 |
 | 13 | Iris | Rainbow | Greek | 4 | 2 |
 | 14 | Ivy | The climbing plant | English | 3 | 2 |
 | 15 | Jane | God is gracious | English | 4 | 1 |
 | 16 | Joy | Happiness; delight | English | 3 | 1 |
-| 17 | June | Young; June month | Latin | 4 | 1 |
-| 18 | Kate | Pure | Greek | 4 | 1 |
-| 19 | Leah | Weary; meadow | Hebrew | 4 | 2 |
+| 17 | June | The month of June, named for the goddess Juno | Latin | 4 | 1 |
+| 18 | Kate | Short form of Katherine | Greek | 4 | 1 |
+| 19 | Leah | Possibly 'weary' | Hebrew | 4 | 2 |
 | 20 | Luna | Moon | Latin | 4 | 2 |
-| 21 | Mae | Pearl; bitter | English | 3 | 1 |
-| 22 | Mia | Mine; beloved | Scandinavian | 3 | 2 |
-| 23 | Nora | Light; honor | Irish | 4 | 2 |
-| 24 | Opal | Jewel; precious stone | Sanskrit | 4 | 2 |
+| 21 | Mae | A form of May; also a pet form of Mary or Margaret | English | 3 | 1 |
+| 22 | Mia | Pet form of Maria; in Italian, 'mine' | Scandinavian / Italian | 3 | 2 |
+| 23 | Nora | Short form of Honora, 'honor', or of Eleanor | Irish | 4 | 2 |
+| 24 | Opal | Gem, jewel | Sanskrit | 4 | 2 |
 | 25 | Rose | The flower | Latin | 4 | 1 |
 | 26 | Ruby | Deep red precious stone | Latin | 4 | 2 |
 | 27 | Sara | Princess | Hebrew | 4 | 2 |
-| 28 | Tess | Harvester | Greek | 4 | 1 |
+| 28 | Tess | Short form of Theresa | Greek | 4 | 1 |
 | 29 | Wren | Small songbird | English | 4 | 1 |
 | 30 | Zoe | Life | Greek | 3 | 2 |
 

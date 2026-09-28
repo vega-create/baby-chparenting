@@ -2,7 +2,7 @@
 title: "All About the Name Luna: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Luna. Explore famous Lunas, nicknames, sibling pairings, and middle name ideas for Luna."
 publishDate: 2026-04-03
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "name-luna"
 category: "names"
 tags: ["baby name Luna", "Luna meaning", "Luna origin", "girl names", "popular baby names"]
@@ -72,9 +72,9 @@ If you love the sound or feel of Luna, these alternatives might also appeal to y
 | Stella | Latin | "Star" | Celestial sister name |
 | Aurora | Latin | "Dawn" | Same sky-themed beauty |
 | Celeste | Latin | "Heavenly" | Celestial, elegant |
-| Nova | Latin | "New, star" | Astronomical, trendy |
+| Nova | Latin | "New" | Astronomical, trendy |
 | Selene | Greek | "Moon" | Greek moon goddess name |
-| Aria | Italian | "Air, melody" | Same modern popularity |
+| Aria | Italian | "Air; a solo song in opera" | Same modern popularity |
 | Ivy | English | "Climbing vine" | Same nature-name appeal |
 | Freya | Norse | "Noble woman" | Mythological, rising |
 | Mila | Slavic | "Gracious, dear" | Similar sound |

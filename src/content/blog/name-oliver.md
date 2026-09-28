@@ -2,7 +2,7 @@
 title: "All About the Name Oliver: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Oliver. Explore famous Olivers, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-15
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "name-oliver"
 category: "names"
 tags: ["baby name Oliver", "Oliver meaning", "Oliver origin", "boy names", "popular baby names"]
@@ -14,7 +14,7 @@ draft: false
 
 Oliver is a name that brims with old-world charm and modern energy. From Dickensian London to contemporary nurseries, this handsome classic has proven its staying power across centuries and continents. With a meaning rooted in peace and a sound that feels both refined and friendly, Oliver is a top pick for parents who want a name that will never go out of style.
 
-> 📌 **Key Takeaway:** Oliver likely derives from the Old French *olivier* meaning "olive tree," a symbol of peace and dignity. It currently ranks in the US top 5 for boys and holds the number 1 spot in England and Australia.
+> 📌 **Key Takeaway:** Oliver likely derives from the Old French *olivier* meaning "olive tree," a symbol of peace and dignity. It currently ranks in the US top 5 for boys and was the number 1 boys' name in England and Wales from 2013 to 2020.
 
 ![Baby with a gentle smile](https://images.pexels.com/photos/13016264/pexels-photo-13016264.jpeg?auto=compress&cs=tinysrgb&w=800)
 
@@ -50,7 +50,7 @@ Oliver's popularity story is one of dramatic fall and even more dramatic rise.
 | 2010s | Top 10 | Rapid ascent |
 | 2020s | Top 5 | Elite tier |
 
-Oliver is currently a top 5 boy name in the US and holds the number 1 position in England, Wales, and Australia. It is also highly ranked across Scandinavia and Canada.
+Oliver is currently a top 5 boy name in the US and was the number 1 boys' name in England and Wales from 2013 to 2020. It has also topped the charts in Australia. It is also highly ranked across Scandinavia and Canada.
 
 > 💡 **Tip:** Oliver and Olivia share the same root --- both connect to the Latin olive tree. This makes them a popular (if bold) choice for boy-girl twins or close-in-age siblings. Learn more about [the name Olivia](/blog/name-olivia/) in our dedicated guide.
 
@@ -72,16 +72,16 @@ If you love the sound or feel of Oliver, these alternatives might also appeal to
 
 | Name | Origin | Meaning | Notes |
 |------|--------|---------|-------|
-| Oscar | Irish/Old English | "Deer friend" | Similar old-world charm |
+| Oscar | Irish/Old English | "Deer friend; or 'spear of the gods'" | Similar old-world charm |
 | Theodore | Greek | "Gift of God" | Same three-syllable elegance |
 | Felix | Latin | "Happy, fortunate" | Classic Latin brother |
-| Sebastian | Greek/Latin | "Venerable" | Similar sophistication |
-| Arthur | Celtic | "Bear" | Same era of revival |
-| Hugo | Germanic | "Mind, intellect" | European, distinguished |
-| Jasper | Persian | "Bringer of treasure" | Equally distinctive |
-| Elliott | English/Hebrew | "The Lord is my God" | Similar gentle strength |
+| Sebastian | Greek/Latin | "From Sebaste; from a Greek word meaning 'venerable'" | Similar sophistication |
+| Arthur | Celtic | "Meaning uncertain, possibly 'bear'" | Same era of revival |
+| Hugo | Germanic | "Mind, spirit" | European, distinguished |
+| Jasper | Persian | "Treasurer" | Equally distinctive |
+| Elliott | English/Hebrew | "From Elias, the Greek form of Elijah" | Similar gentle strength |
 | Archer | English | "Bowman" | Same starting vowel |
-| Owen | Welsh | "Young warrior" | Two-syllable alternative |
+| Owen | Welsh | "Possibly 'well-born' or 'youth'" | Two-syllable alternative |
 
 Looking for more names like Oliver? Try our [Baby Name Generator](/tools/name-generator/) for personalized suggestions based on the style, origin, and sound you love.
 
@@ -159,7 +159,7 @@ Oliver most likely derives from the Old French Olivier, connected to the Latin o
 
 ### How popular is Oliver right now?
 
-Oliver currently ranks in the top 5 boy names in the United States. It is also the number 1 boy name in England, Wales, and Australia. The name has experienced a remarkable surge in popularity since the early 2000s after spending decades in relative obscurity.
+Oliver currently ranks in the top 5 boy names in the United States. It was also the number 1 boys' name in England and Wales from 2013 to 2020. The name has experienced a remarkable surge in popularity since the early 2000s after spending decades in relative obscurity.
 
 ### What is a good nickname for Oliver?
 
@@ -246,7 +246,7 @@ Yes, Oliver and Olivia likely share the same Latin root, oliva, meaning "olive t
           "name": "How popular is Oliver right now?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Oliver currently ranks in the top 5 boy names in the United States and is the number 1 boy name in England, Wales, and Australia."
+            "text": "Oliver currently ranks in the top 5 boy names in the United States and was the number 1 boys' name in England and Wales from 2013 to 2020."
           }
         },
         {

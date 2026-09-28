@@ -2,7 +2,7 @@
 title: "All About the Name Amelia: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Amelia. Explore famous Amelias, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-24
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "name-amelia"
 category: "names"
 tags: ["baby name Amelia", "Amelia meaning", "Amelia origin", "girl names", "popular baby names"]
@@ -14,7 +14,7 @@ draft: false
 
 Amelia is a name that radiates determination and grace in equal measure. With roots stretching back to medieval Germanic nobility and a modern legacy tied to one of history's most daring aviators, Amelia strikes the perfect balance between soft femininity and steely strength. It is no wonder this name has soared into the upper echelon of baby name charts worldwide.
 
-> 📌 **Key Takeaway:** Amelia is a Germanic name meaning "work" or "industrious." It ranks in the US top 5 for girls and is the number 1 name in the UK. Its association with Amelia Earhart gives it an adventurous spirit that parents love.
+> 📌 **Key Takeaway:** Amelia is a Germanic name meaning "work" or "industrious." It ranks in the US top 5 for girls and was the number 1 girls' name in England and Wales from 2011 to 2015. Its association with Amelia Earhart gives it an adventurous spirit that parents love.
 
 ![Beautiful baby with curious eyes](https://images.pexels.com/photos/294173/pexels-photo-294173.jpeg?auto=compress&cs=tinysrgb&w=800)
 
@@ -50,7 +50,7 @@ Amelia's rise to the top has been swift and decisive, propelled by its vintage c
 | 2010s | Top 10 | Firmly established |
 | 2020s | Top 5 | Peak popularity |
 
-Amelia currently sits in the US top 5 and has claimed the number 1 spot in the United Kingdom. It is also extremely popular in Australia, Canada, and across Europe.
+Amelia currently sits in the US top 5 and held the number 1 spot in England and Wales from 2011 to 2015. It is also extremely popular in Australia, Canada, and across Europe.
 
 > 💡 **Tip:** Amelia and Emily are often confused or conflated, but they have different origins. If you want a name that sounds similar but stands apart, Amelia offers its own distinct Germanic heritage.
 
@@ -72,11 +72,11 @@ If you love the sound or feel of Amelia, these alternatives might also appeal to
 |------|--------|---------|-------|
 | Emilia | Latin | "Rival" | Similar sound, different root |
 | Amelie | French | "Hardworking" | French form, film-famous |
-| Cordelia | Celtic/Latin | "Heart, daughter of the sea" | Same regal quality |
+| Cordelia | Celtic/Latin | "Uncertain; sometimes explained as 'daughter of the sea'" | Same regal quality |
 | Arabella | Latin | "Yielding to prayer" | Shares the -ella ending |
 | Cecilia | Latin | "Blind" | Same melodic flow |
 | Adeline | French/Germanic | "Noble" | Vintage sister name |
-| Matilda | Germanic | "Battle-mighty" | Same Germanic roots |
+| Matilda | Germanic | "Mighty in battle" | Same Germanic roots |
 | Aurelia | Latin | "Golden" | Same four-syllable grace |
 | Evangeline | Greek | "Good news" | Same romantic length |
 | Rosalind | Germanic | "Gentle horse" | Literary and elegant |
@@ -165,7 +165,7 @@ The most popular nicknames for Amelia include Amy, Mia, Millie, Mimi, and Lia. E
 
 ### How popular is Amelia?
 
-Amelia is currently a top 5 girl name in the United States and holds the number 1 position in the United Kingdom. It has been in the US top 10 since the mid-2010s and is also extremely popular in Australia, Canada, and across Europe.
+Amelia is currently a top 5 girl name in the United States and held the number 1 position in England and Wales from 2011 to 2015. It has been in the US top 10 since the mid-2010s and is also extremely popular in Australia, Canada, and across Europe.
 
 > 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
 
@@ -260,7 +260,7 @@ Amelia is currently a top 5 girl name in the United States and holds the number 
           "name": "How popular is Amelia?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Amelia is currently a top 5 girl name in the United States and holds the number 1 position in the United Kingdom."
+            "text": "Amelia is currently a top 5 girl name in the United States and held the number 1 position in England and Wales from 2011 to 2015."
           }
         }
       ]

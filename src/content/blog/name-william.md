@@ -2,7 +2,7 @@
 title: "All About the Name William: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name William. Explore famous Williams, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-22
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "name-william"
 category: "names"
 tags: ["baby name William", "William meaning", "William origin", "boy names", "popular baby names"]
@@ -70,15 +70,15 @@ If you love the sound or feel of William, these alternatives might also appeal t
 
 | Name | Origin | Meaning | Notes |
 |------|--------|---------|-------|
-| Liam | Irish | "Resolute protector" | Irish short form of William |
+| Liam | Irish | "Short form of William, 'resolute protector'" | Irish short form of William |
 | Frederick | Germanic | "Peaceful ruler" | Same aristocratic weight |
 | Theodore | Greek | "Gift of God" | Similar revival trajectory |
 | Edward | Old English | "Wealthy guardian" | Same royal lineage |
 | Benjamin | Hebrew | "Son of the right hand" | Same top-10 classic |
-| Arthur | Celtic | "Bear" | Same revival energy |
-| Alexander | Greek | "Defender of people" | Similar warrior meaning |
+| Arthur | Celtic | "Meaning uncertain, possibly 'bear'" | Same revival energy |
+| Alexander | Greek | "Defender of men" | Similar warrior meaning |
 | Charles | Germanic | "Free man" | Royal brother name |
-| Henry | Germanic | "Ruler of the home" | Perfect pairing partner |
+| Henry | Germanic | "Home ruler" | Perfect pairing partner |
 | George | Greek | "Farmer" | Royal connection shared |
 
 Looking for more names like William? Try our [Baby Name Generator](/tools/name-generator/) for personalized suggestions based on the style, origin, and sound you love.

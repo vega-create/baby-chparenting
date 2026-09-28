@@ -2,7 +2,7 @@
 title: "All About the Name Noah: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Noah. Explore famous Noahs, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-18
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "name-noah"
 category: "names"
 tags: ["baby name Noah", "Noah meaning", "Noah origin", "boy names", "popular baby names"]
@@ -74,10 +74,10 @@ If you love the sound or feel of Noah, these alternatives might also appeal to y
 | Micah | Hebrew | "Who is like God?" | Similar sound and spirit |
 | Nolan | Irish | "Champion" | Shares the "No-" beginning |
 | Elijah | Hebrew | "My God is Yahweh" | Biblical brother name |
-| Caleb | Hebrew | "Faithful, devoted" | Same biblical warmth |
+| Caleb | Hebrew | "Meaning uncertain; often given as 'whole-hearted'" | Same biblical warmth |
 | Asher | Hebrew | "Happy, blessed" | Trendy Hebrew name |
 | Ezra | Hebrew | "Help" | Short, biblical, rising fast |
-| Silas | Latin/Aramaic | "Of the forest" | Similar gentle strength |
+| Silas | Latin/Aramaic | "From Silvanus, 'of the forest'" | Similar gentle strength |
 | Levi | Hebrew | "Joined, attached" | Two syllables, biblical |
 | Isaac | Hebrew | "He will laugh" | Classic patriarch name |
 

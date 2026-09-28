@@ -2,7 +2,7 @@
 title: "All About the Name Theodore: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Theodore. Explore famous Theodores, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-29
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "name-theodore"
 category: "names"
 tags: ["baby name Theodore", "Theodore meaning", "Theodore origin", "boy names", "popular baby names"]
@@ -70,10 +70,10 @@ If you love the sound or feel of Theodore, these alternatives might also appeal 
 
 | Name | Origin | Meaning | Notes |
 |------|--------|---------|-------|
-| Sebastian | Greek/Latin | "Venerable" | Same sophisticated length |
-| Alexander | Greek | "Defender of people" | Same Greek heritage |
+| Sebastian | Greek/Latin | "From Sebaste; from a Greek word meaning 'venerable'" | Same sophisticated length |
+| Alexander | Greek | "Defender of men" | Same Greek heritage |
 | Benjamin | Hebrew | "Son of the right hand" | Same top-10 classic |
-| Nathaniel | Hebrew | "Gift of God" | Same beautiful meaning |
+| Nathaniel | Hebrew | "God has given" | Same beautiful meaning |
 | Frederick | Germanic | "Peaceful ruler" | Same vintage revival |
 | Augustus | Latin | "Great, venerable" | Same classical grandeur |
 | Maximilian | Latin | "Greatest" | Same long-form elegance |

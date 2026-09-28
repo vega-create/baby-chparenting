@@ -2,7 +2,7 @@
 title: "30 Modern Unisex Baby Names for 2026"
 description: "Looking for a modern unisex baby name? Explore 30 gender-neutral picks for 2026 with meanings, origins, and trend data to help you choose with confidence."
 publishDate: 2026-06-06
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "modern-unisex-baby-names-2026"
 category: "names"
 tags: ["unisex names", "gender neutral names", "modern baby names", "baby names 2026", "name trends"]
@@ -33,12 +33,12 @@ For more naming inspiration, see our [trending baby names 2026](/blog/trending-b
 
 | Name | Meaning | Origin |
 |---|---|---|
-| Avery | Ruler of the elves | English |
-| Riley | Courageous | Irish |
-| Quinn | Wise, intelligent | Irish |
-| Rowan | Little redhead, rowan tree | Irish |
-| Sage | Wise, herb | Latin |
-| Hayden | Heathen, fire | Old English |
+| Avery | Elf ruler | English |
+| Riley | Often given as 'valiant'; also English 'rye clearing' | Irish / English |
+| Quinn | From Conn, 'chief' or 'intelligence' | Irish |
+| Rowan | Little red-haired one; also the rowan tree | Irish |
+| Sage | Wise; also the herb | Latin |
+| Hayden | Hay valley | English |
 | Emerson | Son of Emery | English |
 | Parker | Park keeper | English |
 | Reese | Ardor | Welsh |
@@ -52,27 +52,27 @@ For more naming inspiration, see our [trending baby names 2026](/blog/trending-b
 | River | River | English |
 | Indigo | Deep blue dye | Greek |
 | Sky | Sky | English |
-| Phoenix | Dark red, mythical bird | Greek |
+| Phoenix | Dark red; the mythical bird reborn from fire | Greek |
 | Aspen | Aspen tree | English |
 | Cypress | Cypress tree | Greek |
 | Hawk | Hawk | English |
-| Ocean | Ocean | Greek |
+| Ocean | Ocean | Greek, via English |
 | Cedar | Cedar tree | Latin |
 
 ### Modern and Punchy
 
 | Name | Meaning | Origin |
 |---|---|---|
-| Ellis | Benevolent | Welsh |
-| Remy | Oarsman | French |
-| Blake | Pale, dark | Old English |
+| Ellis | A medieval English form of Elijah; also from Welsh Elisedd, 'kind' | English / Welsh |
+| Remy | From Latin Remigius, 'oarsman' | French |
+| Blake | Dark; or pale | Old English |
 | Dakota | Friend, ally | Sioux |
 | Sloane | Raider | Irish |
-| Marlowe | Driftwood | English |
-| Lennon | Cloak, lover | Irish |
-| Sutton | South town | English |
+| Marlowe | Land left by a drained lake | English |
+| Lennon | From an Irish surname, possibly 'lover' or 'little cloak' | Irish |
+| Sutton | Southern settlement | English |
 | Briar | Thorny shrub | English |
-| Arden | Great forest | Latin |
+| Arden | From an English place name; the forest in Shakespeare's As You Like It | English |
 
 ## How to Choose a Unisex Name
 

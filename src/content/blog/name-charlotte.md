@@ -2,7 +2,7 @@
 title: "All About the Name Charlotte: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Charlotte. Explore famous Charlottes, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-20
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "name-charlotte"
 category: "names"
 tags: ["baby name Charlotte", "Charlotte meaning", "Charlotte origin", "girl names", "popular baby names"]
@@ -73,13 +73,13 @@ If you love the sound or feel of Charlotte, these alternatives might also appeal
 | Caroline | French/Germanic | "Free woman" | Same root as Charlotte |
 | Scarlett | English | "Red" | Same ending, equally bold |
 | Josephine | French/Hebrew | "God will increase" | French elegance match |
-| Eleanor | French/Greek | "Bright, shining light" | Same regal quality |
-| Genevieve | French/Germanic | "Tribe woman" | French heritage sister |
+| Eleanor | French | "Meaning uncertain" | Same regal quality |
+| Genevieve | French/Germanic | "Meaning uncertain; possibly 'woman of the people'" | French heritage sister |
 | Violet | Latin | "Purple" | Vintage charm in common |
-| Harriet | French/Germanic | "Ruler of the home" | Same era of revival |
-| Penelope | Greek | "Weaver" | Similar length and feel |
-| Matilda | Germanic | "Battle-mighty" | Strong, classic feminine |
-| Adelaide | Germanic | "Noble natured" | Royal pedigree shared |
+| Harriet | French/Germanic | "Feminine form of Henry, 'home ruler'" | Same era of revival |
+| Penelope | Greek | "Possibly 'weaver'" | Similar length and feel |
+| Matilda | Germanic | "Mighty in battle" | Strong, classic feminine |
+| Adelaide | Germanic | "Noble kind" | Royal pedigree shared |
 
 Looking for more names like Charlotte? Try our [Baby Name Generator](/tools/name-generator/) for personalized suggestions based on the style, origin, and sound you love.
 

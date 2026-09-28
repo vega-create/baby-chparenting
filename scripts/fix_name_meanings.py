@@ -19,18 +19,19 @@ def run(slug):
     for i, l in enumerate(lines):
         if not l.startswith("| ") or l.startswith("|--"): continue
         c = [x.strip() for x in l.strip().strip("|").split("|")]
-        if c[0] == "Name":                       # 表頭：各篇欄位順序不同（有的沒有 Gender、有的 Meaning 在 Origin 前）
+        if "Name" in c and ("Meaning" in c or "Full Meaning" in c):   # 表頭：各篇欄位順序不同（有的第一欄是 #、有的沒有 Gender）
             cols = {("Meaning" if "Meaning" in h else h): k for k, h in enumerate(c)}
             continue
         if not cols or len(c) != len(cols): continue
-        seen[c[0]] = seen.get(c[0], 0) + 1
-        key = f"{c[0]}#{seen[c[0]]}" if f"{c[0]}#{seen[c[0]]}" in m.ROWS else c[0]   # 重複列用 「名字#2」指定第 2 次出現
+        ni = cols.get("Name", 0); nm = c[ni]
+        seen[nm] = seen.get(nm, 0) + 1
+        key = f"{nm}#{seen[nm]}" if f"{nm}#{seen[nm]}" in m.ROWS else nm   # 重複列用 「名字#2」指定第 2 次出現
         if key not in m.ROWS: continue
         new, gender, origin, meaning = m.ROWS[key][:4]
         pron = m.ROWS[key][4] if len(m.ROWS[key]) > 4 else None   # 第 5 個值：發音（各國名字文才有這欄）
-        if new and new != c[0]: removed.append(c[0])
+        if new and new != nm: removed.append(nm)
         done.add(key)
-        c[0] = new or c[0]
+        c[ni] = new or nm
         if gender and "Gender" in cols: c[cols["Gender"]] = gender
         if origin and "Origin" in cols: c[cols["Origin"]] = origin
         if meaning and "Meaning" in cols:
@@ -47,7 +48,7 @@ def run(slug):
         if n == 0: print(f"   ⚠️ PROSE 找不到: {a[:50]}")
     open(path, "w").write(t)
     miss = [k for k in m.ROWS if k not in done]
-    if miss: print("   ⚠️ 表格裡找不到:", miss)
+    if miss and not getattr(m, "SHARED", False): print("   ⚠️ 表格裡找不到:", miss)
     prose = "\n".join(l for l in t.split("\n") if not l.startswith("| "))
     left = [(n, [s.strip()[:150] for s in re.split(r"(?<=[.!?])\s+", prose) if re.search(r"\b" + re.escape(n) + r"\b", s)][:3]) for n in removed]
     left = [(n, s) for n, s in left if s]

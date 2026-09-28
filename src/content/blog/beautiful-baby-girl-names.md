@@ -2,7 +2,7 @@
 title: "50 Beautiful Baby Girl Names with Meanings"
 description: "Find a beautiful baby girl name that fits your family. Browse 50 elegant, lyrical girl names with meanings and origins, from classics to modern picks."
 publishDate: 2026-06-04
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "beautiful-baby-girl-names"
 category: "names"
 tags: ["girl names", "beautiful names", "baby names", "name meanings", "elegant names"]
@@ -33,12 +33,12 @@ For more naming ideas, see our [trending baby names 2026](/blog/trending-baby-na
 
 | Name | Meaning | Origin | U.S. Rank (approx) |
 |---|---|---|---|
-| Charlotte | Free woman | French | Top 5 |
+| Charlotte | French feminine form of Charles, 'free man' | French | Top 5 |
 | Olivia | Olive tree | Latin | Top 5 |
 | Sophia | Wisdom | Greek | Top 10 |
-| Isabella | Devoted to God | Hebrew | Top 10 |
-| Eleanor | Bright, shining one | Greek | Top 20 |
-| Amelia | Industrious | Germanic | Top 5 |
+| Isabella | A form of Elizabeth, 'my God is an oath' | Italian / Spanish | Top 10 |
+| Eleanor | Meaning uncertain | French | Top 20 |
+| Amelia | From a Germanic word meaning 'work' | Germanic | Top 5 |
 | Emma | Whole, universal | Germanic | Top 5 |
 | Grace | Grace, favor | Latin | Top 50 |
 | Lucy | Light | Latin | Top 50 |
@@ -64,11 +64,11 @@ For more naming ideas, see our [trending baby names 2026](/blog/trending-baby-na
 | Name | Meaning | Origin |
 |---|---|---|
 | Aurora | Dawn | Latin |
-| Seraphina | Fiery, ardent | Hebrew |
+| Seraphina | From the seraphim, 'the burning ones' | Hebrew |
 | Vivienne | Alive | Latin |
-| Genevieve | Tribe woman | French |
-| Penelope | Weaver | Greek |
-| Cordelia | Heart, daughter of the sea | Latin/Welsh |
+| Genevieve | Meaning uncertain; possibly 'woman of the people' | French |
+| Penelope | Possibly 'weaver' | Greek |
+| Cordelia | Uncertain; sometimes explained as 'daughter of the sea' | Latin/Welsh |
 | Ophelia | Help | Greek |
 | Juliette | Youthful | French |
 | Anastasia | Resurrection | Greek |
@@ -79,30 +79,30 @@ For more naming ideas, see our [trending baby names 2026](/blog/trending-baby-na
 | Name | Meaning | Origin |
 |---|---|---|
 | Bella | Beautiful | Italian |
-| Mira | Wonderful, beautiful | Sanskrit/Slavic |
-| Lumi | Snow, light | Finnish |
-| Aoife | Beautiful, radiant | Irish |
-| Calla | Beautiful | Greek |
+| Mira | Wonderful; in Slavic languages, 'peace' | Latin / Slavic |
+| Lumi | Snow | Finnish |
+| Aoife | Beauty, radiance | Irish |
+| Calla | Beauty; also the calla lily | Greek |
 | Linnea | Twinflower | Swedish |
-| Soraya | Bright, gem | Persian |
-| Aiyana | Eternal blossom | Native American |
-| Yara | Butterfly, water lady | Arabic/Brazilian |
-| Suri | Princess, red rose | Hebrew/Persian |
+| Soraya | The Pleiades, a cluster of stars | Persian |
+| Aiyana | Often given as 'eternal blossom'; the origin is uncertain | Uncertain |
+| Yara | In Tupi legend, 'lady of the water'; also used in Arabic | Tupi / Arabic |
+| Suri | In Persian, 'red rose'; also a Yiddish form of Sarah | Hebrew/Persian |
 
 ### Modern Beautiful Picks
 
 | Name | Meaning | Origin |
 |---|---|---|
-| Maeve | Intoxicating | Irish |
+| Maeve | She who intoxicates | Irish |
 | Wren | Small bird | English |
 | Sage | Wise, herb | Latin |
 | Nova | New | Latin |
-| Quinn | Wise, intelligent | Irish |
+| Quinn | From Conn, 'chief' or 'intelligence' | Irish |
 | Saylor | Boatman, sailor | English |
 | Oakley | From the oak meadow | English |
-| Indie | Independent | English |
-| Lennox | Elm grove | Scottish |
-| Eden | Place of pleasure | Hebrew |
+| Indie | Short form of India or Indiana | English |
+| Lennox | Place of elms | Scottish |
+| Eden | Delight | Hebrew |
 
 ## How to Choose a Beautiful Girl Name
 

@@ -2,7 +2,7 @@
 title: "50 Strong Baby Boy Names with Meanings"
 description: "Looking for a strong, powerful baby boy name? Browse 50 strong boy names with meanings, origins, and popularity, from classic warriors to modern picks."
 publishDate: 2026-06-03
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "strong-baby-boy-names"
 category: "names"
 tags: ["boy names", "strong names", "baby names", "name meanings", "powerful names"]
@@ -33,14 +33,14 @@ For broader inspiration, see our [vintage boy names](/blog/vintage-boy-names-com
 
 | Name | Meaning | Origin | U.S. Rank (approx) |
 |---|---|---|---|
-| Alexander | Defender of the people | Greek | Top 15 |
-| Henry | Ruler of the home | Germanic | Top 10 |
+| Alexander | Defender of men | Greek | Top 15 |
+| Henry | Home ruler | Germanic | Top 10 |
 | William | Resolute protector | Germanic | Top 10 |
 | Theodore | Gift of God | Greek | Top 5 |
 | James | Supplanter | Hebrew | Top 5 |
 | Benjamin | Son of the right hand | Hebrew | Top 10 |
-| Samuel | Heard by God | Hebrew | Top 30 |
-| Nathaniel | Gift of God | Hebrew | Top 100 |
+| Samuel | God has heard | Hebrew | Top 30 |
+| Nathaniel | God has given | Hebrew | Top 100 |
 | Ezekiel | God strengthens | Hebrew | Top 75 |
 | Daniel | God is my judge | Hebrew | Top 15 |
 
@@ -50,10 +50,10 @@ For broader inspiration, see our [vintage boy names](/blog/vintage-boy-names-com
 |---|---|---|
 | Maximus | Greatest | Latin |
 | Atticus | Of Attica | Greek |
-| Leonidas | Lion's son | Greek |
-| Caspian | Of the Caspian Sea | Persian |
-| Kai | Sea (Hawaiian) / Strong (Welsh) | Multi |
-| Cyrus | Sun, lord | Persian |
+| Leonidas | Lion-like | Greek |
+| Caspian | Of the Caspian Sea | English |
+| Kai | Sea | Hawaiian |
+| Cyrus | Meaning uncertain; the founder of the Persian Empire | Persian |
 | Magnus | Great | Latin |
 | Roman | Of Rome | Latin |
 | Augustus | Majestic, venerable | Latin |
@@ -63,29 +63,29 @@ For broader inspiration, see our [vintage boy names](/blog/vintage-boy-names-com
 
 | Name | Meaning | Origin |
 |---|---|---|
-| Gideon | Mighty warrior | Hebrew |
-| Caleb | Devoted, faithful | Hebrew |
+| Gideon | One who cuts down, hewer | Hebrew |
+| Caleb | Meaning uncertain; often given as 'whole-hearted' | Hebrew |
 | Jonah | Dove | Hebrew |
-| Joshua | The Lord is salvation | Hebrew |
+| Joshua | Yahweh is salvation | Hebrew |
 | Asher | Happy, blessed | Hebrew |
 | Levi | Joined, attached | Hebrew |
 | Elijah | My God is Yahweh | Hebrew |
-| Isaiah | God is salvation | Hebrew |
+| Isaiah | Yahweh is salvation | Hebrew |
 | Micah | Who is like God | Hebrew |
-| Silas | Of the forest | Latin/Aramaic |
+| Silas | From Silvanus, 'of the forest' | Latin/Aramaic |
 
 ### Strong One-Syllable Names
 
 | Name | Meaning | Origin |
 |---|---|---|
 | Beau | Handsome | French |
-| Cole | Charcoal, dark | English |
+| Cole | Charcoal; swarthy | English |
 | Cruz | Cross | Spanish |
-| Finn | Fair | Irish |
+| Finn | Fair, white | Irish |
 | Grant | Great, large | Scottish |
-| Jack | God is gracious | English |
+| Jack | Medieval pet form of John, 'God is gracious' | English |
 | Knox | Round hill | Scottish |
-| Luke | Light | Greek |
+| Luke | From Lucania | Greek |
 | Reed | Red-haired | English |
 | Wolf | Wolf | Germanic |
 
@@ -93,16 +93,16 @@ For broader inspiration, see our [vintage boy names](/blog/vintage-boy-names-com
 
 | Name | Meaning | Origin |
 |---|---|---|
-| Ace | One, top | Latin |
-| Axel | Father of peace | Hebrew |
+| Ace | One; the highest card | Latin |
+| Axel | Scandinavian form of Absalom, 'father of peace' | Scandinavian |
 | Bear | Bear | English |
-| Bode | Shelter, messenger | Scandinavian |
+| Bode | Messenger | German |
 | Hawk | Hawk | English |
 | Jett | Black gemstone | English |
 | Kingston | King's town | English |
 | Onyx | Black gemstone | Greek |
 | Stone | Rock | English |
-| Titan | Defender, mighty | Greek |
+| Titan | The Titans, the elder gods of Greek myth | Greek |
 
 ## How to Choose a Strong Boy Name
 

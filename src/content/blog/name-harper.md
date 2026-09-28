@@ -2,7 +2,7 @@
 title: "All About the Name Harper: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Harper. Explore famous Harpers, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-04-01
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "name-harper"
 category: "names"
 tags: ["baby name Harper", "Harper meaning", "Harper origin", "girl names", "popular baby names"]
@@ -69,7 +69,7 @@ If you love the sound or feel of Harper, these alternatives might also appeal to
 | Piper | English | "Pipe player" | Same musical occupational origin |
 | Emerson | English | "Son of Emery" | Same surname-to-first trend |
 | Hadley | English | "Heather field" | Same preppy modern feel |
-| Quinn | Irish | "Wisdom, chief" | Short, unisex, stylish |
+| Quinn | Irish | "From Conn, 'chief' or 'intelligence'" | Short, unisex, stylish |
 | Sawyer | English | "Woodcutter" | Same literary surname vibe |
 | Wren | English | "Small bird" | Nature name with similar spunk |
 | Sloane | Irish | "Raider" | Same modern-chic energy |

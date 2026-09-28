@@ -2,7 +2,7 @@
 title: "All About the Name Benjamin: Meaning, Origin & Popularity"
 description: "Discover the meaning, origin, and popularity of the baby name Benjamin. Explore famous Benjamins, nicknames, sibling pairings, and middle name ideas."
 publishDate: 2026-03-25
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "name-benjamin"
 category: "names"
 tags: ["baby name Benjamin", "Benjamin meaning", "Benjamin origin", "boy names", "popular baby names"]
@@ -70,9 +70,9 @@ If you love the sound or feel of Benjamin, these alternatives might also appeal 
 
 | Name | Origin | Meaning | Notes |
 |------|--------|---------|-------|
-| Sebastian | Greek/Latin | "Venerable" | Same length, same sophistication |
-| Nathaniel | Hebrew | "Gift of God" | Same biblical heritage |
-| Alexander | Greek | "Defender of people" | Same grandeur |
+| Sebastian | Greek/Latin | "From Sebaste; from a Greek word meaning 'venerable'" | Same length, same sophistication |
+| Nathaniel | Hebrew | "God has given" | Same biblical heritage |
+| Alexander | Greek | "Defender of men" | Same grandeur |
 | Theodore | Greek | "Gift of God" | Same revival energy |
 | Jonathan | Hebrew | "God has given" | Biblical, similar nickname (Jon) |
 | Samuel | Hebrew | "God has heard" | Same patriarch energy |
