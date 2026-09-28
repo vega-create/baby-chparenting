@@ -12,7 +12,7 @@ tags: ["feeding schedule", "baby feeding", "breastfeeding", "formula feeding", "
 
 One of the most common questions new parents ask is "How often should I feed my baby?" and "How much should my baby eat?" The answers change significantly as your child grows from a tiny newborn taking frequent small feedings to an active nearly-one-year-old eating three meals a day plus snacks.
 
-As a pediatrician, I want to emphasize that every baby is unique, and the schedules below are guidelines rather than rigid rules. Your baby's hunger cues, growth trajectory, and temperament should always guide your decisions. That said, having a framework helps you know what to expect and when to talk to your doctor.
+Keep in mind that every baby is unique, and the schedules below are guidelines rather than rigid rules. Your baby's hunger cues, growth trajectory, and temperament should always guide your decisions. That said, having a framework helps you know what to expect and when to talk to your doctor.
 
 > 📌 **Key Takeaway:** According to La Leche League International, breastfed babies typically nurse 8-12 times in 24 hours during the first weeks. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [sleep training schedule by age](/blog/sleep-training-schedule-by-age/).
 

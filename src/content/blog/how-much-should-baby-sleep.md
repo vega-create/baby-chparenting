@@ -191,11 +191,10 @@ The ranges provided are guidelines based on population averages. Individual babi
     {
       "@type": "Person",
       "@id": "https://baby.chparenting.com/author/vega-lin/#person",
-      "name": "Dr. Michael Torres",
-      "jobTitle": "Board-Certified Pediatrician",
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
       "url": "https://baby.chparenting.com/author/vega-lin/",
-      "description": "Board-certified pediatrician specializing in infant development and sleep medicine.",
-      "knowsAbout": ["pediatrics", "infant sleep", "child development", "SIDS prevention"]
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
     },
     {
       "@type": "Organization",

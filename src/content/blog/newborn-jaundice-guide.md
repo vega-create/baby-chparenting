@@ -9,7 +9,7 @@ tags: ["newborn jaundice", "bilirubin", "newborn health", "first week", "phototh
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3845126/pexels-photo-3845126.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-draft: false
+draft: true   # 2026-09-28 暫停：GSC 顯示一般育兒文在 Google 無效，先集中做名字主題；要恢復改回 false
 ---
 
 On day three, someone — a nurse, your mother, you at 2 a.m. under bad lighting — notices your baby looks a bit yellow. Few things spook a new parent faster, and few things are more common: the majority of newborns develop some visible jaundice in the first week. Most of the time it's a normal, temporary chapter of newborn physiology that resolves on its own. Occasionally it needs treatment, which works extremely well when started on time. The skill for parents is knowing which is which, and when to pick up the phone. Here's the whole picture.

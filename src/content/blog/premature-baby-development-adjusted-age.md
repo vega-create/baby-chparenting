@@ -10,7 +10,7 @@ image: https://images.pexels.com/photos/3985170/pexels-photo-3985170.jpeg?auto=c
 tags: ["premature baby", "preemie development", "adjusted age", "corrected age", "NICU", "preemie milestones", "early intervention", "kangaroo care"]
 ---
 
-If your baby arrived earlier than expected, you are likely navigating a world filled with unfamiliar medical terms, adjusted timelines, and a development path that looks different from what the parenting books describe. As a pediatrician who has cared for hundreds of premature infants, I want to reassure you: most preemies grow up to be healthy, thriving children. Understanding how prematurity affects development -- and knowing when to use adjusted age -- will help you track your baby's progress with realistic expectations and less anxiety.
+If your baby arrived earlier than expected, you are likely navigating a world filled with unfamiliar medical terms, adjusted timelines, and a development path that looks different from what the parenting books describe. The reassuring news from the research is this: most preemies grow up to be healthy, thriving children. Understanding how prematurity affects development -- and knowing when to use adjusted age -- will help you track your baby's progress with realistic expectations and less anxiety.
 
 > 📌 **Key Takeaway:** According to the CDC milestone tracker, 90% of babies sit without support by 9 months and walk independently by 18 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
 

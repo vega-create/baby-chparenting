@@ -9,7 +9,7 @@ tags: ["weaning", "breastfeeding", "stopping breastfeeding", "night weaning", "f
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/6849528/pexels-photo-6849528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-draft: false
+draft: true   # 2026-09-28 暫停：GSC 顯示一般育兒文在 Google 無效，先集中做名字主題；要恢復改回 false
 ---
 
 However breastfeeding has gone for you — blissful, brutal, or the usual mix — ending it is its own project, with its own logistics and its own surprising emotions. Maybe your baby is losing interest. Maybe you're returning to work, done with pumping, pregnant again, or simply ready. All are complete reasons. The good news: weaning done gradually is gentle on your baby, your body and your supply of feelings. The less good news: weaning done abruptly is hard on all three. Here's the gradual method, the timeline math, the body-care details nobody mentions, and the emotional part — because there is one.

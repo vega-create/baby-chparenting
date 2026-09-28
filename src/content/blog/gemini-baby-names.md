@@ -201,9 +201,10 @@ Popular Gemini-inspired twin pairs include Aria and Clio (song and glory), Felix
     {
       "@type": "Person",
       "@id": "https://baby.chparenting.com/author/vega-lin/#person",
-      "name": "Hannah Lewis",
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
       "url": "https://baby.chparenting.com/author/vega-lin/",
-      "description": "Baby name expert and astrology enthusiast helping parents find names with cosmic meaning."
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
     },
     {
       "@type": "Organization",

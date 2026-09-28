@@ -221,8 +221,10 @@ The Archer symbol directly inspires names like Archer and Fletcher (arrow maker)
     {
       "@type": "Person",
       "@id": "https://baby.chparenting.com/author/vega-lin/#person",
-      "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/vega-lin/"
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
     },
     {
       "@type": "Organization",

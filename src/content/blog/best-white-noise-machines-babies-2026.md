@@ -9,7 +9,7 @@ tags: ["white noise machine", "baby sleep", "sound machine", "baby gear", "sleep
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3933274/pexels-photo-3933274.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-draft: false
+draft: true   # 2026-09-28 暫停：GSC 顯示一般育兒文在 Google 無效，先集中做名字主題；要恢復改回 false
 ---
 
 Ask experienced parents for their number-one baby sleep tool, and "white noise machine" comes up again and again. There's good reason: white noise mimics the constant whooshing your baby heard in the womb, helps them settle, and masks the household sounds that would otherwise wake them. But not all sound machines are equal, and — importantly — using one safely matters for your baby's hearing. This guide covers how to choose the right machine, the crucial safe-volume guidelines, the features that actually matter, and picks for every budget.

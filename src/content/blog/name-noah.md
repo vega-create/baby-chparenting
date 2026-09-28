@@ -210,10 +210,10 @@ Strong middle name options for Noah include James, Alexander, Benjamin, William,
     {
       "@type": "Person",
       "@id": "https://baby.chparenting.com/author/vega-lin/#person",
-      "name": "Jessica Park",
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
       "url": "https://baby.chparenting.com/author/vega-lin/",
-      "description": "Certified pediatric sleep consultant and parenting writer helping families thrive.",
-      "knowsAbout": ["baby names", "parenting", "baby sleep"]
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
     },
     {
       "@type": "Organization",

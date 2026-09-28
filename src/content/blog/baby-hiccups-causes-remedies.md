@@ -9,7 +9,7 @@ tags: ["baby hiccups", "newborn hiccups", "feeding", "burping", "reflux"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/27355922/pexels-photo-27355922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-draft: false
+draft: true   # 2026-09-28 暫停：GSC 顯示一般育兒文在 Google 無效，先集中做名字主題；要恢復改回 false
 ---
 
 Hic. Hic. Hic. If your newborn seems to spend half their day hiccuping — mid-feed, post-feed, sometimes waking themselves mid-nap with it — you're watching one of the most ordinary features of early babyhood. You probably even felt these same rhythmic little jumps during pregnancy; babies hiccup in the womb from surprisingly early on. Newborn hiccups are almost always harmless and bother parents far more than babies. Still, there are a few genuinely useful tricks, a few feeding tweaks that reduce them, and a short list of when hiccups deserve a mention at a checkup. Here's the whole, mercifully simple story.

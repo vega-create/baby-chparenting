@@ -155,8 +155,10 @@ Italian names are distinguished by their strong vowel endings (-o for boys, -a f
     {
       "@type": "Person",
       "@id": "https://baby.chparenting.com/author/vega-lin/#person",
-      "name": "Jessica Park",
-      "url": "https://baby.chparenting.com/author/vega-lin/"
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
     },
     {
       "@type": "Organization",

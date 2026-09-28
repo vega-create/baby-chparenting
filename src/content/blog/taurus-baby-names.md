@@ -190,9 +190,10 @@ Absolutely. Many parents choose a Taurus-inspired first name and pair it with a 
     {
       "@type": "Person",
       "@id": "https://baby.chparenting.com/author/vega-lin/#person",
-      "name": "Dr. Michael Torres",
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
       "url": "https://baby.chparenting.com/author/vega-lin/",
-      "description": "Child development specialist and parenting researcher with expertise in baby naming trends."
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
     },
     {
       "@type": "Organization",

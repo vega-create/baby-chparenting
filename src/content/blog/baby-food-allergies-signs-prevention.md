@@ -10,7 +10,7 @@ tags: ["baby food allergies", "allergen introduction", "LEAP study", "anaphylaxi
 description: "Learn about the top 9 baby food allergens, how to introduce them safely, signs of allergic reactions, and evidence-based strategies for allergy prevention."
 ---
 
-Food allergies affect approximately 8% of children in the United States, and the numbers have been rising steadily over the past two decades. As a pediatrician, one of the most common concerns I hear from new parents is the fear of introducing allergenic foods. The good news is that research has transformed our understanding of food allergies, and we now have clear, evidence-based strategies to reduce your baby's risk.
+Food allergies affect approximately 8% of children in the United States, and the numbers have been rising steadily over the past two decades. One of the most common worries for new parents is the fear of introducing allergenic foods. The good news is that research has transformed our understanding of food allergies, and we now have clear, evidence-based strategies to reduce your baby's risk.
 
 This guide covers everything you need to know about baby food allergies, from recognizing the signs to safely introducing common allergens. If you are just starting solids, our [best first foods for babies](/blog/best-first-foods-for-babies/) guide is a great companion resource.
 

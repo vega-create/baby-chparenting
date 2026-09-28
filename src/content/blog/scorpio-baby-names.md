@@ -216,8 +216,10 @@ Not at all. While Scorpio-inspired names carry power and depth, many are versati
     {
       "@type": "Person",
       "@id": "https://baby.chparenting.com/author/vega-lin/#person",
-      "name": "Dr. Michael Torres",
-      "url": "https://baby.chparenting.com/author/vega-lin/"
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
     },
     {
       "@type": "Organization",

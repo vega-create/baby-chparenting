@@ -12,7 +12,7 @@ image: "https://images.pexels.com/photos/2253894/pexels-photo-2253894.jpeg?auto=
 draft: false
 ---
 
-The co-sleeping debate is one of the most emotionally charged topics in parenting. On one side, proponents cite millennia of human evolution and benefits like easier [breastfeeding](/blog/breastfeeding-basics-for-beginners/). On the other, medical organizations point to data showing increased SIDS risk with bed-sharing. As a pediatrician, I believe parents deserve complete, evidence-based information so they can make the safest choice possible for their family. The AAP's position is clear, but the reality of how families actually sleep is more nuanced.
+The co-sleeping debate is one of the most emotionally charged topics in parenting. On one side, proponents cite millennia of human evolution and benefits like easier [breastfeeding](/blog/breastfeeding-basics-for-beginners/). On the other, medical organizations point to data showing increased SIDS risk with bed-sharing. Parents deserve complete, evidence-based information so they can make the safest choice possible for their family. The AAP's position is clear, but the reality of how families actually sleep is more nuanced.
 
 > 📌 **Key Takeaway:** The AAP recommends room-sharing without bed-sharing for at least the first 6 months (ideally 12 months). Room-sharing reduces SIDS risk by up to 50%, while bed-sharing increases risk 2–5 times. See our [SIDS prevention guide](/blog/baby-sleep-safety-sids-prevention/) for more details. If you choose to bed-share despite AAP recommendations, following harm-reduction guidelines significantly reduces (but does not eliminate) risk.
 
@@ -190,11 +190,10 @@ Yes. A bedside bassinet or sidecar-style co-sleeper keeps baby on their own firm
     {
       "@type": "Person",
       "@id": "https://baby.chparenting.com/author/vega-lin/#person",
-      "name": "Dr. Michael Torres",
-      "jobTitle": "Board-Certified Pediatrician",
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
       "url": "https://baby.chparenting.com/author/vega-lin/",
-      "description": "Board-certified pediatrician specializing in infant development and sleep medicine.",
-      "knowsAbout": ["pediatrics", "safe sleep", "co-sleeping", "SIDS prevention"]
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
     },
     {
       "@type": "Organization",

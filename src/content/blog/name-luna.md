@@ -187,7 +187,7 @@ Popular middle names for Luna include Rose, Grace, Mae, Marie, and Celeste. Shor
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/name-luna/"},
       "wordCount": 1800, "articleSection": "Names", "keywords": ["baby name Luna", "Luna meaning", "Luna origin", "girl names", "popular baby names"], "inLanguage": "en-US"
     },
-    {"@type": "Person", "@id": "https://baby.chparenting.com/author/vega-lin/#person", "name": "Hannah Lewis", "url": "https://baby.chparenting.com/author/vega-lin/", "description": "Parenting writer and baby name researcher helping families find the perfect name.", "knowsAbout": ["baby names", "name origins", "parenting"]},
+    {"@type": "Person", "@id": "https://baby.chparenting.com/author/vega-lin/#person", "name": "Vega Lin", "jobTitle": "Founder", "url": "https://baby.chparenting.com/author/vega-lin/", "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."},
     {"@type": "Organization", "@id": "https://baby.chparenting.com/#organization", "name": "Baby Sleep & Parenting Guide", "url": "https://baby.chparenting.com", "logo": {"@type": "ImageObject", "url": "https://baby.chparenting.com/favicon.svg", "width": 32, "height": 32}},
     {
       "@type": "FAQPage", "@id": "https://baby.chparenting.com/blog/name-luna/#faq",

@@ -145,8 +145,10 @@ Hawaiian names have their flowing, musical quality because the Hawaiian language
     {
       "@type": "Person",
       "@id": "https://baby.chparenting.com/author/vega-lin/#person",
-      "name": "Hannah Lewis",
-      "url": "https://baby.chparenting.com/author/vega-lin/"
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
     },
     {
       "@type": "Organization",

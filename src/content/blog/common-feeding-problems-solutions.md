@@ -12,7 +12,7 @@ tags: ["feeding problems", "baby reflux", "colic", "tongue tie", "nipple confusi
 
 Feeding a baby should be one of the most natural things in the world, yet nearly every parent encounters challenges at some point during the first year. From the newborn who spits up after every feeding to the 10-month-old who clamps her mouth shut at the sight of a spoon, feeding difficulties are incredibly common — whether you are [breastfeeding](/blog/breastfeeding-basics-for-beginners/) or [formula feeding](/blog/formula-feeding-complete-guide/) and can be a significant source of stress and worry.
 
-As a pediatrician, I want parents to know two things: first, most feeding problems are manageable with the right approach, and second, you should never hesitate to bring concerns to your doctor. This guide covers the most common feeding problems, what causes them, and when they cross the line from normal variation into territory that needs medical attention.
+Two things are worth knowing up front: first, most feeding problems are manageable with the right approach, and second, you should never hesitate to bring concerns to your doctor. This guide covers the most common feeding problems, what causes them, and when they cross the line from normal variation into territory that needs medical attention.
 
 > 📌 **Key Takeaway:** According to La Leche League International, breastfed babies typically nurse 8-12 times in 24 hours during the first weeks. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [bottle feeding tips breastfed babies](/blog/bottle-feeding-tips-breastfed-babies/).
 

@@ -175,11 +175,10 @@ Absolutely. Spend 1–2 weeks synchronizing their schedules before starting form
     {
       "@type": "Person",
       "@id": "https://baby.chparenting.com/author/vega-lin/#person",
-      "name": "Jessica Park",
-      "jobTitle": "Certified Pediatric Sleep Consultant",
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
       "url": "https://baby.chparenting.com/author/vega-lin/",
-      "description": "Certified pediatric sleep consultant helping families establish healthy sleep habits.",
-      "knowsAbout": ["twin sleep", "sleep training", "multiples", "sleep consulting"]
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
     },
     {
       "@type": "Organization",

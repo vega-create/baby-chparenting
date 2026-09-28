@@ -9,7 +9,7 @@ tags: ["potty training", "toddler", "3 day method", "potty train", "parenting"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/4149132/pexels-photo-4149132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-draft: false
+draft: true   # 2026-09-28 暫停：GSC 顯示一般育兒文在 Google 無效，先集中做名字主題；要恢復改回 false
 ---
 
 The "3-day potty training method" promises to get your toddler out of diapers over a single long weekend — and for many families, it genuinely works. But let's be realistic from the start: "3 days" rarely means fully accident-free forever in 72 hours. It means dedicating three intensive days to build the foundation, with accidents and fine-tuning continuing afterward. If your toddler is truly ready and you can clear your calendar, it's a powerful approach. This guide gives you an honest, practical walkthrough — how to prep, a day-by-day plan, and what to expect.

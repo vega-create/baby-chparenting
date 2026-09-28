@@ -142,9 +142,10 @@ Veda is a Sanskrit name meaning sacred wisdom and truth. Solon comes from the na
     {
       "@type": "Person",
       "@id": "https://baby.chparenting.com/author/vega-lin/#person",
-      "name": "Jessica Park",
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
       "url": "https://baby.chparenting.com/author/vega-lin/",
-      "description": "Parenting writer and baby name researcher helping families find meaningful names."
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
     },
     {
       "@type": "Organization",

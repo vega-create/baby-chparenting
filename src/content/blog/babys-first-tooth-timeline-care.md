@@ -9,7 +9,7 @@ tags: ["first tooth", "baby teeth", "dental care", "teething", "oral health"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/1912864/pexels-photo-1912864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-draft: false
+draft: true   # 2026-09-28 暫停：GSC 顯示一般育兒文在 Google 無效，先集中做名字主題；要恢復改回 false
 ---
 
 That first tiny tooth peeking through your baby's gum is a photo-worthy milestone — and the start of a lifetime of dental care. But it also raises practical questions: when should it appear, is your baby "late" if it hasn't, and how do you actually care for a single tooth? This guide covers the typical timeline for that first tooth, the order the rest follow, exactly how to care for baby's new teeth, and when to bring up late teething with your pediatrician or dentist. Grab your camera and let's get you ready.

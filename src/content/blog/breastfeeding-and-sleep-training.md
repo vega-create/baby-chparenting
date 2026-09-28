@@ -194,11 +194,10 @@ Most healthy, full-term breastfed babies who are gaining weight well can sleep 1
     {
       "@type": "Person",
       "@id": "https://baby.chparenting.com/author/vega-lin/#person",
-      "name": "Hannah Lewis",
-      "jobTitle": "Certified Lactation Consultant & Nutrition Specialist",
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
       "url": "https://baby.chparenting.com/author/vega-lin/",
-      "description": "Certified lactation consultant and infant nutrition specialist helping families navigate breastfeeding and sleep.",
-      "knowsAbout": ["breastfeeding", "lactation", "infant nutrition", "night weaning", "sleep training"]
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
     },
     {
       "@type": "Organization",

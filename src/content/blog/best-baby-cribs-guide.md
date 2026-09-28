@@ -10,7 +10,7 @@ tags: ["cribs", "safe sleep", "nursery", "baby furniture", "CPSC", "convertible 
 description: "A pediatrician's guide to choosing the safest baby crib in 2026. Covers CPSC safety standards, crib types, safe sleep guidelines, mattress fit, and when to transition to a toddler bed."
 ---
 
-The crib is where your baby will spend more time than anywhere else during their first two years of life. As a pediatrician, I have seen firsthand how the right crib and proper sleep environment reduce risk and give parents confidence. Choosing a crib is not about finding the most beautiful piece of nursery furniture; it is about creating the safest possible sleep space for your child.
+The crib is where your baby will spend more time than anywhere else during their first two years of life. The right crib and a proper sleep environment reduce risk and give parents confidence. Choosing a crib is not about finding the most beautiful piece of nursery furniture; it is about creating the safest possible sleep space for your child.
 
 Every year approximately 3,400 infants die from sleep-related causes in the United States, according to the CDC. Many of these deaths are preventable through safe sleep practices, and it all starts with the crib. This guide covers everything you need to know about crib safety standards, crib types, mattress selection, safe sleep setup, and when to make transitions as your child grows.
 
@@ -213,7 +213,7 @@ If considering a used crib:
 - Confirm the model was not recalled
 - Use only a new, properly fitted mattress
 
-**My recommendation as a pediatrician:** If budget allows, buy a new crib. They are available for under $150 from reputable brands, and you will have certainty about its safety history and compliance with current standards.
+**The safest default:** If budget allows, buy a new crib. They are available for under $150 from reputable brands, and you will have certainty about its safety history and compliance with current standards.
 
 ### Recalled Cribs
 

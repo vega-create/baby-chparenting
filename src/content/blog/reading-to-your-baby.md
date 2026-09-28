@@ -9,7 +9,7 @@ tags: ["reading to baby", "language development", "early literacy", "books for b
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/7780915/pexels-photo-7780915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-draft: false
+draft: true   # 2026-09-28 暫停：GSC 顯示一般育兒文在 Google 無效，先集中做名字主題；要恢復改回 false
 ---
 
 Reading a book to a six-week-old feels faintly ridiculous. They can't follow a plot. They may be asleep. They may be gnawing the corner of the very book you're reading. Do it anyway — and not because of parenting-culture pressure, but because the evidence is unusually strong and the ask is unusually small. The AAP formally recommends reading aloud from birth, pediatricians literally prescribe books through programs like Reach Out and Read, and the mechanism isn't mysterious: books reliably generate the rich, back-and-forth talk that builds language. Here's what reading does at each age, what it looks like in practice (spoiler: chewing counts), and how to make it a habit that sticks.

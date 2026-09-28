@@ -210,10 +210,10 @@ Charlotte currently ranks in the top 5 girl names in the United States. It has b
     {
       "@type": "Person",
       "@id": "https://baby.chparenting.com/author/vega-lin/#person",
-      "name": "Hannah Lewis",
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
       "url": "https://baby.chparenting.com/author/vega-lin/",
-      "description": "Parenting writer and baby name researcher helping families find the perfect name.",
-      "knowsAbout": ["baby names", "name origins", "parenting"]
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
     },
     {
       "@type": "Organization",

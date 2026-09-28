@@ -12,7 +12,7 @@ image: "https://images.pexels.com/photos/3617843/pexels-photo-3617843.jpeg?auto=
 draft: false
 ---
 
-Waking once or twice at night is normal for most babies. Waking every single hour is not — and it's absolutely exhausting for parents. If your baby is waking every hour (or more frequently), there is a reason. The key is identifying whether the cause is medical, behavioral, environmental, or developmental, and then addressing it systematically. As a pediatrician, I see this complaint frequently, and the good news is that most cases have clear, fixable causes.
+Waking once or twice at night is normal for most babies. Waking every single hour is not — and it's absolutely exhausting for parents. If your baby is waking every hour (or more frequently), there is a reason. The key is identifying whether the cause is medical, behavioral, environmental, or developmental, and then addressing it systematically. This is one of the most common sleep complaints, and the good news is that most cases have clear, fixable causes.
 
 > 📌 **Key Takeaway:** Babies who wake every hour at night are typically dealing with one of four issues: a sleep association dependency (most common after 4 months), an environmental problem, a medical issue (reflux, allergies, ear infections), or a [developmental regression](/blog/baby-sleep-regression-guide/). Identifying the cause is essential before choosing a solution.
 
@@ -165,11 +165,10 @@ See your pediatrician if: waking is accompanied by fever, breathing issues, or o
     {
       "@type": "Person",
       "@id": "https://baby.chparenting.com/author/vega-lin/#person",
-      "name": "Dr. Michael Torres",
-      "jobTitle": "Board-Certified Pediatrician",
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
       "url": "https://baby.chparenting.com/author/vega-lin/",
-      "description": "Board-certified pediatrician specializing in infant development and sleep medicine.",
-      "knowsAbout": ["pediatrics", "infant sleep", "night wakings", "child development"]
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
     },
     {
       "@type": "Organization",

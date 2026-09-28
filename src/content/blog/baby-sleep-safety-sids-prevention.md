@@ -208,11 +208,10 @@ The AAP recommends waiting until your child is at least 12 months old before int
     {
       "@type": "Person",
       "@id": "https://baby.chparenting.com/author/vega-lin/#person",
-      "name": "Dr. Michael Torres",
-      "jobTitle": "Board-Certified Pediatrician",
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
       "url": "https://baby.chparenting.com/author/vega-lin/",
-      "description": "Board-certified pediatrician specializing in infant development and sleep medicine.",
-      "knowsAbout": ["pediatrics", "infant sleep", "SIDS prevention", "child development"]
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
     },
     {
       "@type": "Organization",

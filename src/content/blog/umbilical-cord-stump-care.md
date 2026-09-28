@@ -9,7 +9,7 @@ tags: ["umbilical cord", "newborn care", "cord stump", "newborn hygiene", "first
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3662824/pexels-photo-3662824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-draft: false
+draft: true   # 2026-09-28 暫停：GSC 顯示一般育兒文在 Google 無效，先集中做名字主題；要恢復改回 false
 ---
 
 Of all the things nobody warns you about, the cord stump might be the strangest: a small, dark, drying remnant on your beautiful new baby that you're somehow supposed to just… leave alone. New parents worry about it constantly — is it supposed to look like that? Smell like that? When does it come off? The reassuring truth is that cord care in 2026 is mostly about *not* doing things, and the stump takes care of itself in a week or three. Here's the routine, the timeline, what's normal at each stage, and the short list of signs that mean a call to the pediatrician.

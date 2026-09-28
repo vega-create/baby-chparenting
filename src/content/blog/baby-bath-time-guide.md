@@ -9,7 +9,7 @@ tags: ["baby bath", "bath safety", "newborn care", "bath temperature", "bath rou
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
 image: "https://images.pexels.com/photos/3662949/pexels-photo-3662949.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-draft: false
+draft: true   # 2026-09-28 暫停：GSC 顯示一般育兒文在 Google 無效，先集中做名字主題；要恢復改回 false
 ---
 
 The first solo bath with a newborn is a rite of passage: one slippery, furious little person; two adult hands that suddenly feel insufficient; and a nagging sense that everyone else must know something you don't. Here's the secret — bathing a baby is much simpler than the aisle of bath products implies. Babies need fewer baths than most parents give, the safety rules are few and absolute, and the whole thing eventually turns into the best part of the evening routine. This guide covers frequency, temperature, technique by age, and the short list of rules that never bend.

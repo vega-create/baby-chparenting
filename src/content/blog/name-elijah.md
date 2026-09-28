@@ -193,7 +193,7 @@ The most popular nickname for Elijah is Eli, which has a warm, friendly quality 
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://baby.chparenting.com/blog/name-elijah/"},
       "wordCount": 1800, "articleSection": "Names", "keywords": ["baby name Elijah", "Elijah meaning", "Elijah origin", "boy names", "popular baby names"], "inLanguage": "en-US"
     },
-    {"@type": "Person", "@id": "https://baby.chparenting.com/author/vega-lin/#person", "name": "Jessica Park", "url": "https://baby.chparenting.com/author/vega-lin/", "description": "Certified pediatric sleep consultant and parenting writer helping families thrive.", "knowsAbout": ["baby names", "parenting", "baby sleep"]},
+    {"@type": "Person", "@id": "https://baby.chparenting.com/author/vega-lin/#person", "name": "Vega Lin", "jobTitle": "Founder", "url": "https://baby.chparenting.com/author/vega-lin/", "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."},
     {"@type": "Organization", "@id": "https://baby.chparenting.com/#organization", "name": "Baby Sleep & Parenting Guide", "url": "https://baby.chparenting.com", "logo": {"@type": "ImageObject", "url": "https://baby.chparenting.com/favicon.svg", "width": 32, "height": 32}},
     {
       "@type": "FAQPage", "@id": "https://baby.chparenting.com/blog/name-elijah/#faq",

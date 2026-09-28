@@ -10,7 +10,7 @@ image: https://images.pexels.com/photos/8460049/pexels-photo-8460049.jpeg?auto=c
 tags: ["developmental delays", "baby milestones", "early intervention", "red flags development", "CDC milestones", "developmental screening", "baby development concerns"]
 ---
 
-As a pediatrician, one of the most common conversations I have with parents begins with the words, "Should I be worried?" Every baby develops at their own pace, and the range of "normal" is wide. However, there are certain milestones and patterns that, when absent, warrant a closer look. The good news is that early identification and intervention can make a profound difference in a child's developmental trajectory.
+One of the most common conversations parents have with their pediatrician begins with the words, "Should I be worried?" Every baby develops at their own pace, and the range of "normal" is wide. However, there are certain milestones and patterns that, when absent, warrant a closer look. The good news is that early identification and intervention can make a profound difference in a child's developmental trajectory.
 
 This guide walks you through what developmental delays actually mean, what to watch for at each age, and exactly how to take action if something concerns you.
 
