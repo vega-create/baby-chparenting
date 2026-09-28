@@ -2,7 +2,7 @@
 title: "50 African Baby Names from Across the Continent"
 description: "Explore 50 beautiful African baby names from diverse cultures across the continent, with meanings, pronunciation guides, and rich naming traditions."
 publishDate: 2026-05-21
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "african-baby-names"
 category: "names"
 tags: ["African names", "baby names", "African baby names", "Swahili names", "Yoruba names"]
@@ -24,45 +24,45 @@ If you love joyful African names like Abeo, explore our full list of [baby names
 
 | Name | Meaning | Origin | Pronunciation |
 |------|---------|--------|---------------|
-| Abeo | Happy; joyful | Yoruba (Nigeria) | ah-BEH-oh |
-| Adisa | One who makes things clear | Yoruba (Nigeria) | ah-DEE-sah |
+| Abeo | Her birth brings happiness | Yoruba (Nigeria) | ah-BEH-oh |
+| Adisa | One who makes his meaning clear | Yoruba (Nigeria) | ah-DEE-sah |
 | Amani | Peace | Swahili (East Africa) | ah-MAH-nee |
 | Baraka | Blessing | Swahili (East Africa) | bah-RAH-kah |
 | Chidi | God exists | Igbo (Nigeria) | CHEE-dee |
-| Dakarai | Happiness; joy | Shona (Zimbabwe) | dah-kah-RYE |
-| Emeka | Great deeds | Igbo (Nigeria) | eh-MEH-kah |
+| Dakarai | Rejoice | Shona (Zimbabwe) | dah-kah-RYE |
+| Emeka | Short form of Chukwuemeka, 'God has done great things' | Igbo (Nigeria) | eh-MEH-kah |
 | Femi | Love me | Yoruba (Nigeria) | FEH-mee |
-| Jabari | Brave; fearless | Swahili (East Africa) | jah-BAH-ree |
-| Jelani | Mighty; powerful | Swahili (East Africa) | jeh-LAH-nee |
+| Jabari | Brave; from Arabic | Swahili (East Africa) | jah-BAH-ree |
+| Jelani | Often given as 'mighty' | Swahili (East Africa) | jeh-LAH-nee |
 | Kofi | Born on Friday | Akan (Ghana) | KOH-fee |
 | Kwame | Born on Saturday | Akan (Ghana) | KWAH-meh |
 | Lethabo | Happiness; joy | Sotho (South Africa) | leh-TAH-boh |
 | Mandla | Strength; power | Zulu (South Africa) | MAHN-dlah |
 | Olu | God; prominence | Yoruba (Nigeria) | OH-loo |
-| Sekou | Learned; wise | Mandinka (West Africa) | SEH-koo |
+| Sekou | Learned, elder; a West African form of Arabic sheikh | Mandinka (West Africa) | SEH-koo |
 | Tendai | Be thankful | Shona (Zimbabwe) | ten-DYE |
 | Thabo | Joy; happiness | Sotho (South Africa) | TAH-boh |
-| Uzoma | Good way; the right path | Igbo (Nigeria) | oo-ZOH-mah |
+| Uzoma | Good road | Igbo (Nigeria) | oo-ZOH-mah |
 
 ## Girl Names
 
 | Name | Meaning | Origin | Pronunciation |
 |------|---------|--------|---------------|
 | Abeni | We asked for her and she came | Yoruba (Nigeria) | ah-BEH-nee |
-| Amara | Grace; eternal | Igbo (Nigeria) | ah-MAH-rah |
-| Ayana | Beautiful flower | Amharic (Ethiopia) | ah-YAH-nah |
+| Amara | Grace | Igbo (Nigeria) | ah-MAH-rah |
+| Ayana | Often given as 'beautiful flower' | Amharic (Ethiopia) | ah-YAH-nah |
 | Chidinma | God is good | Igbo (Nigeria) | chee-DIN-mah |
-| Eshe | Life; energy | Swahili (East Africa) | EH-sheh |
-| Fatoumata | Weaned child | Mandinka (West Africa) | fah-too-MAH-tah |
+| Eshe | Life | Swahili (East Africa) | EH-sheh |
+| Fatoumata | West African form of Fatima | Mandinka (West Africa) | fah-too-MAH-tah |
 | Imani | Faith | Swahili (East Africa) | ee-MAH-nee |
 | Keitumetse | I am happy | Tswana (Botswana) | kay-too-MET-seh |
-| Lindiwe | We have waited | Zulu (South Africa) | lin-DEE-weh |
+| Lindiwe | Awaited | Zulu (South Africa) | lin-DEE-weh |
 | Makena | Happy one | Kikuyu (Kenya) | mah-KEH-nah |
-| Nalini | Lotus flower | Swahili (East Africa) | nah-LEE-nee |
-| Nia | Purpose; intention | Swahili (East Africa) | NEE-ah |
-| Nkechi | God's own | Igbo (Nigeria) | n-KEH-chee |
-| Sanaa | Art; work of beauty | Swahili (East Africa) | sah-NAH |
-| Sade | Honor bestows a crown | Yoruba (Nigeria) | shah-DAY |
+| Neema | Grace | Swahili (East Africa) | neh-EH-mah |
+| Nia | Purpose | Swahili (East Africa) | NEE-ah |
+| Nkechi | What God has given | Igbo (Nigeria) | n-KEH-chee |
+| Sanaa | Art | Swahili (East Africa) | sah-NAH |
+| Sade | Short form of Folasade, 'honor confers a crown' | Yoruba (Nigeria) | shah-DAY |
 | Thandiwe | Beloved | Zulu/Xhosa (South Africa) | tahn-DEE-weh |
 | Wangari | Leopard | Kikuyu (Kenya) | wahn-GAH-ree |
 | Yaa | Born on Thursday | Akan (Ghana) | YAH |

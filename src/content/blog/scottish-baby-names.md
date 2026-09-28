@@ -2,7 +2,7 @@
 title: "45 Scottish Baby Names: Highland Heritage"
 description: "Discover 45 Scottish baby names rooted in Highland heritage, with meanings, pronunciation guides, and the traditions behind Scotland's naming customs."
 publishDate: 2026-05-18
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "scottish-baby-names"
 category: "names"
 tags: ["Scottish names", "baby names", "Gaelic names", "Highland names", "Scottish baby names"]
@@ -24,24 +24,24 @@ James, one of the most iconic Scottish royal names, has its own guide --- explor
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Alistair | Defender of the people | AL-is-ter |
-| Angus | One strength; unique choice | ANG-gus |
-| Blair | Field; plain; battlefield | BLAIR |
-| Broderick | Brother; ridge | BROD-er-ik |
+| Alistair | Scottish form of Alexander, 'defender of men' | AL-is-ter |
+| Angus | One strength | ANG-gus |
+| Blair | Field, plain | BLAIR |
+| Broderick | From a Welsh surname, 'son of Rhydderch' | BROD-er-ik |
 | Callum | Dove | KAL-um |
 | Campbell | Crooked mouth | KAM-bul |
 | Craig | Rock; crag | KRAYG |
-| Duncan | Dark warrior; brown chief | DUN-kun |
-| Fergus | Man of strength | FUR-gus |
-| Finlay | Fair-haired hero | FIN-lee |
-| Fraser | Strawberry; of the forest | FRAY-zer |
+| Duncan | Brown warrior | DUN-kun |
+| Fergus | Man of vigor | FUR-gus |
+| Finlay | Fair warrior | FIN-lee |
+| Fraser | Meaning uncertain; linked by tradition to French fraise, 'strawberry' | FRAY-zer |
 | Hamish | Supplanter (Scottish form of James) | HAY-mish |
 | Innes | Island | IN-iss |
 | Lachlan | From the land of lakes | LAHK-lun |
-| Lennox | Elm grove | LEN-ux |
+| Lennox | Place of elms | LEN-ux |
 | Magnus | Great | MAG-nus |
 | Malcolm | Devotee of Saint Columba | MAL-kum |
-| Murray | Lord of the sea | MUR-ee |
+| Murray | From Moray, 'settlement by the sea' | MUR-ee |
 | Ross | Headland; promontory | ROSS |
 | Tavish | Twin (Scottish form of Thomas) | TAV-ish |
 
@@ -49,20 +49,20 @@ James, one of the most iconic Scottish royal names, has its own guide --- explor
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Ailsa | Elf victory; from Ailsa Craig island | AYL-suh |
-| Blair | Field; plain | BLAIR |
-| Bonnie | Beautiful; cheerful | BON-ee |
+| Ailsa | From Ailsa Craig, an island in the Firth of Clyde | AYL-suh |
+| Blair | Field, plain | BLAIR |
+| Bonnie | Pretty | BON-ee |
 | Catriona | Pure (Scottish form of Catherine) | kah-TREE-nuh |
-| Eilidh | Shining one; radiant | AY-lee |
-| Elspeth | Chosen by God (Scottish form of Elizabeth) | EL-speth |
+| Eilidh | Scottish Gaelic form of Helen | AY-lee |
+| Elspeth | Scottish form of Elizabeth, 'my God is an oath' | EL-speth |
 | Fiona | White; fair | fee-OH-nuh |
 | Isla | Island (from Islay) | EYE-luh |
-| Kenna | Born of fire; beautiful | KEN-uh |
+| Kenna | Feminine form of Kenneth | KEN-uh |
 | Maisie | Pearl (Scottish form of Margaret) | MAY-zee |
-| Morag | Great; sun | MOR-ag |
-| Morven | Big mountain peak | MOR-ven |
-| Nessa | Headland; promontory | NES-uh |
-| Rhona | Mighty; rough island | ROH-nuh |
+| Morag | Great | MOR-ag |
+| Morven | Big peak | MOR-ven |
+| Nessa | Pet form of Agnes; also linked to ness, 'headland' | NES-uh |
+| Rhona | Possibly from the island of Rona, 'rough island' | ROH-nuh |
 | Shona | God is gracious (Scottish form of Joan) | SHOH-nuh |
 | Skye | From the Isle of Skye | SKY |
 
@@ -70,15 +70,15 @@ James, one of the most iconic Scottish royal names, has its own guide --- explor
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Blair | Field; plain; battlefield | BLAIR |
+| Blair | Field, plain | BLAIR |
 | Cameron | Crooked nose | KAM-er-un |
-| Lindsay | Linden tree island | LIND-zee |
+| Lindsay | From an English place name, possibly 'linden island' | LIND-zee |
 | Logan | Little hollow | LOH-gun |
-| Morgan | Sea-born; great brightness | MOR-gun |
+| Morgan | Possibly 'sea chief' or 'sea circle'; Welsh in origin | MOR-gun |
 | Ramsay | Wild garlic island | RAM-zee |
-| Rowan | Little red one; rowan tree | ROH-un |
+| Rowan | Little red-haired one; also the rowan tree | ROH-un |
 | Skye | From the Isle of Skye | SKY |
-| Stewart | Steward; guardian | STOO-urt |
+| Stewart | Steward | STOO-urt |
 
 ## Naming Traditions in Scottish Culture
 

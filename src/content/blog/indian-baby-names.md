@@ -2,7 +2,7 @@
 title: "50 Indian Baby Names: Sanskrit & Modern"
 description: "Explore 50 beautiful Indian baby names from Sanskrit and modern traditions, with meanings, pronunciation guides, and insights into India's naming customs."
 publishDate: 2026-05-19
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "indian-baby-names"
 category: "names"
 tags: ["Indian names", "baby names", "Sanskrit names", "Hindu names", "Indian baby names"]
@@ -24,61 +24,61 @@ Parents drawn to Asian naming traditions may also enjoy our guide to [Japanese b
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Aarav | Peaceful; wise | AH-rahv |
-| Aditya | Sun; sun god | ah-DIT-yah |
+| Aarav | Often given as 'peaceful' | AH-rahv |
+| Aditya | Belonging to Aditi; a name of the sun god | ah-DIT-yah |
 | Arjun | Bright; shining; white | AR-jun |
 | Aryan | Noble; honorable | AHR-yun |
 | Dev | God; divine | DEHV |
 | Dhruv | Pole star; constant | DROOV |
-| Gautam | Lord Buddha; enlightened | GOW-tahm |
-| Ishaan | Sun; lord of the northeast | ih-SHAHN |
-| Kabir | Great; powerful | kah-BEER |
-| Krishna | Dark; all-attractive | KRISH-nah |
+| Gautam | Descendant of Gotama; the family name of the Buddha | GOW-tahm |
+| Ishaan | A name of Shiva; guardian of the northeast | ih-SHAHN |
+| Kabir | Great; from Arabic | kah-BEER |
+| Krishna | Dark, black | KRISH-nah |
 | Manish | Lord of the mind; wise | mah-NISH |
 | Nikhil | Complete; whole | nih-KHIL |
 | Pranav | Sacred syllable Om; breath | prah-NAHV |
 | Raj | King; ruler | RAHJ |
-| Rohan | Ascending; healing | ROH-hun |
-| Sahil | Shore; guide | sah-HIL |
-| Siddharth | One who has accomplished goals | sid-DHARTH |
+| Rohan | Ascending | ROH-hun |
+| Sahil | Shore, coast; from Arabic | sah-HIL |
+| Siddharth | One who has accomplished his goal | sid-DHARTH |
 | Varun | God of water; ocean | VAH-run |
 | Veer | Brave; courageous | VEER |
-| Vivaan | Full of life; morning sun | vih-VAHN |
+| Vivaan | Often given as 'full of life'; a modern name | vih-VAHN |
 
 ## Girl Names
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Aanya | Inexhaustible; gracious | AHN-yah |
+| Aanya | Often given as 'inexhaustible'; a modern name | AHN-yah |
 | Ananya | Unique; without equal | ah-NAHN-yah |
-| Anita | Grace; without guile | ah-NEE-tah |
+| Anita | Grace; a form of Anna widely used in India | ah-NEE-tah |
 | Devi | Goddess; divine | DEH-vee |
 | Dia | Lamp; light; gift | DEE-ah |
 | Ishita | Superiority; mastery | ih-SHEE-tah |
 | Kavya | Poetry; poem | KAHV-yah |
-| Kiara | Dark-haired; first ray of light | kee-AH-rah |
+| Kiara | Used in India; from Irish Ciara, 'dark-haired', or Italian Chiara, 'bright' | kee-AH-rah |
 | Lakshmi | Fortune; prosperity | LAHK-shmee |
-| Maya | Illusion; divine creative force | MAH-yah |
-| Meera | Devotee; ocean; boundary | MEE-rah |
-| Nisha | Night; dream | NEE-shah |
+| Maya | Illusion | MAH-yah |
+| Meera | The name of the poet-saint Mirabai; meaning uncertain | MEE-rah |
+| Nisha | Night | NEE-shah |
 | Pooja | Worship; prayer | POO-jah |
 | Priya | Beloved; dear | PREE-yah |
-| Riya | Singer; graceful | REE-yah |
-| Saanvi | Goddess Lakshmi; knowledge | SAHN-vee |
-| Sara | Princess; essence | SAH-rah |
+| Riya | Often given as 'singer' | REE-yah |
+| Saanvi | Often given as a name of the goddess Lakshmi | SAHN-vee |
+| Sara | Princess; from Hebrew, widely used in India | SAH-rah |
 | Shreya | Auspicious; beautiful | SHREY-ah |
-| Tara | Star; hill; savior | TAH-rah |
-| Zara | Flower; star; princess | ZAH-rah |
+| Tara | Star | TAH-rah |
+| Zara | Possibly from Arabic zahrah, 'blossom' | ZAH-rah |
 
 ## Unisex Names
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Arya | Noble; truthful | AHR-yah |
-| Daksha | Earth; skilled | DAHK-shah |
-| Indra | Possessing drops of rain | IN-drah |
+| Arya | Noble | AHR-yah |
+| Daksha | Skilled, able | DAHK-shah |
+| Indra | King of the gods in Hindu tradition; meaning uncertain | IN-drah |
 | Kiran | Ray of light | KEE-run |
-| Neel | Blue; sapphire | NEEL |
+| Neel | Blue | NEEL |
 | Prem | Love; affection | PREHM |
 | Rishi | Sage; poet | REE-shee |
 | Sai | Divine; saint | SIGH |
@@ -95,7 +95,7 @@ India's religious diversity creates distinct naming traditions across communitie
 
 Modern Indian naming trends show a fascinating blend of tradition and innovation. Short, contemporary names like Aarav, Vivaan, Dia, and Kiara have surged in popularity alongside traditional favorites. Many parents now seek names that work internationally while retaining Indian cultural identity. The trend toward two-syllable names reflects the influence of global naming fashions, while the continued emphasis on meaning keeps Indian naming rooted in its philosophical traditions.
 
-> 💡 **Tip:** The most popular Indian baby names right now include Aarav, Vivaan, and Aditya for boys, and Saanvi, Aanya, and Kiara for girls. For names that translate beautifully across cultures, try Rohan, Maya, or Kiran. Discover your perfect name with our [Name Generator](/tools/name-generator/) and track what is trending at [Name Trends](/tools/name-trends/).
+> 💡 **Tip:** Widely used Indian baby names in recent years include Aarav, Vivaan, and Aditya for boys, and Saanvi, Aanya, and Kiara for girls. For names that translate beautifully across cultures, try Rohan, Maya, or Kiran. Discover your perfect name with our [Name Generator](/tools/name-generator/) and track what is trending at [Name Trends](/tools/name-trends/).
 
 ## FAQ
 

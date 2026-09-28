@@ -2,7 +2,7 @@
 title: "40 Welsh Baby Names: Celtic Treasures"
 description: "Discover 40 beautiful Welsh baby names with meanings, pronunciation guides, and insights into Wales' ancient Celtic naming traditions and Cymraeg heritage."
 publishDate: 2026-05-25
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "welsh-baby-names"
 category: "names"
 tags: ["Welsh names", "baby names", "Celtic names", "Welsh baby names", "Cymraeg names"]
@@ -24,48 +24,48 @@ If you love nature-inspired Welsh names, see our full list of [nature-inspired b
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Alun | Harmony; handsome | AH-lin |
-| Aneurin | Noble; golden | ah-NYE-rin |
-| Bedwyr | Birch hero (Sir Bedivere) | BED-weer |
+| Alun | Meaning uncertain; from a Welsh river name | AH-lin |
+| Aneurin | Possibly from Latin Honorius, 'man of honor' | ah-NYE-rin |
+| Bedwyr | Sir Bedivere of Arthurian legend; meaning uncertain | BED-weer |
 | Bryn | Hill; mound | BRIN |
-| Cadoc | Battle; war | KAD-ok |
+| Cadoc | Battle | KAD-ok |
 | Caradoc | Beloved; amiable | kah-RAD-ok |
 | Celyn | Holly | KEL-in |
-| Dylan | Son of the sea; great tide | DUL-un |
+| Dylan | Great tide | DUL-un |
 | Emrys | Immortal (Welsh Ambrose/Merlin) | EM-ris |
-| Geraint | Old man; elder | GEH-rynt |
-| Gethin | Dark-skinned; dusky | GETH-in |
+| Geraint | From Latin Gerontius, 'old man' | GEH-rynt |
+| Gethin | Dusky, swarthy | GETH-in |
 | Gwyn | White; fair; blessed | GWIN |
-| Idris | Ardent lord; fiery leader | ID-ris |
+| Idris | Ardent lord | ID-ris |
 | Ieuan | God is gracious (Welsh John) | YAY-an |
-| Llywelyn | Leader; like a lion | hluh-WEL-in |
+| Llywelyn | Possibly 'leader'; often linked to llew, 'lion' | hluh-WEL-in |
 | Macsen | Greatest (Welsh Maximus) | MAK-sen |
-| Owain | Well-born; young warrior | OH-wine |
-| Rhodri | Circle; wheel ruler | HROD-ree |
+| Owain | Possibly 'well-born' or 'youth' | OH-wine |
+| Rhodri | Wheel + ruler | HROD-ree |
 | Rhys | Ardor; enthusiasm | HREES |
 
 ## Girl Names
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Angharad | Much loved; free from shame | ang-HAR-ad |
-| Branwen | Beautiful raven; fair breast | BRAN-wen |
-| Carys | Love; beloved | KAH-ris |
-| Cerys | Love; to love | KEH-ris |
-| Dwynwen | Blessed; white; wave (patron saint of lovers) | DWIN-wen |
+| Angharad | Much loved | ang-HAR-ad |
+| Branwen | Fair raven | BRAN-wen |
+| Carys | Love | KAH-ris |
+| Cerys | Love | KEH-ris |
+| Dwynwen | The patron saint of Welsh lovers; the name ends in gwen, 'white, blessed' | DWIN-wen |
 | Efa | Life (Welsh Eve) | EH-vah |
 | Eira | Snow | AY-rah |
 | Ffion | Foxglove flower | FEE-on |
 | Gwen | White; fair; blessed | GWEN |
-| Gwyneth | Happiness; blessed | GWIN-eth |
+| Gwyneth | From Gwynedd, a region of Wales; or from gwyn, 'blessed' | GWIN-eth |
 | Lowri | Laurel (Welsh Laura) | LOW-ree |
-| Megan | Pearl (Welsh Margaret) | MEG-an |
-| Nerys | Lady; lordly | NEH-ris |
+| Megan | Welsh pet form of Margaret, 'pearl' | MEG-an |
+| Nerys | Lady | NEH-ris |
 | Non | Nun (mother of St. David) | NOHN |
-| Rhiannon | Great queen; divine queen | hree-AN-on |
+| Rhiannon | Great queen | hree-AN-on |
 | Seren | Star | SEH-ren |
 | Sian | God is gracious (Welsh Jane) | SHAHN |
-| Tegan | Beautiful; darling | TEG-an |
+| Tegan | From teg, 'fair, beautiful' | TEG-an |
 
 ## Unisex Names
 
@@ -73,7 +73,7 @@ If you love nature-inspired Welsh names, see our full list of [nature-inspired b
 |------|---------|---------------|
 | Bryn | Hill; mound | BRIN |
 | Celyn | Holly | KEL-in |
-| Morgan | Sea-born; great brightness | MOR-gun |
+| Morgan | Possibly 'sea chief' or 'sea circle' | MOR-gun |
 
 ## Naming Traditions in Welsh Culture
 

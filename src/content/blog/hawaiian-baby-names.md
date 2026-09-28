@@ -2,7 +2,7 @@
 title: "40 Hawaiian Baby Names: Island-Inspired"
 description: "Discover 40 beautiful Hawaiian baby names with meanings, pronunciation guides, and insights into Hawaii's unique island naming traditions and culture."
 publishDate: 2026-05-23
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "hawaiian-baby-names"
 category: "names"
 tags: ["Hawaiian names", "baby names", "Hawaiian baby names", "Polynesian names", "island names"]
@@ -24,19 +24,19 @@ If you love Hawaiian nature names, you will also enjoy our full list of [nature-
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Akamu | Of the earth; red earth | ah-KAH-moo |
+| Akamu | Hawaiian form of Adam | ah-KAH-moo |
 | Aolani | Heavenly cloud | ah-oh-LAH-nee |
 | Ikaika | Strong; powerful | ee-KAI-kah |
 | Kai | Sea; ocean | KYE |
 | Kalani | The heavens; royal one | kah-LAH-nee |
-| Kaimana | Power of the sea; diamond | kye-MAH-nah |
+| Kaimana | Diamond; also read as kai + mana, 'power of the sea' | kye-MAH-nah |
 | Kanoa | The free one | kah-NOH-ah |
 | Kawai | The water | kah-WYE |
 | Keahi | Flames; the fire | keh-AH-hee |
-| Keanu | Cool breeze over the mountains | keh-AH-noo |
+| Keanu | The cool breeze | keh-AH-noo |
 | Kekoa | The warrior; the brave one | keh-KOH-ah |
-| Koa | Warrior; brave; bold | KOH-ah |
-| Lono | God of peace and fertility | LOH-noh |
+| Koa | Brave, bold; also the koa tree | KOH-ah |
+| Lono | The Hawaiian god of peace and fertility | LOH-noh |
 | Makoa | Fearless; bold | mah-KOH-ah |
 | Manu | Bird | MAH-noo |
 | Nalu | Wave; surf | NAH-loo |
@@ -46,21 +46,21 @@ If you love Hawaiian nature names, you will also enjoy our full list of [nature-
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Aloha | Love; compassion; hello/goodbye | ah-LOH-hah |
+| Aloha | Love, affection; also a greeting | ah-LOH-hah |
 | Haukea | White snow | how-KEH-ah |
 | Ilima | Flower of Oahu | ee-LEE-mah |
 | Kailani | Sea and sky | kye-LAH-nee |
-| Kalena | Pure; clear | kah-LEH-nah |
+| Kalena | A Hawaiian form of Karen | kah-LEH-nah |
 | Kealoha | The loved one | keh-ah-LOH-hah |
 | Lani | Sky; heaven; royal | LAH-nee |
-| Leilani | Heavenly lei; royal child | lay-LAH-nee |
-| Mahina | Moon; moonlight | mah-HEE-nah |
+| Leilani | Heavenly flowers | lay-LAH-nee |
+| Mahina | Moon | mah-HEE-nah |
 | Makana | Gift; reward | mah-KAH-nah |
-| Malia | Calm; peaceful (Hawaiian Mary) | mah-LEE-ah |
-| Moana | Ocean; deep sea | moh-AH-nah |
-| Nalani | The heavens; serenity of the sky | nah-LAH-nee |
-| Noelani | Heavenly mist; beautiful from heaven | noh-eh-LAH-nee |
-| Pikake | Peacock; jasmine | pee-KAH-keh |
+| Malia | Hawaiian form of Mary | mah-LEE-ah |
+| Moana | Ocean | moh-AH-nah |
+| Nalani | The heavens | nah-LAH-nee |
+| Noelani | Heavenly mist | noh-eh-LAH-nee |
+| Pikake | Jasmine; the word comes from 'peacock' | pee-KAH-keh |
 | Pua | Flower; blossom | POO-ah |
 
 ## Unisex Names

@@ -1,0 +1,22 @@
+ROWS = {
+ "Antonio": (None, None, None, "Italian form of Anthony, from a Roman family name of uncertain meaning"),
+ "Dante": (None, None, None, "Short form of Durante, 'enduring'"),
+ "Emilio": (None, None, None, "From the Roman family name Aemilius, 'rival'"),
+ "Enzo": (None, None, None, "Short form of Lorenzo or Vincenzo; also an Italian form of Henry"),
+ "Francesco": (None, None, None, "Frenchman; later understood as 'free one'"),
+ "Leonardo": (None, None, None, "Brave as a lion"),
+ "Luca": (None, None, None, "Italian form of Luke, 'from Lucania'"),
+ "Luca#2": (None, None, None, "Italian form of Luke, 'from Lucania'"),
+ "Lorenzo": (None, None, None, "From Laurentum"),
+ "Marco": (None, None, None, "Dedicated to Mars"),
+ "Riccardo": (None, None, None, "Brave ruler"),
+ "Aria": (None, None, None, "Air; a solo song in opera"),
+ "Bianca": (None, None, None, "White"),
+ "Caterina": (None, None, None, "Meaning uncertain; long associated with Greek katharos, 'pure'"),
+ "Elena": (None, None, None, "Form of Helen; probably 'torch' or 'shining light'"),
+ "Elisa": (None, None, None, "Short form of Elisabetta, 'my God is an oath'"),
+ "Francesca": (None, None, None, "Feminine form of Francesco"),
+ "Isabella": (None, None, None, "Italian form of Elizabeth, 'my God is an oath'"),
+ "Andrea": (None, None, None, "Manly, brave (a man's name in Italy)"),
+}
+PROSE = []

@@ -2,7 +2,7 @@
 title: "50 Irish Baby Names: Meanings & Pronunciation"
 description: "Explore 50 beautiful Irish baby names with meanings and pronunciation guides. Discover Gaelic naming traditions and find the perfect Celtic name for your baby."
 publishDate: 2026-04-29
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "irish-baby-names"
 category: "names"
 tags: ["Irish names", "baby names", "Gaelic names", "Celtic names", "Irish baby names"]
@@ -25,65 +25,65 @@ For more Celtic heritage names, explore our guides to [Scottish baby names](/blo
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
 | Aidan | Little fire | AY-din |
-| Brendan | Prince; brave | BREN-dun |
+| Brendan | Prince | BREN-dun |
 | Cian | Ancient; enduring | KEE-un |
 | Ciaran | Little dark one | KEER-awn |
-| Cillian | Little church; war strife | KIL-ee-un |
+| Cillian | Little church; or 'strife' | KIL-ee-un |
 | Colin | Young pup; cub | KAH-lin |
 | Conor | Lover of hounds | KAH-nur |
-| Cormac | Son of the charioteer | KOR-mak |
+| Cormac | Possibly 'son of the charioteer' | KOR-mak |
 | Darragh | Oak tree | DAR-uh |
-| Declan | Full of goodness | DEK-lun |
-| Eamon | Wealthy protector | AY-mun |
-| Eoin | God is gracious | OH-in |
-| Fergus | Man of strength | FUR-gus |
+| Declan | Meaning uncertain; often given as 'full of goodness' | DEK-lun |
+| Eamon | Irish form of Edmund, 'rich protector' | AY-mun |
+| Eoin | Irish form of John, 'God is gracious' | OH-in |
+| Fergus | Man of vigor | FUR-gus |
 | Fionn | Fair; white | FYUN |
-| Liam | Strong-willed warrior | LEE-um |
+| Liam | Short form of Uilliam (William), 'resolute protector' | LEE-um |
 | Lorcan | Little fierce one | LOR-kawn |
-| Niall | Champion; cloud | NEEL |
+| Niall | Possibly 'champion' or 'cloud' | NEEL |
 | Oisin | Little deer | uh-SHEEN |
-| Padraig | Noble; patrician | PAW-drig |
+| Padraig | Irish form of Patrick, 'nobleman' | PAW-drig |
 | Ronan | Little seal | ROH-nun |
 | Ruairi | Red king | ROO-ree |
-| Sean | God is gracious | SHAWN |
-| Tadhg | Poet; philosopher | TYG (rhymes with "vague") |
+| Sean | Irish form of John, 'God is gracious' | SHAWN |
+| Tadhg | Poet | TYG (like 'tiger' without the 'er') |
 
 ## Girl Names
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
 | Aisling | Dream; vision | ASH-ling |
-| Aoife | Beautiful; radiant | EE-fah |
-| Bridget | Exalted one; strength | BRIJ-it |
+| Aoife | Beauty, radiance | EE-fah |
+| Bridget | Exalted one | BRIJ-it |
 | Caoimhe | Gentle; beautiful | KWEE-vah |
 | Ciara | Dark-haired | KEER-uh |
 | Clodagh | Name of an Irish river | KLOH-duh |
-| Deirdre | Sorrowful; she who rages | DEER-druh |
-| Eimear | Swift; ready | EE-mer |
+| Deirdre | Meaning uncertain; linked by legend to sorrow | DEER-druh |
+| Eimear | Possibly 'swift' | EE-mer |
 | Fiadh | Wild; deer | FEE-uh |
-| Grainne | Grain; sun; love | GRAWN-yah |
+| Grainne | Possibly from grán, 'grain' | GRAWN-yah |
 | Maeve | She who intoxicates | MAYV |
 | Mairead | Pearl | muh-RAYD |
 | Niamh | Bright; radiant | NEEV |
-| Nora | Honor; light | NOR-uh |
+| Nora | Short form of Honora, 'honor', or of Eleanor | NOR-uh |
 | Orla | Golden princess | OR-luh |
 | Roisin | Little rose | roh-SHEEN |
 | Saoirse | Freedom; liberty | SEER-shuh |
-| Siobhan | God is gracious | shih-VAWN |
-| Sinead | God is gracious | shin-AYD |
-| Sorcha | Bright; radiant | SUR-uh-kuh |
+| Siobhan | Irish form of Joan, 'God is gracious' | shih-VAWN |
+| Sinead | Irish form of Janet, 'God is gracious' | shin-AYD |
+| Sorcha | Bright, radiant | SUR-uh-kha |
 
 ## Unisex Names
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Darcy | Dark one | DAR-see |
+| Darcy | From the Irish surname Ó Dorchaidhe, 'dark one'; also Norman d'Arcy | DAR-see |
 | Kerry | Ciar's people | KAIR-ee |
-| Quinn | Wisdom; chief | KWIN |
-| Riley | Courageous; valiant | RYE-lee |
+| Quinn | From Conn, 'chief' or 'intelligence' | KWIN |
+| Riley | Often given as 'valiant'; also English 'rye clearing' | RYE-lee |
 | Rowan | Little red-haired one | ROH-un |
-| Shannon | Old river; wise river | SHAN-un |
-| Tierney | Lord; chief | TEER-nee |
+| Shannon | From the River Shannon, possibly 'old' or 'wise one' | SHAN-un |
+| Tierney | Lord | TEER-nee |
 
 ## Naming Traditions in Irish Culture
 

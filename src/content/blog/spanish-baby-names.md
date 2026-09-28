@@ -2,7 +2,7 @@
 title: "50 Spanish Baby Names: Classic & Modern"
 description: "Browse 50 beautiful Spanish baby names with meanings and pronunciation guides. Explore classic and modern Hispanic naming traditions for your little one."
 publishDate: 2026-05-15
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "spanish-baby-names"
 category: "names"
 tags: ["Spanish names", "baby names", "Hispanic names", "Latin names", "Spanish baby names"]
@@ -24,58 +24,58 @@ Isabella, a Spanish royal name, is one of our most popular guides --- read more 
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Alejandro | Defender of mankind | ah-leh-HAHN-droh |
-| Andrés | Brave; manly | ahn-DRES |
+| Alejandro | Defender of men | ah-leh-HAHN-droh |
+| Andrés | Manly, brave | ahn-DRES |
 | Carlos | Free man | KAR-lohs |
-| Diego | Supplanter; teacher | dee-EH-goh |
-| Emilio | Rival; industrious | eh-MEE-lee-oh |
-| Felipe | Friend of horses | feh-LEE-peh |
-| Fernando | Brave traveler | fer-NAHN-doh |
-| Hugo | Mind; intellect | OO-goh |
-| Javier | New house; bright | hah-vee-AIR |
-| Joaquin | God will judge | wah-KEEN |
-| Lucas | Light | LOO-kahs |
+| Diego | Meaning uncertain; possibly from Santiago, 'Saint James' | dee-EH-goh |
+| Emilio | From the Roman family name Aemilius, 'rival' | eh-MEE-lee-oh |
+| Felipe | Lover of horses | feh-LEE-peh |
+| Fernando | Bold voyager | fer-NAHN-doh |
+| Hugo | Mind, spirit | OO-goh |
+| Javier | New house | hah-vee-AIR |
+| Joaquin | Raised by God | wah-KEEN |
+| Lucas | From Lucania | LOO-kahs |
 | Luis | Famous warrior | loo-EES |
-| Marco | Warlike; of Mars | MAR-koh |
+| Marco | Dedicated to Mars | MAR-koh |
 | Mateo | Gift of God | mah-TEH-oh |
 | Miguel | Who is like God | mee-GEL |
 | Pablo | Small; humble | PAH-bloh |
 | Rafael | God has healed | rah-fah-EL |
 | Santiago | Saint James | sahn-tee-AH-goh |
-| Sebastian | Venerable; revered | seh-bahs-tee-AHN |
+| Sebastian | From Sebaste; from a Greek word meaning 'venerable' | seh-bahs-tee-AHN |
 | Tomás | Twin | toh-MAHS |
 
 ## Girl Names
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Adriana | From Hadria; dark | ah-dree-AH-nah |
+| Adriana | From Hadria | ah-dree-AH-nah |
 | Camila | Young ceremonial attendant | kah-MEE-lah |
 | Carmen | Garden; song | KAR-men |
-| Catalina | Pure | kah-tah-LEE-nah |
-| Elena | Bright; shining light | eh-LEH-nah |
-| Emilia | Rival; industrious | eh-MEE-lee-ah |
+| Catalina | Spanish form of Katherine | kah-tah-LEE-nah |
+| Elena | Form of Helen; probably 'torch' or 'shining light' | eh-LEH-nah |
+| Emilia | Feminine form of Emilio, 'rival' | eh-MEE-lee-ah |
 | Esperanza | Hope | es-peh-RAHN-sah |
 | Gabriela | God is my strength | gah-bree-EH-lah |
-| Isabel | Devoted to God | ee-sah-BEL |
+| Isabel | Spanish form of Elizabeth, 'my God is an oath' | ee-sah-BEL |
 | Lucia | Light | loo-SEE-ah |
 | Luna | Moon | LOO-nah |
-| Marisol | Sea and sun | mah-ree-SOHL |
-| Natalia | Christmas Day; born on Christmas | nah-TAH-lee-ah |
+| Marisol | A blend of María and Soledad; popularly understood as 'sea and sun' | mah-ree-SOHL |
+| Natalia | Christmas Day | nah-TAH-lee-ah |
 | Paloma | Dove | pah-LOH-mah |
-| Pilar | Pillar; strength | pee-LAR |
+| Pilar | Pillar; from a title of the Virgin Mary | pee-LAR |
 | Renata | Reborn | reh-NAH-tah |
 | Sofía | Wisdom | soh-FEE-ah |
 | Valentina | Strong; healthy | vah-len-TEE-nah |
-| Valeria | Strong; brave | vah-LEH-ree-ah |
-| Ximena | Listener; hearkening | hee-MEH-nah |
+| Valeria | Strong, healthy | vah-LEH-ree-ah |
+| Ximena | Possibly a form of Simon, 'he has heard' | hee-MEH-nah |
 
 ## Unisex Names
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
 | Cruz | Cross | KROOS |
-| Guadalupe | River of black stones | gwah-dah-LOO-peh |
+| Guadalupe | From a place name, possibly 'river of the wolf' | gwah-dah-LOO-peh |
 | Mar | Sea | MAR |
 | Montserrat | Serrated mountain | mont-seh-RAHT |
 | Sol | Sun | SOHL |

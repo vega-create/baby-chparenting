@@ -2,7 +2,7 @@
 title: "50 Beautiful Italian Baby Names"
 description: "Discover 50 stunning Italian baby names for boys and girls with meanings, pronunciation guides, and insights into Italy's rich naming traditions and customs."
 publishDate: 2026-05-14
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "italian-baby-names"
 category: "names"
 tags: ["Italian names", "baby names", "Italian baby names", "Roman names", "Mediterranean names"]
@@ -27,24 +27,24 @@ For more Romance-language naming traditions, explore [Spanish baby names](/blog/
 | Alessandro | Defender of mankind | ah-les-SAHN-droh |
 | Alessio | Defender; protector | ah-LES-see-oh |
 | Angelo | Angel; messenger | AHN-jeh-loh |
-| Antonio | Priceless; praiseworthy | ahn-TOH-nee-oh |
+| Antonio | Italian form of Anthony, from a Roman family name of uncertain meaning | ahn-TOH-nee-oh |
 | Carlo | Free man | KAR-loh |
-| Dante | Enduring; steadfast | DAHN-tay |
-| Emilio | Rival; industrious | eh-MEE-lee-oh |
-| Enzo | Ruler of the home | EN-zoh |
+| Dante | Short form of Durante, 'enduring' | DAHN-tay |
+| Emilio | From the Roman family name Aemilius, 'rival' | eh-MEE-lee-oh |
+| Enzo | Short form of Lorenzo or Vincenzo; also an Italian form of Henry | EN-zoh |
 | Federico | Peaceful ruler | feh-deh-REE-koh |
-| Francesco | Free man; from France | frahn-CHES-koh |
+| Francesco | Frenchman; later understood as 'free one' | frahn-CHES-koh |
 | Giacomo | Supplanter | JAH-koh-moh |
 | Giovanni | God is gracious | joh-VAHN-nee |
-| Leonardo | Brave lion | leh-oh-NAR-doh |
-| Lorenzo | From Laurentum; laurel | loh-REN-zoh |
-| Luca | Light; from Lucania | LOO-kah |
-| Marco | Warlike; of Mars | MAR-koh |
+| Leonardo | Brave as a lion | leh-oh-NAR-doh |
+| Lorenzo | From Laurentum | loh-REN-zoh |
+| Luca | Italian form of Luke, 'from Lucania' | LOO-kah |
+| Marco | Dedicated to Mars | MAR-koh |
 | Matteo | Gift of God | maht-TAY-oh |
 | Nicolo | Victory of the people | nee-koh-LOH |
 | Pietro | Rock; stone | pee-EH-troh |
 | Raffaele | God has healed | rahf-fah-EH-leh |
-| Riccardo | Strong ruler | ree-KAR-doh |
+| Riccardo | Brave ruler | ree-KAR-doh |
 | Salvatore | Savior | sahl-vah-TOH-reh |
 | Stefano | Crown; wreath | STEH-fah-noh |
 
@@ -54,19 +54,19 @@ For more Romance-language naming traditions, explore [Spanish baby names](/blog/
 |------|---------|---------------|
 | Alessandra | Defender of mankind | ah-les-SAHN-drah |
 | Allegra | Joyful; lively | ah-LEH-grah |
-| Aria | Air; song; melody | AH-ree-ah |
+| Aria | Air; a solo song in opera | AH-ree-ah |
 | Beatrice | She who brings happiness | beh-ah-TREE-cheh |
-| Bianca | White; pure | bee-AHN-kah |
-| Caterina | Pure | kah-teh-REE-nah |
+| Bianca | White | bee-AHN-kah |
+| Caterina | Meaning uncertain; long associated with Greek katharos, 'pure' | kah-teh-REE-nah |
 | Chiara | Bright; clear | kee-AH-rah |
-| Elena | Bright; shining light | eh-LEH-nah |
-| Elisa | God is my oath | eh-LEE-zah |
+| Elena | Form of Helen; probably 'torch' or 'shining light' | eh-LEH-nah |
+| Elisa | Short form of Elisabetta, 'my God is an oath' | eh-LEE-zah |
 | Fiora | Flower | fee-OH-rah |
-| Francesca | Free woman; from France | frahn-CHES-kah |
+| Francesca | Feminine form of Francesco | frahn-CHES-kah |
 | Gemma | Precious stone; gem | JEM-mah |
 | Gianna | God is gracious | JAHN-nah |
 | Giulia | Youthful | JOO-lee-ah |
-| Isabella | Devoted to God | ee-zah-BEL-lah |
+| Isabella | Italian form of Elizabeth, 'my God is an oath' | ee-zah-BEL-lah |
 | Lucia | Light | loo-CHEE-ah |
 | Luna | Moon | LOO-nah |
 | Margherita | Pearl; daisy | mar-geh-REE-tah |
@@ -80,8 +80,8 @@ For more Romance-language naming traditions, explore [Spanish baby names](/blog/
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Andrea | Brave; manly (traditionally male in Italy) | ahn-DREH-ah |
-| Luca | Light | LOO-kah |
+| Andrea | Manly, brave (a man's name in Italy) | ahn-DREH-ah |
+| Luca | Italian form of Luke, 'from Lucania' | LOO-kah |
 | Nicola | Victory of the people (male in Italy) | nee-KOH-lah |
 | Simone | He has heard (male in Italy) | see-MOH-neh |
 

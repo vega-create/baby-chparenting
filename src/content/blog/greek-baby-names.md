@@ -2,7 +2,7 @@
 title: "45 Greek Baby Names: Mythology & Modern"
 description: "Explore 45 Greek baby names inspired by mythology and modern Greece, complete with meanings, pronunciation guides, and Hellenic naming traditions."
 publishDate: 2026-05-16
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "greek-baby-names"
 category: "names"
 tags: ["Greek names", "baby names", "Greek mythology names", "Hellenic names", "Greek baby names"]
@@ -24,48 +24,48 @@ For more names inspired by ancient cultures, explore [Italian baby names](/blog/
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Alexandros | Defender of the people | ah-lex-AHN-drohs |
-| Andreas | Brave; manly | ahn-DREH-ahs |
+| Alexandros | Defender of men | ah-lex-AHN-drohs |
+| Andreas | Manly, brave | ahn-DREH-ahs |
 | Christos | Anointed one | hrees-TOHS |
 | Constantine | Steadfast; constant | kohn-stahn-DEE-noh |
-| Dimitrios | Follower of Demeter | dee-MEE-tree-ohs |
+| Dimitrios | Devoted to Demeter | dee-MEE-tree-ohs |
 | Elias | My God is Yahweh | eh-LEE-ahs |
 | Georgios | Farmer; earth worker | yohr-YEE-ohs |
 | Ioannis | God is gracious | yoh-AH-nees |
 | Konstantinos | Steadfast; constant | kohn-stahn-DEE-nohs |
-| Leonidas | Son of the lion | leh-oh-NEE-dahs |
+| Leonidas | Lion-like | leh-oh-NEE-dahs |
 | Nikolaos | Victory of the people | nee-KOH-lah-ohs |
-| Odysseus | Wrathful; man of pain | oh-dee-SEH-ahs |
-| Orion | Rising in the sky; hunter | oh-REE-ohn |
+| Odysseus | Meaning uncertain, possibly 'wrathful'; the hero of the Odyssey | oh-dee-SEH-ahs |
+| Orion | Meaning uncertain; the hunter constellation | oh-REE-ohn |
 | Petros | Rock; stone | PEH-trohs |
 | Stefanos | Crown; wreath | steh-FAH-nohs |
-| Thanos | Immortal | THAH-nohs |
+| Thanos | Short form of Athanasios, 'immortal' | THAH-nohs |
 | Theodoros | Gift of God | theh-OH-doh-rohs |
-| Yannis | God is gracious | YAH-nees |
+| Yannis | Greek form of John, 'God is gracious' | YAH-nees |
 
 ## Girl Names
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Aikaterini | Pure | eh-kah-teh-REE-nee |
-| Alexandra | Defender of mankind | ah-lex-AHN-drah |
+| Aikaterini | Meaning uncertain; long associated with katharos, 'pure' | eh-kah-teh-REE-nee |
+| Alexandra | Defender of men | ah-lex-AHN-drah |
 | Anastasia | Resurrection | ah-nah-stah-SEE-ah |
 | Ariadne | Most holy | ah-ree-AHD-nee |
-| Athena | Goddess of wisdom | ah-THEE-nah |
+| Athena | The goddess of wisdom | ah-THEE-nah |
 | Calliope | Beautiful voice | kah-lee-OH-pee |
-| Cassandra | Shining upon mankind | kah-SAHN-drah |
-| Daphne | Laurel tree | DAHF-nee |
-| Eleni | Bright; shining light | eh-LEH-nee |
+| Cassandra | Meaning uncertain; the prophetess of Troy | kah-SAHN-drah |
+| Daphne | Laurel | DAHF-nee |
+| Eleni | Greek form of Helen; probably 'torch' or 'shining light' | eh-LEH-nee |
 | Evangelia | Bearer of good news | eh-vahn-geh-LEE-ah |
 | Ioanna | God is gracious | yoh-AH-nah |
 | Iris | Rainbow | EE-rees |
-| Katerina | Pure | kah-teh-REE-nah |
-| Melina | Honey; gentle | meh-LEE-nah |
+| Katerina | Short form of Aikaterini | kah-teh-REE-nah |
+| Melina | Honey | meh-LEE-nah |
 | Olympia | From Mount Olympus | oh-leem-BEE-ah |
-| Penelope | Weaver | peh-neh-LOH-pee |
+| Penelope | Possibly 'weaver'; the faithful wife of Odysseus | peh-neh-LOH-pee |
 | Phoebe | Bright; radiant | FEE-vee (Greek) / FEE-bee (English) |
 | Sofia | Wisdom | soh-FEE-ah |
-| Thalia | To blossom; joyful | THAH-lee-ah |
+| Thalia | To blossom; the muse of comedy | THAH-lee-ah |
 | Zoe | Life | zoh-EE |
 
 ## Unisex Names
@@ -73,11 +73,11 @@ For more names inspired by ancient cultures, explore [Italian baby names](/blog/
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
 | Alex | Defender | AH-lex |
-| Alexis | Defender; helper | ah-LEX-ees |
+| Alexis | Helper, defender | ah-LEX-ees |
 | Nikitas | Victorious | nee-KEE-tahs |
-| Paris | Wallet; pouch (mythological) | pah-REES |
+| Paris | Meaning uncertain; the prince of Troy | pah-REES |
 | Stavros | Cross (traditionally male) | STAHV-rohs |
-| Thanasis | Immortal | thah-NAH-sees |
+| Thanasis | Short form of Athanasios, 'immortal' | thah-NAH-sees |
 | Theodora | Gift of God | theh-oh-DOH-rah |
 
 ## Naming Traditions in Greek Culture

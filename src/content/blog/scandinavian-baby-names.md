@@ -2,7 +2,7 @@
 title: "45 Scandinavian Baby Names: Norse & Nordic"
 description: "Discover 45 Scandinavian baby names from Norse mythology and Nordic traditions, with meanings, pronunciation guides, and Viking-era naming customs."
 publishDate: 2026-05-20
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "scandinavian-baby-names"
 category: "names"
 tags: ["Scandinavian names", "baby names", "Norse names", "Nordic names", "Viking names"]
@@ -25,22 +25,22 @@ Oliver has possible Norse roots --- learn more in our guide to [the name Oliver]
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
 | Aksel | Father of peace | AHK-sel |
-| Anders | Strong; manly | AHN-ders |
+| Anders | Scandinavian form of Andrew, 'manly, brave' | AHN-ders |
 | Bjorn | Bear | BYORN |
 | Erik | Eternal ruler | AIR-ik |
-| Finn | Fair; wanderer | FIN |
-| Gunnar | Bold warrior | GOO-nar |
+| Finn | From Old Norse Finnr, 'a Sámi person, wanderer' | FIN |
+| Gunnar | Battle warrior | GOO-nar |
 | Harald | Army ruler | HAH-rahld |
 | Ivar | Bow warrior; yew warrior | EE-var |
-| Knut | Knot; bold | K-NOOT |
-| Lars | Crowned with laurel | LARS |
-| Leif | Heir; descendant; beloved | LAYF |
+| Knut | Knot | K-NOOT |
+| Lars | Scandinavian form of Lawrence, 'from Laurentum' | LARS |
+| Leif | Heir, descendant | LAYF |
 | Magnus | Great | MAHG-nus |
-| Nils | Victory of the people | NILS |
-| Odin | Fury; inspiration; supreme god | OH-din |
+| Nils | Scandinavian form of Nicholas, 'victory of the people' | NILS |
+| Odin | Frenzy, inspiration; chief of the Norse gods | OH-din |
 | Olaf | Ancestor's descendant | OH-lahf |
-| Ragnar | Warrior of the gods | RAHG-nar |
-| Soren | Stern; severe | SUR-en |
+| Ragnar | Counsel + warrior | RAHG-nar |
+| Soren | Danish form of Severinus, 'stern' | SUR-en |
 | Sven | Young man; boy | SVEN |
 | Thor | Thunder | THOR |
 | Viggo | War; battle | VIG-oh |
@@ -49,36 +49,36 @@ Oliver has possible Norse roots --- learn more in our guide to [the name Oliver]
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Astrid | Divine beauty; divine strength | AH-strid |
-| Birgit | Exalted one; strength | BEER-git |
-| Dagny | New day; daylight | DAHG-nee |
-| Elsa | Pledged to God; noble | EL-sah |
-| Freya | Noble woman; Norse goddess of love | FRAY-ah |
-| Greta | Pearl | GREH-tah |
-| Hilda | Battle; fighter | HIL-dah |
-| Ingrid | Beautiful; beloved; fair | ING-rid |
-| Karin | Pure | KAH-rin |
-| Linnea | Lime tree; linden tree | lin-NAY-ah |
-| Liv | Life; shelter | LEEV |
-| Maja | Splendid; great mother | MY-ah |
+| Astrid | Divinely beautiful | AH-strid |
+| Birgit | Scandinavian form of Bridget, 'exalted one' | BEER-git |
+| Dagny | New day | DAHG-nee |
+| Elsa | Short form of Elisabeth, 'my God is an oath' | EL-sah |
+| Freya | Lady; the Norse goddess of love | FRAY-ah |
+| Greta | Short form of Margareta, 'pearl' | GREH-tah |
+| Hilda | Battle | HIL-dah |
+| Ingrid | Ing is beautiful; Ing was a Norse god | ING-rid |
+| Karin | Swedish form of Katherine | KAH-rin |
+| Linnea | The twinflower, named for botanist Carl Linnaeus | lin-NAY-ah |
+| Liv | Life; in Old Norse, 'shelter' | LEEV |
+| Maja | Scandinavian form of Maia; also a pet form of Maria | MY-ah |
 | Sigrid | Beautiful victory | SIG-rid |
-| Solveig | Strong house; sun path | SOHL-vay |
+| Solveig | Meaning uncertain; possibly 'sun' or 'house' + 'strength' | SOHL-vay |
 | Svea | Of the Swedish people | SVEH-ah |
-| Thora | Thunder; feminine of Thor | THOR-ah |
+| Thora | Feminine form of Thor, 'thunder' | THOR-ah |
 
 ## Unisex Names
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Bo | To live; to dwell | BOH |
-| Edda | Great grandmother; poetry | ED-ah |
-| Kai | Sea; keeper of keys | KYE |
-| Kim | Royal fortress (common for both) | KIM |
-| Loke | Trickster god; lock | LOH-keh |
-| Ronja | God's joyful song | RON-yah |
-| Saga | Story; seeing one; Norse goddess | SAH-gah |
-| Sindri | Sparkling; Norse mythological dwarf | SIN-dree |
-| Tove | Beautiful Thor; dove | TOH-veh |
+| Bo | To live, to dwell | BOH |
+| Edda | Possibly 'great-grandmother'; the name of the Old Norse poetry collections | ED-ah |
+| Kai | Meaning uncertain in Scandinavia; in Hawaiian, 'sea' | KYE |
+| Kim | Short form of Joakim | KIM |
+| Loke | The trickster god of Norse myth | LOH-keh |
+| Ronja | Coined by Astrid Lindgren for her novel Ronia, the Robber's Daughter | RON-yah |
+| Saga | Story; also a Norse goddess | SAH-gah |
+| Sindri | Sparkling; a dwarf in Norse myth | SIN-dree |
+| Tove | From Old Norse Tófa, a name linked to Thor | TOH-veh |
 
 ## Naming Traditions in Scandinavian Culture
 

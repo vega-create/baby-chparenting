@@ -1,0 +1,21 @@
+ROWS = {
+ "Abeo": (None, None, None, "Her birth brings happiness"),
+ "Adisa": (None, None, None, "One who makes his meaning clear"),
+ "Dakarai": (None, None, None, "Rejoice"),
+ "Emeka": (None, None, None, "Short form of Chukwuemeka, 'God has done great things'"),
+ "Jabari": (None, None, None, "Brave; from Arabic"),
+ "Jelani": (None, None, None, "Often given as 'mighty'"),
+ "Sekou": (None, None, None, "Learned, elder; a West African form of Arabic sheikh"),
+ "Uzoma": (None, None, None, "Good road"),
+ "Amara": (None, None, None, "Grace"),
+ "Ayana": (None, None, None, "Often given as 'beautiful flower'"),
+ "Eshe": (None, None, None, "Life"),
+ "Fatoumata": (None, None, None, "West African form of Fatima"),
+ "Lindiwe": (None, None, None, "Awaited"),
+ "Nalini": ("Neema", None, "Swahili (East Africa)", "Grace", "neh-EH-mah"),
+ "Nia": (None, None, None, "Purpose"),
+ "Nkechi": (None, None, None, "What God has given"),
+ "Sanaa": (None, None, None, "Art"),
+ "Sade": (None, None, None, "Short form of Folasade, 'honor confers a crown'"),
+}
+PROSE = []

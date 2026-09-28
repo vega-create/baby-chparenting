@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """校對既有名字文的含義。讀 scripts/name_fixes/<slug>.py 的 ROWS / PROSE，改表格列與內文。
 
-ROWS: { 舊名字: (新名字或None, 性別或None, 來源或None, 含義) }  —— None 表示不變
+ROWS: { 舊名字: (新名字或None, 性別或None, 來源或None, 含義或None[, 發音]) }  —— None 表示不變
 PROSE: [(舊字串, 新字串), ...]  —— 內文與 JSON-LD 會一起替換（JSON-LD 內的雙引號已跳脫，兩種都試）
 跑完會列出「已被換掉、但內文還提到」的名字，方便補 PROSE。
 
@@ -26,7 +26,8 @@ def run(slug):
         seen[c[0]] = seen.get(c[0], 0) + 1
         key = f"{c[0]}#{seen[c[0]]}" if f"{c[0]}#{seen[c[0]]}" in m.ROWS else c[0]   # 重複列用 「名字#2」指定第 2 次出現
         if key not in m.ROWS: continue
-        new, gender, origin, meaning = m.ROWS[key]
+        new, gender, origin, meaning = m.ROWS[key][:4]
+        pron = m.ROWS[key][4] if len(m.ROWS[key]) > 4 else None   # 第 5 個值：發音（各國名字文才有這欄）
         if new and new != c[0]: removed.append(c[0])
         done.add(key)
         c[0] = new or c[0]
@@ -35,6 +36,7 @@ def run(slug):
         if meaning and "Meaning" in cols:
             k = cols["Meaning"]
             c[k] = '"' + meaning.replace('"', "'") + '"' if c[k].startswith('"') else meaning
+        if pron and "Pronunciation" in cols: c[cols["Pronunciation"]] = pron
         lines[i] = "| " + " | ".join(c) + " |"
     t = "\n".join(lines)
     for a, b in getattr(m, "PROSE", []):

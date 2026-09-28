@@ -2,7 +2,7 @@
 title: "50 Arabic Baby Names with Beautiful Meanings"
 description: "Explore 50 Arabic baby names for boys and girls with beautiful meanings, pronunciation guides, and insights into Islamic and Arab naming traditions."
 publishDate: 2026-05-17
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "arabic-baby-names"
 category: "names"
 tags: ["Arabic names", "baby names", "Islamic names", "Muslim names", "Arabic baby names"]
@@ -32,8 +32,8 @@ Arabic names often overlap with biblical tradition --- see our list of [biblical
 | Farid | Unique; precious | fah-REED |
 | Hamza | Strong; steadfast | HAHM-zah |
 | Hassan | Handsome; good | hah-SAHN |
-| Ibrahim | Father of many nations | ib-rah-HEEM |
-| Idris | Studious; interpreter | id-REES |
+| Ibrahim | Arabic form of Abraham, 'father of many' | ib-rah-HEEM |
+| Idris | The name of a prophet; possibly 'studious' | id-REES |
 | Jamal | Beauty; handsomeness | jah-MAHL |
 | Kareem | Generous; noble | kah-REEM |
 | Khalil | Friend; companion | khah-LEEL |
@@ -42,8 +42,8 @@ Arabic names often overlap with biblical tradition --- see our list of [biblical
 | Omar | Flourishing; long-lived | OH-mar |
 | Rashid | Rightly guided | rah-SHEED |
 | Samir | Companion in evening talk | sah-MEER |
-| Tariq | Morning star; he who knocks at the door | TAH-rik |
-| Yousef | God will increase | YOO-sef |
+| Tariq | He who knocks at the door; the night star | TAH-rik |
+| Yousef | Arabic form of Joseph, 'God will add' | YOO-sef |
 | Zayn | Beauty; grace | ZAYN |
 | Ziyad | Growth; abundance | zee-YAHD |
 
@@ -51,30 +51,30 @@ Arabic names often overlap with biblical tradition --- see our list of [biblical
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Aisha | Alive; living; prosperous | ah-EE-shah |
+| Aisha | Alive, living | ah-EE-shah |
 | Amina | Trustworthy; faithful | ah-MEE-nah |
 | Amira | Princess; commander | ah-MEE-rah |
 | Dalal | Coquettish; gentle | dah-LAHL |
-| Dina | Faith; vindicated | DEE-nah |
-| Fatima | Captivating; one who abstains | FAH-tee-mah |
+| Dina | In Arabic, linked to dīn, 'faith'; in Hebrew, 'judged' | DEE-nah |
+| Fatima | She who weans; the daughter of the Prophet Muhammad | FAH-tee-mah |
 | Hana | Happiness; bliss | HAH-nah |
 | Inaya | Concern; care; providence | in-AH-yah |
 | Jamila | Beautiful | jah-MEE-lah |
 | Khadija | Early baby; premature child | khah-DEE-jah |
-| Layla | Night; dark beauty | LAY-lah |
+| Layla | Night | LAY-lah |
 | Leena | Tender; delicate | LEE-nah |
 | Malika | Queen | mah-LEE-kah |
-| Mariam | Wished-for child; beloved | MAR-yam |
-| Nadia | Caller; announcer; hope | NAH-dee-ah |
+| Mariam | Arabic form of Mary; meaning uncertain | MAR-yam |
+| Nadia | In Arabic, 'tender, generous'; in Russian, a short form of Nadezhda, 'hope' | NAH-dee-ah |
 | Noor | Light; radiance | NOOR |
-| Rania | Gazing; content; queenly | RAH-nee-ah |
-| Ruqayya | Rise; ascent; gentle | roo-KAI-yah |
+| Rania | Gazing | RAH-nee-ah |
+| Ruqayya | Ascent, rise | roo-KAI-yah |
 | Salma | Safe; peaceful | SAL-mah |
 | Samira | Companion in evening talk | sah-MEE-rah |
-| Sara | Princess; noble lady | SAH-rah |
+| Sara | Arabic form of Sarah, 'princess' | SAH-rah |
 | Yasmin | Jasmine flower | yahs-MEEN |
-| Zahra | Flower; bright; radiant | ZAH-rah |
-| Zara | Flower; star; princess | ZAH-rah |
+| Zahra | Flower, blossom; radiant | ZAH-rah |
+| Zara | Possibly from zahrah, 'blossom' | ZAH-rah |
 
 ## Unisex Names
 
@@ -95,7 +95,7 @@ Names of prophets and their companions hold special status in Islamic naming. Na
 
 Regional variation within the Arabic-speaking world adds fascinating diversity. North African naming traditions incorporate Amazigh (Berber) influences, while Gulf Arab names may reflect Bedouin heritage. Levantine naming often shows Ottoman-era influences, and Egyptian names sometimes draw from Pharaonic history. Despite these regional differences, the emphasis on meaningful names with positive connotations unites Arabic naming practices across the entire Arab and Muslim world.
 
-> 💡 **Tip:** Trending Arabic baby names include Zayn, Amir, and Omar for boys, and Layla, Noor, and Amira for girls. For names that cross cultural boundaries beautifully, consider Samir, Yasmin, or Khalil. Discover more with our [Name Generator](/tools/name-generator/) and track global popularity at [Name Trends](/tools/name-trends/).
+> 💡 **Tip:** Widely used Arabic baby names include Zayn, Amir, and Omar for boys, and Layla, Noor, and Amira for girls. For names that cross cultural boundaries beautifully, consider Samir, Yasmin, or Khalil. Discover more with our [Name Generator](/tools/name-generator/) and track global popularity at [Name Trends](/tools/name-trends/).
 
 ## FAQ
 

@@ -2,7 +2,7 @@
 title: "60 Biblical Baby Names with Meanings"
 description: "Discover 60 beautiful biblical baby names for boys and girls with meanings, pronunciation guides, and the rich traditions behind scripture-inspired names."
 publishDate: 2026-04-28
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "biblical-baby-names"
 category: "names"
 tags: ["biblical names", "baby names", "Christian names", "Hebrew names", "scripture names"]
@@ -24,39 +24,39 @@ For more faith-inspired naming, explore our lists of [baby names meaning hope](/
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Aaron | High mountain; exalted | AIR-un |
-| Abel | Breath; son | AY-bul |
+| Aaron | Meaning uncertain; often given as 'exalted' | AIR-un |
+| Abel | Breath | AY-bul |
 | Abraham | Father of many nations | AY-bruh-ham |
 | Asher | Happy; blessed | ASH-er |
 | Benjamin | Son of the right hand | BEN-juh-min |
-| Caleb | Faithful; whole-hearted | KAY-leb |
+| Caleb | Meaning uncertain; often given as 'whole-hearted' | KAY-leb |
 | Daniel | God is my judge | DAN-yul |
 | David | Beloved | DAY-vid |
 | Elijah | My God is Yahweh | eh-LYE-juh |
 | Ephraim | Fruitful | EE-free-um |
 | Ethan | Strong; firm | EE-thun |
-| Ezra | Helper | EZ-ruh |
+| Ezra | Help | EZ-ruh |
 | Gabriel | God is my strength | GAY-bree-ul |
-| Gideon | Mighty warrior; feller of trees | GID-ee-un |
+| Gideon | One who cuts down, hewer | GID-ee-un |
 | Isaac | He will laugh | EYE-zik |
-| Isaiah | God is salvation | eye-ZAY-uh |
-| Jacob | Supplanter; held by the heel | JAY-kub |
-| Jeremiah | God will uplift | jair-uh-MY-uh |
-| Jesse | Gift; wealthy | JEH-see |
+| Isaiah | Yahweh is salvation | eye-ZAY-uh |
+| Jacob | Supplanter; holder of the heel | JAY-kub |
+| Jeremiah | Yahweh will exalt | jair-uh-MY-uh |
+| Jesse | Possibly 'gift' | JEH-see |
 | Joel | Yahweh is God | JOHL |
 | Jonah | Dove | JOH-nuh |
-| Joshua | God is salvation | JOSH-oo-uh |
-| Josiah | God supports; God heals | joh-SYE-uh |
+| Joshua | Yahweh is salvation | JOSH-oo-uh |
+| Josiah | Yahweh supports | joh-SYE-uh |
 | Levi | Joined; attached | LEE-vye |
-| Lucas | Light-giving | LOO-kus |
+| Lucas | From Lucania | LOO-kus |
 | Malachi | My messenger | MAL-uh-kye |
 | Micah | Who is like God | MY-kuh |
 | Nathan | He gave | NAY-thun |
 | Noah | Rest; comfort | NOH-uh |
 | Samuel | God has heard | SAM-yoo-ul |
 | Seth | Appointed | SETH |
-| Silas | Of the forest | SYE-lus |
-| Solomon | Peaceful | SOL-uh-mun |
+| Silas | From Silvanus, 'of the forest' | SYE-lus |
+| Solomon | Peace | SOL-uh-mun |
 | Timothy | Honoring God | TIM-uh-thee |
 | Tobias | God is good | toh-BYE-us |
 
@@ -64,33 +64,33 @@ For more faith-inspired naming, explore our lists of [baby names meaning hope](/
 
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
-| Abigail | Father's joy | AB-ih-gayl |
+| Abigail | My father is joy | AB-ih-gayl |
 | Anna | Grace; favor | AN-uh |
 | Bethany | House of figs | BETH-uh-nee |
 | Chloe | Young green shoot | KLOH-ee |
-| Damaris | Gentle; calf | DAM-uh-ris |
-| Deborah | Bee; industrious | DEB-uh-ruh |
-| Delilah | Delicate; languishing | deh-LYE-luh |
+| Damaris | Possibly 'calf' | DAM-uh-ris |
+| Deborah | Bee | DEB-uh-ruh |
+| Delilah | Delicate | deh-LYE-luh |
 | Dinah | Judged; vindicated | DYE-nuh |
 | Eden | Delight; paradise | EE-den |
-| Elizabeth | God is my oath | eh-LIZ-uh-beth |
-| Esther | Star; hidden | ES-ter |
+| Elizabeth | My God is an oath | eh-LIZ-uh-beth |
+| Esther | Probably 'star' | ES-ter |
 | Eve | Life; living | EEV |
 | Hannah | Grace; favor | HAN-uh |
 | Joanna | God is gracious | joh-AN-uh |
-| Judith | Woman of Judea; praised | JOO-dith |
-| Leah | Weary; delicate | LEE-uh |
-| Lydia | From Lydia; noble one | LID-ee-uh |
+| Judith | Woman of Judea | JOO-dith |
+| Leah | Possibly 'weary' | LEE-uh |
+| Lydia | From Lydia, a region of Asia Minor | LID-ee-uh |
 | Martha | Lady; mistress | MAR-thuh |
-| Mary | Beloved; bitter | MAIR-ee |
-| Miriam | Wished-for child; sea of bitterness | MEER-ee-um |
+| Mary | From Hebrew Miriam; meaning uncertain | MAIR-ee |
+| Miriam | Meaning uncertain | MEER-ee-um |
 | Naomi | Pleasantness; delight | nay-OH-mee |
 | Phoebe | Bright; radiant | FEE-bee |
-| Rachel | Ewe; gentle | RAY-chul |
-| Rebecca | To bind; captivating | reh-BEK-uh |
-| Ruth | Friend; companion | ROOTH |
+| Rachel | Ewe | RAY-chul |
+| Rebecca | Possibly 'to bind' | reh-BEK-uh |
+| Ruth | Probably 'friend' | ROOTH |
 | Sarah | Princess | SAIR-uh |
-| Selah | Pause; reflection | SEE-luh |
+| Selah | A word from the Psalms, possibly 'pause' | SEE-luh |
 | Tabitha | Gazelle | TAB-ih-thuh |
 | Tamar | Palm tree | TAY-mar |
 | Zipporah | Bird | zih-POR-uh |
@@ -102,10 +102,10 @@ Several biblical names work beautifully for either boys or girls in modern usage
 | Name | Meaning | Pronunciation |
 |------|---------|---------------|
 | Eden | Delight; paradise | EE-den |
-| Jordan | To flow down | JOR-dun |
+| Jordan | To flow down; the river Jordan | JOR-dun |
 | Micah | Who is like God | MY-kuh |
 | Ariel | Lion of God | AIR-ee-ul |
-| Shiloh | Peaceful; tranquil | SHY-loh |
+| Shiloh | Uncertain; often given as 'tranquil' | SHY-loh |
 
 ## Naming Traditions in Biblical Culture
 
