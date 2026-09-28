@@ -2,7 +2,7 @@
 title: "40 Royal Baby Names for Boys and Girls"
 description: "Discover 40 regal baby names that mean royal, noble, or kingly for boys, girls, and unisex options. Find majestic names with origins, meanings, and trending picks."
 publishDate: 2026-04-27
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "names-meaning-royal"
 category: "names"
 tags: ["baby names", "royal baby names", "noble names", "regal names", "boy names", "girl names"]
@@ -26,58 +26,58 @@ For more names with aristocratic heritage, explore our guides to [French baby na
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Henry | Boy | German | "Ruler of the home, estate ruler" |
-| William | Boy | German | "Resolute protector, strong-willed guardian" |
-| Arthur | Boy | Celtic | "Noble one, bear king" |
-| Charles | Boy | German | "Free man, strong and manly" |
-| Frederick | Boy | German | "Peaceful ruler, noble prince" |
-| Rex | Boy | Latin | "King, ruler, sovereign" |
-| Leroy | Boy | French | "The king, royal one" |
-| Basil | Boy | Greek | "Regal, kingly, royal" |
-| Alaric | Boy | German | "Noble ruler, all-powerful king" |
-| Brendan | Boy | Irish | "Prince, noble, brave" |
-| Cyrus | Boy | Persian | "Sun, lord, throne, far-sighted" |
-| Edmund | Boy | English | "Prosperous protector, wealthy guardian" |
-| Leopold | Boy | German | "Bold people, brave prince" |
-| Malik | Boy | Arabic | "King, ruler, master" |
-| Patrick | Boy | Latin | "Noble, patrician, aristocratic" |
-| Rory | Boy | Irish | "Red king, great chief" |
+| Henry | Boy | Germanic | "Home ruler" |
+| William | Boy | Germanic | "Resolute protector; a name of English kings since 1066" |
+| Arthur | Boy | Celtic | "Meaning uncertain, possibly 'bear'; the legendary king of Britain" |
+| Charles | Boy | Germanic | "Free man; a name of kings across Europe" |
+| Frederick | Boy | Germanic | "Peaceful ruler" |
+| Rex | Boy | Latin | "King" |
+| Leroy | Boy | French | "The king" |
+| Basil | Boy | Greek | "Kingly" |
+| Alaric | Boy | Gothic | "Ruler of all" |
+| Brendan | Boy | Irish | "Prince" |
+| Cyrus | Boy | Persian | "Meaning uncertain; the founder of the Persian Empire" |
+| Edmund | Boy | English | "Rich protector; the name of two English kings" |
+| Leopold | Boy | Germanic | "Bold people; a name of Belgian kings and Austrian emperors" |
+| Malik | Boy | Arabic | "King" |
+| Patrick | Boy | Latin | "Nobleman, patrician" |
+| Rory | Boy | Irish | "Red king" |
 
 ## Girl Names That Mean Royal or Noble
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Elizabeth | Girl | Hebrew | "Pledged to God, royal oath" |
-| Victoria | Girl | Latin | "Victory, triumphant queen" |
-| Charlotte | Girl | French | "Free woman, petite and feminine" |
-| Diana | Girl | Latin | "Divine, heavenly, goddess" |
-| Eleanor | Girl | French | "Bright, shining one, noble light" |
-| Amira | Girl | Arabic | "Princess, commander, treetop" |
-| Anastasia | Girl | Greek | "Resurrection, royal rebirth" |
-| Rani | Girl | Hindi | "Queen, sovereign, ruler" |
-| Adelaide | Girl | German | "Noble natured, of noble kind" |
-| Guinevere | Girl | Welsh | "White shadow, fair and noble" |
-| Theodora | Girl | Greek | "Gift of God, divine gift" |
-| Zara | Girl | Arabic | "Blooming flower, princess, radiance" |
-| Empress | Girl | English | "Female sovereign, supreme ruler" |
-| Reina | Girl | Spanish | "Queen, ruler, sovereign" |
+| Elizabeth | Girl | Hebrew | "My God is an oath; the name of two British queens" |
+| Victoria | Girl | Latin | "Victory; the name of Britain's Queen Victoria" |
+| Charlotte | Girl | French | "Feminine form of Charles, 'free man'; a name of queens and princesses" |
+| Diana | Girl | Latin | "Divine; the name of Diana, Princess of Wales" |
+| Eleanor | Girl | French | "Meaning uncertain; Eleanor of Aquitaine was queen of France and then England" |
+| Amira | Girl | Arabic | "Princess, commander" |
+| Anastasia | Girl | Greek | "Resurrection; a name of Russian grand duchesses" |
+| Rani | Girl | Hindi | "Queen" |
+| Adelaide | Girl | Germanic | "Noble kind" |
+| Guinevere | Girl | Welsh | "Fair and smooth; King Arthur's queen" |
+| Theodora | Girl | Greek | "Gift of God; the name of a Byzantine empress" |
+| Zara | Girl | Arabic | "Possibly from Arabic zahrah, 'blossom'; used in the British royal family" |
+| Empress | Girl | English | "A female sovereign" |
+| Reina | Girl | Spanish | "Queen" |
 
 ## Unisex Names That Mean Royal or Noble
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Royal | Unisex | English | "Of the king, regal, kingly" |
-| Reagan | Unisex | Irish | "Little king, royal descendant" |
-| Aubrey | Unisex | French | "Elf ruler, noble ruler" |
-| Reign | Unisex | English | "Rule, sovereignty, royal period" |
-| Noble | Unisex | English | "Aristocratic, distinguished, honorable" |
-| Kingsley | Unisex | English | "King's meadow, royal field" |
-| Adair | Unisex | Scottish | "Noble spear, fortunate and powerful" |
-| Sterling | Unisex | English | "Genuine, excellent, of highest quality" |
-| Emery | Unisex | German | "Brave ruler, powerful sovereign" |
-| Tierney | Unisex | Irish | "Lord, chief, noble one" |
+| Royal | Unisex | English | "Of the king" |
+| Reagan | Unisex | Irish | "From an Irish surname, possibly 'little king'" |
+| Aubrey | Unisex | Germanic, via French | "Elf ruler" |
+| Reign | Unisex | English | "To rule" |
+| Noble | Unisex | English | "Noble" |
+| Kingsley | Unisex | English | "King's meadow" |
+| Ryan | Unisex | Irish | "Little king" |
+| Kingston | Unisex | English | "King's town" |
+| Emery | Unisex | Germanic | "From a name ending in ric, 'ruler, power'" |
+| Tierney | Unisex | Irish | "From an Irish surname meaning 'lord'" |
 
-> 💡 **Tip: Trending Picks** — Charlotte, Reign, Zara, and Alaric are the royal names making the biggest impact in 2026. Charlotte remains a perennial favorite, while Reign and Alaric offer bolder, more distinctive options for parents seeking something less traditional.
+> 💡 **Tip: Two Kinds of Royal Names** — Rex, Malik, Rani, and Reina literally mean king or queen. Henry, Elizabeth, Charlotte, and William mean something else entirely and are royal because kings and queens have carried them for centuries.
 
 ## Royal Names Across Cultures
 
@@ -97,7 +97,7 @@ William, Henry, Charles, and Arthur are among the most classic royal boy names, 
 
 ### Are there modern royal-inspired names?
 
-Reign is a modern word name that directly evokes royalty. Kingsley combines the word king with a surname-style ending that feels contemporary. Zara was popularized by a British princess and has a modern, energetic feel. Alaric, meaning noble ruler, has an ancient meaning but a fresh, modern sound.
+Reign is a modern word name that directly evokes royalty. Kingsley combines the word king with a surname-style ending that feels contemporary. Zara is used in the British royal family and has a modern, energetic feel. Alaric, meaning ruler of all, is an ancient Gothic name with a fresh sound.
 
 > 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
 
@@ -184,7 +184,7 @@ Reign is a modern word name that directly evokes royalty. Kingsley combines the 
           "name": "Are there modern royal-inspired names?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Reign is a modern word name that directly evokes royalty. Kingsley combines the word king with a surname-style ending that feels contemporary. Zara was popularized by a British princess and has a modern, energetic feel. Alaric, meaning noble ruler, has an ancient meaning but a fresh, modern sound."
+            "text": "Reign is a modern word name that directly evokes royalty. Kingsley combines the word king with a surname-style ending that feels contemporary. Zara is used in the British royal family and has a modern, energetic feel. Alaric, meaning ruler of all, is an ancient Gothic name with a fresh sound."
           }
         }
       ]

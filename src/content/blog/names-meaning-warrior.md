@@ -2,7 +2,7 @@
 title: "40 Baby Names That Mean Warrior or Fighter"
 description: "Discover 40 fierce baby names that mean warrior or fighter for boys, girls, and unisex options. Explore battle-ready names with origins, meanings, and trending picks."
 publishDate: 2026-04-21
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "names-meaning-warrior"
 category: "names"
 tags: ["baby names", "names meaning warrior", "fighter baby names", "fierce names", "boy names", "girl names"]
@@ -26,58 +26,58 @@ Norse and Celtic warrior names are especially popular --- explore our guides to 
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Alexander | Boy | Greek | "Defender of the people" |
-| Marcus | Boy | Latin | "Warlike, dedicated to Mars" |
-| Gunnar | Boy | Norse | "Bold warrior, battle strong" |
-| Duncan | Boy | Scottish | "Dark warrior, brown chief" |
-| Oscar | Boy | Irish | "Deer friend, divine spear, champion warrior" |
-| Callan | Boy | Irish | "Battle, rock, warrior" |
-| Magnus | Boy | Latin | "Great, mighty warrior" |
-| Finley | Boy | Scottish | "Fair warrior, white champion" |
-| Cadel | Boy | Welsh | "Battle, spirit of combat" |
-| Kane | Boy | Irish | "Warrior, tribute, battle" |
-| Evander | Boy | Greek | "Bow warrior, strong man" |
-| Hector | Boy | Greek | "Steadfast, holding fast, defender" |
-| Igor | Boy | Norse/Russian | "Warrior of peace, bow warrior" |
-| Luther | Boy | German | "People's army, famous warrior" |
-| Odin | Boy | Norse | "Frenzy, rage, chief god and warrior" |
-| Troy | Boy | Irish | "Foot soldier, warrior, descendant of the soldier" |
+| Alexander | Boy | Greek | "Defender of men" |
+| Marcus | Boy | Latin | "Dedicated to Mars, the god of war" |
+| Gunnar | Boy | Norse | "Battle warrior" |
+| Duncan | Boy | Scottish | "Brown warrior" |
+| Oscar | Boy | Irish / Old English | "Deer friend; or 'spear of the gods'" |
+| Callan | Boy | Irish | "From cath, 'battle'" |
+| Herman | Boy | Germanic | "Army man, soldier" |
+| Finley | Boy | Scottish | "Fair warrior" |
+| Cadel | Boy | Welsh | "Battle" |
+| Kane | Boy | Irish | "From cath, 'battle'" |
+| Ivor | Boy | Norse | "Bow warrior" |
+| Hector | Boy | Greek | "Holding fast; the great warrior of Troy" |
+| Igor | Boy | Russian, from Norse | "Warrior of the god Ing" |
+| Luther | Boy | Germanic | "People's army" |
+| Odin | Boy | Norse | "Frenzy, inspiration; the Norse god of war and wisdom" |
+| Troy | Boy | Irish | "From an Irish surname meaning 'foot soldier'; also the ancient city" |
 
 ## Girl Names That Mean Warrior or Fighter
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Louisa | Girl | German | "Famous warrior, renowned fighter" |
-| Marcella | Girl | Latin | "Warlike, young warrior" |
-| Matilda | Girl | German | "Mighty in battle, battle-strength" |
-| Brynhild | Girl | Norse | "Armored battle maid" |
-| Alessia | Girl | Italian | "Defending warrior, protector" |
-| Camilla | Girl | Latin | "Young ceremonial attendant, warrior maiden" |
-| Zelda | Girl | German | "Gray fighting maid, blessed warrior" |
-| Harlow | Girl | English | "Army hill, rock hill, battle settlement" |
-| Minka | Girl | Polish | "Strong-willed warrior, resolute protector" |
-| Thora | Girl | Norse | "Thunder goddess, Thor's warrior" |
-| Kaida | Girl | Japanese | "Little dragon, spirited fighter" |
-| Ailsa | Girl | Scottish | "Elf victory, supernatural warrior" |
-| Bellatrix | Girl | Latin | "Female warrior, warlike" |
-| Sasha | Girl | Russian | "Defender of mankind, warrior" |
+| Louisa | Girl | Germanic | "Feminine form of Louis, 'famous warrior'" |
+| Marcella | Girl | Latin | "Feminine form of Marcus, 'dedicated to Mars'" |
+| Matilda | Girl | Germanic | "Mighty in battle" |
+| Brynhild | Girl | Norse | "Armor + battle" |
+| Alessia | Girl | Italian | "Defender" |
+| Camilla | Girl | Latin | "A warrior maiden in Virgil's Aeneid; the meaning of the name is uncertain" |
+| Zelda | Girl | Germanic | "Short form of Griselda, 'gray battle'" |
+| Harlow | Girl | English | "Army hill" |
+| Hilda | Girl | Germanic | "Battle" |
+| Gunhild | Girl | Norse | "War + battle" |
+| Hedwig | Girl | Germanic | "Battle, combat" |
+| Imelda | Girl | Germanic, via Spanish | "Whole battle" |
+| Bellatrix | Girl | Latin | "Female warrior" |
+| Sasha | Girl | Russian | "Pet form of Alexander or Alexandra, 'defender of men'" |
 
-## Unisex Names That Mean Warrior
+## More Names That Mean Warrior
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Sloane | Unisex | Irish | "Warrior, raider, expedition fighter" |
-| Blair | Unisex | Scottish | "Battlefield, plain, field of battle" |
-| Rory | Unisex | Irish | "Red king, fierce warrior chief" |
-| Kelly | Unisex | Irish | "Warrior, bright-headed fighter" |
-| Harley | Unisex | English | "From the hare meadow, army meadow" |
-| Dustin | Unisex | Norse | "Brave warrior, valiant fighter" |
-| Casey | Unisex | Irish | "Brave, vigilant, watchful warrior" |
-| Murphy | Unisex | Irish | "Sea warrior, sea battler" |
-| Kendall | Unisex | English | "Valley of the River Kent, royal valley" |
-| Regan | Unisex | Irish | "Little king, impulsive, fierce" |
+| Sloane | Unisex | Irish | "Raider" |
+| Blair | Unisex | Scottish | "Field, plain; often given as 'battlefield'" |
+| Lou | Unisex | French / English | "Short form of Louis or Louise, 'famous warrior'" |
+| Kelly | Unisex | Irish | "From an Irish surname, possibly 'warrior' or 'bright-headed'" |
+| Armani | Unisex | Italian, from Germanic | "From Herman, 'army man'" |
+| Miles | Boy | English | "Often linked to Latin miles, 'soldier'" |
+| Alex | Unisex | Greek | "Short form of Alexander or Alexandra, 'defender of men'" |
+| Murphy | Unisex | Irish | "Sea warrior" |
+| Nakoa | Boy | Hawaiian | "The warriors, the brave ones" |
+| Tyr | Boy | Norse | "The Norse god of war" |
 
-> 💡 **Tip: Trending Picks** — Odin, Sloane, Zelda, and Finley are the warrior names generating the most excitement in 2026. They combine mythology and history with a thoroughly modern sound, appealing to parents who want names with depth and edge.
+> 💡 **Tip: Hidden Warriors** — Louisa, Matilda, Zelda, and Finley sound gentle, but each one comes from a word for battle or warrior. If you want the meaning to stay private, these are the ones to look at.
 
 ## Choosing a Warrior Name with Heart
 
@@ -89,11 +89,11 @@ Explore more fierce options with our [Baby Name Generator](/tools/name-generator
 
 ### What boy name means warrior?
 
-Alexander, meaning defender of the people in Greek, is one of the most famous warrior names in history. Gunnar means bold warrior in Norse. Finley means fair warrior in Scottish. Odin, the chief Norse god, carries warrior associations, and Marcus means warlike in Latin.
+Alexander, meaning defender of the people in Greek, is one of the most famous warrior names in history. Gunnar means bold warrior in Norse. Finley means fair warrior in Scottish. Odin is the Norse god of war and wisdom, and Marcus means dedicated to Mars, the Roman god of war.
 
 ### What girl name means fighter?
 
-Matilda means mighty in battle in German and has a long royal history. Louisa means famous warrior. Zelda is a German name meaning gray fighting maid. Bellatrix means female warrior in Latin. For something modern, Sloane from Irish means warrior and raider.
+Matilda means mighty in battle in German and has a long royal history. Louisa means famous warrior. Zelda is a short form of Griselda, which means gray battle. Bellatrix means female warrior in Latin. For something modern, Sloane comes from an Irish surname meaning raider.
 
 ### Are warrior names appropriate for babies?
 
@@ -168,7 +168,7 @@ Absolutely. Warrior names are not about violence — they are about strength, re
           "name": "What boy name means warrior?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Alexander, meaning defender of the people in Greek, is one of the most famous warrior names in history. Gunnar means bold warrior in Norse. Finley means fair warrior in Scottish. Odin, the chief Norse god, carries warrior associations, and Marcus means warlike in Latin."
+            "text": "Alexander, meaning defender of the people in Greek, is one of the most famous warrior names in history. Gunnar means bold warrior in Norse. Finley means fair warrior in Scottish. Odin is the Norse god of war and wisdom, and Marcus means dedicated to Mars, the Roman god of war."
           }
         },
         {
@@ -176,7 +176,7 @@ Absolutely. Warrior names are not about violence — they are about strength, re
           "name": "What girl name means fighter?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Matilda means mighty in battle in German and has a long royal history. Louisa means famous warrior. Zelda is a German name meaning gray fighting maid. Bellatrix means female warrior in Latin. For something modern, Sloane from Irish means warrior and raider."
+            "text": "Matilda means mighty in battle in German and has a long royal history. Louisa means famous warrior. Zelda is a short form of Griselda, which means gray battle. Bellatrix means female warrior in Latin. For something modern, Sloane comes from an Irish surname meaning raider."
           }
         },
         {

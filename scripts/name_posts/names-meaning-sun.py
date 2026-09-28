@@ -46,7 +46,7 @@ POST = {
     ["Apollo", "Boy", "Greek", "The god of light, music, and healing, later identified with the sun. The origin of the name itself is uncertain", "uh-POL-oh"],
    ],
    "after": ["Japanese names change meaning with the characters used to write them. Haruto and Hina can be written in other ways that have nothing to do with the sun. See our [Japanese baby names](/blog/japanese-baby-names/) for how this works."]},
-  {"h": "Unisex Sun Names",
+  {"h": "More Sun Names",
    "rows": [
     ["Sol", "Unisex", "Spanish / Latin", "\"Sun\"", "SOHL"],
     ["Hinata", "Unisex", "Japanese", "Often written 日向, \"sunny place, facing the sun\"", "hee-nah-tah"],

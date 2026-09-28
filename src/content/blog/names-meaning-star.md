@@ -2,7 +2,7 @@
 title: "35 Baby Names That Mean Star or Celestial"
 description: "Explore 35 celestial baby names that mean star for boys, girls, and unisex options. Discover stellar names with origins, meanings, and trending picks."
 publishDate: 2026-04-24
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "names-meaning-star"
 category: "names"
 tags: ["baby names", "names meaning star", "celestial baby names", "stellar names", "boy names", "girl names"]
@@ -26,53 +26,53 @@ For more cosmic-inspired options, see our lists of [baby names meaning light](/b
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Orion | Boy | Greek | "Rising in the sky, mighty hunter constellation" |
-| Sirius | Boy | Greek | "Glowing, brightest star in the sky" |
-| Aster | Boy | Greek | "Star, celestial body" |
-| Leo | Boy | Latin | "Lion, the lion constellation" |
-| Castor | Boy | Greek | "Beaver, twin star in Gemini" |
-| Atlas | Boy | Greek | "Bearer of the heavens, enduring" |
-| Sterling | Boy | English | "Little star, genuine, excellent" |
-| Altair | Boy | Arabic | "The flyer, brightest star in Aquila" |
-| Draco | Boy | Latin | "Dragon, the dragon constellation" |
-| Perseus | Boy | Greek | "To destroy, hero constellation" |
-| Rigel | Boy | Arabic | "Foot, bright star in Orion" |
-| Nash | Boy | Arabic | "Star of the archer, Sagittarius" |
-| Pollux | Boy | Greek | "Very sweet, twin star in Gemini" |
+| Orion | Boy | Greek | "Meaning uncertain; the hunter constellation" |
+| Sirius | Boy | Greek | "Glowing, scorching; the brightest star in the night sky" |
+| Aster | Boy | Greek | "Star" |
+| Leo | Boy | Latin | "Lion; the constellation Leo" |
+| Castor | Boy | Greek | "One of the twin stars of Gemini; the word also means 'beaver'" |
+| Atlas | Boy | Greek | "The Titan who held up the sky" |
+| Sterling | Boy | English | "Possibly 'little star'; from the name of an old English silver coin" |
+| Altair | Boy | Arabic | "The flyer; the brightest star in Aquila" |
+| Draco | Boy | Latin | "Dragon; the constellation Draco" |
+| Perseus | Boy | Greek | "A hero of Greek myth and a constellation; the meaning is uncertain" |
+| Rigel | Boy | Arabic | "Foot; a bright star in Orion" |
+| Nash | Boy | Arabic / English | "A traditional name for a star in Sagittarius, from Arabic for 'arrowhead'; also an English surname" |
+| Pollux | Boy | Greek | "One of the twin stars of Gemini; from Greek for 'very sweet'" |
 
 ## Girl Names That Mean Star or Celestial
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Stella | Girl | Latin | "Star, celestial beauty" |
-| Estelle | Girl | French | "Star, radiant celestial light" |
-| Celeste | Girl | Latin | "Heavenly, of the sky, celestial" |
-| Lyra | Girl | Greek | "Lyre, the harp constellation" |
-| Nova | Girl | Latin | "New, a star showing sudden brightness" |
-| Astra | Girl | Greek | "Star, of the stars" |
-| Seren | Girl | Welsh | "Star, calm, peaceful" |
-| Cassiopeia | Girl | Greek | "She whose words excel, queen constellation" |
-| Vega | Girl | Arabic | "Swooping eagle, brightest star in Lyra" |
-| Danica | Girl | Slavic | "Morning star, Venus" |
-| Esther | Girl | Persian | "Star, hidden, beautiful" |
-| Sidra | Girl | Latin | "Of the stars, star-born" |
-| Arista | Girl | Greek | "Best, harvest, star in Virgo" |
+| Stella | Girl | Latin | "Star" |
+| Estelle | Girl | French | "Star" |
+| Celeste | Girl | Latin | "Heavenly" |
+| Lyra | Girl | Greek | "Lyre; the constellation Lyra" |
+| Nova | Girl | Latin | "New; a star that suddenly brightens" |
+| Astra | Girl | Greek | "Of the stars" |
+| Seren | Girl | Welsh | "Star" |
+| Cassiopeia | Girl | Greek | "A queen in Greek myth and a constellation" |
+| Vega | Girl | Arabic | "From Arabic for 'swooping eagle'; the brightest star in Lyra" |
+| Danica | Girl | Slavic | "Morning star" |
+| Esther | Girl | Persian | "Probably 'star'" |
+| Citlali | Girl | Nahuatl | "Star" |
+| Hoshi | Girl | Japanese | "'Star' when written 星" |
 
-## Unisex Names That Mean Star or Celestial
+## More Names That Mean Star or Celestial
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Star | Unisex | English | "Celestial body, luminous point" |
-| Phoenix | Unisex | Greek | "Dark red, mythical reborn bird, constellation" |
-| Skyler | Unisex | Dutch | "Scholar, shelter, sky dweller" |
-| North | Unisex | English | "Northern direction, guiding star" |
-| Astro | Unisex | Greek | "Star, relating to celestial bodies" |
-| Lumi | Unisex | Finnish | "Snow, light, luminous" |
-| Comet | Unisex | English | "Long-haired star, celestial traveler" |
-| Zenith | Unisex | Arabic | "Highest point, peak of the sky" |
-| Vesper | Unisex | Latin | "Evening star, evening prayer" |
+| Star | Unisex | English | "Star" |
+| Phoenix | Unisex | Greek | "The mythical bird; also a constellation in the southern sky" |
+| Tara | Girl | Sanskrit | "Star" |
+| North | Unisex | English | "North; the North Star has guided travelers for centuries" |
+| Astro | Unisex | Greek | "Star" |
+| Najm | Unisex | Arabic | "Star" |
+| Comet | Unisex | Greek, via English | "From Greek for 'long-haired star'" |
+| Zenith | Unisex | Arabic | "The highest point in the sky" |
+| Vesper | Unisex | Latin | "Evening; the evening star" |
 
-> 💡 **Tip: Trending Picks** — Nova, Orion, Lyra, and Stella are the celestial names dominating baby name searches in 2026. These names combine cosmic grandeur with everyday wearability, making them favorites among parents who want something both extraordinary and practical.
+> 💡 **Tip: Star or Constellation?** — Stella, Seren, Tara, and Citlali are simply the word for star in Latin, Welsh, Sanskrit, and Nahuatl. Orion, Lyra, and Leo are constellations, and Sirius, Vega, and Rigel are individual stars you can point to in the night sky.
 
 ## Stargazing for the Perfect Name
 
@@ -84,11 +84,11 @@ Discover more stellar options with our [Baby Name Generator](/tools/name-generat
 
 ### What girl name means star?
 
-Stella is the most classic girl name meaning star, coming directly from Latin. Estelle is the French variation with the same meaning. Seren is a Welsh name meaning star with a gentle, melodic sound. Nova, meaning a star that suddenly becomes brighter, has been one of the fastest-rising girl names in recent years.
+Stella is the most classic girl name meaning star, coming directly from Latin. Estelle is the French variation with the same meaning. Seren is a Welsh name meaning star with a gentle, melodic sound. Nova is the Latin word for new, and in astronomy it means a star that suddenly becomes brighter.
 
 ### What boy name means star?
 
-Orion is a Greek name meaning rising in the sky and refers to one of the most recognizable constellations. Sirius means glowing and is the name of the brightest star visible from Earth. Altair is an Arabic name meaning the flyer and is the brightest star in the Aquila constellation.
+Orion is the name of one of the most recognizable constellations, although the meaning of the name itself is uncertain. Sirius means glowing and is the name of the brightest star visible from Earth. Altair is an Arabic name meaning the flyer and is the brightest star in the Aquila constellation.
 
 ### What are names inspired by constellations?
 
@@ -163,7 +163,7 @@ Orion, Lyra, Leo, Cassiopeia, and Draco are all names taken directly from conste
           "name": "What girl name means star?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Stella is the most classic girl name meaning star, coming directly from Latin. Estelle is the French variation with the same meaning. Seren is a Welsh name meaning star with a gentle, melodic sound. Nova, meaning a star that suddenly becomes brighter, has been one of the fastest-rising girl names in recent years."
+            "text": "Stella is the most classic girl name meaning star, coming directly from Latin. Estelle is the French variation with the same meaning. Seren is a Welsh name meaning star with a gentle, melodic sound. Nova is the Latin word for new, and in astronomy it means a star that suddenly becomes brighter."
           }
         },
         {
@@ -171,7 +171,7 @@ Orion, Lyra, Leo, Cassiopeia, and Draco are all names taken directly from conste
           "name": "What boy name means star?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Orion is a Greek name meaning rising in the sky and refers to one of the most recognizable constellations. Sirius means glowing and is the name of the brightest star visible from Earth. Altair is an Arabic name meaning the flyer and is the brightest star in the Aquila constellation."
+            "text": "Orion is the name of one of the most recognizable constellations, although the meaning of the name itself is uncertain. Sirius means glowing and is the name of the brightest star visible from Earth. Altair is an Arabic name meaning the flyer and is the brightest star in the Aquila constellation."
           }
         },
         {

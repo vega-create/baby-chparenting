@@ -67,7 +67,7 @@ Celtic bravery names have a particularly rich heritage --- discover more in our 
 | Andrina | Girl | Scottish | "Feminine form of Andrew, 'brave'" |
 | Leonarda | Girl | Italian | "Feminine form of Leonard, 'brave as a lion'" |
 
-## Unisex Names That Mean Brave
+## More Names That Mean Brave
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|

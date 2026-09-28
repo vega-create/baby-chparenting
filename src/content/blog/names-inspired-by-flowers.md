@@ -58,7 +58,7 @@ Botanical names pair wonderfully with celestial ones — explore more in our gui
 | Yarrow | Boy | English | "The yarrow plant" |
 | Florent | Boy | French | "Flowering" |
 
-## Unisex Flower Names
+## More Flower Names
 
 | Name | Gender | Origin | Meaning / Flower |
 |------|--------|--------|-------------|

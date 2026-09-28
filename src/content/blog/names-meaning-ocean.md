@@ -57,7 +57,7 @@ If you love the flow of ocean names, you might also enjoy [baby names meaning pe
 | Coral | Girl | Latin | "Coral" |
 | Maris | Girl | Latin | "Of the sea" |
 
-## Unisex Names That Mean Ocean or Water
+## More Names That Mean Ocean or Water
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|

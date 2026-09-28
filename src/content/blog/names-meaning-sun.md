@@ -61,7 +61,7 @@ Below are 45 names that mean sun, sunshine, or dawn, grouped by meaning. Each in
 
 Japanese names change meaning with the characters used to write them. Haruto and Hina can be written in other ways that have nothing to do with the sun. See our [Japanese baby names](/blog/japanese-baby-names/) for how this works.
 
-## Unisex Sun Names
+## More Sun Names
 
 | Name | Gender | Origin | Meaning | Say it |
 |------|--------|--------|---------|--------|

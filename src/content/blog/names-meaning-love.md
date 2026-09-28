@@ -67,7 +67,7 @@ You might also find inspiration in our collection of [Italian baby names](/blog/
 | Carys | Girl | Welsh | "Love" |
 | Kerensa | Girl | Cornish | "Love" |
 
-## Unisex Names That Mean Love
+## More Names That Mean Love
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
