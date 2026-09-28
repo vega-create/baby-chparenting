@@ -72,7 +72,7 @@ The Irish name Aiden, meaning "little fire," is one of the most popular --- disc
 | Shula | Girl | Arabic | "Flame" |
 | Plamen | Boy | Bulgarian | "Flame" |
 
-> 💡 **Tip: Trending Picks** — Ember, Seraphina, Aiden, and Phoenix are the fire-themed names burning brightest on 2026 charts. They capture the elemental power of fire while remaining wearable and modern, making them ideal for parents seeking names with both heat and heart.
+> 💡 **Tip: The Aidan Family** — Aidan, Aiden, Egan, Keegan, and Edana all come from the same Irish word, Aodh, meaning fire. If you like one of them, you may like the others.
 
 ## The Element of Fire in Naming
 

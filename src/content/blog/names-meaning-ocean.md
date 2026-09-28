@@ -2,7 +2,7 @@
 title: "35 Baby Names That Mean Ocean, Water or Sea"
 description: "Discover 35 flowing baby names that mean ocean, water, or sea for boys, girls, and unisex options. Explore aquatic names with origins, meanings, and trending picks."
 publishDate: 2026-04-25
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "names-meaning-ocean"
 category: "names"
 tags: ["baby names", "names meaning ocean", "water baby names", "sea names", "boy names", "girl names"]
@@ -26,53 +26,53 @@ If you love the flow of ocean names, you might also enjoy [baby names meaning pe
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Dylan | Boy | Welsh | "Son of the sea, great tide" |
-| Kai | Boy | Hawaiian | "Sea, ocean, keeper of keys" |
-| Morgan | Boy | Welsh | "Sea-born, great circle, sea chief" |
-| Irving | Boy | Scottish | "Green river, sea friend" |
-| Caspian | Boy | English | "Of the Caspian Sea, white" |
-| Marlow | Boy | English | "Driftwood, remnants of the lake" |
-| Hurley | Boy | Irish | "Sea tide, ebb and flow" |
-| Neptune | Boy | Latin | "God of the sea, water deity" |
+| Dylan | Boy | Welsh | "Great tide" |
+| Kai | Boy | Hawaiian | "Sea" |
+| Morgan | Boy | Welsh | "Possibly 'sea chief' or 'sea circle'" |
+| Irving | Boy | Scottish | "Green water, fresh water" |
+| Caspian | Boy | English | "Of the Caspian Sea" |
+| Marlow | Boy | English | "Land left by a drained lake" |
+| Hurley | Boy | Irish | "From an Irish surname, possibly 'sea tide'" |
+| Neptune | Boy | Latin | "The Roman god of the sea" |
 | Murdoch | Boy | Scottish | "Sea warrior, mariner" |
-| Calder | Boy | English | "Rough waters, rocky river" |
-| Brooks | Boy | English | "Small stream, water brook" |
-| Adrian | Boy | Latin | "From Hadria, dark water, sea" |
-| Murphy | Boy | Irish | "Sea warrior, hound of the sea" |
+| Calder | Boy | Scottish / English | "Rough or rocky water" |
+| Brooks | Boy | English | "Of the brook" |
+| Adrian | Boy | Latin | "From Hadria, the town that gave the Adriatic Sea its name" |
+| Murphy | Boy | Irish | "Sea warrior" |
 
 ## Girl Names That Mean Ocean, Water or Sea
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Marina | Girl | Latin | "Of the sea, from the shore" |
-| Cordelia | Girl | Latin/Celtic | "Heart, daughter of the sea" |
-| Nerissa | Girl | Greek | "Sea nymph, from the sea" |
-| Maren | Girl | Latin | "Sea, star of the sea" |
-| Moana | Girl | Polynesian | "Ocean, deep sea, vast water" |
-| Isla | Girl | Scottish | "Island, river, calm waters" |
-| Tallulah | Girl | Native American | "Leaping water, running water" |
-| Ondine | Girl | Latin | "Little wave, water spirit" |
-| Naia | Girl | Greek | "Water nymph, flowing one" |
-| Sereia | Girl | Portuguese | "Mermaid, siren of the sea" |
-| Coral | Girl | Latin | "Sea growth, reef formation" |
-| Maris | Girl | Latin | "Of the sea, star of the sea" |
+| Marina | Girl | Latin | "Of the sea" |
+| Cordelia | Girl | Latin/Celtic | "Uncertain; sometimes explained as 'daughter of the sea'" |
+| Nerissa | Girl | Greek | "From the Nereids, the sea nymphs" |
+| Maren | Girl | Danish | "Danish form of Marina, 'of the sea'" |
+| Moana | Girl | Maori / Hawaiian | "Ocean" |
+| Isla | Girl | Scottish | "From Islay, a Scottish island" |
+| Tallulah | Girl | Native American | "Often given as 'leaping water'; from a place name in Georgia" |
+| Ondine | Girl | Latin | "From Latin unda, 'wave'" |
+| Naia | Girl | Greek / Basque | "From the naiads, water nymphs; in Basque, 'wave'" |
+| Sereia | Girl | Portuguese | "Mermaid" |
+| Coral | Girl | Latin | "Coral" |
+| Maris | Girl | Latin | "Of the sea" |
 
 ## Unisex Names That Mean Ocean or Water
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Ocean | Unisex | English | "Vast body of water, the deep" |
-| River | Unisex | English | "Flowing body of water" |
-| Lake | Unisex | English | "Body of still water, inland water" |
-| Bay | Unisex | English | "Berry, inlet of the sea" |
-| Haven | Unisex | English | "Safe harbor, port of refuge" |
-| Marlowe | Unisex | English | "Driftwood, lake remnants" |
-| Reed | Unisex | English | "Red-haired, reed by the water" |
-| Shiloh | Unisex | Hebrew | "Peaceful, flowing, tranquil" |
-| Beckett | Unisex | English | "Beehive, stream, brook" |
-| Delta | Unisex | Greek | "River mouth, triangular landform" |
+| Ocean | Unisex | English | "Ocean" |
+| River | Unisex | English | "River" |
+| Lake | Unisex | English | "Lake" |
+| Bay | Unisex | English | "An inlet of the sea" |
+| Haven | Unisex | English | "Harbor, safe place" |
+| Marlowe | Unisex | English | "Land left by a drained lake" |
+| Kaito | Boy | Japanese | "Often written 海斗 or 海翔, beginning with 'sea'" |
+| Umi | Unisex | Japanese | "'Sea' when written 海" |
+| Beckett | Unisex | English | "From an English surname, possibly 'little brook'" |
+| Delta | Unisex | Greek | "The mouth of a river" |
 
-> 💡 **Tip: Trending Picks** — Caspian, Moana, Ocean, and Kai are the water-themed names making the biggest waves in 2026. These names capture the romance and power of the sea while sounding completely at home in any modern setting.
+> 💡 **Tip: Direct or Hidden** — Ocean, River, and Bay say the meaning out loud. Dylan, Marina, and Murphy carry the sea in their roots without announcing it.
 
 ## Finding Your Flow with Water Names
 

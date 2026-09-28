@@ -1,176 +1,236 @@
 ---
 title: "40 Baby Names That Mean Moon"
-description: "Discover 40 beautiful baby names that mean moon for boys, girls, and unisex. Explore celestial, lunar-inspired names with origins and meanings from around the world."
+description: "40 baby names that mean moon or moonlight for girls and boys, from Luna and Selene to Aylin, Mahina, Badr, and Chandra, with origins, meanings, and pronunciation."
 publishDate: 2026-10-21
-lastReviewed: 2026-07-29
 slug: "names-meaning-moon"
 category: "names"
-tags: ["baby names", "names meaning moon", "lunar names", "celestial names", "boy names", "girl names"]
+tags: ["names meaning moon", "moon baby names", "celestial baby names", "luna names", "girl names", "boy names"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
-image: "https://images.pexels.com/photos/4473770/pexels-photo-4473770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "/images/names/names-meaning-moon.jpg"
 draft: false
 ---
 
-There is something timeless and magical about the moon. It has guided travelers, inspired poets, and filled night skies with quiet beauty for as long as humans have looked up. A name that means moon carries that same gentle luminosity — a sense of calm, mystery, and celestial wonder. Whether you are drawn to a soft, dreamy girl's name or a strong lunar name for a boy, moon-inspired names span every culture, from Latin and Greek to Japanese, Sanskrit, and beyond. This collection of 40 names offers a beautiful lunar option for every family.
+Luna has been one of the fastest-rising girl names of the past decade, and it has sent many parents looking for other names with the same meaning. There are plenty, because nearly every language has used its word for the moon as a name.
 
-> 📌 **Key Takeaway:** Names meaning moon come from cultures worldwide — Latin (Luna), Greek (Selene), Japanese (Tsuki), and Sanskrit (Chandra), among many others. They carry a serene, celestial beauty that suits both modern and traditional families. For more sky-inspired options, see our lists of [baby names meaning star](/blog/names-meaning-star/) and [baby names meaning light](/blog/names-meaning-light/).
+This list has 40 names that mean moon, moonlight, full moon, or crescent, along with the moon gods and goddesses whose names are still in use. Each entry has its origin and a pronunciation guide.
 
-Celestial names pair beautifully together — explore more cosmic inspiration in our guides to [nature-inspired names](/blog/names-meaning-nature/) and [names meaning ocean](/blog/names-meaning-ocean/).
+> 📌 **Key Takeaway:** If you love Luna but want something less common, look at the same word in other languages: Mahina (Hawaiian), Marama (Maori), Aylin (Turkish), Lusine (Armenian), and Chandra (Sanskrit) all mean moon. Arabic is unusually precise, with separate names for the moon (Qamar), the full moon (Badr), and the crescent (Hilal). To complete the sky, see [names meaning sun](/blog/names-meaning-sun/) and [names meaning star](/blog/names-meaning-star/).
 
-![Sweet baby sleeping peacefully](https://images.pexels.com/photos/4473770/pexels-photo-4473770.jpeg?auto=compress&cs=tinysrgb&w=800)
+![40 Baby Names That Mean Moon](/images/names/names-meaning-moon.jpg)
 
 ## Girl Names That Mean Moon
 
-| Name | Gender | Origin | Full Meaning |
-|------|--------|--------|-------------|
-| Luna | Girl | Latin | "The moon; moon goddess" |
-| Selene | Girl | Greek | "Moon; the moon goddess" |
-| Chandra | Girl | Sanskrit | "Moon; shining moon" |
-| Aylin | Girl | Turkish | "Moon halo, moonlight" |
-| Mona | Girl | Old English | "Moon; noble one" |
-| Amaris | Girl | Hebrew | "Child of the moon" |
-| Jaci | Girl | Native American | "Moon" |
-| Qamar | Girl | Arabic | "Moon" |
-| Hala | Girl | Arabic | "Halo around the moon" |
-| Marama | Girl | Maori | "Moon; light" |
-| Mahina | Girl | Hawaiian | "Moon; moonlight" |
-| Ay | Girl | Turkish | "Moon" |
-| Neoma | Girl | Greek | "New moon" |
-| Purnima | Girl | Sanskrit | "Full moon" |
-| Ashima | Girl | Sanskrit | "Boundless; moon-related" |
-| Zelenia | Girl | Greek | "Moonlight" |
+| Name | Gender | Origin | Meaning | Say it |
+|------|--------|--------|---------|--------|
+| Luna | Girl | Latin | "Moon"; the Roman goddess of the moon | LOO-nuh |
+| Selene | Girl | Greek | "Moon"; the Greek goddess of the moon | seh-LEE-nee |
+| Selena | Girl | Greek, via Latin | Form of Selene | seh-LEE-nuh |
+| Artemis | Girl | Greek | The goddess of the hunt and the moon; the meaning of the name is unknown | AR-teh-mis |
+| Diana | Girl | Latin | "Divine"; the Roman goddess of the hunt and the moon | dye-AN-uh |
+| Cynthia | Girl | Greek | "From Mount Cynthus"; a title of Artemis | SIN-thee-uh |
+| Aylin | Girl | Turkish | "Moon halo" | eye-LEEN |
+| Ayla | Girl | Turkish | "Moonlight, halo" | EYE-lah |
+| Aysel | Girl | Turkish / Azerbaijani | "Moon stream" | eye-SEL |
+| Mahina | Girl | Hawaiian | "Moon" | mah-HEE-nah |
+| Marama | Girl | Maori | "Moon" | MAH-rah-mah |
+| Purnima | Girl | Sanskrit | "Full moon" | POOR-nee-mah |
+| Mahtab | Girl | Persian | "Moonlight" | mah-TAHB |
+| Mizuki | Girl | Japanese | Often written 美月, "beautiful moon" | mee-zoo-kee |
+| Tsukiko | Girl | Japanese | Written 月子, "moon child" | tsoo-kee-koh |
+| Yue | Girl | Chinese | When written 月, "moon" | YWEH |
+| Nguyệt | Girl | Vietnamese | "Moon" | NGWEE-et |
+| Hằng | Girl | Vietnamese | From Hằng Nga, the moon goddess | HAHNG |
+| Lusine | Girl | Armenian | From *lusin*, "moon" | loo-SEE-neh |
+| Levana | Girl | Hebrew | "Moon"; literally "the white one" | leh-vah-NAH |
 
 ## Boy Names That Mean Moon
 
-| Name | Gender | Origin | Full Meaning |
-|------|--------|--------|-------------|
-| Aran | Boy | Thai/Sanskrit | "Forest; associated with moon" |
-| Chandran | Boy | Sanskrit | "Moon" |
-| Badar | Boy | Arabic | "Full moon" |
-| Hilal | Boy | Arabic | "Crescent moon" |
-| Mahesh | Boy | Sanskrit | "Great lord; lunar associations" |
-| Tsukiya | Boy | Japanese | "Moon" |
-| Ramachandra | Boy | Sanskrit | "Moon-like Rama" |
-| Indu | Boy | Sanskrit | "Moon; bright drop" |
-| Soma | Boy | Sanskrit | "Moon; moon god" |
-| Kamaria | Boy | Swahili | "Moonlight" |
-| Nokosi | Boy | Native American | "Moon-related; bear" |
-| Aewan | Boy | Korean | "Moon-related" |
-| Maraq | Boy | Arabic | "Moonlike" |
-| Itzel | Boy | Mayan | "Rainbow lady of the moon" |
+| Name | Gender | Origin | Meaning | Say it |
+|------|--------|--------|---------|--------|
+| Badr | Boy | Arabic | "Full moon" | BAH-der |
+| Hilal | Boy | Arabic | "Crescent moon" | hee-LAHL |
+| Rakesh | Boy | Sanskrit | "Lord of the full-moon night" | rah-KAYSH |
+| Shashank | Boy | Sanskrit | "Moon"; literally "marked with a hare" | shuh-SHAHNK |
+| Chandran | Boy | Tamil / Malayalam | Form of Chandra, "moon" | CHUN-drun |
+| Aibek | Boy | Kazakh / Kyrgyz | "Moon" + "lord" | eye-BEK |
+| Aydin | Boy | Turkish | "Bright, enlightened"; from *ay*, "moon" | eye-DIN |
+| Koray | Boy | Turkish | "Ember moon" | ko-RYE |
+| Mani | Boy | Old Norse | The moon, personified as a god in Norse myth | MAH-nee |
+| Khonsu | Boy | Egyptian | "Traveler"; the Egyptian god of the moon | KON-soo |
+| Iah | Boy | Egyptian | "Moon"; an Egyptian moon god | EE-ah |
+| Jericho | Boy | Hebrew | A place name, possibly "city of the moon" | JER-ih-ko |
 
 ## Unisex Names That Mean Moon
 
-| Name | Gender | Origin | Full Meaning |
-|------|--------|--------|-------------|
-| Tsuki | Unisex | Japanese | "Moon" |
-| Chan | Unisex | Sanskrit | "Moon; shining" |
-| Kamar | Unisex | Arabic | "Moon" |
-| Meztli | Unisex | Aztec | "Moon; moon goddess" |
-| Mangala | Unisex | Sanskrit | "Auspicious; lunar link" |
-| Nishi | Unisex | Japanese/Sanskrit | "Night; moon-related" |
-| Sasi | Unisex | Thai/Sanskrit | "Moon" |
-| Ratri | Unisex | Sanskrit | "Night; moon-related" |
-| Hang | Unisex | Vietnamese | "Moon; moon fairy" |
-| Iah | Unisex | Egyptian | "Moon; moon god" |
-| Coyolxauhqui | Unisex | Aztec | "Golden bells; moon goddess" |
+| Name | Gender | Origin | Meaning | Say it |
+|------|--------|--------|---------|--------|
+| Chandra | Unisex | Sanskrit | "Moon"; the Hindu moon god | CHUN-druh |
+| Qamar | Unisex | Arabic | "Moon" | KAH-mar |
+| Shashi | Unisex | Sanskrit | "Moon" | SHUH-shee |
+| Soma | Unisex | Sanskrit | A name of the moon and its god | SO-mah |
+| Chan | Unisex | Thai | "Moon" | JAHN |
+| Bulan | Unisex | Indonesian / Malay | "Moon" | BOO-lahn |
+| Meztli | Unisex | Nahuatl | "Moon" | MESS-tlee |
+| Ilargi | Unisex | Basque | "Moon" | ee-LAR-gee |
 
-## How to Choose a Moon-Inspired Name
+For more options that work for any child, see our [gender-neutral baby names](/blog/gender-neutral-baby-names/).
 
-Moon names range from the popular and recognizable (Luna, Selene) to the rare and exotic (Meztli, Marama). Consider how the name pairs with your last name, whether you prefer an obvious lunar meaning or a subtle one, and the cultural heritage that resonates with your family. Many parents love pairing a moon name with a star- or sky-inspired middle name for a fully celestial feel.
+## How to Choose a Moon Name
 
-Some moon names, like Luna, have surged in popularity in recent years, while others remain wonderfully unique. If you want a name that stands out, the Sanskrit, Arabic, and Indigenous options offer beautiful, less-common choices.
+**If you like Luna, check how common it is where you live.** Luna has been near the top of the charts in many countries. That is not a reason to avoid it, but your daughter may well share it with a classmate. Selene, Mahina, and Aylin give you the same meaning with far fewer of them around.
 
-## Common Questions About Moon Names
+**Decide between the word and the goddess.** Luna, Mahina, and Qamar are simply the word for moon. Artemis, Diana, and Cynthia are names of a goddess associated with the moon, and their literal meanings are something else.
+
+**Check names written in characters.** Mizuki and Yue only mean moon when written with the character 月. The same sounds can be written with other characters that mean something entirely different. Our [Japanese baby names](/blog/japanese-baby-names/) and [Chinese baby names](/blog/chinese-baby-names/) guides explain how this works.
+
+**Consider a sun and moon pair for twins or siblings.** Sol and Luna, Helios and Selene, and Ravi and Chandra match in meaning without sounding alike. See our [twin baby name pairs](/blog/twin-baby-name-pairs/).
+
+You can try first and middle name combinations in our [Baby Name Generator](/tools/name-generator/).
+
+## FAQ
 
 ### What girl name means moon?
 
-Luna is the most popular girl's name meaning moon, from Latin, and has become a top choice worldwide. Other beautiful options include Selene (Greek moon goddess), Chandra (Sanskrit), Aylin (Turkish, "moon halo"), Mahina (Hawaiian), and Qamar (Arabic). These names carry a serene, celestial beauty and range from familiar to rare.
+Luna is Latin for moon and Selene is Greek. Mahina means moon in Hawaiian, Marama in Maori, and Lusine comes from the Armenian word for moon. Aylin is a Turkish name meaning moon halo.
 
 ### What boy name means moon?
 
-Boy names meaning moon include Badar (Arabic, "full moon"), Hilal (Arabic, "crescent moon"), Chandran (Sanskrit), Soma (Sanskrit moon god), and Indu (Sanskrit, "moon"). Many moon-related boy names come from Sanskrit and Arabic traditions, offering strong, distinctive options with rich cultural heritage and meaning.
+Badr means full moon and Hilal means crescent moon in Arabic. Rakesh and Shashank are Sanskrit names for the moon, and Aibek combines the Turkic word for moon with a word meaning lord.
 
-### What is a unisex name that means moon?
+### What names are similar to Luna?
 
-Tsuki, the Japanese word for moon, is a lovely unisex option, as is Kamar (Arabic). Meztli, from Aztec mythology, refers to the moon goddess and works for any gender. Iah, an Egyptian moon deity, is another striking unisex choice. These names suit families wanting a gender-neutral celestial name.
+Selene and Selena share the meaning and a similar sound. Mahina, Marama, Aylin, and Ayla are other short names that mean moon or moonlight.
 
-### Is Luna a good baby name?
+### What name means moonlight?
 
-Luna is a beautiful, popular baby name meaning moon, with Latin roots and ties to the Roman moon goddess. Its rise in popularity means it's more common than it once was, so consider that if you prefer unique names. Still, its soft sound, clear meaning, and celestial charm make it a lovely, timeless choice.
+Mahtab means moonlight in Persian, and Ayla is a Turkish name meaning moonlight or halo.
 
-### What names mean full moon or crescent moon?
+## Sources
 
-For full moon, Badar and Purnima (Sanskrit) both directly mean "full moon." For crescent moon, Hilal (Arabic) is a classic choice. Neoma, from Greek, means "new moon." These names let you choose a specific lunar phase, adding an extra layer of meaning to your celestial baby name.
-
-## Final Thoughts
-
-A moon name is a gift of quiet beauty — evoking calm, wonder, and the timeless glow of the night sky. Whether you choose the popular grace of Luna, the mythological depth of Selene, or a rare gem like Mahina or Meztli, a lunar name gives your child a connection to something ancient and luminous. Pair it with a celestial middle name, say it aloud a few times, and see which moon name feels like it belongs to your little one.
-
-> 💡 **Further reading:** See our lists of [baby names meaning star](/blog/names-meaning-star/) and [baby names meaning light](/blog/names-meaning-light/). For more parenting support, visit [媽媽生活復原力 Lab](https://chparenting.com).
-
-## References
-
-- Behind the Name (2024). "[Names Related to the Moon](https://www.behindthename.com/)."
-- Nameberry (2024). "[Moon Names for Babies](https://nameberry.com/)."
-- Oxford Dictionary of First Names (2024). Oxford University Press.
+- Behind the Name. [Name etymologies and histories](https://www.behindthename.com/).
+- Oxford University Press. *A Dictionary of First Names* (Hanks, Hardcastle, and Hodges).
+- U.S. Social Security Administration. [Popular Baby Names](https://www.ssa.gov/oact/babynames/).
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Organization",
-      "@id": "https://baby.chparenting.com#organization",
-      "name": "Baby CHParenting",
-      "url": "https://baby.chparenting.com",
-      "logo": { "@type": "ImageObject", "url": "https://baby.chparenting.com/logo.png", "width": 300, "height": 60 },
-      "sameAs": ["https://chparenting.com", "https://pregnancy.chparenting.com"]
-    },
-    {
-      "@type": "Person",
-      "@id": "https://baby.chparenting.com/author/vega-lin#person",
-      "name": "Vega Lin",
-      "jobTitle": "Founder",
-      "url": "https://baby.chparenting.com/author/vega-lin/",
-      "description": "Founder of the CHParenting family of sites and a mother of two, writing evidence-based guides for new parents.",
-      "knowsAbout": ["baby names", "name meanings", "celestial names", "naming trends"]
-    },
-    {
       "@type": "BlogPosting",
-      "@id": "https://baby.chparenting.com/blog/names-meaning-moon#article",
+      "@id": "https://baby.chparenting.com/blog/names-meaning-moon/#article",
       "headline": "40 Baby Names That Mean Moon",
-      "description": "Discover 40 beautiful baby names that mean moon for boys, girls, and unisex. Explore celestial, lunar-inspired names with origins and meanings from around the world.",
+      "description": "40 baby names that mean moon or moonlight for girls and boys, from Luna and Selene to Aylin, Mahina, Badr, and Chandra, with origins, meanings, and pronunciation.",
       "datePublished": "2026-10-21T00:00:00+08:00",
       "dateModified": "2026-10-21T00:00:00+08:00",
-      "author": { "@id": "https://baby.chparenting.com/author/vega-lin#person" },
-      "publisher": { "@id": "https://baby.chparenting.com#organization" },
-      "image": { "@type": "ImageObject", "url": "https://images.pexels.com/photos/4473770/pexels-photo-4473770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750", "width": 1200, "height": 630 },
-      "mainEntityOfPage": { "@type": "WebPage", "@id": "https://baby.chparenting.com/blog/names-meaning-moon" },
-      "wordCount": 1300,
-      "articleSection": "names",
-      "keywords": ["names meaning moon", "moon baby names", "lunar names", "celestial baby names", "Luna Selene"],
+      "author": {
+        "@id": "https://baby.chparenting.com/author/vega-lin/#person"
+      },
+      "publisher": {
+        "@id": "https://baby.chparenting.com/#organization"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://baby.chparenting.com/images/names/names-meaning-moon.jpg",
+        "width": 1200,
+        "height": 630
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://baby.chparenting.com/blog/names-meaning-moon/"
+      },
+      "wordCount": 1150,
+      "articleSection": "Names",
+      "keywords": [
+        "names meaning moon",
+        "moon baby names",
+        "celestial baby names",
+        "luna names",
+        "girl names",
+        "boy names"
+      ],
       "inLanguage": "en-US"
     },
     {
-      "@type": "BreadcrumbList",
-      "@id": "https://baby.chparenting.com/blog/names-meaning-moon#breadcrumb",
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://baby.chparenting.com" },
-        { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://baby.chparenting.com/blog" },
-        { "@type": "ListItem", "position": 3, "name": "40 Baby Names That Mean Moon", "item": "https://baby.chparenting.com/blog/names-meaning-moon" }
-      ]
+      "@type": "Person",
+      "@id": "https://baby.chparenting.com/author/vega-lin/#person",
+      "name": "Vega Lin",
+      "jobTitle": "Founder",
+      "url": "https://baby.chparenting.com/author/vega-lin/",
+      "description": "Founder of the CHParenting family of sites and a mother of two, writing practical baby care and baby name guides."
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://baby.chparenting.com/#organization",
+      "name": "Baby Sleep & Parenting Guide",
+      "url": "https://baby.chparenting.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://baby.chparenting.com/favicon.svg",
+        "width": 32,
+        "height": 32
+      }
     },
     {
       "@type": "FAQPage",
-      "@id": "https://baby.chparenting.com/blog/names-meaning-moon#faq",
+      "@id": "https://baby.chparenting.com/blog/names-meaning-moon/#faq",
       "mainEntity": [
-        { "@type": "Question", "name": "What girl name means moon?", "acceptedAnswer": { "@type": "Answer", "text": "Luna is the most popular girl's name meaning moon, from Latin, and has become a top choice worldwide. Other beautiful options include Selene (Greek moon goddess), Chandra (Sanskrit), Aylin (Turkish, moon halo), Mahina (Hawaiian), and Qamar (Arabic). These names carry a serene, celestial beauty and range from familiar to rare." } },
-        { "@type": "Question", "name": "What boy name means moon?", "acceptedAnswer": { "@type": "Answer", "text": "Boy names meaning moon include Badar (Arabic, full moon), Hilal (Arabic, crescent moon), Chandran (Sanskrit), Soma (Sanskrit moon god), and Indu (Sanskrit, moon). Many moon-related boy names come from Sanskrit and Arabic traditions, offering strong, distinctive options with rich cultural heritage and meaning." } },
-        { "@type": "Question", "name": "What is a unisex name that means moon?", "acceptedAnswer": { "@type": "Answer", "text": "Tsuki, the Japanese word for moon, is a lovely unisex option, as is Kamar (Arabic). Meztli, from Aztec mythology, refers to the moon goddess and works for any gender. Iah, an Egyptian moon deity, is another striking unisex choice. These names suit families wanting a gender-neutral celestial name." } },
-        { "@type": "Question", "name": "Is Luna a good baby name?", "acceptedAnswer": { "@type": "Answer", "text": "Luna is a beautiful, popular baby name meaning moon, with Latin roots and ties to the Roman moon goddess. Its rise in popularity means it's more common than it once was, so consider that if you prefer unique names. Still, its soft sound, clear meaning, and celestial charm make it a lovely, timeless choice." } },
-        { "@type": "Question", "name": "What names mean full moon or crescent moon?", "acceptedAnswer": { "@type": "Answer", "text": "For full moon, Badar and Purnima (Sanskrit) both directly mean full moon. For crescent moon, Hilal (Arabic) is a classic choice. Neoma, from Greek, means new moon. These names let you choose a specific lunar phase, adding an extra layer of meaning to your celestial baby name." } }
+        {
+          "@type": "Question",
+          "name": "What girl name means moon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Luna is Latin for moon and Selene is Greek. Mahina means moon in Hawaiian, Marama in Maori, and Lusine comes from the Armenian word for moon. Aylin is a Turkish name meaning moon halo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What boy name means moon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Badr means full moon and Hilal means crescent moon in Arabic. Rakesh and Shashank are Sanskrit names for the moon, and Aibek combines the Turkic word for moon with a word meaning lord."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What names are similar to Luna?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Selene and Selena share the meaning and a similar sound. Mahina, Marama, Aylin, and Ayla are other short names that mean moon or moonlight."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What name means moonlight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mahtab means moonlight in Persian, and Ayla is a Turkish name meaning moonlight or halo."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://baby.chparenting.com/blog/names-meaning-moon/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://baby.chparenting.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://baby.chparenting.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "40 Baby Names That Mean Moon",
+          "item": "https://baby.chparenting.com/blog/names-meaning-moon/"
+        }
       ]
     }
   ]

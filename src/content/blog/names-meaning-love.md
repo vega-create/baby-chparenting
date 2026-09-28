@@ -2,7 +2,7 @@
 title: "45 Baby Names That Mean Love"
 description: "Explore 45 romantic baby names that mean love for boys, girls, and unisex options. Discover loving names from every culture with origins, meanings, and trending picks."
 publishDate: 2026-04-15
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "names-meaning-love"
 category: "names"
 tags: ["baby names", "names meaning love", "romantic baby names", "loving names", "boy names", "girl names"]
@@ -18,7 +18,7 @@ Whether you prefer a classic name with love woven into its roots or a bold, dire
 
 You might also find inspiration in our collection of [Italian baby names](/blog/italian-baby-names/), where romance and beauty are woven into the naming tradition.
 
-> 📌 **Key Takeaway:** Names meaning love range from ancient classics like David to modern favorites like Amara. They carry one of the most universally positive meanings possible, making them safe yet deeply meaningful choices for any child.
+> 📌 **Key Takeaway:** Names meaning love range from ancient classics like David to modern favorites like Mila and Esme. They carry one of the most universally positive meanings possible, making them safe yet deeply meaningful choices for any child.
 
 ![Baby with loving expression](https://images.pexels.com/photos/3995912/pexels-photo-3995912.jpeg?auto=compress&cs=tinysrgb&w=800)
 
@@ -26,63 +26,63 @@ You might also find inspiration in our collection of [Italian baby names](/blog/
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| David | Boy | Hebrew | "Beloved, dear one" |
-| Amadeus | Boy | Latin | "Love of God, beloved by God" |
-| Phillip | Boy | Greek | "Lover of horses, friend" |
-| Erasmus | Boy | Greek | "Beloved, desired, longed for" |
-| Leif | Boy | Norse | "Heir, beloved descendant" |
-| Connell | Boy | Irish | "Strong as a wolf, love and friendship" |
-| Carwyn | Boy | Welsh | "Blessed love, fair love" |
+| David | Boy | Hebrew | "Beloved" |
+| Amadeus | Boy | Latin | "Lover of God" |
+| Phillip | Boy | Greek | "Lover of horses" |
+| Erasmus | Boy | Greek | "Beloved" |
+| Caradoc | Boy | Welsh | "Beloved, amiable" |
+| Philo | Boy | Greek | "Loving, a friend" |
+| Carwyn | Boy | Welsh | "Blessed love" |
 | Jedidiah | Boy | Hebrew | "Beloved of the Lord" |
-| Amato | Boy | Italian | "Beloved, dear one" |
-| Habib | Boy | Arabic | "Beloved, darling, dear" |
-| Lennon | Boy | Irish | "Dear one, lover, sweetheart" |
-| Premo | Boy | Italian | "First, beloved, cherished" |
-| Rudo | Boy | Shona | "Love, affection" |
-| Sajan | Boy | Hindi | "Beloved, lover, dear one" |
-| Kaleb | Boy | Hebrew | "Devotion, whole-hearted love" |
-| Thierry | Boy | French | "Ruler of the people, beloved leader" |
-| Eros | Boy | Greek | "God of love, romantic desire" |
-| Darrell | Boy | English | "Dearly loved, open" |
+| Amato | Boy | Italian | "Beloved" |
+| Habib | Boy | Arabic | "Beloved, darling" |
+| Lennon | Boy | Irish | "From an Irish surname, possibly 'lover, sweetheart'" |
+| Prem | Boy | Sanskrit | "Love" |
+| Rudo | Boy | Shona | "Love" |
+| Sajan | Boy | Hindi | "Beloved" |
+| Aziz | Boy | Arabic | "Beloved, dear; also 'powerful'" |
+| Dragan | Boy | Slavic | "Dear, precious" |
+| Eros | Boy | Greek | "Love, desire; the Greek god of love" |
+| Lyubomir | Boy | Slavic | "Love and peace" |
 
 ## Girl Names That Mean Love
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Amara | Girl | Latin/African | "Grace, beloved, eternal" |
-| Mila | Girl | Slavic | "Gracious, dear, beloved" |
-| Esme | Girl | French | "Esteemed, beloved, loved" |
-| Aphrodite | Girl | Greek | "Goddess of love and beauty" |
-| Cara | Girl | Italian | "Beloved, dear, precious" |
+| Amy | Girl | French, via English | "Beloved" |
+| Mila | Girl | Slavic | "From mil, 'gracious, dear'" |
+| Esme | Girl | Old French | "Esteemed, loved" |
+| Aphrodite | Girl | Greek | "The Greek goddess of love and beauty" |
+| Cara | Girl | Italian / Latin | "Dear, beloved; in Irish, 'friend'" |
 | Amanda | Girl | Latin | "Worthy of love, lovable" |
-| Aiko | Girl | Japanese | "Beloved child, child of love" |
-| Cherish | Girl | English | "To hold dear, treasure, love" |
-| Priya | Girl | Sanskrit | "Beloved, dear one" |
-| Milena | Girl | Slavic | "Gracious, pleasant, beloved" |
-| Venus | Girl | Latin | "Goddess of love, beauty" |
-| Davina | Girl | Scottish | "Beloved, cherished one" |
-| Carina | Girl | Italian | "Dear one, beloved little one" |
-| Freya | Girl | Norse | "Noble woman, goddess of love" |
-| Amada | Girl | Spanish | "Beloved, loved one" |
-| Suki | Girl | Japanese | "Beloved, love, affection" |
-| Kerensa | Girl | Cornish | "Love, affection" |
+| Aiko | Girl | Japanese | "Usually written 愛子, 'child of love'" |
+| Cherish | Girl | English | "To hold dear" |
+| Priya | Girl | Sanskrit | "Beloved, dear" |
+| Milena | Girl | Slavic | "From mil, 'gracious, dear'" |
+| Venus | Girl | Latin | "The Roman goddess of love" |
+| Davina | Girl | Scottish | "Feminine form of David, 'beloved'" |
+| Carina | Girl | Italian | "Dear little one" |
+| Freya | Girl | Norse | "Lady; the Norse goddess of love" |
+| Amada | Girl | Spanish | "Beloved" |
+| Carys | Girl | Welsh | "Love" |
+| Kerensa | Girl | Cornish | "Love" |
 
 ## Unisex Names That Mean Love
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Amore | Unisex | Italian | "Love, deep affection" |
-| Paris | Unisex | Greek | "Lover, city of love" |
-| Denver | Unisex | French | "From the green valley, beloved" |
-| Kama | Unisex | Sanskrit | "Love, desire, wish" |
-| Darcy | Unisex | French | "Dark one, from the fortress, beloved" |
-| Love | Unisex | English | "Deep affection, devotion" |
-| Agape | Unisex | Greek | "Unconditional love, divine love" |
-| Milan | Unisex | Slavic | "Gracious, dear, beloved" |
-| Vida | Unisex | Spanish/Hebrew | "Life, beloved, dearly loved" |
-| Amory | Unisex | German | "Brave, powerful, loving" |
+| Amore | Unisex | Italian | "Love" |
+| Kealoha | Unisex | Hawaiian | "The loved one" |
+| Ai | Unisex | Japanese / Chinese | "'Love' when written 愛" |
+| Kama | Unisex | Sanskrit | "Love, desire" |
+| Anbu | Unisex | Tamil | "Love, kindness" |
+| Love | Unisex | English | "Love" |
+| Agape | Unisex | Greek | "Selfless love" |
+| Milan | Unisex | Slavic | "From mil, 'gracious, dear'" |
+| Davy | Unisex | English | "Pet form of David, 'beloved'" |
+| Amias | Boy | Latin, via English | "Possibly from amatus, 'loved'" |
 
-> 💡 **Tip: Trending Picks** — Amara, Lennon, Freya, and Esme are the love-themed names making the biggest splash in 2026. They blend modern style with romantic roots, offering names that are both fashionable and full of heart.
+> 💡 **Tip: Quiet Picks** — David, Amy, Mila, and Esme all mean beloved or dear, but most people will never guess it. If you want the meaning to be obvious instead, Cherish, Love, and Amore say it out loud.
 
 ## Choosing a Name That Means Love
 
@@ -94,7 +94,7 @@ Use our [Baby Name Generator](/tools/name-generator/) to discover more options o
 
 ### What is the most popular name meaning love?
 
-David, meaning beloved in Hebrew, is one of the most enduringly popular names meaning love worldwide. For girls, Mila and Amara have both surged in recent years. Esme, meaning esteemed and beloved in French, has gained significant traction thanks to its elegant simplicity.
+David, meaning beloved in Hebrew, is one of the most enduringly popular names meaning love worldwide. For girls, Mila comes from a Slavic word meaning gracious or dear, and Amy comes from the French word for beloved. Esme, from an Old French word meaning esteemed or loved, is a shorter, less common choice.
 
 ### Are there boy names that mean love?
 
@@ -173,7 +173,7 @@ Agape is a Greek name meaning unconditional or divine love, representing the hig
           "name": "What is the most popular name meaning love?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "David, meaning beloved in Hebrew, is one of the most enduringly popular names meaning love worldwide. For girls, Mila and Amara have both surged in recent years. Esme, meaning esteemed and beloved in French, has gained significant traction thanks to its elegant simplicity."
+            "text": "David, meaning beloved in Hebrew, is one of the most enduringly popular names meaning love worldwide. For girls, Mila comes from a Slavic word meaning gracious or dear, and Amy comes from the French word for beloved. Esme, from an Old French word meaning esteemed or loved, is a shorter, less common choice."
           }
         },
         {

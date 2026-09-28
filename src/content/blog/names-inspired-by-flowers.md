@@ -24,56 +24,56 @@ Botanical names pair wonderfully with celestial ones — explore more in our gui
 
 | Name | Gender | Origin | Meaning / Flower |
 |------|--------|--------|-------------|
-| Rose | Girl | Latin | "The rose flower; symbol of love" |
-| Lily | Girl | English | "The lily flower; purity" |
-| Violet | Girl | Latin | "The violet flower; faithfulness" |
-| Daisy | Girl | English | "Day's eye; the daisy flower" |
-| Iris | Girl | Greek | "Rainbow; the iris flower" |
-| Jasmine | Girl | Persian | "The jasmine flower; gift from God" |
-| Poppy | Girl | Latin | "The poppy flower; remembrance" |
-| Dahlia | Girl | Scandinavian | "The dahlia flower; dignity" |
-| Zinnia | Girl | German | "The zinnia flower; lasting affection" |
-| Marigold | Girl | English | "Golden flower; the marigold" |
-| Camellia | Girl | Latin | "The camellia flower; admiration" |
-| Magnolia | Girl | French | "The magnolia flower; nobility" |
-| Flora | Girl | Latin | "Flower; goddess of flowers" |
-| Azalea | Girl | Greek | "The azalea flower" |
-| Primrose | Girl | English | "First rose; the primrose" |
-| Lavender | Girl | English | "The lavender flower; devotion" |
+| Rose | Girl | Latin, via English | "The rose" |
+| Lily | Girl | English | "The lily" |
+| Violet | Girl | Latin | "The violet; purple" |
+| Daisy | Girl | English | "Day's eye; the daisy" |
+| Iris | Girl | Greek | "Rainbow; also the iris flower" |
+| Jasmine | Girl | Persian | "The jasmine flower" |
+| Poppy | Girl | English | "The poppy" |
+| Dahlia | Girl | Swedish, via botany | "The dahlia, named for botanist Anders Dahl" |
+| Zinnia | Girl | German, via botany | "The zinnia, named for botanist Johann Zinn" |
+| Marigold | Girl | English | "The golden flower, from 'Mary's gold'" |
+| Camellia | Girl | Latin, via botany | "The camellia, named for botanist Georg Kamel" |
+| Magnolia | Girl | French, via botany | "The magnolia, named for botanist Pierre Magnol" |
+| Flora | Girl | Latin | "Flower; the Roman goddess of flowers" |
+| Azalea | Girl | Greek | "Dry; the azalea shrub" |
+| Primrose | Girl | English | "First rose" |
+| Lavender | Girl | English | "The lavender plant" |
 
 ## Boy Names Inspired by Flowers
 
 | Name | Gender | Origin | Meaning / Flower |
 |------|--------|--------|-------------|
-| Florian | Boy | Latin | "Flowering, flourishing" |
-| Cosmo | Boy | Greek | "Order, beauty; the cosmos flower" |
-| Ren | Boy | Japanese | "Lotus; water lily" |
-| Jared | Boy | Hebrew | "Rose (in some traditions)" |
-| Basil | Boy | Greek | "Royal; the basil herb-flower" |
-| Sage | Boy | Latin | "Wise; the sage plant" |
-| Bud | Boy | English | "A flower bud; brother" |
-| Anthony | Boy | Latin | "Priceless; 'anthos' meaning flower" |
-| Oleander | Boy | Greek | "The oleander flowering shrub" |
-| Aster | Boy | Greek | "Star; the aster flower" |
-| Yarrow | Boy | English | "The yarrow flowering plant" |
-| Indigo | Boy | Greek | "The indigo plant; deep blue" |
+| Florian | Boy | Latin | "Flowering" |
+| Cosmo | Boy | Greek | "Order, beauty; also the cosmos flower" |
+| Ren | Boy | Japanese | "'Lotus' when written 蓮" |
+| Narciso | Boy | Spanish / Italian, from Greek | "The narcissus flower" |
+| Hyacinth | Boy | Greek | "The hyacinth; in Greek myth, a youth loved by Apollo" |
+| Kamal | Boy | Sanskrit | "Lotus; in Arabic, 'perfection'" |
+| Rhodes | Boy | Greek | "Where roses grow" |
+| Anthony | Boy | Latin | "From a Roman family name; the 'h' was added by association with Greek anthos, 'flower'" |
+| Oleander | Boy | Greek | "The oleander shrub" |
+| Kunal | Boy | Sanskrit | "Lotus" |
+| Yarrow | Boy | English | "The yarrow plant" |
+| Florent | Boy | French | "Flowering" |
 
 ## Unisex Flower Names
 
 | Name | Gender | Origin | Meaning / Flower |
 |------|--------|--------|-------------|
-| Aster | Unisex | Greek | "Star flower" |
-| Sage | Unisex | Latin | "Wise; the sage plant" |
-| Indigo | Unisex | Greek | "Indigo flowering plant" |
-| Lotus | Unisex | Greek | "The lotus flower; enlightenment" |
-| Clover | Unisex | English | "The clover plant; luck" |
-| Fern | Unisex | English | "The fern plant" |
-| Jesse | Unisex | Hebrew | "Gift; associated with flowering" |
-| Sorrel | Unisex | French | "The sorrel plant" |
-| Bay | Unisex | Latin | "The bay laurel" |
-| Linden | Unisex | English | "The linden (lime) blossom tree" |
+| Aster | Unisex | Greek | "Star; the aster flower" |
+| Sakura | Girl | Japanese | "Cherry blossom" |
+| Indigo | Unisex | Greek, via English | "The indigo plant and its deep blue dye" |
+| Lotus | Unisex | Greek | "The lotus flower" |
+| Clover | Unisex | English | "The clover plant" |
+| Peony | Girl | Greek, via English | "The peony" |
+| Zahra | Girl | Arabic | "Flower, blossom" |
+| Fleur | Girl | French | "Flower" |
+| Leilani | Girl | Hawaiian | "Heavenly flowers" |
+| Linden | Unisex | English | "The linden tree, known for its fragrant blossom" |
 | Blossom | Unisex | English | "A flower in bloom" |
-| Marguerite | Unisex | French | "Daisy; a pearl" |
+| Marguerite | Girl | French | "Daisy; from the Greek for 'pearl'" |
 
 ## How to Choose a Flower Name
 
@@ -89,11 +89,11 @@ Lily, Rose, Violet, and Daisy are among the most popular flower names for girls,
 
 ### Are there flower names for boys?
 
-Yes, several beautiful flower and botanical names suit boys. Florian (flourishing), Ren (Japanese for lotus), Cosmo (the cosmos flower), Aster (star flower), and Basil and Sage (herb-flowers) all work wonderfully for boys. Nature and botanical names have grown popular for boys, offering fresh, distinctive options beyond traditional choices.
+Yes, several beautiful flower and botanical names suit boys. Florian (flowering), Ren (Japanese for lotus), Cosmo (the cosmos flower), Kamal and Kunal (both Sanskrit for lotus), and Hyacinth all work for boys. Nature and botanical names have grown popular for boys, offering fresh, distinctive options beyond traditional choices.
 
 ### What are some unique flower names?
 
-For unique flower names, consider Zinnia, Marigold, Camellia, Dahlia, Azalea, and Primrose for girls, or Florian, Oleander, and Yarrow for a more unexpected choice. Unisex options like Aster, Lotus, and Sorrel also stand out. These names are recognizably floral yet far less common than classics like Rose or Lily.
+For unique flower names, consider Zinnia, Marigold, Camellia, Dahlia, Azalea, and Primrose for girls, or Florian, Oleander, and Yarrow for a more unexpected choice. Unisex options like Aster, Lotus, and Indigo also stand out. These names are recognizably floral yet far less common than classics like Rose or Lily.
 
 ### What flower name means love or beauty?
 
@@ -166,8 +166,8 @@ A flower name gives your child a piece of nature's beauty to carry through life 
       "@id": "https://baby.chparenting.com/blog/names-inspired-by-flowers#faq",
       "mainEntity": [
         { "@type": "Question", "name": "What is the most popular flower name for a girl?", "acceptedAnswer": { "@type": "Answer", "text": "Lily, Rose, Violet, and Daisy are among the most popular flower names for girls, all timeless classics that have stayed beloved for generations. Iris, Poppy, and Jasmine are also widely loved. These names combine natural beauty with a soft, feminine charm, and they work equally well as first or middle names." } },
-        { "@type": "Question", "name": "Are there flower names for boys?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, several beautiful flower and botanical names suit boys. Florian (flourishing), Ren (Japanese for lotus), Cosmo (the cosmos flower), Aster (star flower), and Basil and Sage (herb-flowers) all work wonderfully for boys. Nature and botanical names have grown popular for boys, offering fresh, distinctive options." } },
-        { "@type": "Question", "name": "What are some unique flower names?", "acceptedAnswer": { "@type": "Answer", "text": "For unique flower names, consider Zinnia, Marigold, Camellia, Dahlia, Azalea, and Primrose for girls, or Florian, Oleander, and Yarrow for a more unexpected choice. Unisex options like Aster, Lotus, and Sorrel also stand out. These names are recognizably floral yet far less common than classics like Rose or Lily." } },
+        { "@type": "Question", "name": "Are there flower names for boys?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, several beautiful flower and botanical names suit boys. Florian (flowering), Ren (Japanese for lotus), Cosmo (the cosmos flower), Kamal and Kunal (both Sanskrit for lotus), and Hyacinth all work for boys. Nature and botanical names have grown popular for boys, offering fresh, distinctive options." } },
+        { "@type": "Question", "name": "What are some unique flower names?", "acceptedAnswer": { "@type": "Answer", "text": "For unique flower names, consider Zinnia, Marigold, Camellia, Dahlia, Azalea, and Primrose for girls, or Florian, Oleander, and Yarrow for a more unexpected choice. Unisex options like Aster, Lotus, and Indigo also stand out. These names are recognizably floral yet far less common than classics like Rose or Lily." } },
         { "@type": "Question", "name": "What flower name means love or beauty?", "acceptedAnswer": { "@type": "Answer", "text": "Rose is the classic flower name symbolizing love. Camellia represents admiration, and Cosmo relates to order and beauty. Dahlia symbolizes dignity, and Zinnia means lasting affection. Many flower names carry romantic or beauty-related meanings, making them especially meaningful choices for a beloved new baby." } },
         { "@type": "Question", "name": "Can flower names be used as middle names?", "acceptedAnswer": { "@type": "Answer", "text": "Absolutely. Flower names make lovely middle names, adding a touch of natural beauty and softness to a bolder first name. Rose is one of the most popular middle names of all time. Pairing a strong or classic first name with a floral middle name — or vice versa — creates a balanced, beautiful full name." } }
       ]

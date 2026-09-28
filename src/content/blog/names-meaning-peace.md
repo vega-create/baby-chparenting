@@ -2,7 +2,7 @@
 title: "35 Baby Names That Mean Peace"
 description: "Browse 35 serene baby names that mean peace for boys, girls, and unisex options. Discover peaceful names from around the world with origins and full meanings."
 publishDate: 2026-04-19
-lastReviewed: 2026-04-23
+lastReviewed: 2026-09-28
 slug: "names-meaning-peace"
 category: "names"
 tags: ["baby names", "names meaning peace", "peaceful baby names", "serene names", "boy names", "girl names"]
@@ -26,53 +26,53 @@ One of the most popular peace-connected names today is Oliver, meaning "olive tr
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Solomon | Boy | Hebrew | "Peace, peaceful one" |
-| Frederick | Boy | German | "Peaceful ruler" |
-| Oliver | Boy | Latin | "Olive tree, symbol of peace" |
+| Solomon | Boy | Hebrew | "Peace" |
+| Frederick | Boy | Germanic | "Peaceful ruler" |
+| Oliver | Boy | Latin | "Associated with the olive tree, a symbol of peace" |
 | Pax | Boy | Latin | "Peace" |
-| Geoffrey | Boy | German | "Pledge of peace, divine peace" |
-| Stellan | Boy | Swedish | "Calm, peaceful, steady" |
+| Geoffrey | Boy | Germanic | "A Germanic name ending in frid, 'peace'" |
+| Stellan | Boy | Swedish | "Possibly 'calm'" |
 | Absalom | Boy | Hebrew | "Father of peace" |
-| Humphrey | Boy | German | "Peaceful warrior, bear cub of peace" |
+| Humphrey | Boy | Germanic | "Peaceful warrior" |
 | Miroslav | Boy | Slavic | "Peace and glory" |
-| Kazuki | Boy | Japanese | "Harmonious hope, peaceful tree" |
-| Axel | Boy | Scandinavian | "Father of peace" |
-| Godfrey | Boy | German | "Peace of God" |
-| Paxton | Boy | English | "Peace town, peaceful settlement" |
-| Manfred | Boy | German | "Man of peace, strength in peace" |
+| Kazuki | Boy | Japanese | "When written 和希, 'harmony' + 'hope'" |
+| Axel | Boy | Scandinavian | "Scandinavian form of Absalom, 'father of peace'" |
+| Godfrey | Boy | Germanic | "Peace of God" |
+| Wilfred | Boy | English | "Desiring peace" |
+| Manfred | Boy | Germanic | "Man of peace" |
 
 ## Girl Names That Mean Peace
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Irene | Girl | Greek | "Peace, serenity" |
-| Serena | Girl | Latin | "Tranquil, calm, serene" |
-| Paloma | Girl | Spanish | "Dove, symbol of peace" |
-| Winifred | Girl | Welsh | "Blessed peacemaking, holy reconciliation" |
-| Frida | Girl | German | "Peaceful, calm, beloved" |
-| Olive | Girl | English | "Olive tree, peace offering" |
-| Salome | Girl | Hebrew | "Peace, tranquility" |
-| Shanti | Girl | Sanskrit | "Peace, inner calm, tranquility" |
-| Mira | Girl | Slavic | "Peace, world, admirable" |
-| Galena | Girl | Greek | "Calm, peaceful, healer" |
-| Concordia | Girl | Latin | "Harmony, peace, agreement" |
-| Tullia | Girl | Latin | "Peaceful, quiet one" |
+| Irene | Girl | Greek | "Peace" |
+| Serena | Girl | Latin | "Serene, calm" |
+| Paloma | Girl | Spanish | "Dove, a symbol of peace" |
+| Winifred | Girl | Welsh | "Blessed peace" |
+| Frida | Girl | Germanic | "Peace" |
+| Olive | Girl | English | "The olive tree, a symbol of peace" |
+| Salome | Girl | Hebrew | "From shalom, 'peace'" |
+| Shanti | Girl | Sanskrit | "Peace" |
+| Mira | Girl | Slavic | "From mir, 'peace, world'" |
+| Galena | Girl | Greek | "Calm" |
+| Concordia | Girl | Latin | "Harmony" |
+| Salma | Girl | Arabic | "Safe, peaceful" |
 
 ## Unisex Names That Mean Peace
 
 | Name | Gender | Origin | Full Meaning |
 |------|--------|--------|-------------|
-| Shiloh | Unisex | Hebrew | "Peaceful, tranquil, his gift" |
-| Salem | Unisex | Hebrew | "Peace, complete, whole" |
-| Paz | Unisex | Spanish/Hebrew | "Peace, golden, radiant" |
-| Ren | Unisex | Japanese | "Lotus, love, peaceful water lily" |
-| Noah | Unisex | Hebrew | "Rest, comfort, peace" |
-| Haven | Unisex | English | "Safe place, sanctuary of peace" |
-| Harmony | Unisex | English | "Unity, concord, musical peace" |
-| Seren | Unisex | Welsh | "Star, peaceful, calm" |
-| Lulani | Unisex | Hawaiian | "Highest point of heaven, celestial peace" |
+| Shiloh | Unisex | Hebrew | "Uncertain; often given as 'tranquil'" |
+| Salem | Unisex | Hebrew / Arabic | "Complete, peaceful; safe" |
+| Paz | Unisex | Spanish | "Peace" |
+| An | Unisex | Chinese | "'Peace' when written 安" |
+| Noah | Unisex | Hebrew | "Rest, comfort" |
+| Dove | Unisex | English | "The dove, a symbol of peace" |
+| Harmony | Unisex | English | "Harmony" |
+| Amani | Unisex | Swahili | "Peace" |
+| Shalom | Unisex | Hebrew | "Peace" |
 
-> 💡 **Tip: Trending Picks** — Paxton, Shiloh, Stellan, and Paloma are the peace-themed names generating the most buzz in 2026. They strike a perfect balance between meaningful and modern, avoiding any overly traditional feel.
+> 💡 **Tip: Short Picks** — Pax, Paz, An, and Mira are all one or two syllables and mean peace in Latin, Spanish, Chinese, and the Slavic languages. They work well as middle names too.
 
 ## The Timeless Appeal of Peace Names
 
@@ -84,7 +84,7 @@ Find more serene options with our [Baby Name Generator](/tools/name-generator/) 
 
 ### What boy name means peace?
 
-Solomon is one of the most recognized boy names meaning peace, rooted in Hebrew tradition. Frederick means peaceful ruler and has been borne by numerous European kings. Pax is the direct Latin word for peace, offering a short and striking option. Paxton, meaning peace town, has been climbing the charts steadily.
+Solomon is one of the most recognized boy names meaning peace, rooted in Hebrew tradition. Frederick means peaceful ruler and has been borne by numerous European kings. Pax is the direct Latin word for peace, offering a short and striking option.
 
 ### What girl name means peace or calm?
 
@@ -92,7 +92,7 @@ Irene is the classic Greek name meaning peace and serenity. Serena, from Latin, 
 
 ### What are modern names that mean peace?
 
-Paxton has emerged as a stylish modern option meaning peace town. Shiloh, meaning peaceful, gained attention as a celebrity baby name and continues to rise. Stellan is a Swedish name meaning calm that has crossed over into international use. Haven, meaning sanctuary of peace, is a word name that feels both contemporary and meaningful.
+Pax is the Latin word for peace and is short enough to feel modern. Stellan is a Swedish name that probably means calm. Paz is Spanish for peace, and Amani means peace in Swahili. Shiloh is often given the meaning tranquil, although its origin is uncertain.
 
 > 💡 **Related Resources:** Expecting? Visit our sister site [pregnancy.chparenting.com](https://pregnancy.chparenting.com) for week-by-week pregnancy guides, prenatal nutrition, and labor preparation.
 
@@ -163,7 +163,7 @@ Paxton has emerged as a stylish modern option meaning peace town. Shiloh, meanin
           "name": "What boy name means peace?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Solomon is one of the most recognized boy names meaning peace, rooted in Hebrew tradition. Frederick means peaceful ruler and has been borne by numerous European kings. Pax is the direct Latin word for peace, offering a short and striking option. Paxton, meaning peace town, has been climbing the charts steadily."
+            "text": "Solomon is one of the most recognized boy names meaning peace, rooted in Hebrew tradition. Frederick means peaceful ruler and has been borne by numerous European kings. Pax is the direct Latin word for peace, offering a short and striking option."
           }
         },
         {
@@ -179,7 +179,7 @@ Paxton has emerged as a stylish modern option meaning peace town. Shiloh, meanin
           "name": "What are modern names that mean peace?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Paxton has emerged as a stylish modern option meaning peace town. Shiloh, meaning peaceful, gained attention as a celebrity baby name and continues to rise. Stellan is a Swedish name meaning calm that has crossed over into international use. Haven, meaning sanctuary of peace, is a word name that feels both contemporary and meaningful."
+            "text": "Pax is the Latin word for peace and is short enough to feel modern. Stellan is a Swedish name that probably means calm. Paz is Spanish for peace, and Amani means peace in Swahili. Shiloh is often given the meaning tranquil, although its origin is uncertain."
           }
         }
       ]
