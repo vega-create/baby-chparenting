@@ -182,8 +182,7 @@ const articleSchema = {
 
   {/* 廣告：文章中段與結尾。
       AdSense 對一開始就在畫面外的廣告框，會標成處理完但從來不去要廣告（2026-10-22 在 Chrome 實測：
-      開頭與側欄有填、中段與結尾永遠空白）。所以中段、結尾改成「捲到附近時才建立廣告框並送出」，
-      實測這樣會立刻填進來。中段放在第 2 個 H2 前面（文章至少要有 3 個 H2 才放）。
+      開頭與側欄有填、中段與結尾永遠空白）。所以中段、結尾改成「進入畫面時才建立廣告框並送出」（實測進入畫面才送才會填，提早送也不會）。中段放在第 2 個 H2 前面（文章至少要有 3 個 H2 才放）。
       沒填到廣告的框用 CSS 收起來，不留空白。 */}
   {siteConfig.adsense.enabled && (
     <>
@@ -214,7 +213,7 @@ const articleSchema = {
           if (!("IntersectionObserver" in window)) { boxes.forEach(load); return; }
           var io = new IntersectionObserver(function (entries) {
             entries.forEach(function (en) { if (en.isIntersecting) { io.unobserve(en.target); load(en.target); } });
-          }, { rootMargin: "600px 0px" });
+          }, { rootMargin: "0px" });   // 實測：廣告框要「已經在畫面內」才 push，AdSense 才會真的去要廣告；提早 150px 都不行
           boxes.forEach(function (b) { io.observe(b); });
         })();
       </script>
