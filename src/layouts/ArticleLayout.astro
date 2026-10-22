@@ -159,7 +159,7 @@ const articleSchema = {
         </div>
 
         {/* 廣告：文章結尾（捲到附近才載入，見下方 script） */}
-        <div class="adsense-container my-8" data-ad-lazy="8916289459"></div>
+        <div class="adsense-container my-8" data-ad-lazy="8916289459" style="min-height:1px"></div>
 
         <AuthorBox name={author} url={authorUrl} />
 
@@ -193,6 +193,7 @@ const articleSchema = {
           if (h2s.length >= 3) {
             var mid = document.createElement("div");
             mid.className = "adsense-container my-8";
+            mid.style.minHeight = "1px";   // 高度 0 的框 IntersectionObserver 不一定會觸發
             mid.setAttribute("data-ad-lazy", midSlot);
             h2s[1].parentNode.insertBefore(mid, h2s[1]);
           }
@@ -209,12 +210,24 @@ const articleSchema = {
             box.appendChild(ins);
             (window.adsbygoogle = window.adsbygoogle || []).push({});
           }
-          var boxes = document.querySelectorAll("[data-ad-lazy]");
-          if (!("IntersectionObserver" in window)) { boxes.forEach(load); return; }
-          var io = new IntersectionObserver(function (entries) {
-            entries.forEach(function (en) { if (en.isIntersecting) { io.unobserve(en.target); load(en.target); } });
-          }, { rootMargin: "0px" });   // 實測：廣告框要「已經在畫面內」才 push，AdSense 才會真的去要廣告；提早 150px 都不行
-          boxes.forEach(function (b) { io.observe(b); });
+          var boxes = Array.prototype.slice.call(document.querySelectorAll("[data-ad-lazy]"));
+          function inView(b) { var r = b.getBoundingClientRect(); return r.bottom > 0 && r.top < window.innerHeight; }
+          // 實測：廣告框要「已經在畫面內」才 push，AdSense 才會真的去要廣告；提早 150px 都不行
+          function check() { boxes.forEach(function (b) { if (!b.getAttribute("data-ad-loaded") && inView(b)) load(b); }); }
+          if ("IntersectionObserver" in window) {
+            var io = new IntersectionObserver(function (entries) {
+              entries.forEach(function (en) { if (en.isIntersecting) { io.unobserve(en.target); load(en.target); } });
+            }, { rootMargin: "0px" });
+            boxes.forEach(function (b) { io.observe(b); });
+          }
+          // 備援：捲動時也檢查一次（有些情況 IntersectionObserver 不會觸發）
+          var pending = false;
+          window.addEventListener("scroll", function () {
+            if (pending) return;
+            pending = true;
+            setTimeout(function () { pending = false; check(); }, 200);
+          }, { passive: true });
+          check();
         })();
       </script>
     </>
