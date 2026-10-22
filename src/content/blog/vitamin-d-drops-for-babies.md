@@ -120,7 +120,7 @@ It's the cheapest item on the newborn list and the easiest to forget. Put the bo
 
 - American Academy of Pediatrics, HealthyChildren.org. "[Vitamin D for Babies, Children & Adolescents](https://www.healthychildren.org/English/healthy-living/nutrition/Pages/vitamin-d-on-the-double.aspx)."
 - Wagner, C. L., & Greer, F. R. (2008). "[Prevention of Rickets and Vitamin D Deficiency in Infants, Children, and Adolescents](https://publications.aap.org/pediatrics/article/122/5/1142/71470/Prevention-of-Rickets-and-Vitamin-D-Deficiency-in)." *Pediatrics*.
-- Centers for Disease Control and Prevention. "[Infant and Toddler Nutrition](https://www.cdc.gov/nutrition/infantandtoddlernutrition/index.html)."
+- Centers for Disease Control and Prevention. "[Infant and Toddler Nutrition](https://www.cdc.gov/infant-toddler-nutrition/index.html)."
 
 <script type="application/ld+json">
 {

@@ -116,7 +116,7 @@ If you're reading this at midnight having just watched your swaddled baby heave 
 
 - American Academy of Pediatrics. "[Safe Sleep](https://www.aap.org/en/patient-care/safe-sleep/)."
 - American Academy of Pediatrics, HealthyChildren.org. "[A Parent's Guide to Safe Sleep](https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx)."
-- Centers for Disease Control and Prevention. "[Safe Sleep for Babies](https://www.cdc.gov/sids/safe-sleep.html)."
+- National Institute of Child Health and Human Development. "[Safe to Sleep Campaign](https://safetosleep.nichd.nih.gov/)."
 
 <script type="application/ld+json">
 {

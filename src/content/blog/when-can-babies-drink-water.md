@@ -108,9 +108,9 @@ The park advice comes from a good place. The better version of it on a hot day i
 
 ## References
 
-- Centers for Disease Control and Prevention. "[Foods and Drinks for 6 to 24 Month Olds](https://www.cdc.gov/nutrition/infantandtoddlernutrition/foods-and-drinks/foods-and-drinks-6-to-24-months.html)."
+- Centers for Disease Control and Prevention. "[Foods and Drinks for 6 to 24 Month Olds](https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/index.html)."
 - American Academy of Pediatrics, HealthyChildren.org. "[How Often and How Much Should Your Baby Eat?](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/How-Often-and-How-Much-Should-Your-Baby-Eat.aspx)"
-- Centers for Disease Control and Prevention. "[Infant and Toddler Nutrition](https://www.cdc.gov/nutrition/infantandtoddlernutrition/index.html)."
+- Centers for Disease Control and Prevention. "[Infant and Toddler Nutrition](https://www.cdc.gov/infant-toddler-nutrition/index.html)."
 
 <script type="application/ld+json">
 {

@@ -8,7 +8,7 @@ category: "development"
 tags: ["baby bath", "bath safety", "newborn care", "bath temperature", "bath routine"]
 author: "Vega Lin"
 authorUrl: "https://baby.chparenting.com/author/vega-lin/"
-image: "https://images.pexels.com/photos/3662949/pexels-photo-3662949.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+image: "https://images.pexels.com/photos/6849414/pexels-photo-6849414.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
 draft: false
 ---
 

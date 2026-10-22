@@ -110,7 +110,7 @@ Do it in the same fortnight as the bottle transition if you can. One wobbly week
 
 ## References
 
-- Centers for Disease Control and Prevention. "[Foods and Drinks for 6 to 24 Month Olds](https://www.cdc.gov/nutrition/infantandtoddlernutrition/foods-and-drinks/foods-and-drinks-6-to-24-months.html)."
+- Centers for Disease Control and Prevention. "[Foods and Drinks for 6 to 24 Month Olds](https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/index.html)."
 - American Academy of Pediatrics, HealthyChildren.org. "[Discontinuing the Bottle](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Discontinuing-the-Bottle.aspx)."
 - American Academy of Pediatrics, HealthyChildren.org. "[Sample One-Day Menu for an 8- to 12-Month-Old](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Sample-One-Day-Menu-for-an-8-to-12-Month-Old.aspx)."
 
