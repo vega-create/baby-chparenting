@@ -158,8 +158,8 @@ const articleSchema = {
           healthcare provider with any questions about your baby's health.
         </div>
 
-        {/* 廣告：文章結尾 */}
-        <AdSense slot="bottom" />
+        {/* 廣告：文章結尾（捲到附近才載入，見下方 script） */}
+        <div class="adsense-container my-8" data-ad-lazy="8916289459"></div>
 
         <AuthorBox name={author} url={authorUrl} />
 
@@ -180,26 +180,45 @@ const articleSchema = {
     </div>
   </article>
 
-  {/* 廣告：文章中段。Markdown 內文在 <slot /> 裡沒辦法直接插，載入後把廣告放在第 2 個 H2 前面（文章至少要有 3 個 H2 才放） */}
+  {/* 廣告：文章中段與結尾。
+      AdSense 對一開始就在畫面外的廣告框，會標成處理完但從來不去要廣告（2026-10-22 在 Chrome 實測：
+      開頭與側欄有填、中段與結尾永遠空白）。所以中段、結尾改成「捲到附近時才建立廣告框並送出」，
+      實測這樣會立刻填進來。中段放在第 2 個 H2 前面（文章至少要有 3 個 H2 才放）。
+      沒填到廣告的框用 CSS 收起來，不留空白。 */}
   {siteConfig.adsense.enabled && (
-    <script is:inline define:vars={{ client: siteConfig.adsense.client, slotId: "1271948163" }}>
-      (function () {
-        var h2s = document.querySelectorAll(".article-content h2");
-        if (h2s.length < 3) return;
-        var box = document.createElement("div");
-        box.className = "adsense-container my-8";
-        var ins = document.createElement("ins");
-        ins.className = "adsbygoogle";
-        ins.style.display = "block";
-        ins.setAttribute("data-ad-client", client);
-        ins.setAttribute("data-ad-slot", slotId);
-        ins.setAttribute("data-ad-format", "auto");
-        ins.setAttribute("data-full-width-responsive", "true");
-        box.appendChild(ins);
-        h2s[1].parentNode.insertBefore(box, h2s[1]);
-        (window.adsbygoogle = window.adsbygoogle || []).push({});
-      })();
-    </script>
+    <>
+      <style is:inline>{`ins.adsbygoogle[data-ad-status="unfilled"]{display:none!important}`}</style>
+      <script is:inline define:vars={{ client: siteConfig.adsense.client, midSlot: "1271948163" }}>
+        (function () {
+          var h2s = document.querySelectorAll(".article-content h2");
+          if (h2s.length >= 3) {
+            var mid = document.createElement("div");
+            mid.className = "adsense-container my-8";
+            mid.setAttribute("data-ad-lazy", midSlot);
+            h2s[1].parentNode.insertBefore(mid, h2s[1]);
+          }
+          function load(box) {
+            if (box.getAttribute("data-ad-loaded")) return;
+            box.setAttribute("data-ad-loaded", "1");
+            var ins = document.createElement("ins");
+            ins.className = "adsbygoogle";
+            ins.style.display = "block";
+            ins.setAttribute("data-ad-client", client);
+            ins.setAttribute("data-ad-slot", box.getAttribute("data-ad-lazy"));
+            ins.setAttribute("data-ad-format", "auto");
+            ins.setAttribute("data-full-width-responsive", "true");
+            box.appendChild(ins);
+            (window.adsbygoogle = window.adsbygoogle || []).push({});
+          }
+          var boxes = document.querySelectorAll("[data-ad-lazy]");
+          if (!("IntersectionObserver" in window)) { boxes.forEach(load); return; }
+          var io = new IntersectionObserver(function (entries) {
+            entries.forEach(function (en) { if (en.isIntersecting) { io.unobserve(en.target); load(en.target); } });
+          }, { rootMargin: "600px 0px" });
+          boxes.forEach(function (b) { io.observe(b); });
+        })();
+      </script>
+    </>
   )}
 
   <script
