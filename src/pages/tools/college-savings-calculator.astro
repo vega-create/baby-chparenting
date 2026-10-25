@@ -1,0 +1,143 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import AdSenseLazy from "../../components/AdSenseLazy.astro";
+import CollegeSavingsCalculator from "../../components/tools/CollegeSavingsCalculator.jsx";
+
+const title = "College Savings Calculator: What a 529 Could Grow To — Baby Care Guide";
+const description =
+  "See what saving a little each month from your baby's first year could grow into by age 18. Free 529 college savings calculator with a year-by-year table.";
+
+const faqs = [
+  {
+    q: "What is a 529 plan?",
+    a: "A 529 plan is a tax-advantaged savings account for education costs, sponsored by states. Money grows tax-deferred, and withdrawals are federal-tax-free when used for qualified education expenses such as tuition, fees, books, and room and board at eligible schools.",
+  },
+  {
+    q: "Do I have to use my own state's 529 plan?",
+    a: "No. You can open a 529 in almost any state. Some states offer a state income-tax deduction or credit only if you use their plan, so compare your home state's benefit against the fees and investment options elsewhere.",
+  },
+  {
+    q: "What if my child doesn't go to college?",
+    a: "You can change the beneficiary to another family member, use the money for trade schools, apprenticeships, or K–12 tuition (up to limits), or, under rules that took effect in 2024, roll over a limited amount to the beneficiary's Roth IRA if the account has been open long enough. Non-qualified withdrawals are taxed on the earnings portion plus a 10% penalty.",
+  },
+  {
+    q: "How much should I save each month?",
+    a: "There is no single right number. Many families start with whatever fits — even $50 a month — and raise it after daycare costs end. The calculator above shows how much the early years matter: money added at age 0 has 18 years to grow.",
+  },
+  {
+    q: "What return should I assume?",
+    a: "Nobody knows future returns. Age-based 529 portfolios shift from stocks to bonds as college nears, so a long-run average in the 5–7% range is a common planning assumption. Run the calculator with a low and a high number so you see the range, not one false-precision figure.",
+  },
+];
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+};
+---
+
+<ToolLayout
+  title={title}
+  description={description}
+  toolName="College Savings Calculator"
+  toolTagline="How a monthly habit started in the baby years grows by age 18"
+  icon="chart"
+  theme="green"
+  tipsHeading="Saving smarter"
+  tips={[
+    { title: "Start tiny, start now", desc: "$100 a month from birth at 6% is roughly $38,000 by 18. Time does most of the work.", icon: "star" },
+    { title: "Check your state's tax break", desc: "Many states give a deduction or credit for contributions to their own plan.", icon: "bulb" },
+    { title: "Grandparents can contribute", desc: "Most plans accept gifts from anyone — a birthday link beats another toy.", icon: "heart" },
+  ]}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <h1 class="mb-3">College Savings Calculator</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Enter your child's age, what you can put in today, and a monthly amount. The calculator projects the balance at
+    age 18 and shows how much comes from your deposits versus investment growth.
+  </p>
+
+  <CollegeSavingsCalculator client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">Why the baby years are the best time to start</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        Compound growth rewards time more than amount. A dollar saved when your baby is 6 months old can grow for 17 years
+        before tuition is due; the same dollar saved in middle school grows for 5. That is why a small automatic transfer
+        set up in the first year — even while you are paying for <a href="/tools/formula-cost-calculator/">formula and diapers</a>
+        — usually beats a bigger effort that starts later.
+      </p>
+      <p>
+        The calculator uses monthly compounding with deposits at the end of each month. Real accounts charge fees and real
+        markets do not return the same number every year, so treat the result as a planning range, not a promise.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">529 plan basics for new parents</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        A 529 is the most common college savings account in the US. Earnings grow tax-deferred, and withdrawals are free of
+        federal income tax when spent on qualified education expenses — tuition, mandatory fees, books, supplies, and room and
+        board for students enrolled at least half-time. Many states add their own income-tax deduction or credit for
+        contributions, usually only to that state's plan.
+      </p>
+      <p>
+        You can open an account before your baby has a Social Security number by naming yourself the beneficiary and changing
+        it later, or wait a few weeks until the number arrives. Anyone can contribute: grandparents, aunts, friends. Plans
+        typically offer age-based portfolios that automatically move from mostly stocks toward bonds as your child nears 18.
+      </p>
+      <p>
+        If plans change, the money is not lost. You can switch the beneficiary to a sibling or other family member, use funds
+        for trade or vocational programs, and under rules effective 2024, roll over a limited lifetime amount into the
+        beneficiary's Roth IRA once the account has been open for 15 years. Non-qualified withdrawals owe income tax on the
+        earnings plus a 10% federal penalty — your original contributions come back tax-free.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">Fitting college savings into a new-baby budget</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        Financial planners usually suggest this order: build a small emergency fund, capture any employer retirement match,
+        then start the 529. Your own retirement comes first because you cannot borrow for it — your child can borrow for
+        college. If cash is tight in year one, start with a token amount and schedule an increase for the month daycare ends.
+      </p>
+      <p>
+        Use the <a href="/tools/childcare-cost-calculator/">childcare cost calculator</a> to see what frees up when your child
+        starts school, and the <a href="/blog/baby-registry-must-haves-checklist/">registry checklist</a> to skip gear you will
+        not use — every $50 not spent on a wipe warmer is $50 that can grow for 18 years.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">Frequently asked questions</h2>
+    <div class="space-y-3">
+      {faqs.map((f) => (
+        <details class="card">
+          <summary class="font-bold text-[#1E3A5F] cursor-pointer">{f.q}</summary>
+          <p class="mt-3 leading-relaxed text-[#374151]">{f.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <div class="card text-sm text-[#6B7B91]">
+      <p class="font-semibold text-[#1E3A5F] mb-2">References</p>
+      <ul class="list-disc pl-5 space-y-1">
+        <li>Internal Revenue Service. "<a href="https://www.irs.gov/newsroom/529-plans-questions-and-answers" rel="noopener" target="_blank">529 Plans: Questions and Answers</a>."</li>
+        <li>U.S. Securities and Exchange Commission. "<a href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/introduction-529-plans-investor-bulletin" rel="noopener" target="_blank">An Introduction to 529 Plans</a>."</li>
+      </ul>
+      <p class="mt-3 italic">This calculator is for education and planning only and is not financial, tax, or investment advice. Tax rules change — confirm details with your plan or a tax professional.</p>
+    </div>
+  </section>
+
+  {/* wrapped in a div: a bare `slot=` attr on a direct child of ToolLayout would be treated as a named slot */}
+  <div class="mt-8"><AdSenseLazy unit="bottom" /></div>
+</ToolLayout>

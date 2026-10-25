@@ -1,0 +1,143 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import AdSenseLazy from "../../components/AdSenseLazy.astro";
+import ChildcareCostCalculator from "../../components/tools/ChildcareCostCalculator.jsx";
+
+const title = "Childcare Cost Calculator: Daycare vs Nanny vs Staying Home — Baby Care Guide";
+const description =
+  "Does going back to work pay after daycare, taxes, and commuting? Enter your numbers to see the real net gain from a second income — and what the math leaves out.";
+
+const faqs = [
+  {
+    q: "Should I compare childcare to my whole salary or just take-home pay?",
+    a: "Take-home pay. Childcare is paid from money that has already been taxed, so the fair comparison is net pay minus childcare and other work costs. This calculator subtracts the employee share of Social Security and Medicare (7.65%) plus the federal and state income-tax rates you enter.",
+  },
+  {
+    q: "What tax help is there for childcare costs?",
+    a: "Two main programs: the federal Child and Dependent Care Credit, claimed on your tax return for care that lets you work, and a dependent-care flexible spending account (FSA) through an employer, which lets you pay for care with pre-tax dollars. Rules, caps, and eligibility change, so check the IRS pages linked below or ask a tax professional.",
+  },
+  {
+    q: "Is a nanny or daycare cheaper?",
+    a: "It depends on where you live and how many children you have. A center is usually cheaper for one child; a nanny or nanny-share can become competitive with two or more. If you hire a nanny directly, you are a household employer and owe payroll taxes on top of wages — include them in the monthly figure.",
+  },
+  {
+    q: "The calculator says working barely pays. Should I quit?",
+    a: "Not on this number alone. The result is a one-year snapshot. Staying in the workforce usually protects future raises, retirement contributions and employer match, health insurance, and Social Security credits — and daycare costs fall sharply once a child starts school. Treat the calculator as one input, not the decision.",
+  },
+  {
+    q: "Why doesn't the calculator include average daycare prices?",
+    a: "Because prices vary enormously by state, city, and age of child, and published averages are quickly out of date. A real quote from two or three local providers gives a far more useful answer than a national figure.",
+  },
+];
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+};
+---
+
+<ToolLayout
+  title={title}
+  description={description}
+  toolName="Childcare Cost Calculator"
+  toolTagline="What a second income is really worth after daycare, taxes, and commuting"
+  icon="clipboard"
+  theme="yellow"
+  tipsHeading="Before you decide"
+  tips={[
+    { title: "Get real quotes", desc: "Call two or three local providers. Infant care is the most expensive age bracket almost everywhere.", icon: "bulb" },
+    { title: "Count the benefits", desc: "Health insurance, retirement match, and paid leave are income too, even if they never hit your checking account.", icon: "star" },
+    { title: "It's a phase", desc: "Infant care costs drop at preschool age and again at kindergarten. The hardest year is usually the first.", icon: "heart" },
+  ]}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <h1 class="mb-3">Childcare Cost Calculator</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Enter the second earner's salary, your tax rates, the childcare quote you were given, and the costs that only exist
+    because of work. The result is the real yearly gain from working — per month and per hour.
+  </p>
+
+  <ChildcareCostCalculator client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">How the calculation works</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        The calculator starts with the second earner's gross salary and removes the employee share of Social Security and
+        Medicare taxes (7.65%) plus the federal and state income-tax rates you enter. Use your <em>marginal</em> rates —
+        the bracket this income lands in on a joint return — because the second salary stacks on top of the first.
+      </p>
+      <p>
+        From that take-home figure it subtracts a year of childcare, commuting, and other work-only spending, then adds
+        back any childcare tax benefit. What is left is the amount working actually adds to the household in a year. Dividing
+        by 2,080 hours (a 40-hour week) gives the per-hour figure that often surprises people.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">Daycare, nanny, nanny-share, or family</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        <strong>Centers</strong> are licensed, have backup staff when a caregiver is sick, and usually cost the least for one
+        infant — but they close on holidays and send sick children home. <strong>In-home daycares</strong> are typically cheaper
+        than centers with smaller groups; check your state's licensing requirements. A <strong>nanny</strong> gives one-on-one
+        care at home and no commute to a center, at a higher price, and makes you a household employer responsible for
+        payroll taxes. A <strong>nanny-share</strong> with another family splits that cost. <strong>Grandparents or relatives</strong>
+        may be free or low-cost but deserve a clear conversation about hours, rules, and burnout.
+      </p>
+      <p>
+        Whichever you choose, start early: infant rooms often have waiting lists of several months, and many families put
+        their name down during pregnancy. Use the <a href="/blog/baby-feeding-schedule-by-age/">feeding schedule by age</a> to
+        prepare the caregiver's daily plan, and the <a href="/tools/bottle-calculator/">bottle calculator</a> to work out how much
+        milk to send.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">What the math leaves out</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        A one-year net-gain number ignores the things that compound. Staying employed preserves raises and promotions that
+        a multi-year gap can cost; keeps retirement contributions and any employer match flowing; maintains health insurance,
+        disability coverage, and paid leave; and keeps adding Social Security credits. Childcare costs also fall over time —
+        preschool is cheaper than infant care, and public kindergarten cuts the bill dramatically.
+      </p>
+      <p>
+        On the other side, the calculator cannot price the value of being home, the stress of two working parents with a
+        sick child, or a career that is not worth returning to. Run the numbers, then weigh them against what you actually
+        want. If staying home wins, the <a href="/tools/college-savings-calculator/">college savings calculator</a> and the
+        <a href="/tools/formula-cost-calculator/">formula and diaper cost calculator</a> can help you plan a one-income budget.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">Frequently asked questions</h2>
+    <div class="space-y-3">
+      {faqs.map((f) => (
+        <details class="card">
+          <summary class="font-bold text-[#1E3A5F] cursor-pointer">{f.q}</summary>
+          <p class="mt-3 leading-relaxed text-[#374151]">{f.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <div class="card text-sm text-[#6B7B91]">
+      <p class="font-semibold text-[#1E3A5F] mb-2">References</p>
+      <ul class="list-disc pl-5 space-y-1">
+        <li>Internal Revenue Service. "<a href="https://www.irs.gov/taxtopics/tc602" rel="noopener" target="_blank">Topic No. 602, Child and Dependent Care Credit</a>."</li>
+        <li>Internal Revenue Service. "<a href="https://www.irs.gov/publications/p503" rel="noopener" target="_blank">Publication 503, Child and Dependent Care Expenses</a>."</li>
+        <li>U.S. Bureau of Labor Statistics. "<a href="https://www.bls.gov/cex/" rel="noopener" target="_blank">Consumer Expenditure Surveys</a>."</li>
+      </ul>
+      <p class="mt-3 italic">Simplified estimate for planning only — not tax, legal, or financial advice.</p>
+    </div>
+  </section>
+
+  {/* wrapped in a div: a bare `slot=` attr on a direct child of ToolLayout would be treated as a named slot */}
+  <div class="mt-8"><AdSenseLazy unit="bottom" /></div>
+</ToolLayout>

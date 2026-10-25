@@ -1,0 +1,154 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import AdSenseLazy from "../../components/AdSenseLazy.astro";
+import BabyAgeCalculator from "../../components/tools/BabyAgeCalculator.jsx";
+
+const title = "Baby Age Calculator: Weeks, Months & Adjusted Age for Preemies — Baby Care Guide";
+const description =
+  "Work out exactly how old your baby is in days, weeks, and months — and the adjusted (corrected) age for a baby born early, the way pediatricians calculate it.";
+
+const faqs = [
+  {
+    q: "How do I calculate my baby's age in weeks?",
+    a: "Count the days from the date of birth to today and divide by 7. A baby born 45 days ago is 6 weeks and 3 days old. Pediatricians usually talk in weeks until about 3 months, then in months until age 2.",
+  },
+  {
+    q: "What is adjusted or corrected age?",
+    a: "Adjusted age is your baby's age counted from the original due date instead of the birth date. A baby born 8 weeks early who is 20 weeks old has an adjusted age of 12 weeks. The American Academy of Pediatrics recommends using adjusted age to judge growth and milestones for babies born before 37 weeks.",
+  },
+  {
+    q: "How long should I use adjusted age?",
+    a: "Most pediatricians use adjusted age until the child is about 2 years old. By then, most children born early have caught up, and actual age is used from that point on.",
+  },
+  {
+    q: "Why does my baby's age in months look different on different apps?",
+    a: "There are two common methods: calendar months (the same date next month) and 4-week 'months'. A 12-week-old baby is 2 months and roughly 3 weeks by the calendar, but '3 months' if you count 4-week blocks. This calculator uses calendar months, which is what doctors and growth charts use.",
+  },
+  {
+    q: "Do vaccines follow actual age or adjusted age?",
+    a: "Actual age. Babies born early get routine immunizations on the same schedule as full-term babies, counted from the day they were born, unless their doctor says otherwise.",
+  },
+];
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+};
+---
+
+<ToolLayout
+  title={title}
+  description={description}
+  toolName="Baby Age Calculator"
+  toolTagline="Days, weeks, months — plus adjusted age for babies born early"
+  icon="timer"
+  theme="blue"
+  tipsHeading="Good to know"
+  tips={[
+    { title: "Weeks until 3 months", desc: "Doctors count a newborn's age in weeks. 'Two months' usually means 8 weeks, not 60 days.", icon: "bulb" },
+    { title: "Milestones use adjusted age", desc: "If your baby was born early, compare milestones to adjusted age, not birth age, until age 2.", icon: "star" },
+    { title: "Vaccines use birth age", desc: "The immunization schedule starts from the day of birth, even for preemies.", icon: "heart" },
+  ]}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <h1 class="mb-3">Baby Age Calculator</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Enter your baby's birth date to see their exact age in days, weeks, and calendar months.
+    Tick the box if your baby was born early to get the adjusted age pediatricians use for milestones.
+  </p>
+
+  <BabyAgeCalculator client:load />
+
+  <section class="mt-12 prose-section">
+    <h2 class="mb-4">How baby age is counted (and why it gets confusing)</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        For the first few months, everyone — your pediatrician, the growth chart, the sleep books — counts a baby's age in
+        <strong>weeks</strong>. After about 3 months the unit switches to <strong>calendar months</strong>: a baby born on March 10
+        turns 1 month on April 10 and 2 months on May 10, no matter how many days those months have.
+      </p>
+      <p>
+        The confusion starts when apps count "months" as 4-week blocks. By that method a 12-week-old is "3 months", while by the
+        calendar the same baby is only 2 months and about 3 weeks. Growth charts, vaccine schedules, and the
+        <a href="/blog/baby-developmental-milestones-month-by-month/">month-by-month milestone guide</a> all use calendar months,
+        so that is what this calculator shows.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">Adjusted age for babies born early</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        A baby born at 32 weeks has had 8 fewer weeks to develop than a baby born at 40 weeks. To compare growth and milestones
+        fairly, pediatricians use <strong>adjusted age</strong> (also called corrected age): the baby's age counted from the
+        original due date rather than the birth date.
+      </p>
+      <p>
+        The math is simple. Subtract the weeks your baby was early from their actual age. Born at 32 weeks and now 20 weeks old?
+        40 − 32 = 8 weeks early, so adjusted age is 20 − 8 = <strong>12 weeks</strong>. If your baby is younger than the number of
+        weeks they were early, their adjusted age has not reached zero yet — they have not hit their original due date.
+      </p>
+      <p>
+        The American Academy of Pediatrics recommends using adjusted age for babies born before 37 weeks when looking at
+        milestones and growth, usually until about 2 years of age. After that, most children born early have caught up and
+        doctors switch back to actual age. Our guide to
+        <a href="/blog/premature-baby-development-adjusted-age/">premature baby milestones by adjusted age</a> walks through what
+        to expect at each stage.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">What uses actual age, and what uses adjusted age</h2>
+    <div class="card leading-relaxed">
+      <table class="w-full text-sm">
+        <thead>
+          <tr class="text-left border-b border-blue-100">
+            <th class="py-2 font-semibold">Situation</th>
+            <th class="py-2 font-semibold">Which age to use</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="border-b border-blue-50"><td class="py-2">Developmental milestones (rolling, sitting, first words)</td><td class="py-2 font-semibold">Adjusted age until ~2 years</td></tr>
+          <tr class="border-b border-blue-50"><td class="py-2">Growth charts</td><td class="py-2 font-semibold">Adjusted age (most charts, until 2–3 years)</td></tr>
+          <tr class="border-b border-blue-50"><td class="py-2">Immunization schedule</td><td class="py-2 font-semibold">Actual age</td></tr>
+          <tr class="border-b border-blue-50"><td class="py-2">Starting solids</td><td class="py-2 font-semibold">Adjusted age plus readiness signs</td></tr>
+          <tr><td class="py-2">Birthday party</td><td class="py-2 font-semibold">Actual age, of course 🎂</td></tr>
+        </tbody>
+      </table>
+      <p class="mt-4">
+        Check your baby's readiness with the <a href="/tools/solids-readiness/">solids readiness quiz</a> and track milestones with the
+        <a href="/tools/milestone-checker/">milestone checker</a>. For immunization timing, see the
+        <a href="/blog/baby-vaccination-schedule-2026/">vaccination schedule</a>.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">Frequently asked questions</h2>
+    <div class="space-y-3">
+      {faqs.map((f) => (
+        <details class="card">
+          <summary class="font-bold text-[#1E3A5F] cursor-pointer">{f.q}</summary>
+          <p class="mt-3 leading-relaxed text-[#374151]">{f.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <div class="card text-sm text-[#6B7B91]">
+      <p class="font-semibold text-[#1E3A5F] mb-2">References</p>
+      <ul class="list-disc pl-5 space-y-1">
+        <li>American Academy of Pediatrics, HealthyChildren.org. "<a href="https://www.healthychildren.org/English/ages-stages/baby/preemie/Pages/Corrected-Age-For-Preemies.aspx" rel="noopener" target="_blank">Corrected Age for Preemies</a>."</li>
+        <li>Centers for Disease Control and Prevention. "<a href="https://www.cdc.gov/act-early/milestones/index.html" rel="noopener" target="_blank">CDC's Developmental Milestones</a>."</li>
+      </ul>
+      <p class="mt-3 italic">This tool is for information only and is not medical advice. Talk with your pediatrician about your baby's growth and development.</p>
+    </div>
+  </section>
+
+  {/* wrapped in a div: a bare `slot=` attr on a direct child of ToolLayout would be treated as a named slot */}
+  <div class="mt-8"><AdSenseLazy unit="bottom" /></div>
+</ToolLayout>

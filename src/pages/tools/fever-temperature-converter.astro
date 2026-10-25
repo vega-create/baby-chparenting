@@ -1,0 +1,140 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import AdSenseLazy from "../../components/AdSenseLazy.astro";
+import FeverTemperatureConverter from "../../components/tools/FeverTemperatureConverter.jsx";
+
+const title = "Baby Fever Temperature Converter (°F ↔ °C) with Age Guide — Baby Care Guide";
+const description =
+  "Convert your baby's temperature between Fahrenheit and Celsius instantly and see whether it counts as a fever for their age, based on AAP guidance on when to call the pediatrician.";
+
+const faqs = [
+  {
+    q: "What temperature is a fever in a baby?",
+    a: "A temperature of 100.4°F (38°C) or higher is considered a fever. Normal body temperature varies through the day, and readings differ slightly by method — a rectal reading is the most accurate for infants.",
+  },
+  {
+    q: "My baby is under 3 months and has 100.4°F. What should I do?",
+    a: "Call your pediatrician right away. In babies younger than 3 months, any fever of 100.4°F (38°C) or higher needs to be evaluated promptly, even if your baby seems comfortable, because young infants can have serious infections with few other signs.",
+  },
+  {
+    q: "How do I convert Fahrenheit to Celsius?",
+    a: "Subtract 32, then multiply by 5/9. So 100.4°F − 32 = 68.4, × 5/9 = 38°C. To go the other way, multiply Celsius by 9/5 and add 32: 39°C × 9/5 = 70.2, + 32 = 102.2°F.",
+  },
+  {
+    q: "Does a higher number mean a more serious illness?",
+    a: "Not necessarily. How your baby looks and behaves — drinking, waking, breathing comfortably, making wet diapers — tells you more than the exact number. Call for any fever with trouble breathing, a rash, a stiff neck, repeated vomiting, unusual drowsiness, a seizure, or if you are worried.",
+  },
+  {
+    q: "Which thermometer should I use for a baby?",
+    a: "The AAP recommends a digital rectal thermometer for the most accurate reading in babies and young children. Forehead (temporal artery) thermometers are a reasonable alternative; ear thermometers are not accurate under 6 months. Never use a mercury thermometer.",
+  },
+];
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+};
+---
+
+<ToolLayout
+  title={title}
+  description={description}
+  toolName="Fever Temperature Converter"
+  toolTagline="°F to °C in a tap, plus what the number means for your baby's age"
+  icon="heart"
+  theme="pink"
+  tipsHeading="Taking a baby's temperature"
+  tips={[
+    { title: "Rectal is most accurate", desc: "For babies, a digital rectal reading is the standard. Clean the tip and insert only about half an inch.", icon: "bulb" },
+    { title: "Look at the baby, not just the number", desc: "Drinking, wet diapers, alertness, and breathing matter more than a decimal point.", icon: "heart" },
+    { title: "Under 3 months is different", desc: "Any fever of 100.4°F or more in a young infant means a call to the pediatrician right away.", icon: "star" },
+  ]}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <h1 class="mb-3">Baby Fever Temperature Converter</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Type the reading from your thermometer in °F or °C. The converter shows both scales and, based on your baby's
+    age, whether the number is a fever and when it is time to call the pediatrician.
+  </p>
+
+  <FeverTemperatureConverter client:load />
+
+  <section class="mt-12">
+    <h2 class="mb-4">What counts as a fever</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        A fever is a temperature of <strong>100.4°F (38°C) or higher</strong>. The familiar "normal" of 98.6°F (37°C) is only an
+        average; healthy babies run a little cooler in the morning and warmer in the evening, and readings from the armpit
+        or forehead are slightly different from a rectal reading. Fever itself is not an illness — it is the body's
+        response to infection, and in most babies over 3 months it is uncomfortable rather than dangerous.
+      </p>
+      <p>
+        Thermometers sold in the US usually read in Fahrenheit, while many apps, pediatric references, and relatives abroad
+        use Celsius. The conversion is °C = (°F − 32) × 5/9. The landmarks worth remembering: 100.4°F = 38°C, 102°F ≈ 38.9°C,
+        104°F = 40°C.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">When to call the pediatrician, by age</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        <strong>Younger than 3 months:</strong> call right away for any temperature of 100.4°F (38°C) or higher, even if your
+        baby seems fine. Young infants' immune systems are immature and a fever can be the only sign of a serious infection.
+        Do not give fever medicine before the doctor has seen your baby unless told to.
+      </p>
+      <p>
+        <strong>3 months and older:</strong> the number matters less than how your baby looks and acts. Call if the fever
+        lasts more than 24 hours in a child under 2, if it climbs very high, or if it comes with any warning sign — difficulty
+        breathing, a rash, a stiff neck, repeated vomiting, refusing fluids with few wet diapers, unusual sleepiness or
+        irritability, or a seizure. Our article on <a href="/blog/baby-first-fever-when-to-worry/">baby's first fever</a>
+        walks through comfort measures, medicine dosing by weight, and what to tell the doctor.
+      </p>
+      <p>
+        Fever is common after routine shots, usually mild, and typically settles within a day or two — see the
+        <a href="/blog/baby-vaccination-schedule-2026/">vaccination schedule</a> for what to expect after each visit. A fever
+        with a runny nose, cough, and wheezing in the colder months may be <a href="/blog/rsv-in-babies-symptoms-prevention/">RSV</a>.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">Getting an accurate reading</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        For babies and young children, the American Academy of Pediatrics recommends a <strong>digital rectal thermometer</strong>.
+        Temporal artery (forehead) thermometers are an acceptable alternative; tympanic (ear) thermometers are not reliable
+        under 6 months, and armpit readings run low and are best used only for screening. Wait 15 minutes after a bath or a
+        bottle, and write down the reading, the time, and the method before you call the office.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">Frequently asked questions</h2>
+    <div class="space-y-3">
+      {faqs.map((f) => (
+        <details class="card">
+          <summary class="font-bold text-[#1E3A5F] cursor-pointer">{f.q}</summary>
+          <p class="mt-3 leading-relaxed text-[#374151]">{f.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <div class="card text-sm text-[#6B7B91]">
+      <p class="font-semibold text-[#1E3A5F] mb-2">References</p>
+      <ul class="list-disc pl-5 space-y-1">
+        <li>American Academy of Pediatrics, HealthyChildren.org. "<a href="https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/When-to-Call-the-Pediatrician.aspx" rel="noopener" target="_blank">Fever: When to Call the Pediatrician</a>."</li>
+        <li>American Academy of Pediatrics, HealthyChildren.org. "<a href="https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/How-to-Take-a-Childs-Temperature.aspx" rel="noopener" target="_blank">How to Take a Child's Temperature</a>."</li>
+      </ul>
+      <p class="mt-3 italic">Informational only, not medical advice. If you are worried about your baby, call your pediatrician — day or night.</p>
+    </div>
+  </section>
+
+  {/* wrapped in a div: a bare `slot=` attr on a direct child of ToolLayout would be treated as a named slot */}
+  <div class="mt-8"><AdSenseLazy unit="bottom" /></div>
+</ToolLayout>

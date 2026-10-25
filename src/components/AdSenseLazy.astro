@@ -1,0 +1,65 @@
+---
+/**
+ * 延遲載入的 AdSense 版位：進入畫面才建立 <ins> 並 push。
+ * AdSense 只對 push 當下在視窗內的單元送請求，畫面外先 push 的永遠不會補請求，
+ * 所以工具頁下方這種一開始在畫面外的版位要用這個，而不是 AdSense.astro。
+ * 注意：prop 名稱用 unit 而不是 slot（slot 會被 Astro 當成具名 slot 吃掉）。
+ */
+import { siteConfig } from "../../site.config";
+
+interface Props {
+  unit?: "top" | "mid" | "bottom" | "tool-top";
+  class?: string;
+}
+const { unit = "bottom", class: cls = "my-8" } = Astro.props;
+const { client, enabled } = siteConfig.adsense;
+const slotIds: Record<string, string> = {
+  "top": "1880333153",
+  "mid": "1271948163",
+  "bottom": "8916289459",
+  "tool-top": "9647142537",
+};
+const slotId = slotIds[unit];
+---
+
+{enabled && client && slotId && (
+  <div class={`adsense-container ${cls}`} data-ad-lazy-unit={slotId} data-ad-client={client} style="min-height:1px"></div>
+)}
+
+<style is:inline>{`ins.adsbygoogle[data-ad-status="unfilled"]{display:none!important}`}</style>
+
+<script is:inline>
+  (function () {
+    if (window.__adLazyUnitInit) return;
+    window.__adLazyUnitInit = true;
+    function load(box) {
+      if (box.getAttribute("data-ad-loaded")) return;
+      box.setAttribute("data-ad-loaded", "1");
+      var ins = document.createElement("ins");
+      ins.className = "adsbygoogle";
+      ins.style.display = "block";
+      ins.setAttribute("data-ad-client", box.getAttribute("data-ad-client"));
+      ins.setAttribute("data-ad-slot", box.getAttribute("data-ad-lazy-unit"));
+      ins.setAttribute("data-ad-format", "auto");
+      ins.setAttribute("data-full-width-responsive", "true");
+      box.appendChild(ins);
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    }
+    function run() {
+      var boxes = Array.prototype.slice.call(document.querySelectorAll("[data-ad-lazy-unit]"));
+      if (!boxes.length) return;
+      function inView(b) { var r = b.getBoundingClientRect(); return r.bottom > 0 && r.top < window.innerHeight; }
+      function check() { boxes.forEach(function (b) { if (!b.getAttribute("data-ad-loaded") && inView(b)) load(b); }); }
+      if ("IntersectionObserver" in window) {
+        var io = new IntersectionObserver(function (entries) {
+          entries.forEach(function (e) { if (e.isIntersecting) { load(e.target); io.unobserve(e.target); } });
+        }, { rootMargin: "0px" });
+        boxes.forEach(function (b) { io.observe(b); });
+      }
+      var t = null;
+      window.addEventListener("scroll", function () { if (t) return; t = setTimeout(function () { t = null; check(); }, 200); }, { passive: true });
+      check();
+    }
+    if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", run); else run();
+  })();
+</script>
