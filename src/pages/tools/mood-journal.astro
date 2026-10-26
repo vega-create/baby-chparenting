@@ -1,0 +1,94 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import AdSenseLazy from "../../components/AdSenseLazy.astro";
+import MoodJournal from "../../components/tools/MoodJournal.jsx";
+
+const title = "One-Minute Mood Journal for Moms: Track 30 Days, See the Pattern — Baby Care Guide";
+const description =
+  "A private, one-minute mood journal for moms: pick how today felt, add one line, and watch a 30-day trend build. Saved only on your device. Patterns are easier to fix than vague bad feelings.";
+
+const faqs = [
+  { q: "Where is my journal stored?", a: "Only in your browser on this device, using local storage. Nothing is uploaded or shared. If you clear your browser data or switch devices, the entries won't follow you. Use 'Clear all entries' to delete everything on purpose." },
+  { q: "Why only one line?", a: "Because you'll actually do it. Long journaling is wonderful and nobody with a baby keeps it up. One mood tap and one sentence takes under a minute, and thirty of those in a row tell you more than a single long entry." },
+  { q: "What should I write?", a: "What happened, what you needed, and one thing that was yours today. If you're tracking triggers for anger or overwhelm, note the time of day and how you slept; those two details reveal most patterns within a week." },
+  { q: "What if my average is low for weeks?", a: "A run of rough days during a growth spurt or a sleep regression is normal. A month that's mostly 'awful' or 'rough', especially with sleep trouble when the baby sleeps, numbness, or hopelessness, is a reason to talk with your doctor. In the US you can also call or text 988 or the National Maternal Mental Health Hotline at 1-833-852-6262." },
+];
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+};
+---
+
+<ToolLayout
+  title={title}
+  description={description}
+  toolName="Mood Journal"
+  toolTagline="One tap, one line, and a 30-day trend that's only for you"
+  icon="clipboard"
+  theme="green"
+  tipsHeading="Tips"
+  tips={[
+    { title: "Same time every day", desc: "Right after bedtime works for most moms. Attach it to a trigger you already have.", icon: "moon" },
+    { title: "Note the time and the sleep", desc: "The two details that reveal most patterns within a week.", icon: "bulb" },
+    { title: "Read it back monthly", desc: "The trend is the point. Single days lie; thirty days don't.", icon: "star" },
+  ]}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <h1 class="mb-3">One-Minute Mood Journal</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Tap how today felt, add a line if you want, and get a small, honest reply. Your last 30 days build into a trend you can actually see.
+  </p>
+
+  <MoodJournal client:load />
+
+  <section class="mt-12 prose-section">
+    <h2 class="mb-4">Why tracking beats remembering</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        Tired brains remember the worst day and call it the whole month. A thirty-day strip of moods shows what's actually true: three rough days after the sleep regression, a bad run every Thursday (daycare pickup plus late dinner), a slow climb after you started walking at lunch. Patterns are fixable. "I always feel terrible" isn't.
+      </p>
+      <p>
+        It's also the simplest way to check whether a change is working. Started the <a href="/tools/breathing-exercise/">breathing exercise</a>, moved bedtime earlier with the <a href="/tools/bedtime-calculator/">bedtime calculator</a>, handed off the dishes? Two weeks of entries will tell you whether it mattered.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">What to look for in your trend</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <ul class="list-disc pl-5 space-y-2">
+        <li><strong>Dips tied to sleep.</strong> If rough days follow bad nights, the fix is sleep, not willpower. Our <a href="/blog/baby-wakes-every-hour/">guide to babies who wake every hour</a> is the place to start.</li>
+        <li><strong>Dips tied to a time of day.</strong> Most moms have one trigger hour. The <a href="/blog/how-to-stay-calm-with-kids/">stay-calm system</a> is built around fixing that hour structurally.</li>
+        <li><strong>A slow slide with no obvious cause.</strong> Worth a look at <a href="/blog/stay-at-home-mom-burnout/">burnout</a>, and if it's been more than two weeks of mostly low days, worth a conversation with your doctor.</li>
+        <li><strong>Good days you can explain.</strong> Those explanations are your real self-care list. The <a href="/blog/self-care-for-moms-that-actually-fits/">self-care article</a> helps you make them repeatable.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">Frequently asked questions</h2>
+    <div class="space-y-3">
+      {faqs.map((f) => (
+        <details class="card">
+          <summary class="font-bold text-[#1E3A5F] cursor-pointer">{f.q}</summary>
+          <p class="mt-3 leading-relaxed text-[#374151]">{f.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <div class="card text-sm text-[#6B7B91]">
+      <p class="font-semibold text-[#1E3A5F] mb-2">References</p>
+      <ul class="list-disc pl-5 space-y-1">
+        <li>National Institute of Mental Health. "<a href="https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health" rel="noopener" target="_blank">Caring for Your Mental Health</a>."</li>
+        <li>Health Resources and Services Administration. "<a href="https://mchb.hrsa.gov/programs-impact/national-maternal-mental-health-hotline" rel="noopener" target="_blank">National Maternal Mental Health Hotline</a>."</li>
+      </ul>
+      <p class="mt-3 italic">This journal is a self-reflection tool, not mental health care. If you're struggling, please talk with your healthcare provider.</p>
+    </div>
+  </section>
+
+  <div class="mt-8"><AdSenseLazy unit="bottom" /></div>
+</ToolLayout>

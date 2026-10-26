@@ -1,0 +1,102 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import AdSenseLazy from "../../components/AdSenseLazy.astro";
+import MomTypeQuiz from "../../components/tools/MomTypeQuiz.jsx";
+
+const title = "Which Kind of Mom Are You? A 5-Question Quiz (Superhero, Planner, Free Spirit, Zen, Hustler) — Baby Care Guide";
+const description =
+  "A quick, kind, five-question quiz: are you the Superhero, the Planner, the Free Spirit, the Zen Mom, or the Hustler? Get your type, one honest assignment for your week, and a shareable card.";
+
+const faqs = [
+  { q: "Is this a real personality test?", a: "No. It's five questions and a bit of fun, with one useful idea attached to each result: the thing each type tends to neglect. Take the assignment seriously and the quiz lightly." },
+  { q: "I'm clearly two types. Which one wins?", a: "The one you picked most often. Ties go to the first type you chose. Honestly, most of us are two of these before breakfast and a third by bedtime, so read both results and take whichever assignment stings a little more." },
+  { q: "Can I share my result?", a: "Yes. Download the card and post it, or use Share on your phone to send it straight to a friend. The best use of this quiz is sending it to the mom you're always comparing yourself to and finding out she's a different type with her own blind spot." },
+  { q: "What's the point of the 'assignment'?", a: "Each type runs out of the same thing: the Superhero won't hand anything off, the Planner can't tolerate an unplanned hour, the Free Spirit has no floor, the Zen Mom goes quiet instead of asking, the Hustler skips sleep. The assignment is the one small thing that type tends to need most." },
+];
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+};
+---
+
+<ToolLayout
+  title={title}
+  description={description}
+  toolName="Mom Type Quiz"
+  toolTagline="Five questions, one honest assignment, and a card to share"
+  icon="star"
+  theme="purple"
+  tipsHeading="For fun, mostly"
+  tips={[
+    { title: "Go with your first answer", desc: "The honest one, not the one you'd want on the card.", icon: "bulb" },
+    { title: "Take the assignment", desc: "Each type has one blind spot. That's the useful part.", icon: "star" },
+    { title: "Send it to a friend", desc: "Compare results. It's a better conversation than sleep schedules.", icon: "heart" },
+  ]}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <h1 class="mb-3">Which Kind of Mom Are You?</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Five quick scenarios from a real day. Pick the answer that's closest to what you'd actually do, not what you wish you'd do.
+  </p>
+
+  <MomTypeQuiz client:load />
+
+  <section class="mt-12 prose-section">
+    <h2 class="mb-4">The five types, and what each one runs out of</h2>
+    <div class="card leading-relaxed">
+      <table class="w-full text-sm">
+        <thead>
+          <tr class="text-left border-b border-blue-100">
+            <th class="py-2 font-semibold">Type</th>
+            <th class="py-2 font-semibold">Superpower</th>
+            <th class="py-2 font-semibold">Runs out of</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="border-b border-blue-50"><td class="py-2">🦸‍♀️ Superhero</td><td class="py-2">Notices and fixes everything</td><td class="py-2">Help she'll accept</td></tr>
+          <tr class="border-b border-blue-50"><td class="py-2">📋 Planner</td><td class="py-2">A day that runs</td><td class="py-2">Tolerance for the unplanned</td></tr>
+          <tr class="border-b border-blue-50"><td class="py-2">🌿 Free Spirit</td><td class="py-2">Wonder and flexibility</td><td class="py-2">A floor to land on</td></tr>
+          <tr class="border-b border-blue-50"><td class="py-2">🧘‍♀️ Zen Mom</td><td class="py-2">Calm in the room</td><td class="py-2">Saying the un-calm thing</td></tr>
+          <tr><td class="py-2">⚡ Hustler</td><td class="py-2">Momentum</td><td class="py-2">Sleep</td></tr>
+        </tbody>
+      </table>
+      <p class="mt-4">
+        Whichever you are, the shared blind spot is rest. The <a href="/blog/self-care-for-moms-that-actually-fits/">self-care list that actually fits</a> and the <a href="/tools/me-time-calculator/">me-time calculator</a> are the next stop for all five.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">A lighter five minutes, on purpose</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        Not everything on the Mom Wellness shelf has to be heavy. If you've just read about <a href="/blog/mom-rage-why-it-happens-and-what-helps/">mom rage</a> or <a href="/blog/postpartum-body-image/">postpartum body image</a>, this quiz is the palate cleanser. Send the result to the group chat; someone will disagree with their type, and that's the fun part.
+      </p>
+      <p>
+        For the daily version of a small lift, the <a href="/tools/daily-affirmation-for-moms/">daily affirmation card</a> changes every day and shares the same way.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">Frequently asked questions</h2>
+    <div class="space-y-3">
+      {faqs.map((f) => (
+        <details class="card">
+          <summary class="font-bold text-[#1E3A5F] cursor-pointer">{f.q}</summary>
+          <p class="mt-3 leading-relaxed text-[#374151]">{f.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <div class="card text-sm text-[#6B7B91]">
+      <p class="italic">This quiz is for entertainment and gentle self-reflection. It isn't a psychological assessment.</p>
+    </div>
+  </section>
+
+  <div class="mt-8"><AdSenseLazy unit="bottom" /></div>
+</ToolLayout>

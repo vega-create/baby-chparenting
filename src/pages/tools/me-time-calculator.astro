@@ -1,0 +1,94 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import AdSenseLazy from "../../components/AdSenseLazy.astro";
+import MeTimeCalculator from "../../components/tools/MeTimeCalculator.jsx";
+
+const title = "Me-Time Calculator for Moms: How Much of Your Day Is Actually Yours? — Baby Care Guide";
+const description =
+  "Enter a typical day — sleep, childcare, housework, work — and see exactly how many hours are yours, plus three specific ways to find 15 minutes. Most moms are surprised by the number.";
+
+const faqs = [
+  { q: "What counts as 'me time'?", a: "Time you choose how to spend, where no one needs anything from you. Scrolling while the baby naps counts if it refills you; it usually doesn't. Dishes done 'in peace' don't count. The calculator shows the raw hours left; whether they're truly yours is the second question." },
+  { q: "My total is over 24 hours. Is the calculator broken?", a: "No, you are doing two things at once for part of the day: childcare while cooking, work during naps. That overlap is real and exhausting. Try assigning each shared hour to one category and recalculating; the result will be more honest about how little slack you have." },
+  { q: "Is one or two hours a day normal?", a: "There's no official number, and it varies with the baby's age, work, and support. What matters more is whether the hours exist in a usable block and whether you actually use them for yourself. Fifteen protected minutes beats two scattered hours that vanish." },
+  { q: "How do I get more?", a: "Three levers: overlap the kids' naps or quiet time, drop standards that aren't yours (dinners, floors), and make a specific recurring ask of a partner, grandparent, or neighbor. The suggestions under your result are tailored to where your hours are going." },
+];
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+};
+---
+
+<ToolLayout
+  title={title}
+  description={description}
+  toolName="Me-Time Calculator"
+  toolTagline="See where your 24 hours go and where 15 minutes can come from"
+  icon="timer"
+  theme="yellow"
+  tipsHeading="Be honest"
+  tips={[
+    { title: "Count real sleep", desc: "Broken sleep counts for what you got, not the hours you were in bed.", icon: "moon" },
+    { title: "Childcare means hands-on", desc: "Feeding, soothing, bath, bedtime, school runs. Supervising at the park counts.", icon: "heart" },
+    { title: "Show a partner the result", desc: "A number is harder to argue with than 'I need more help'.", icon: "bulb" },
+  ]}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <h1 class="mb-3">Me-Time Calculator</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Fill in a typical weekday and see how many hours belong to you. Then get three concrete ways to find fifteen minutes based on where your time actually goes.
+  </p>
+
+  <MeTimeCalculator client:load />
+
+  <section class="mt-12 prose-section">
+    <h2 class="mb-4">Why seeing the number matters</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        Most mothers can't say how much of their day is theirs because the day doesn't have edges. Childcare bleeds into housework bleeds into bedtime bleeds into the dishes. Adding it up turns a vague sense of "I never get a break" into a number, and numbers do two things: they make the problem real to the people you live with, and they show you where the slack is hiding.
+      </p>
+      <p>
+        The result is usually one of two surprises. Either the hours that are "yours" are far fewer than you'd assumed, which explains the <a href="/blog/stay-at-home-mom-burnout/">burnout</a>, or there are more than you thought and they're disappearing into scrolling and chores, which is fixable tonight.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">Turning minutes into something that refills you</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        Once you know where fifteen minutes can come from, spend them on purpose. The <a href="/blog/self-care-for-moms-that-actually-fits/">self-care list sorted by 2, 10, and 30 minutes</a> is built for exactly these gaps. If you're not sure what would help, the <a href="/blog/losing-yourself-in-motherhood/">losing yourself in motherhood</a> article has a 30-day plan that starts with ten minutes a day.
+      </p>
+      <p>
+        If the honest number is close to zero and there's a partner in the picture, this is the conversation to have, with the result on the screen: not "I need more help" but "here is my day; which hour can be mine." If there isn't a partner, the levers are the naps, the standards, and one specific ask of someone nearby. The <a href="/tools/bedtime-calculator/">bedtime calculator</a> can help line up the kids' sleep so a block appears.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">Frequently asked questions</h2>
+    <div class="space-y-3">
+      {faqs.map((f) => (
+        <details class="card">
+          <summary class="font-bold text-[#1E3A5F] cursor-pointer">{f.q}</summary>
+          <p class="mt-3 leading-relaxed text-[#374151]">{f.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <div class="card text-sm text-[#6B7B91]">
+      <p class="font-semibold text-[#1E3A5F] mb-2">References</p>
+      <ul class="list-disc pl-5 space-y-1">
+        <li>National Heart, Lung, and Blood Institute. "<a href="https://www.nhlbi.nih.gov/health/sleep-deprivation" rel="noopener" target="_blank">Sleep Deprivation and Deficiency</a>."</li>
+        <li>American Psychological Association. "<a href="https://www.apa.org/topics/stress" rel="noopener" target="_blank">Stress</a>."</li>
+      </ul>
+      <p class="mt-3 italic">This calculator is for self-reflection and planning. It isn't medical advice.</p>
+    </div>
+  </section>
+
+  <div class="mt-8"><AdSenseLazy unit="bottom" /></div>
+</ToolLayout>

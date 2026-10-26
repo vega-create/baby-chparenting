@@ -1,0 +1,97 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import AdSenseLazy from "../../components/AdSenseLazy.astro";
+import DailyAffirmation from "../../components/tools/DailyAffirmation.jsx";
+
+const title = "Daily Affirmation for Moms: One Honest Sentence a Day (Free Shareable Card) — Baby Care Guide";
+const description =
+  "A new affirmation for moms every day — honest, not saccharine — with a free downloadable card you can save, set as a lock screen, or share with a friend having the same kind of day.";
+
+const faqs = [
+  { q: "Do affirmations actually do anything?", a: "On their own, they won't change your circumstances. What a short, true sentence can do is interrupt a spiral of self-criticism for a moment and remind you of a standard that's fairer than the one in your head. Used daily, at the same rough time, it becomes a small ritual of self-respect, which is more useful than it sounds at 3 a.m." },
+  { q: "Why aren't these the usual 'I am a wonderful mother' affirmations?", a: "Because many tired moms can't say those without rolling their eyes. The sentences here are about permission (to rest, to have needs, to be imperfect) rather than praise, which is what most of us are actually short on." },
+  { q: "How is the daily sentence chosen?", a: "It's fixed by the date, so everyone sees the same one on the same day and it changes at midnight in your time zone. 'Another one' shows a random sentence from the full set, and 'Back to today' returns to the date's affirmation." },
+  { q: "Can I use the cards on social media?", a: "Yes. Download the card and post it, or use Share on your phone to send it directly. The cards include the site name in small text; leaving it on is appreciated but not required." },
+];
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+};
+---
+
+<ToolLayout
+  title={title}
+  description={description}
+  toolName="Daily Affirmation"
+  toolTagline="One honest sentence a day, with a card you can save or share"
+  icon="heart"
+  theme="pink"
+  tipsHeading="How to use it"
+  tips={[
+    { title: "Read it at your worst hour", desc: "Set the card as your lock screen so it's there at 3 a.m. and 5 p.m.", icon: "star" },
+    { title: "Say it out loud", desc: "A sentence spoken before you react buys a breath. One breath is often enough.", icon: "heart" },
+    { title: "Send it to a friend", desc: "The friend who texted 'I can't today' needs this more than advice.", icon: "bulb" },
+  ]}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <h1 class="mb-3">Daily Affirmation for Moms</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    A new sentence every day, written for tired mothers rather than perfect ones. Download the card, copy the text, or share it straight from your phone.
+  </p>
+
+  <DailyAffirmation client:load />
+
+  <section class="mt-12 prose-section">
+    <h2 class="mb-4">Why one sentence a day</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        Most of the running commentary in a mother's head is a list of what went wrong: the yell, the screen time, the dinner that was cereal. A daily affirmation doesn't argue with that list. It adds one sentence to it that's kinder and, usually, more accurate. Over weeks, the kinder sentence starts to show up on its own.
+      </p>
+      <p>
+        The 64 sentences here are original to this site and deliberately avoid the greeting-card register. They're about permission: to rest without earning it, to have needs in front of your children, to lower a standard, to miss the person you were. If you want the longer version of that idea, read
+        <a href="/blog/mom-quotes-for-hard-days/">30 mom quotes for hard days</a> and
+        <a href="/blog/losing-yourself-in-motherhood/">losing yourself in motherhood</a>.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">Making it a habit that survives real life</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        Attach it to a trigger you already have. The coffee brewing. The baby's first nap. The minute after the last bedtime book. Read the sentence, say it once, move on. If you keep a
+        <a href="/tools/mood-journal/">mood journal</a>, note which sentences landed; the ones that do are the ones to keep on the fridge.
+      </p>
+      <p>
+        On the days a sentence isn't enough (and there will be some), the <a href="/tools/breathing-exercise/">three-minute breathing exercise</a> and the <a href="/blog/5-minute-stress-relief-for-moms/">five-minute stress relief list</a> are built for the same gaps. And if nothing helps for weeks on end, that's not a quote problem. The <a href="/tools/mom-stress-test/">mom stress test</a> ends with the honest note about when to talk to someone.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">Frequently asked questions</h2>
+    <div class="space-y-3">
+      {faqs.map((f) => (
+        <details class="card">
+          <summary class="font-bold text-[#1E3A5F] cursor-pointer">{f.q}</summary>
+          <p class="mt-3 leading-relaxed text-[#374151]">{f.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <div class="card text-sm text-[#6B7B91]">
+      <p class="font-semibold text-[#1E3A5F] mb-2">References</p>
+      <ul class="list-disc pl-5 space-y-1">
+        <li>National Institute of Mental Health. "<a href="https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health" rel="noopener" target="_blank">Caring for Your Mental Health</a>."</li>
+        <li>Postpartum Support International. "<a href="https://postpartum.net/get-help/psi-helpline/" rel="noopener" target="_blank">PSI HelpLine</a>."</li>
+      </ul>
+      <p class="mt-3 italic">This tool is for encouragement only and is not mental health care. If you're struggling, talk with your healthcare provider, or call or text 988 in the US.</p>
+    </div>
+  </section>
+
+  <div class="mt-8"><AdSenseLazy unit="bottom" /></div>
+</ToolLayout>

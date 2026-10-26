@@ -1,0 +1,99 @@
+---
+import ToolLayout from "../../layouts/ToolLayout.astro";
+import AdSenseLazy from "../../components/AdSenseLazy.astro";
+import MomStressTest from "../../components/tools/MomStressTest.jsx";
+
+const title = "Mom Stress Test: A 2-Minute Check-In With Honest Next Steps — Baby Care Guide";
+const description =
+  "Ten quick questions about sleep, overwhelm, guilt, and withdrawal give you a stress level (low, moderate, high) with specific next steps and the articles and tools that fit. Not a diagnosis — a snapshot.";
+
+const faqs = [
+  { q: "Is this a screening for postpartum depression?", a: "No. It's a quick, informal check-in about everyday stress. The standard screening tools for postpartum depression and anxiety are given by your OB-GYN, midwife, or your baby's pediatrician, and they take about two minutes at a visit. If your result here is high, or if you've felt low or anxious for more than two weeks, ask for that screening." },
+  { q: "What do the levels mean?", a: "Low (0–10) means you're tired but still have margin. Moderate (11–20) means your tank is running low and daily changes will help most. High (21–30) means you're carrying a lot and it's been a while since anything refilled you; it's the level where we suggest talking to someone, not just trying harder." },
+  { q: "Can I take it more than once?", a: "Yes, and it's more useful that way. Take it once a month, or after you've changed something (sleep, a shared load, a daily reset), and compare. The mood journal on this site tracks the day-to-day version." },
+  { q: "Where do I get help right now?", a: "In the US, call or text 988 (the Suicide & Crisis Lifeline) any time, or call the National Maternal Mental Health Hotline at 1-833-852-6262 (1-833-TLC-MAMA), free and confidential, 24/7. Postpartum Support International also runs a HelpLine and free online support groups. If you're in immediate danger, call 911 or go to the nearest emergency room." },
+];
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+};
+---
+
+<ToolLayout
+  title={title}
+  description={description}
+  toolName="Mom Stress Test"
+  toolTagline="Ten questions, two minutes, and next steps that match your level"
+  icon="clipboard"
+  theme="pink"
+  tipsHeading="Before you start"
+  tips={[
+    { title: "Answer for the past two weeks", desc: "Not your worst day and not your best. The average.", icon: "bulb" },
+    { title: "Nobody sees this", desc: "Nothing is saved or sent. It's a snapshot for you.", icon: "heart" },
+    { title: "Retake it monthly", desc: "The change between results is more useful than any single score.", icon: "star" },
+  ]}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <h1 class="mb-3">Mom Stress Test</h1>
+  <p class="text-lg text-[#9CA3AF] mb-8 max-w-2xl">
+    Ten honest questions about how the last two weeks have felt. You'll get a level, what tends to help at that level, and where to start on this site.
+  </p>
+
+  <MomStressTest client:load />
+
+  <section class="mt-12 prose-section">
+    <h2 class="mb-4">What this test is, and what it isn't</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        This is a check-in, not a clinical tool. The ten questions cover the things that drain mothers most reliably: broken sleep, overstimulation, invisible work, guilt, worry, and withdrawal from the people and things that used to refill you. Your score sorts into three levels so the next steps are specific rather than generic.
+      </p>
+      <p>
+        What it can't do is tell the difference between ordinary overload and a mood disorder. Postpartum depression and anxiety are common, often show up as irritability or numbness rather than sadness, and respond well to treatment. If your result is high, or if the low feeling has lasted more than two weeks, that's the signal to ask your doctor, OB-GYN, or your baby's pediatrician for a proper screening.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">What to do with your result</h2>
+    <div class="card space-y-3 leading-relaxed">
+      <p>
+        <strong>Low:</strong> protect what's working. The <a href="/blog/self-care-for-moms-that-actually-fits/">self-care list</a> sorted by two, ten, and thirty minutes helps you keep it small and repeatable.
+      </p>
+      <p>
+        <strong>Moderate:</strong> this is where daily changes pay off most. Start with <a href="/blog/5-minute-stress-relief-for-moms/">five-minute resets</a>, find your minutes with the <a href="/tools/me-time-calculator/">me-time calculator</a>, and track a week in the <a href="/tools/mood-journal/">mood journal</a> so you can see the pattern.
+      </p>
+      <p>
+        <strong>High:</strong> tell one person today, lower every standard that doesn't matter this week, and read <a href="/blog/mom-rage-why-it-happens-and-what-helps/">why mom rage happens</a> or <a href="/blog/stay-at-home-mom-burnout/">stay-at-home mom burnout</a> depending on which sounds more like you. Then make the appointment.
+      </p>
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="mb-4">Frequently asked questions</h2>
+    <div class="space-y-3">
+      {faqs.map((f) => (
+        <details class="card">
+          <summary class="font-bold text-[#1E3A5F] cursor-pointer">{f.q}</summary>
+          <p class="mt-3 leading-relaxed text-[#374151]">{f.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <div class="card text-sm text-[#6B7B91]">
+      <p class="font-semibold text-[#1E3A5F] mb-2">References</p>
+      <ul class="list-disc pl-5 space-y-1">
+        <li>National Institute of Mental Health. "<a href="https://www.nimh.nih.gov/health/publications/perinatal-depression" rel="noopener" target="_blank">Perinatal Depression</a>."</li>
+        <li>American College of Obstetricians and Gynecologists. "<a href="https://www.acog.org/womens-health/faqs/postpartum-depression" rel="noopener" target="_blank">Postpartum Depression</a>."</li>
+        <li>Health Resources and Services Administration. "<a href="https://mchb.hrsa.gov/programs-impact/national-maternal-mental-health-hotline" rel="noopener" target="_blank">National Maternal Mental Health Hotline</a>."</li>
+        <li>988 Suicide & Crisis Lifeline. "<a href="https://988lifeline.org/" rel="noopener" target="_blank">988lifeline.org</a>."</li>
+      </ul>
+      <p class="mt-3 italic">This test is for self-reflection only and is not a medical or psychological diagnosis. If you're struggling, please talk with your healthcare provider.</p>
+    </div>
+  </section>
+
+  <div class="mt-8"><AdSenseLazy unit="bottom" /></div>
+</ToolLayout>
