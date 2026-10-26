@@ -9,7 +9,8 @@ const FIELDS = [
   { key: "other", label: "Everything else that isn't yours", hint: "Volunteering, the group chat you run, your parent's errands…", def: 0.5 },
 ];
 
-export default function MeTimeCalculator() {
+export default function MeTimeCalculator({ published = [] }) {
+  const selfCareOk = published.includes("self-care-for-moms-that-actually-fits");
   const [vals, setVals] = useState(Object.fromEntries(FIELDS.map((f) => [f.key, f.def])));
   const [calc, setCalc] = useState(false);
   const used = FIELDS.reduce((s, f) => s + (parseFloat(vals[f.key]) || 0), 0);
@@ -73,7 +74,7 @@ export default function MeTimeCalculator() {
             <ol className="mt-2 list-decimal pl-5 space-y-2 text-sm text-[#374151] leading-relaxed">
               {suggestions.slice(0, 3).map((s, i) => <li key={i}>{s}</li>)}
             </ol>
-            <p className="mt-4 text-sm text-[#374151]">Once you've found the minutes, the <a className="text-[#2E6FB8] underline" href="/blog/self-care-for-moms-that-actually-fits/">self-care list sorted by 2, 10, and 30 minutes</a> is where to spend them.</p>
+            <p className="mt-4 text-sm text-[#374151]">Once you've found the minutes, the {selfCareOk ? <a className="text-[#2E6FB8] underline" href="/blog/self-care-for-moms-that-actually-fits/">self-care list sorted by 2, 10, and 30 minutes</a> : <span>self-care list sorted by 2, 10, and 30 minutes</span>} is where to spend them.</p>
           </div>
         )}
       </div>

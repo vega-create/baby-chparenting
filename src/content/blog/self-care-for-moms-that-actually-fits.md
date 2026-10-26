@@ -1,7 +1,7 @@
 ---
 title: "Self-Care for Moms That Actually Fits: 20 Ideas for 2, 10, and 30 Minutes"
 description: "Forget spa days. Real self-care for moms fits in the gaps: two-minute resets, ten-minute refills, and the rare thirty-minute window. Twenty ideas sorted by how much time you have, plus how to make any of them stick."
-publishDate: 2026-10-26
+publishDate: 2026-11-05
 lastReviewed: 2026-10-26
 slug: "self-care-for-moms-that-actually-fits"
 category: "development"

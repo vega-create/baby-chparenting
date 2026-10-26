@@ -62,7 +62,9 @@ const QUESTIONS = [
   ]},
 ];
 
-export default function MomTypeQuiz() {
+export default function MomTypeQuiz({ published = [] }) {
+  const linkOk = (href) => !href.startsWith("/blog/") || published.includes(href.replace(/^\/blog\//, "").replace(/\/$/, ""));
+
   const [picks, setPicks] = useState(Array(QUESTIONS.length).fill(null));
   const [result, setResult] = useState(null);
   const [styleKey, setStyleKey] = useState("peach");
@@ -98,7 +100,7 @@ export default function MomTypeQuiz() {
             <p className="mt-3 text-[#1E3A5F] leading-relaxed">{t.desc}</p>
           </div>
           <p className="mt-4 text-[#374151] leading-relaxed"><strong>Your one assignment:</strong> {t.tip}</p>
-          <p className="mt-2"><a className="text-[#2E6FB8] underline" href={t.link.href}>{t.link.label} →</a></p>
+          {linkOk(t.link.href) && <p className="mt-2"><a className="text-[#2E6FB8] underline" href={t.link.href}>{t.link.label} →</a></p>}
           <div className="mt-5 flex flex-wrap gap-2">
             <button className={`${btn} bg-[#5B9BD5] text-white hover:bg-[#2E6FB8]`} onClick={() => downloadCanvas(canvasRef.current, `mom-type-${result}.png`)}>Download card</button>
             <button className={`${btn} border-2 border-[#5B9BD5] text-[#2E6FB8] hover:bg-[#E6F0FB]`} onClick={async () => flash((await copyText(share)) ? "Copied!" : "Copy failed.")}>Copy</button>

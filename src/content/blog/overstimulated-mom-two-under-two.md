@@ -1,7 +1,7 @@
 ---
 title: "Overstimulated and Touched Out: Surviving Two Under Two Without Losing Your Mind"
 description: "Two under two means constant noise, constant touch, and no hands free. Here's why sensory overload hits so hard, how to reset in the moment, and a day-structure that gives you back a few minutes of silence."
-publishDate: 2026-10-26
+publishDate: 2026-10-30
 lastReviewed: 2026-10-26
 slug: "overstimulated-mom-two-under-two"
 category: "development"

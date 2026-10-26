@@ -1,7 +1,7 @@
 ---
 title: "Stay-at-Home Mom Burnout: Signs, Why It's Different, and a Realistic Recovery Plan"
 description: "Stay-at-home mom burnout isn't laziness or ingratitude — it's a job with no shifts, no coworkers, and no end. Learn the signs, why it hits SAHMs so hard, and a recovery plan built around real constraints: no budget, no village, no time off."
-publishDate: 2026-10-26
+publishDate: 2026-10-28
 lastReviewed: 2026-10-26
 slug: "stay-at-home-mom-burnout"
 category: "development"

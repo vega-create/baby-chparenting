@@ -1,4 +1,6 @@
 ---
+import BlogLink from "../../components/BlogLink.astro";
+import { publishedSlugs } from "../../lib/published";
 import ToolLayout from "../../layouts/ToolLayout.astro";
 import AdSenseLazy from "../../components/AdSenseLazy.astro";
 import MeTimeCalculator from "../../components/tools/MeTimeCalculator.jsx";
@@ -41,7 +43,7 @@ const faqSchema = {
     Fill in a typical weekday and see how many hours belong to you. Then get three concrete ways to find fifteen minutes based on where your time actually goes.
   </p>
 
-  <MeTimeCalculator client:load />
+  <MeTimeCalculator client:load published={publishedSlugs} />
 
   <section class="mt-12 prose-section">
     <h2 class="mb-4">Why seeing the number matters</h2>
@@ -50,7 +52,7 @@ const faqSchema = {
         Most mothers can't say how much of their day is theirs because the day doesn't have edges. Childcare bleeds into housework bleeds into bedtime bleeds into the dishes. Adding it up turns a vague sense of "I never get a break" into a number, and numbers do two things: they make the problem real to the people you live with, and they show you where the slack is hiding.
       </p>
       <p>
-        The result is usually one of two surprises. Either the hours that are "yours" are far fewer than you'd assumed, which explains the <a href="/blog/stay-at-home-mom-burnout/">burnout</a>, or there are more than you thought and they're disappearing into scrolling and chores, which is fixable tonight.
+        The result is usually one of two surprises. Either the hours that are "yours" are far fewer than you'd assumed, which explains the <BlogLink slug="stay-at-home-mom-burnout">burnout</BlogLink>, or there are more than you thought and they're disappearing into scrolling and chores, which is fixable tonight.
       </p>
     </div>
   </section>
@@ -59,7 +61,7 @@ const faqSchema = {
     <h2 class="mb-4">Turning minutes into something that refills you</h2>
     <div class="card space-y-3 leading-relaxed">
       <p>
-        Once you know where fifteen minutes can come from, spend them on purpose. The <a href="/blog/self-care-for-moms-that-actually-fits/">self-care list sorted by 2, 10, and 30 minutes</a> is built for exactly these gaps. If you're not sure what would help, the <a href="/blog/losing-yourself-in-motherhood/">losing yourself in motherhood</a> article has a 30-day plan that starts with ten minutes a day.
+        Once you know where fifteen minutes can come from, spend them on purpose. The <BlogLink slug="self-care-for-moms-that-actually-fits">self-care list sorted by 2, 10, and 30 minutes</BlogLink> is built for exactly these gaps. If you're not sure what would help, the <BlogLink slug="losing-yourself-in-motherhood">losing yourself in motherhood</BlogLink> article has a 30-day plan that starts with ten minutes a day.
       </p>
       <p>
         If the honest number is close to zero and there's a partner in the picture, this is the conversation to have, with the result on the screen: not "I need more help" but "here is my day; which hour can be mine." If there isn't a partner, the levers are the naps, the standards, and one specific ask of someone nearby. The <a href="/tools/bedtime-calculator/">bedtime calculator</a> can help line up the kids' sleep so a block appears.

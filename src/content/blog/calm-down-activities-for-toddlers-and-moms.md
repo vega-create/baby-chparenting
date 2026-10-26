@@ -1,7 +1,7 @@
 ---
 title: "6 Calm-Down Activities for Toddlers (That Calm You Down Too)"
 description: "When a toddler melts down, you're both dysregulated. These six co-regulation activities — bubble breathing, the squeeze game, a calm-down corner, and more — settle a 1-to-4-year-old and reset you at the same time, with the science of why it works."
-publishDate: 2026-10-26
+publishDate: 2026-11-07
 lastReviewed: 2026-10-26
 slug: "calm-down-activities-for-toddlers-and-moms"
 category: "development"

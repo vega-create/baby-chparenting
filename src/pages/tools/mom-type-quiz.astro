@@ -1,4 +1,6 @@
 ---
+import BlogLink from "../../components/BlogLink.astro";
+import { publishedSlugs } from "../../lib/published";
 import ToolLayout from "../../layouts/ToolLayout.astro";
 import AdSenseLazy from "../../components/AdSenseLazy.astro";
 import MomTypeQuiz from "../../components/tools/MomTypeQuiz.jsx";
@@ -41,7 +43,7 @@ const faqSchema = {
     Five quick scenarios from a real day. Pick the answer that's closest to what you'd actually do, not what you wish you'd do.
   </p>
 
-  <MomTypeQuiz client:load />
+  <MomTypeQuiz client:load published={publishedSlugs} />
 
   <section class="mt-12 prose-section">
     <h2 class="mb-4">The five types, and what each one runs out of</h2>
@@ -63,7 +65,7 @@ const faqSchema = {
         </tbody>
       </table>
       <p class="mt-4">
-        Whichever you are, the shared blind spot is rest. The <a href="/blog/self-care-for-moms-that-actually-fits/">self-care list that actually fits</a> and the <a href="/tools/me-time-calculator/">me-time calculator</a> are the next stop for all five.
+        Whichever you are, the shared blind spot is rest. The <BlogLink slug="self-care-for-moms-that-actually-fits">self-care list that actually fits</BlogLink> and the <a href="/tools/me-time-calculator/">me-time calculator</a> are the next stop for all five.
       </p>
     </div>
   </section>
@@ -72,7 +74,7 @@ const faqSchema = {
     <h2 class="mb-4">A lighter five minutes, on purpose</h2>
     <div class="card space-y-3 leading-relaxed">
       <p>
-        Not everything on the Mom Wellness shelf has to be heavy. If you've just read about <a href="/blog/mom-rage-why-it-happens-and-what-helps/">mom rage</a> or <a href="/blog/postpartum-body-image/">postpartum body image</a>, this quiz is the palate cleanser. Send the result to the group chat; someone will disagree with their type, and that's the fun part.
+        Not everything on the Mom Wellness shelf has to be heavy. If you've just read about <BlogLink slug="mom-rage-why-it-happens-and-what-helps">mom rage</BlogLink> or <BlogLink slug="postpartum-body-image">postpartum body image</BlogLink>, this quiz is the palate cleanser. Send the result to the group chat; someone will disagree with their type, and that's the fun part.
       </p>
       <p>
         For the daily version of a small lift, the <a href="/tools/daily-affirmation-for-moms/">daily affirmation card</a> changes every day and shares the same way.

@@ -1,4 +1,6 @@
 ---
+import BlogLink from "../../components/BlogLink.astro";
+import { publishedSlugs } from "../../lib/published";
 import ToolLayout from "../../layouts/ToolLayout.astro";
 import AdSenseLazy from "../../components/AdSenseLazy.astro";
 import MoodJournal from "../../components/tools/MoodJournal.jsx";
@@ -59,10 +61,10 @@ const faqSchema = {
     <h2 class="mb-4">What to look for in your trend</h2>
     <div class="card space-y-3 leading-relaxed">
       <ul class="list-disc pl-5 space-y-2">
-        <li><strong>Dips tied to sleep.</strong> If rough days follow bad nights, the fix is sleep, not willpower. Our <a href="/blog/baby-wakes-every-hour/">guide to babies who wake every hour</a> is the place to start.</li>
-        <li><strong>Dips tied to a time of day.</strong> Most moms have one trigger hour. The <a href="/blog/how-to-stay-calm-with-kids/">stay-calm system</a> is built around fixing that hour structurally.</li>
-        <li><strong>A slow slide with no obvious cause.</strong> Worth a look at <a href="/blog/stay-at-home-mom-burnout/">burnout</a>, and if it's been more than two weeks of mostly low days, worth a conversation with your doctor.</li>
-        <li><strong>Good days you can explain.</strong> Those explanations are your real self-care list. The <a href="/blog/self-care-for-moms-that-actually-fits/">self-care article</a> helps you make them repeatable.</li>
+        <li><strong>Dips tied to sleep.</strong> If rough days follow bad nights, the fix is sleep, not willpower. Our <BlogLink slug="baby-wakes-every-hour">guide to babies who wake every hour</BlogLink> is the place to start.</li>
+        <li><strong>Dips tied to a time of day.</strong> Most moms have one trigger hour. The <BlogLink slug="how-to-stay-calm-with-kids">stay-calm system</BlogLink> is built around fixing that hour structurally.</li>
+        <li><strong>A slow slide with no obvious cause.</strong> Worth a look at <BlogLink slug="stay-at-home-mom-burnout">burnout</BlogLink>, and if it's been more than two weeks of mostly low days, worth a conversation with your doctor.</li>
+        <li><strong>Good days you can explain.</strong> Those explanations are your real self-care list. The <BlogLink slug="self-care-for-moms-that-actually-fits">self-care article</BlogLink> helps you make them repeatable.</li>
       </ul>
     </div>
   </section>

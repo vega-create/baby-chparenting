@@ -1,4 +1,6 @@
 ---
+import BlogLink from "../../components/BlogLink.astro";
+import { publishedSlugs } from "../../lib/published";
 import ToolLayout from "../../layouts/ToolLayout.astro";
 import AdSenseLazy from "../../components/AdSenseLazy.astro";
 import MomStressTest from "../../components/tools/MomStressTest.jsx";
@@ -41,7 +43,7 @@ const faqSchema = {
     Ten honest questions about how the last two weeks have felt. You'll get a level, what tends to help at that level, and where to start on this site.
   </p>
 
-  <MomStressTest client:load />
+  <MomStressTest client:load published={publishedSlugs} />
 
   <section class="mt-12 prose-section">
     <h2 class="mb-4">What this test is, and what it isn't</h2>
@@ -59,13 +61,13 @@ const faqSchema = {
     <h2 class="mb-4">What to do with your result</h2>
     <div class="card space-y-3 leading-relaxed">
       <p>
-        <strong>Low:</strong> protect what's working. The <a href="/blog/self-care-for-moms-that-actually-fits/">self-care list</a> sorted by two, ten, and thirty minutes helps you keep it small and repeatable.
+        <strong>Low:</strong> protect what's working. The <BlogLink slug="self-care-for-moms-that-actually-fits">self-care list</BlogLink> sorted by two, ten, and thirty minutes helps you keep it small and repeatable.
       </p>
       <p>
-        <strong>Moderate:</strong> this is where daily changes pay off most. Start with <a href="/blog/5-minute-stress-relief-for-moms/">five-minute resets</a>, find your minutes with the <a href="/tools/me-time-calculator/">me-time calculator</a>, and track a week in the <a href="/tools/mood-journal/">mood journal</a> so you can see the pattern.
+        <strong>Moderate:</strong> this is where daily changes pay off most. Start with <BlogLink slug="5-minute-stress-relief-for-moms">five-minute resets</BlogLink>, find your minutes with the <a href="/tools/me-time-calculator/">me-time calculator</a>, and track a week in the <a href="/tools/mood-journal/">mood journal</a> so you can see the pattern.
       </p>
       <p>
-        <strong>High:</strong> tell one person today, lower every standard that doesn't matter this week, and read <a href="/blog/mom-rage-why-it-happens-and-what-helps/">why mom rage happens</a> or <a href="/blog/stay-at-home-mom-burnout/">stay-at-home mom burnout</a> depending on which sounds more like you. Then make the appointment.
+        <strong>High:</strong> tell one person today, lower every standard that doesn't matter this week, and read <BlogLink slug="mom-rage-why-it-happens-and-what-helps">why mom rage happens</BlogLink> or <BlogLink slug="stay-at-home-mom-burnout">stay-at-home mom burnout</BlogLink> depending on which sounds more like you. Then make the appointment.
       </p>
     </div>
   </section>

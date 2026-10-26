@@ -1,7 +1,7 @@
 ---
 title: "Losing Yourself in Motherhood: Why It Happens and How to Find Your Way Back"
 description: "If you can't remember who you were before the baby, you're not alone. Here's why identity loss is so common in early motherhood, what 'matrescence' means, and small, concrete ways to reconnect with yourself without leaving your kids behind."
-publishDate: 2026-10-26
+publishDate: 2026-11-01
 lastReviewed: 2026-10-26
 slug: "losing-yourself-in-motherhood"
 category: "development"

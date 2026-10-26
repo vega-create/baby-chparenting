@@ -1,7 +1,7 @@
 ---
 title: "How to Stay Calm With Kids: A Stress-Management System for Real Mornings and 5 P.M. Meltdowns"
 description: "Staying calm with kids isn't about being a patient person. It's a system: knowing your triggers, lowering the daily load, a two-breath pause you've practiced, and a repair script for when it fails. Here's the whole thing, built for actual family days."
-publishDate: 2026-10-26
+publishDate: 2026-11-09
 lastReviewed: 2026-10-26
 slug: "how-to-stay-calm-with-kids"
 category: "development"

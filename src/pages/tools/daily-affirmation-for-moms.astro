@@ -1,4 +1,6 @@
 ---
+import BlogLink from "../../components/BlogLink.astro";
+import { publishedSlugs } from "../../lib/published";
 import ToolLayout from "../../layouts/ToolLayout.astro";
 import AdSenseLazy from "../../components/AdSenseLazy.astro";
 import DailyAffirmation from "../../components/tools/DailyAffirmation.jsx";
@@ -51,8 +53,8 @@ const faqSchema = {
       </p>
       <p>
         The 64 sentences here are original to this site and deliberately avoid the greeting-card register. They're about permission: to rest without earning it, to have needs in front of your children, to lower a standard, to miss the person you were. If you want the longer version of that idea, read
-        <a href="/blog/mom-quotes-for-hard-days/">30 mom quotes for hard days</a> and
-        <a href="/blog/losing-yourself-in-motherhood/">losing yourself in motherhood</a>.
+        <BlogLink slug="mom-quotes-for-hard-days">30 mom quotes for hard days</BlogLink> and
+        <BlogLink slug="losing-yourself-in-motherhood">losing yourself in motherhood</BlogLink>.
       </p>
     </div>
   </section>
@@ -65,7 +67,7 @@ const faqSchema = {
         <a href="/tools/mood-journal/">mood journal</a>, note which sentences landed; the ones that do are the ones to keep on the fridge.
       </p>
       <p>
-        On the days a sentence isn't enough (and there will be some), the <a href="/tools/breathing-exercise/">three-minute breathing exercise</a> and the <a href="/blog/5-minute-stress-relief-for-moms/">five-minute stress relief list</a> are built for the same gaps. And if nothing helps for weeks on end, that's not a quote problem. The <a href="/tools/mom-stress-test/">mom stress test</a> ends with the honest note about when to talk to someone.
+        On the days a sentence isn't enough (and there will be some), the <a href="/tools/breathing-exercise/">three-minute breathing exercise</a> and the <BlogLink slug="5-minute-stress-relief-for-moms">five-minute stress relief list</BlogLink> are built for the same gaps. And if nothing helps for weeks on end, that's not a quote problem. The <a href="/tools/mom-stress-test/">mom stress test</a> ends with the honest note about when to talk to someone.
       </p>
     </div>
   </section>

@@ -3,6 +3,7 @@ import { defineConfig } from "astro/config";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
+import remarkStripUnpublished from "./src/lib/remark-strip-unpublished.mjs";
 
 export default defineConfig({
   site: "https://baby.chparenting.com",
@@ -30,5 +31,6 @@ export default defineConfig({
       },
     }),
   ],
+  markdown: { remarkPlugins: [remarkStripUnpublished] },
   vite: { plugins: [tailwindcss()] },
 });

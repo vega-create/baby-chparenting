@@ -1,7 +1,7 @@
 ---
 title: "Postpartum Body Image: When Your Body Doesn't Feel Like Yours Anymore"
 description: "The 'bounce back' is a myth, but the grief over a changed body is real. What actually happens to your body in the first year, why the mirror feels so hard, how to move and eat without a diet, and when body thoughts are a sign of something more."
-publishDate: 2026-10-26
+publishDate: 2026-11-03
 lastReviewed: 2026-10-26
 slug: "postpartum-body-image"
 category: "development"

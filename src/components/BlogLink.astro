@@ -1,0 +1,8 @@
+---
+// 文章已發布才渲染成連結，否則只輸出文字（避免工具頁連到尚未上線的文章）
+import { isPublished } from "../lib/published";
+interface Props { slug: string; class?: string }
+const { slug, class: cls } = Astro.props;
+const ok = isPublished(slug);
+---
+{ok ? <a href={`/blog/${slug}/`} class={cls}><slot /></a> : <slot />}

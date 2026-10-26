@@ -64,7 +64,9 @@ const LEVELS = [
   },
 ];
 
-export default function MomStressTest() {
+export default function MomStressTest({ published = [] }) {
+  const linkOk = (href) => !href.startsWith("/blog/") || published.includes(href.replace(/^\/blog\//, "").replace(/\/$/, ""));
+
   const [answers, setAnswers] = useState(Array(QUESTIONS.length).fill(null));
   const [submitted, setSubmitted] = useState(false);
   const answered = answers.filter((a) => a !== null).length;
@@ -88,7 +90,7 @@ export default function MomStressTest() {
         </ul>
         <h3 className="mt-6 font-bold text-[#1E3A5F]">Start here</h3>
         <ul className="mt-2 space-y-1">
-          {level.links.map((l) => <li key={l.href}><a className="text-[#2E6FB8] underline" href={l.href}>{l.label} →</a></li>)}
+          {level.links.filter((l) => linkOk(l.href)).map((l) => <li key={l.href}><a className="text-[#2E6FB8] underline" href={l.href}>{l.label} →</a></li>)}
         </ul>
         <div className="mt-6 rounded-2xl border-2 border-blue-100 p-4 text-sm text-[#374151] leading-relaxed">
           <p><strong>This is not a medical screening or a diagnosis.</strong> It's a quick snapshot to help you notice where you are. If you've felt sad, hopeless, numb, or constantly anxious for more than two weeks, or you've had thoughts of harming yourself or your child, please talk with your doctor today. In the US you can call or text <strong>988</strong> any time, or call the National Maternal Mental Health Hotline at <strong>1-833-852-6262</strong> (1-833-TLC-MAMA), free and confidential, 24/7.</p>
