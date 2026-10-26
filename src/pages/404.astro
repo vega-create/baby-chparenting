@@ -1,0 +1,18 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title={"Page not found — Baby Care Guide"} description="That page doesn't exist or has moved.">
+  <section class="max-w-2xl mx-auto px-4 py-20 text-center">
+    <p class="text-sm font-semibold tracking-[0.2em] uppercase" style="color:#5B9BD5">404</p>
+    <h1 class="font-display text-3xl sm:text-4xl mt-3 mb-4">We couldn't find that page</h1>
+    <p class="text-base leading-7 opacity-80 mb-8">
+      The link may be out of date, or the page may not be published yet. Try one of these instead.
+    </p>
+    <div class="flex flex-wrap justify-center gap-3">
+      <a href="/" class="inline-flex items-center rounded-full px-5 py-3 text-sm font-semibold text-white no-underline" style="background:#5B9BD5">Home</a>
+      <a href="/blog/" class="inline-flex items-center rounded-full border px-5 py-3 text-sm font-semibold no-underline" style="border-color:#5B9BD5;color:#5B9BD5">All articles</a>
+      <a href="/tools/" class="inline-flex items-center rounded-full border px-5 py-3 text-sm font-semibold no-underline" style="border-color:#5B9BD5;color:#5B9BD5">Free tools</a>
+    </div>
+  </section>
+</BaseLayout>
