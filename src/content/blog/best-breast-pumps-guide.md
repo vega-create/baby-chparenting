@@ -14,7 +14,7 @@ Choosing a breast pump is one of the most important gear decisions a breastfeedi
 
 This guide walks you through every type of breast pump available, explains how insurance coverage works, helps you find the correct flange size, and covers the accessories that make pumping easier. You may also want to review our [breastfeeding basics guide](/blog/breastfeeding-basics-for-beginners/) if you are just getting started.
 
-> 📌 **Key Takeaway:** According to La Leche League International, breastfed babies typically nurse 8-12 times in 24 hours during the first weeks. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [best high chairs buying guide](/blog/best-high-chairs-buying-guide/).
+> 📌 **Key Takeaway:** A double electric pump is the right choice for anyone pumping daily, a wearable adds convenience at a price, a manual is for occasional use, and a hospital-grade rental is for building supply in the early weeks; under the ACA most U.S. insurance plans cover a new pump each pregnancy, so order it through your insurer before the birth. Flange fit matters more than brand: measure your nipple and add 1 to 2 mm. I pumped about every 3 hours with my first and it kept my supply steady, so comfort for frequent sessions is what to optimize for. For a related deep dive, see our guide on [best high chairs buying guide](/blog/best-high-chairs-buying-guide/).
 
 ## Types of Breast Pumps
 

@@ -14,7 +14,7 @@ draft: false
 
 Baby naming trends in 2026 reflect a world that's both looking back and looking forward. Vintage names continue their comeback, nature names hold steady, and a new wave of short, punchy picks is climbing fast. Based on U.S. Social Security Administration data, Office for National Statistics (UK) records, and recent search trends, here's what's trending and what to expect for top 100 baby names in 2026.
 
-> 📌 **Key Takeaway:** According to a 2024 BabyCenter survey, parents now consider an average of 47 names before choosing the final one. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [modern unisex baby names 2026](/blog/modern-unisex-baby-names-2026/).
+> 📌 **Key Takeaway:** For 2026 expect Liam and Noah to hold the top boy spots and Olivia, Charlotte, Amelia, Sophia, and Emma to lead the girls, with the fastest growth in vintage revivals, nature names, short one-syllable picks, and unisex names; if you want your child's name to feel current without being one of five in the class, look at the rising-stars list rather than the top ten. For a related deep dive, see our guide on [modern unisex baby names 2026](/blog/modern-unisex-baby-names-2026/).
 
 ## Top Trends Shaping 2026 Baby Names
 

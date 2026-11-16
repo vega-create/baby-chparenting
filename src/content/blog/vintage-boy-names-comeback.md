@@ -14,7 +14,7 @@ draft: false
 
 Vintage names are having their biggest moment in decades. The "100-year rule" of baby naming, which suggests names cycle back into fashion roughly every 100 years, is on full display in 2026. Names that belonged to your great-grandfather are suddenly topping the charts again. Here are 20 vintage boy names making a strong comeback, with meanings, origins, and what's driving their return.
 
-> 📌 **Key Takeaway:** According to Social Security Administration baby name data (2024), the top 10 names have remained surprisingly stable over the past decade. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [vintage baby names comeback](/blog/vintage-baby-names-comeback/).
+> 📌 **Key Takeaway:** Theodore, Arthur, Hugo, Otto, Felix, Walter, and Henry lead the vintage comeback, driven by the roughly 100-year naming cycle, a reaction against invented spellings, and the wish to honor great-grandparents; the names not yet back (and so still distinctive) are at the end of this list. For a related deep dive, see our guide on [vintage baby names comeback](/blog/vintage-baby-names-comeback/).
 
 ## Why Vintage Names Are Back
 

@@ -10,9 +10,9 @@ image: "https://images.pexels.com/photos/6393369/pexels-photo-6393369.jpeg?auto=
 tags: ["nursery", "baby room", "nursery essentials", "baby registry", "nursery checklist", "baby safety"]
 ---
 
-Setting up a nursery is one of the most exciting parts of preparing for a new baby. It is also one of the areas where parents are most likely to overspend on items that look beautiful but rarely get used. This guide gives you a clear, prioritized checklist of what you truly need, what is nice to have, and what you can safely skip -- along with practical advice on safety, organization, and staying within budget.
+A nursery truly needs only a CPSC-compliant crib with a firm mattress and fitted sheets, a dresser or changing surface with a strapped pad, somewhere comfortable to feed at 3 a.m., swaddles or sleep sacks, blackout curtains, and a sound machine; a monitor, nightlight, and diaper pail are nice to have, and crib bumpers, pillows, and blankets should never go in. Setting up a nursery is one of the most exciting parts of preparing for a baby, and also where parents most often overspend on things that look beautiful and rarely get used, so here is the prioritized list.
 
-> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), most healthy infants need 2-2.5 oz of formula per pound of body weight per day. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby registry must haves checklist](/blog/baby-registry-must-haves-checklist/).
+> 📌 **Key Takeaway:** Keep the room at 68 to 72°F and dress the baby in a sleep sack rated for that temperature instead of using blankets; a mobile comes down the moment the baby can push up on hands and knees. For a related deep dive, see our guide on [baby registry must haves checklist](/blog/baby-registry-must-haves-checklist/).
 
 ## Nursery Must-Haves
 

@@ -12,7 +12,7 @@ tags: ["baby registry", "baby checklist", "baby essentials", "baby shower", "new
 
 Building a baby registry can feel overwhelming. There are thousands of products marketed to new parents, and figuring out what you actually need versus what will collect dust in a closet is genuinely difficult. After helping countless parents navigate this process and learning from my own experience with two kids, I have created this comprehensive, category-by-category registry guide. I will tell you what is essential, what is nice to have, and what you can safely skip -- along with exactly how many of each item to register for.
 
-> 📌 **Key Takeaway:** According to Zero to Three, responsive caregiving in the first year shapes long-term emotional regulation and learning capacity. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby nursery essentials checklist](/blog/baby-nursery-essentials-checklist/).
+> 📌 **Key Takeaway:** Start your registry at 12 to 20 weeks, put the safety items first (CPSC-compliant crib and mattress, car seat, strapped changing pad), register for consumables in quantity (3 to 4 crib sheets, 2 mattress protectors, bottles, diapers in sizes 1 and 2), and use the completion discount of 10 to 15% for the big-ticket things nobody buys. Having done this twice myself: the items I was glad I skipped were the pretty ones, and the items I used daily were the boring ones. For a related deep dive, see our guide on [baby nursery essentials checklist](/blog/baby-nursery-essentials-checklist/).
 
 ## When to Start Your Registry
 
