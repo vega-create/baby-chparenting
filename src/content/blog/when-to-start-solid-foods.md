@@ -10,11 +10,11 @@ tags: ["starting solids", "baby first foods", "solid food readiness", "baby-led 
 description: "Learn when your baby is developmentally ready for solid foods, which foods to start with, and how to progress from purees to finger foods while maintaining proper nutrition."
 ---
 
-One of the most exciting milestones in your baby's first year is starting solid foods. But knowing exactly when to begin and how to do it right can feel overwhelming. This guide summarizes what current research and pediatric guidelines say about introducing solids safely and effectively.
+Start solids at around 6 months, never before 4, when your baby has steady head control, sits with minimal support, has lost the tongue-thrust reflex, and reaches for your food; readiness is about those skills, not the calendar or how big the baby is. Begin with iron-rich purees or soft finger foods once a day while breast milk or formula stays the main nutrition. It is one of the most exciting milestones of the first year, and here is what current research and pediatric guidelines say about doing it safely.
 
 This guide covers the recommended timing, the developmental signs to watch for, the best first foods, and how to progress through textures as your baby grows.
 
-> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), most babies are developmentally ready for solids around 6 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [speech delays when to worry](/blog/speech-delays-when-to-worry/).
+> 📌 **Key Takeaway:** Starting before 4 months raises choking and gut risks and displaces milk; starting much after 6 months risks iron deficiency and makes textures harder to accept later. For a related deep dive, see our guide on [speech delays when to worry](/blog/speech-delays-when-to-worry/).
 
 ## What Do the Experts Recommend?
 

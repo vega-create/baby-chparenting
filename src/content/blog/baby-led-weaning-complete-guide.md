@@ -14,7 +14,7 @@ Baby-led weaning (BLW) is an approach to introducing solid foods that skips pure
 
 This approach has gained significant popularity in recent years, and research supports its benefits for developing healthy eating habits, motor skills, and food autonomy. If you are curious about BLW and wondering if it is right for your family, this guide covers everything you need to get started safely.
 
-> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), most healthy infants need 2-2.5 oz of formula per pound of body weight per day. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [homemade baby food recipes guide](/blog/homemade-baby-food-recipes-guide/).
+> 📌 **Key Takeaway:** Start BLW at around 6 months once your baby sits unsupported, has lost the tongue-thrust reflex, and reaches for food; offer soft finger-length strips (steamed sweet potato, avocado, banana, well-cooked egg) and expect gagging, which is normal and different from silent choking. Milk stays the main nutrition until 12 months. For a related deep dive, see our guide on [homemade baby food recipes guide](/blog/homemade-baby-food-recipes-guide/).
 
 ## What Is Baby-Led Weaning?
 

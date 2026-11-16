@@ -10,11 +10,11 @@ tags: ["baby food allergies", "allergen introduction", "LEAP study", "anaphylaxi
 description: "Learn about the top 9 baby food allergens, how to introduce them safely, signs of allergic reactions, and evidence-based strategies for allergy prevention."
 ---
 
-Food allergies affect approximately 8% of children in the United States, and the numbers have been rising steadily over the past two decades. One of the most common worries for new parents is the fear of introducing allergenic foods. The good news is that research has transformed our understanding of food allergies, and we now have clear, evidence-based strategies to reduce your baby's risk.
+Introduce the top allergens (peanut, egg, milk, tree nuts, soy, wheat, fish, shellfish, sesame) early and often rather than waiting: the LEAP study found an 81% lower rate of peanut allergy in high-risk babies who ate peanut between 4 and 11 months, so most babies can start allergens around 6 months in well-cooked or thinned forms, one at a time, at home, in the morning. Food allergies affect about 8% of U.S. children and have been rising for two decades, but we now have clear, evidence-based ways to lower your baby's risk.
 
 This guide covers everything you need to know about baby food allergies, from recognizing the signs to safely introducing common allergens. If you are just starting solids, our [best first foods for babies](/blog/best-first-foods-for-babies/) guide is a great companion resource.
 
-> 📌 **Key Takeaway:** According to Zero to Three, responsive caregiving in the first year shapes long-term emotional regulation and learning capacity. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby food stages explained](/blog/baby-food-stages-explained/).
+> 📌 **Key Takeaway:** A mild reaction is hives, a rash, vomiting, or slight facial puffiness within minutes to two hours; trouble breathing, widespread hives, or floppiness is anaphylaxis and means 911. Babies with severe eczema or an egg allergy should get a pediatrician's plan before peanut. For a related deep dive, see our guide on [baby food stages explained](/blog/baby-food-stages-explained/).
 
 ## The Top 9 Food Allergens
 

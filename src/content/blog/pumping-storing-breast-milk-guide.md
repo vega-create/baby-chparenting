@@ -14,7 +14,7 @@ Whether you are returning to work, building a freezer stash, or exclusively pump
 
 This comprehensive guide walks you through choosing the [right pump](/blog/best-breast-pumps-guide/), establishing an effective pumping routine, and storing your milk safely following the latest CDC guidelines.
 
-> 📌 **Key Takeaway:** According to the CDC, 60% of US babies receive some breast milk at 6 months, but only 25% are exclusively breastfed. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [how to increase breast milk supply](/blog/how-to-increase-breast-milk-supply/).
+> 📌 **Key Takeaway:** Freshly pumped milk keeps 4 hours at room temperature, 4 days in the fridge, and 6 months in a standard freezer (12 in a deep freezer); thawed milk is good for 24 hours in the fridge and never refrozen. A double electric pump is the right tool for daily use, and if you are returning to work, start building a stash 2 to 3 weeks beforehand. I pumped about every 3 hours with my first and it kept my supply steady; the schedule matters more than the pump model. For a related deep dive, see our guide on [how to increase breast milk supply](/blog/how-to-increase-breast-milk-supply/).
 
 ## Types of Breast Pumps
 

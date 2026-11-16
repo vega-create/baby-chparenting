@@ -10,11 +10,11 @@ image: https://images.pexels.com/photos/5692275/pexels-photo-5692275.jpeg?auto=c
 tags: ["organic baby food", "conventional baby food", "pesticides", "heavy metals", "baby food safety", "infant nutrition", "EWG", "dirty dozen", "baby food buying guide"]
 ---
 
-Walk down the baby food aisle and you will see two distinct sections: brightly colored organic pouches and jars on one side, conventional options on the other, often at noticeably different price points. As a parent, the organic label feels like a promise of safety. But what does the science actually say? Is organic baby food meaningfully better for your child, or is it mostly marketing? The answer, as with most things in nutrition, is nuanced.
+No study has shown that babies fed organic food have better health outcomes than babies fed conventional food, and nutrition is essentially identical; organic does reduce synthetic pesticide residue, which matters most for the produce on the EWG 'Dirty Dozen' list, while heavy metals (arsenic, lead, cadmium) show up in organic and conventional baby foods alike. Buy organic where it is affordable for the highest-residue produce, vary the foods you offer, and do not feel guilty about the rest. The organic label feels like a promise of safety, so here is what the science actually says.
 
 This article examines the evidence on pesticide residues, nutritional content, heavy metal contamination, and cost -- so you can make a decision based on data rather than fear or guilt.
 
-> 📌 **Key Takeaway:** According to the AAP, developmental milestones occur in predictable patterns, but normal range can vary by 4-6 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby food stages explained](/blog/baby-food-stages-explained/).
+> 📌 **Key Takeaway:** Variety is the real safety strategy: rotating grains (less rice cereal), fruits, and vegetables limits exposure to any one contaminant more than the organic label does. For a related deep dive, see our guide on [baby food stages explained](/blog/baby-food-stages-explained/).
 
 ## What "Organic" Actually Means for Baby Food
 

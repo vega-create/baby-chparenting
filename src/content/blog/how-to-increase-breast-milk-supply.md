@@ -10,11 +10,11 @@ image: "https://images.pexels.com/photos/3845750/pexels-photo-3845750.jpeg?auto=
 tags: ["breast milk supply", "breastfeeding", "pumping", "lactation", "low milk supply", "power pumping"]
 ---
 
-Concerns about milk supply are among the top reasons mothers stop breastfeeding earlier than they planned. According to the CDC, while over 80% of mothers in the United States initiate breastfeeding, many cite perceived insufficient milk as a primary reason for supplementing or stopping. The truth is that most mothers are biologically capable of producing enough milk for their babies, but understanding how milk production works and knowing effective strategies to support it makes all the difference.
+Most 'low supply' is not low supply: frequent nursing, soft breasts after the first weeks, evening fussiness, and small pump output are all normal. True low supply shows up as poor weight gain and fewer than 6 wet diapers a day, and the fixes that work are nursing more often, a deeper latch, breast compression, power pumping, skin-to-skin, keeping night feeds, and a well-fitted pump; galactagogue foods and herbs are a distant second. Supply worries are among the top reasons mothers stop breastfeeding earlier than they planned, so it is worth knowing which signs actually matter.
 
 This guide provides 12 evidence-based tips to increase your breast milk supply, explains how to distinguish between truly low supply and perceived low supply, and outlines when it is time to seek professional help.
 
-> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), most healthy infants need 2-2.5 oz of formula per pound of body weight per day. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [how much milk by age](/blog/how-much-milk-by-age/).
+> 📌 **Key Takeaway:** My own experience matched the research: with my first, pumping roughly every 3 hours kept my supply up; with my second, a toddler to chase meant fewer sessions and my milk slowly tapered off. Frequency of removal, not any food or tea, is the lever. For a related deep dive, see our guide on [how much milk by age](/blog/how-much-milk-by-age/).
 
 ## Understanding How Milk Production Works
 

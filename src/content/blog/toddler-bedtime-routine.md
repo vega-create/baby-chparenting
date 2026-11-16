@@ -12,9 +12,9 @@ image: "https://images.pexels.com/photos/9964634/pexels-photo-9964634.jpeg?auto=
 draft: false
 ---
 
-A toddler bedtime routine is one of the most powerful sleep tools you have. Research consistently shows that toddlers with predictable bedtime routines fall asleep faster, wake less at night, and have better daytime mood. Here's the 7-step structure that works for most families and how to adapt when nights go sideways.
+A toddler bedtime routine that works is about 30 minutes, in the same order every night: a wind-down signal, bath, pajamas and potty, teeth, books in the bedroom, a short connection ritual, then lights out, finishing around 7 p.m. for most 1-to-3-year-olds. Research consistently shows that toddlers with predictable routines fall asleep faster, wake less at night, and have better daytime moods, so here is the 7-step structure and how to adapt it when nights go sideways.
 
-> 📌 **Key Takeaway:** According to a 2023 CDC report, about 1 in 3 US babies under 1 still wakes at least twice a night. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [toddler development 12 24 months](/blog/toddler-development-12-24-months/).
+> 📌 **Key Takeaway:** Keep screens and roughhousing out of the last hour, and if your toddler stalls with 'one more,' decide the number of books or songs before you start and hold it kindly. For a related deep dive, see our guide on [toddler development 12 24 months](/blog/toddler-development-12-24-months/).
 
 ## Why Bedtime Routines Matter
 

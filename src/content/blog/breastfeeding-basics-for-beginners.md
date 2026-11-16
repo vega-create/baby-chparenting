@@ -10,11 +10,11 @@ image: "https://images.pexels.com/photos/3279208/pexels-photo-3279208.jpeg?auto=
 tags: ["breastfeeding", "newborn", "feeding tips", "latching", "nursing positions", "first-time mom"]
 ---
 
-Breastfeeding is one of the most natural things a mother can do for her baby, yet it rarely feels natural at first. If you are a first-time mom feeling overwhelmed, confused, or even frustrated by breastfeeding, you are not alone. Most mothers experience a learning curve, and with the right guidance and support, breastfeeding can become a comfortable and rewarding experience for both you and your baby.
+Breastfeeding works on supply and demand: nurse 8 to 12 times a day from the first hour, get a deep latch with a wide-open mouth and more areola above the lip than below, and judge success by wet diapers and weight gain rather than by how your breasts feel. The first two weeks are the learning curve, and colostrum in tiny amounts is all a newborn needs on day one. It rarely feels natural at first, and if you are feeling overwhelmed, confused, or frustrated, you are not alone.
 
 This comprehensive guide covers everything you need to know to get started, from the golden first hour to building a strong milk supply in the weeks ahead. If you need help with supply, see our guide on [how to increase breast milk supply](/blog/how-to-increase-breast-milk-supply/).
 
-> 📌 **Key Takeaway:** According to the World Health Organization (WHO), exclusive breastfeeding for the first 6 months is recommended for optimal infant health. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [breastfeeding and sleep training](/blog/breastfeeding-and-sleep-training/).
+> 📌 **Key Takeaway:** With my first baby no one had shown me what to do, and my milk did not really come in until I started massaging my breasts; with my second, caring for a toddler at the same time meant my supply faded sooner. Ask for a lactation consultant in the hospital, before problems set in. For a related deep dive, see our guide on [breastfeeding and sleep training](/blog/breastfeeding-and-sleep-training/).
 
 ## Why Breastfeeding Matters
 

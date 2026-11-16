@@ -12,9 +12,9 @@ image: "https://images.pexels.com/photos/8910219/pexels-photo-8910219.jpeg?auto=
 draft: false
 ---
 
-Just when you thought you had your baby's sleep figured out, the 8-month sleep regression arrives. This phase, sometimes called the 8-9-10 month regression, can throw off even well-rested families. The good news: unlike the 4-month regression, this one is temporary and tied to specific developmental leaps.
+The 8-month sleep regression (sometimes 8 to 10 months) is a 2-to-6-week stretch of bedtime resistance, 2 to 5 night wakings, standing in the crib, and short naps, driven by crawling, pulling up, and new separation anxiety; it passes once the new skills settle. The fix is to let your baby practice those skills by day, keep the bedtime routine exactly the same, respond to separation anxiety calmly, and recheck wake windows (about 2.5 to 3.5 hours at this age) rather than adding new sleep crutches. Unlike the 4-month regression, this one is temporary and tied to specific developmental leaps.
 
-> 📌 **Key Takeaway:** According to the National Institutes of Health (NIH), consistent bedtime routines reduce night wakings by up to 50% in infants 6-18 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [four month sleep regression](/blog/four-month-sleep-regression/).
+> 📌 **Key Takeaway:** Do not drop to one nap or start a new habit (feeding or rocking to sleep) to get through it; both tend to outlast the regression itself. For a related deep dive, see our guide on [four month sleep regression](/blog/four-month-sleep-regression/).
 
 ## What Is the 8-Month Sleep Regression?
 

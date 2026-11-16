@@ -12,9 +12,9 @@ image: "https://images.pexels.com/photos/7919595/pexels-photo-7919595.jpeg?auto=
 draft: false
 ---
 
-Naps are the unsung heroes of baby sleep. Get them right and nighttime sleep usually falls into place. Get them wrong and even the best bedtime routine can fall apart. Here's the age-by-age guide to how many naps your baby needs and how to handle each transition.
+Newborns take 4 to 5 naps a day, that drops to 3 naps around 5 to 6 months, 2 naps by 9 to 12 months, and a single midday nap from about 15 to 18 months, which most children keep until age 3 to 5. Total sleep runs 14 to 17 hours at 0 to 3 months, 12 to 15 hours from 4 to 11 months, and 11 to 14 hours in the second year, naps included. Get naps right and nighttime sleep usually falls into place, so here is the age-by-age guide and how to handle each transition.
 
-> 📌 **Key Takeaway:** According to a 2023 CDC report, about 1 in 3 US babies under 1 still wakes at least twice a night. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [how much milk by age](/blog/how-much-milk-by-age/).
+> 📌 **Key Takeaway:** A 30-minute nap at 4 to 6 months is one sleep cycle, not a problem to fix; the two-to-one nap transition between 13 and 17 months is the one that most often goes wrong when it is rushed. For a related deep dive, see our guide on [how much milk by age](/blog/how-much-milk-by-age/).
 
 ## Why Naps Matter
 

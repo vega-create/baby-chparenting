@@ -16,7 +16,7 @@ Choking is the leading cause of unintentional injury death in children under 1 y
 
 This guide gives you a complete, age-organized list of choking hazards, how to safely modify common foods, and what to do if a choking emergency happens.
 
-> 📌 **Key Takeaway:** According to Zero to Three, tantrums peak between 18 months and 3 years, then decline as language develops. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [how much milk by age](/blog/how-much-milk-by-age/).
+> 📌 **Key Takeaway:** Until age 4, cut grapes and cherry tomatoes in quarters lengthwise, hot dogs lengthwise then into pieces, and skip whole nuts, hard candy, popcorn, and chunks of raw apple or carrot entirely; a child who is coughing or crying is clearing it themselves, a silent child who cannot breathe needs back blows and chest thrusts, and every parent should take an infant CPR class. For a related deep dive, see our guide on [how much milk by age](/blog/how-much-milk-by-age/).
 
 ## Why Babies and Toddlers Choke
 

@@ -16,7 +16,7 @@ Starting solid foods is a major milestone, and the timing matters more than many
 
 By the end, you will have a clear, evidence-based plan you can actually follow, whether you choose purees, baby-led weaning, or a mixed approach.
 
-> 📌 **Key Takeaway:** According to the World Health Organization (WHO), exclusive breastfeeding for the first 6 months is recommended for optimal infant health. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [toddler development 12 24 months](/blog/toddler-development-12-24-months/).
+> 📌 **Key Takeaway:** Start around 6 months when your baby sits with minimal support, has lost the tongue-thrust reflex, watches you eat, and has about doubled their birth weight; begin with 1 to 2 tablespoons of an iron-rich food (fortified oat cereal, pureed meat, or lentils) once or twice a day, introduce allergens early, and keep milk as the main source of nutrition until 12 months. For a related deep dive, see our guide on [toddler development 12 24 months](/blog/toddler-development-12-24-months/).
 
 ## Why 6 Months Is the Recommended Age
 

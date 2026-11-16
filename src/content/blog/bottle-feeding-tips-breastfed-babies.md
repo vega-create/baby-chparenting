@@ -10,11 +10,11 @@ image: https://images.pexels.com/photos/3845459/pexels-photo-3845459.jpeg?auto=c
 tags: ["bottle feeding", "breastfeeding", "paced bottle feeding", "bottle refusal", "expressed milk", "breastfed baby", "combination feeding"]
 ---
 
-Whether you are heading back to work, want your partner to share feeding duties, or simply need the flexibility that bottle feeding provides, introducing a bottle to a breastfed baby is a milestone many families face. Done thoughtfully, this transition can be smooth for both parent and baby. Done too early or without the right approach, it can lead to frustration, bottle refusal, or breastfeeding difficulties.
+The sweet spot for a breastfed baby's first bottle is 3 to 4 weeks: breastfeeding is established but the baby is still flexible. Use a wide-base, slow-flow nipple, hold the bottle horizontal and let the baby pace the feed, and have someone other than the nursing parent offer it. Whether you are heading back to work, want your partner to share feeds, or simply need the flexibility, done thoughtfully the switch is smooth; done too early or too late it can mean bottle refusal or a dip in breastfeeding.
 
 This guide walks you through the best timing, techniques, and troubleshooting strategies to make bottle introduction a positive experience for everyone.
 
-> 📌 **Key Takeaway:** According to the World Health Organization (WHO), exclusive breastfeeding for the first 6 months is recommended for optimal infant health. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [night feeding tips and schedule](/blog/night-feeding-tips-and-schedule/).
+> 📌 **Key Takeaway:** With both of mine I combined breast and bottle and moved mostly to formula by about 3 months, so this transition was something we lived through twice; the paced-feeding technique below is what kept the breast from being rejected in between. For a related deep dive, see our guide on [night feeding tips and schedule](/blog/night-feeding-tips-and-schedule/).
 
 ## When to Introduce a Bottle to a Breastfed Baby
 

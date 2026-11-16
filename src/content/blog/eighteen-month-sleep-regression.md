@@ -12,9 +12,9 @@ image: "https://images.pexels.com/photos/13016264/pexels-photo-13016264.jpeg?aut
 draft: false
 ---
 
-The 18-month sleep regression has a reputation, and for good reason. It often coincides with the start of "big toddler" emotions, language explosions, and the urge to test every limit. Here's what causes it, how long it lasts, and what actually helps.
+The 18-month sleep regression is 2 to 6 weeks of bedtime battles, climbing out of the crib, repeated night wakings, and 5 a.m. starts, fueled by a language explosion, big toddler emotions, and limit-testing. What works is holding firm on boundaries while offering small choices (which pajamas, which book), naming feelings, handling separation anxiety gently, checking for real hunger, and making no big schedule changes until it passes. Here is what causes it, how long it lasts, and what actually helps.
 
-> 📌 **Key Takeaway:** According to the Sleep Foundation, newborns need 14-17 hours of sleep daily, while 1-year-olds need 11-14 hours. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [four month sleep regression](/blog/four-month-sleep-regression/).
+> 📌 **Key Takeaway:** A toddler who climbs out of the crib needs the mattress at its lowest setting now and a toddler bed only when climbing continues; the regression is not a reason to switch beds. For a related deep dive, see our guide on [four month sleep regression](/blog/four-month-sleep-regression/).
 
 ## What Is the 18-Month Sleep Regression?
 

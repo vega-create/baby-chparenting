@@ -12,9 +12,9 @@ image: "https://images.pexels.com/photos/13071794/pexels-photo-13071794.jpeg?aut
 draft: false
 ---
 
-The 2-year sleep regression is in many ways the most complex one yet. Your toddler now has language, imagination, and the ability to negotiate, all of which they bring to bedtime. Here's what's behind it and how to handle it.
+The 2-year sleep regression usually lasts 1 to 3 weeks and shows up as long bedtime negotiations, new fears of the dark, climbing out of the crib or bed, night wakings, and nap refusal; it stretches to 4 to 6 weeks when a new baby, a move, or starting daycare lands at the same time. What works is acknowledging fears without feeding them (a nightlight is fine, lying with them until asleep becomes the new rule), a visual bedtime chart, boundaries held with empathy, an OK-to-wake clock, and keeping the nap as long as possible. Your toddler now has language, imagination, and the ability to negotiate, and brings all three to bedtime.
 
-> 📌 **Key Takeaway:** According to the Sleep Foundation, newborns need 14-17 hours of sleep daily, while 1-year-olds need 11-14 hours. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [four month sleep regression](/blog/four-month-sleep-regression/).
+> 📌 **Key Takeaway:** Most 2-year-olds still need 11 to 14 hours of sleep; nap refusal at 2 is rarely readiness to drop the nap, which usually comes closer to 3 to 5. For a related deep dive, see our guide on [four month sleep regression](/blog/four-month-sleep-regression/).
 
 ## What Is the 2-Year Sleep Regression?
 

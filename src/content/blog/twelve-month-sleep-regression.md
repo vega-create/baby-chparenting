@@ -12,9 +12,9 @@ image: "https://images.pexels.com/photos/15352276/pexels-photo-15352276.jpeg?aut
 draft: false
 ---
 
-Right around the first birthday, many parents notice their good sleeper suddenly fights bedtime, wakes at night, or refuses naps. Welcome to the 12-month sleep regression, a brief but intense disruption tied to massive developmental change.
+The 12-month sleep regression is a 2-to-3-week bump of nap refusal (usually the morning one), bedtime protests, and night wakings tied to walking and a language burst; it looks like a nap transition but usually is not, and dropping the morning nap now can stretch the disruption to 4 to 8 weeks. Keep both naps, widen wake windows to 3 to 4 hours, give lots of daytime practice, keep the bedtime routine calm, and hold your approach steady. Welcome to the 12-month sleep regression, a brief but intense disruption tied to massive developmental change.
 
-> 📌 **Key Takeaway:** According to a 2023 CDC report, about 1 in 3 US babies under 1 still wakes at least twice a night. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [four month sleep regression](/blog/four-month-sleep-regression/).
+> 📌 **Key Takeaway:** The tell: a true nap transition shows up as consistent refusal for two or more weeks with a long settled night; a regression comes with night wakings and passes on its own. For a related deep dive, see our guide on [four month sleep regression](/blog/four-month-sleep-regression/).
 
 ## What Is the 12-Month Sleep Regression?
 

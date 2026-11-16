@@ -10,11 +10,11 @@ tags: ["homemade baby food", "baby food recipes", "baby purees", "batch cooking"
 description: "Learn how to make nutritious homemade baby food with easy puree recipes, batch cooking tips, safe storage methods, and a guide to texture progression for every stage."
 ---
 
-Making homemade baby food is one of the most rewarding things you can do as a parent. You control exactly what goes into every bite, you save money compared to store-bought options, and you can customize flavors and textures to your baby's preferences. Best of all, it is far easier than most people think.
+Homemade baby food needs only a steamer, a blender or fork, and lidded ice-cube trays: steam or bake single vegetables and fruits, puree with a little breast milk, formula, or cooking water, freeze in 1-ounce cubes, and thaw what you need. A $1.50 sweet potato makes 8 to 10 servings versus $1 to $2 a jar, you control salt and sugar, and you can thicken the texture as your baby's chewing improves. It is far easier than most people think.
 
 This guide covers everything from essential equipment and food safety basics to simple recipes, combination purees, and batch cooking strategies that will make your life easier.
 
-> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), most babies are developmentally ready for solids around 6 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby food stages explained](/blog/baby-food-stages-explained/).
+> 📌 **Key Takeaway:** Keep it safe with clean hands and surfaces, cool purees before freezing, and never refreeze thawed food; honey, added salt and sugar, and cow's milk as a drink stay out until 12 months. For a related deep dive, see our guide on [baby food stages explained](/blog/baby-food-stages-explained/).
 
 ## Benefits of Homemade Baby Food
 

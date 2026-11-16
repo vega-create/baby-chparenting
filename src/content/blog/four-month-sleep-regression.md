@@ -12,9 +12,9 @@ image: "https://images.pexels.com/photos/3933091/pexels-photo-3933091.jpeg?auto=
 draft: false
 ---
 
-If your once-sleepy newborn is suddenly waking every 90 minutes at night, you're likely facing the 4-month sleep regression. Unlike later regressions, this one isn't temporary in the same way. It marks a permanent change in how your baby sleeps, and understanding it is the key to getting through the rough patch.
+The 4-month sleep regression is not a phase that passes on its own: your baby's sleep cycles mature into adult-like light and deep stages, so a baby who was helped to sleep now wakes fully every 1 to 3 hours and needs the same help again. The worst usually lasts 2 to 6 weeks, and what actually ends it is a consistent sleep environment, predictable wake windows, practicing drowsy-but-awake, more calories during the day, and an early bedtime. If your once-sleepy newborn is suddenly waking every 90 minutes, this is why, and here is how to get through it.
 
-> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), roughly 70% of infants sleep through the night by 9 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [eight month sleep regression](/blog/eight-month-sleep-regression/).
+> 📌 **Key Takeaway:** Neither of my babies had a dramatic 4-month crash, but both were very light sleepers in the first weeks home; what bought us a longer first stretch was giving about 20% more milk at the last feed before bed, which lines up with the advice below to front-load calories into the day. For a related deep dive, see our guide on [eight month sleep regression](/blog/eight-month-sleep-regression/).
 
 ## What Is the 4-Month Sleep Regression?
 

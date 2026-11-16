@@ -10,11 +10,11 @@ tags: ["night feeding", "baby sleep", "dream feeding", "night weaning", "newborn
 description: "A complete guide to night feeding your baby, including how many feeds by age, dream feeding techniques, when babies can sleep through the night, and gentle night weaning strategies."
 ---
 
-Night feedings are one of the most exhausting yet essential parts of early parenthood. Those bleary-eyed 2 AM sessions can feel endless, but understanding why your baby needs them, how many to expect, and when they will naturally taper off can provide real comfort during those long nights.
+Newborns need 3 to 4 night feeds, that drops to 2 to 3 by 1 to 2 months, 1 to 2 from 3 to 6 months, and 0 to 1 from 7 months on; most babies can manage a 6-to-8-hour stretch once they weigh 12 to 14 pounds and are gaining well, and night weaning before then should be a pediatrician's call. Keep night feeds dim, quiet, and boring, and consider a dream feed before you go to bed. Those bleary-eyed 2 a.m. sessions can feel endless, but knowing how many to expect and when they taper off helps.
 
 This guide will walk you through everything about night feeds -- from the newborn days through the transition to sleeping through the night — and how [sleep training](/blog/breastfeeding-and-sleep-training/) fits into the picture for breastfeeding families -- so you can feel confident that your baby is well-fed and you are doing everything right.
 
-> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), roughly 70% of infants sleep through the night by 9 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [bottle feeding tips breastfed babies](/blog/bottle-feeding-tips-breastfed-babies/).
+> 📌 **Key Takeaway:** Both of my newborns were light sleepers in the first weeks, and the one thing that reliably bought us a longer first stretch was giving about 20% more milk at the bedtime feed; it is the same logic as the dream feed described below. For a related deep dive, see our guide on [bottle feeding tips breastfed babies](/blog/bottle-feeding-tips-breastfed-babies/).
 
 ## Why Night Feeds Are Necessary for Newborns
 

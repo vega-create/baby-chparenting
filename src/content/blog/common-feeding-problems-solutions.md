@@ -14,7 +14,7 @@ Feeding a baby should be one of the most natural things in the world, yet nearly
 
 Two things are worth knowing up front: first, most feeding problems are manageable with the right approach, and second, you should never hesitate to bring concerns to your doctor. This guide covers the most common feeding problems, what causes them, and when they cross the line from normal variation into territory that needs medical attention.
 
-> 📌 **Key Takeaway:** According to La Leche League International, breastfed babies typically nurse 8-12 times in 24 hours during the first weeks. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [bottle feeding tips breastfed babies](/blog/bottle-feeding-tips-breastfed-babies/).
+> 📌 **Key Takeaway:** Spit-up that comes with normal weight gain and a happy baby is reflux and needs no treatment; forceful vomiting, arching, feed refusal, or poor weight gain is GERD and needs a pediatrician. For colic, smaller calmer feeds, frequent burping, paced bottle feeding, and a Lactobacillus reuteri probiotic have the best evidence. For a related deep dive, see our guide on [bottle feeding tips breastfed babies](/blog/bottle-feeding-tips-breastfed-babies/).
 
 ## Spitting Up vs. Reflux: Understanding the Difference
 

@@ -12,9 +12,9 @@ image: "https://images.pexels.com/photos/10998327/pexels-photo-10998327.jpeg?aut
 draft: false
 ---
 
-The transition from two naps to one is a turning point in toddler sleep. Done well, it brings smoother days and more predictable bedtimes. Done too early, it can wreck weeks of sleep. Here's how to know when to drop the morning nap and how to do it without losing your mind.
+Most toddlers drop the morning nap between 14 and 18 months (15 to 16 months is most common), and the signs are a morning nap that takes 30+ minutes to start or gets refused, an afternoon nap that then fails, and bedtime drifting later; sleep researchers advise against dropping it before 12 months. The move itself is simple: push the single nap toward midday over one to two weeks and bring bedtime earlier while they adjust. Done well, it brings smoother days and more predictable bedtimes; done too early, it can wreck weeks of sleep, so here is how to tell the difference.
 
-> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), roughly 70% of infants sleep through the night by 9 months. This guide gives you evidence-based, practical guidance you can apply today.
+> 📌 **Key Takeaway:** Before you drop a nap, rule out the look-alikes: the 12- or 18-month regression, teething or a cold, travel, or a wake window that is simply too short. If the trouble clears in a week or two, it was not a nap transition.
 
 ## When Do Most Toddlers Drop the Morning Nap?
 

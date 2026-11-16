@@ -10,11 +10,11 @@ image: https://images.pexels.com/photos/5083236/pexels-photo-5083236.jpeg?auto=c
 tags: ["feeding schedule", "baby feeding", "breastfeeding", "formula feeding", "solid foods", "infant nutrition", "feeding by age", "newborn feeding"]
 ---
 
-One of the most common questions new parents ask is "How often should I feed my baby?" and "How much should my baby eat?" The answers change significantly as your child grows from a tiny newborn taking frequent small feedings to an active nearly-one-year-old eating three meals a day plus snacks.
+A newborn feeds 8 to 12 times a day, roughly every 1.5 to 3 hours; by 1 to 3 months that settles to about every 3 to 4 hours, by 4 to 6 months 5 to 6 feeds of 6 to 8 oz, and from 6 months milk drops to 4 to 6 feeds a day as solids come in, with many babies sleeping through by then. Feed on cue rather than by the clock in the early months, and watch hunger and fullness signals rather than the bottle. "How often should I feed my baby?" and "how much?" are the most common questions new parents ask, and the answers change significantly as your child grows from a tiny newborn to a nearly-one-year-old eating three meals a day plus snacks.
 
 Keep in mind that every baby is unique, and the schedules below are guidelines rather than rigid rules. Your baby's hunger cues, growth trajectory, and temperament should always guide your decisions. That said, having a framework helps you know what to expect and when to talk to your doctor.
 
-> 📌 **Key Takeaway:** According to La Leche League International, breastfed babies typically nurse 8-12 times in 24 hours during the first weeks. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [sleep training schedule by age](/blog/sleep-training-schedule-by-age/).
+> 📌 **Key Takeaway:** I breastfed both of mine at first and moved to formula around 3 months, pumping roughly every 3 hours in between; whatever you feed, the schedule above is a guide and your baby's weight gain and wet diapers are the real scorecard. For a related deep dive, see our guide on [sleep training schedule by age](/blog/sleep-training-schedule-by-age/).
 
 ## Feeding on Demand vs. Scheduled Feeding
 

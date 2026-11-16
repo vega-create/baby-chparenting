@@ -16,7 +16,7 @@ The bottle is comforting, familiar, and easy. But by 12 to 18 months, it is time
 
 This guide breaks the bottle-to-cup transition into a clear, gentle process that works for most toddlers — including the stubborn ones.
 
-> 📌 **Key Takeaway:** According to the American Academy of Pediatrics (AAP), most healthy infants need 2-2.5 oz of formula per pound of body weight per day. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [when to start solid foods](/blog/when-to-start-solid-foods/).
+> 📌 **Key Takeaway:** Offer an open or straw cup with water at meals from 6 months, move milk to a cup at 12 months, and have all daytime bottles gone by about 15 months with the bedtime bottle the last to go by 18 months, the AAP's latest; lingering bottles are linked to tooth decay, ear infections, and iron-deficiency anemia from drinking too much milk. For a related deep dive, see our guide on [when to start solid foods](/blog/when-to-start-solid-foods/).
 
 ## Why the Bottle Has to Go
 

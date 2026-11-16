@@ -14,7 +14,7 @@ Starting solids is one of the most exciting milestones in your baby's first year
 
 Gone are the days when bland rice cereal was the universally recommended first food. Today, pediatric nutrition experts encourage a diverse, nutrient-rich approach to starting solids. This guide covers the 15 best first foods for your baby, why each one is beneficial, and how to prepare them safely.
 
-> 📌 **Key Takeaway:** According to the CDC, 60% of US babies receive some breast milk at 6 months, but only 25% are exclusively breastfed. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [sensory play activities for babies](/blog/sensory-play-activities-for-babies/).
+> 📌 **Key Takeaway:** Lead with iron: iron-fortified oatmeal, pureed meat, egg, and lentils, then soft fruits and vegetables like avocado, sweet potato, banana, and peas; start around 6 months with 1 to 2 tablespoons once or twice a day, and skip honey, cow's milk as a drink, and choking-shaped foods until 12 months. For a related deep dive, see our guide on [sensory play activities for babies](/blog/sensory-play-activities-for-babies/).
 
 ## When to Start Solids
 
