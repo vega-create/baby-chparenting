@@ -10,11 +10,11 @@ image: "https://images.pexels.com/photos/6624450/pexels-photo-6624450.jpeg?auto=
 tags: ["baby bottles", "baby feeding", "colic", "breastfeeding", "formula feeding", "baby gear"]
 ---
 
-One of the most frequent questions new parents ask is which baby bottle they should choose. With dozens of brands and designs available -- each claiming to be the best -- the decision can feel overwhelming. The truth is that the best bottle is the one your baby accepts and that fits your feeding routine. If you are switching between breast and bottle, see our [bottle feeding tips for breastfed babies](/blog/bottle-feeding-tips-breastfed-babies/).
+The best baby bottle is the one your baby accepts, but a safe default is a BPA-free polypropylene (PP) or glass bottle with a slow-flow, wide-base nipple: plastic is light, cheap ($5 to $12), and accepted by daycares, while glass never leaches and stays clear (add a silicone sleeve so it survives drops). Breastfed babies do best with a wide-base, slow-flow nipple and paced feeding, and babies with gas or colic benefit from an anti-colic vent system. If you are switching between breast and bottle, see our [bottle feeding tips for breastfed babies](/blog/bottle-feeding-tips-breastfed-babies/).
 
 This guide covers the science behind bottle design, breaks down materials and nipple types, and provides evidence-based guidance on keeping bottles safe and clean. For a full overview of feeding approaches, read our [formula feeding guide](/blog/formula-feeding-complete-guide/).
 
-> 📌 **Key Takeaway:** According to the World Health Organization (WHO), exclusive breastfeeding for the first 6 months is recommended for optimal infant health. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [best baby monitors guide](/blog/best-baby-monitors-guide/).
+> 📌 **Key Takeaway:** Start on a slow-flow nipple and move up only when your baby seems frustrated, pulls away, or fusses during feeds, and never microwave a bottle, since uneven hot spots can scald. Plan on 8 to 12 small bottles if you bottle-feed exclusively in the newborn months, 4 to 6 for combination feeding, and 2 to 3 for occasional use. For a related deep dive, see our guide on [best baby monitors guide](/blog/best-baby-monitors-guide/).
 
 ## Bottle Materials: A Complete Comparison
 

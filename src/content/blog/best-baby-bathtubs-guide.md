@@ -10,9 +10,9 @@ image: "https://images.pexels.com/photos/914253/pexels-photo-914253.jpeg?auto=co
 tags: ["baby bathtubs", "bath safety", "baby gear", "newborn care", "bath time", "baby hygiene"]
 ---
 
-Bath time is one of those parenting milestones that can feel both exciting and nerve-wracking. Choosing the right baby bathtub makes a significant difference in how safe and enjoyable the experience is for you and your baby. This guide breaks down everything you need to know about baby bathtubs in 2026, based on published safety guidance and manufacturer specifications. For more essential gear, see our [nursery essentials checklist](/blog/baby-nursery-essentials-checklist/) and [baby registry guide](/blog/baby-registry-must-haves-checklist/).
+For most families the best baby bathtub is a convertible tub with a removable newborn sling or insert: it keeps a newborn's head above the water with both of your hands free, then converts to a sit-up tub that lasts to 24 months or beyond. Choose a foldable tub instead if you have a small bathroom or travel often, and remember that newborns start with sponge baths before moving to a tub at all. Whatever you buy, the three rules that matter are never leave your baby alone in the water, keep the bath at about 100°F (37.8°C), and use only about two inches of water for infants. For more essential gear, see our [nursery essentials checklist](/blog/baby-nursery-essentials-checklist/).
 
-> 📌 **Key Takeaway:** According to the CDC, 60% of US babies receive some breast milk at 6 months, but only 25% are exclusively breastfed. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [best baby monitors guide](/blog/best-baby-monitors-guide/).
+> 📌 **Key Takeaway:** Newborns need only two to three baths a week; more than that dries out their skin. A drain plug and a floating bath thermometer are the two features that make bath time noticeably easier. For a related deep dive, see our guide on [best baby monitors guide](/blog/best-baby-monitors-guide/).
 
 ## Types of Baby Bathtubs
 

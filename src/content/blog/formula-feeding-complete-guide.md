@@ -10,11 +10,11 @@ image: "https://images.pexels.com/photos/6849538/pexels-photo-6849538.jpeg?auto=
 tags: ["formula feeding", "bottle feeding", "infant nutrition", "newborn", "feeding guide"]
 ---
 
-Whether you have chosen formula feeding from the start, are supplementing alongside [breastfeeding](/blog/breastfeeding-basics-for-beginners/), or are transitioning from breast milk, formula provides complete nutrition for your baby. Modern infant formulas are carefully engineered to meet the nutritional needs of growing infants, and millions of babies around the world thrive on formula.
+For most healthy, full-term babies the right formula is a standard iron-fortified cow's milk-based formula, and switching between brands of the same type rarely makes a difference because the FDA regulates their composition. Move to a hydrolyzed (hypoallergenic) formula only on your pediatrician's advice for a confirmed cow's milk protein allergy, and know that the AAP finds few situations where soy formula is truly needed. Whether you have chosen formula from the start, are supplementing alongside [breastfeeding](/blog/breastfeeding-basics-for-beginners/), or are transitioning from breast milk, formula provides complete nutrition and millions of babies thrive on it.
 
 This guide covers everything you need to know about formula feeding, from selecting the right formula to preparing bottles safely and recognizing when something is not agreeing with your baby. For bottle selection guidance, see our [best baby bottles guide](/blog/best-baby-bottles-guide/).
 
-> 📌 **Key Takeaway:** According to the CDC, 60% of US babies receive some breast milk at 6 months, but only 25% are exclusively breastfed. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [tummy time complete guide](/blog/tummy-time-complete-guide/).
+> 📌 **Key Takeaway:** Measure water first, then add level scoops exactly as the label says (never extra water or extra powder), boil the water first if your baby is under 3 months, premature, or immunocompromised, and discard whatever is left in the bottle after a feed. A newborn takes 1 to 2 oz per feed 8 to 12 times a day, rising to 24 to 32 oz a day by 2 to 4 months. For a related deep dive, see our guide on [tummy time complete guide](/blog/tummy-time-complete-guide/).
 
 ## Types of Infant Formula
 

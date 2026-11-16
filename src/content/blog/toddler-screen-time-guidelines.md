@@ -12,9 +12,9 @@ image: "https://images.pexels.com/photos/3985170/pexels-photo-3985170.jpeg?auto=
 draft: false
 ---
 
-Screens are everywhere — TVs, tablets, phones, smart speakers, even cars and refrigerators. For toddlers, the developmental impact of screen time is real, but the rules around it have become more nuanced than the old "no screens" advice. This guide walks through the current American Academy of Pediatrics (AAP) screen time guidelines, what the research actually shows, and practical tips that work for real families.
+The AAP's answer is simple: no screen time before 18 months except video chatting, only high-quality programs watched together with a parent between 18 and 24 months, and no more than 1 hour a day of high-quality programming for ages 2 to 5, co-viewed with you. Keep screens out of bedrooms, off during meals, and off for the hour before bed. The rules have become more nuanced than the old "no screens" advice, so this guide walks through what the research actually shows and practical tips that work for real families.
 
-> 📌 **Key Takeaway:** According to Zero to Three research, brain development between 0-3 years forms the foundation for lifelong learning. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [toddler development 12 24 months](/blog/toddler-development-12-24-months/).
+> 📌 **Key Takeaway:** Under age 2, screen time mainly displaces the face-to-face interaction and active play that drive language development; the risk is lost time, not the screen itself. Video calls with family do not count toward the limit. For a related deep dive, see our guide on [toddler development 12 24 months](/blog/toddler-development-12-24-months/).
 
 ## Current AAP Screen Time Guidelines
 

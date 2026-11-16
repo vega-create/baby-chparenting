@@ -10,11 +10,11 @@ tags: ["cribs", "safe sleep", "nursery", "baby furniture", "CPSC", "convertible 
 description: "A pediatrician's guide to choosing the safest baby crib in 2026. Covers CPSC safety standards, crib types, safe sleep guidelines, mattress fit, and when to transition to a toddler bed."
 ---
 
-The crib is where your baby will spend more time than anywhere else during their first two years of life. The right crib and a proper sleep environment reduce risk and give parents confidence. Choosing a crib is not about finding the most beautiful piece of nursery furniture; it is about creating the safest possible sleep space for your child.
+Any new crib sold in the United States since June 2011 meets the CPSC's current standard (16 CFR 1219), so the safest crib is a new, non-drop-side crib with slats no more than 2 3/8 inches apart, a firm mattress that fits with no gap, and nothing inside but a fitted sheet. Prefer JPMA-certified and GREENGUARD Gold-certified models, and avoid used cribs made before 2011 or any crib with missing hardware. The crib is where your baby will spend more time than anywhere else in the first two years, so this is about the safest possible sleep space, not the most beautiful nursery furniture.
 
 Every year approximately 3,400 infants die from sleep-related causes in the United States, according to the CDC. Many of these deaths are preventable through safe sleep practices, and it all starts with the crib. This guide covers everything you need to know about crib safety standards, crib types, mattress selection, safe sleep setup, and when to make transitions as your child grows.
 
-> 📌 **Key Takeaway:** According to the Sleep Foundation, newborns need 14-17 hours of sleep daily, while 1-year-olds need 11-14 hours. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [best baby monitors guide](/blog/best-baby-monitors-guide/).
+> 📌 **Key Takeaway:** Lower the mattress to the bottom position before your baby pulls to stand, and move to a toddler bed once they climb out (most children transition between 18 months and 3 years). Bumpers, including mesh liners, pillows, blankets, and positioners never belong in the crib. For a related deep dive, see our guide on [best baby monitors guide](/blog/best-baby-monitors-guide/).
 
 ## Crib Safety Standards
 

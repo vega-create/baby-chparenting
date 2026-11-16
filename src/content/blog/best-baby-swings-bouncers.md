@@ -10,11 +10,11 @@ image: "https://images.pexels.com/photos/6849566/pexels-photo-6849566.jpeg?auto=
 tags: ["baby swings", "baby bouncers", "baby rockers", "baby soothing", "baby safety", "baby gear"]
 ---
 
-Baby swings and bouncers are some of the most beloved baby gear items for one simple reason: they give parents a safe place to set baby down while keeping baby content. A gently rocking bouncer or a rhythmically swinging seat can soothe a fussy infant when nothing else works, giving exhausted parents a few precious hands-free minutes.
+A swing or bouncer is for soothing an awake, supervised baby, never for sleep: since the CPSC's 2021 rule, nothing with a sleep surface angled more than 10 degrees may be sold for infant sleep, and the AAP says to move a baby who dozes off in a swing to a flat crib or bassinet right away. With that rule in mind, a lightweight bouncer ($20 to $30 for a basic model) is the most practical first buy, and a convertible rocker that grows into a toddler seat (up to 40 lbs) is the best long-term value. Both give exhausted parents a safe place to set baby down and a few precious hands-free minutes.
 
 However, these products come with important safety considerations that every parent needs to understand. This guide covers the differences between swings, bouncers, and rockers, explains current CPSC safety rules, reviews the features that matter most, and provides clear guidance on safe use.
 
-> 📌 **Key Takeaway:** According to a Consumer Reports 2024 review, safety features and ease of cleaning matter more than premium pricing for baby gear. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [best baby play mats](/blog/best-baby-play-mats/).
+> 📌 **Key Takeaway:** Use the harness every time, keep sessions short, and retire the bouncer once your baby can sit up unassisted (typically 5 to 7 months). Free movement on the floor, not time in a seat, is what builds your baby's strength. For a related deep dive, see our guide on [best baby play mats](/blog/best-baby-play-mats/).
 
 ## Swings vs. Bouncers vs. Rockers: Understanding the Differences
 

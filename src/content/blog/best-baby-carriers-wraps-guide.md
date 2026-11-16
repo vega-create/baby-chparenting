@@ -10,11 +10,11 @@ tags: ["baby carriers", "baby wraps", "babywearing", "ring sling", "soft structu
 description: "Find the best baby carrier or wrap for every stage from newborn to toddler. Covers wraps, ring slings, soft structured carriers, safety guidelines, ergonomic positioning, and benefits of babywearing."
 ---
 
-Babywearing is one of the oldest parenting practices in the world, and for good reason. Carrying your baby close to your body promotes bonding, soothes fussiness, supports healthy development, and gives you hands-free freedom to manage daily life. Whether you are navigating a grocery store, hiking a trail, or simply trying to eat lunch with both hands, a good carrier changes everything.
+If you only buy one carrier, make it a soft structured carrier (SSC) with a newborn setting or insert: it is the easiest type to learn, takes 1 to 2 minutes to put on, works from birth to 45 or 50 pounds, and supports back carries once your baby is older. For the newborn months a stretchy wrap ($40 to $70) is the coziest option, and a ring sling is the fastest for quick ups and downs. Babywearing can start from day one with a full-term, healthy newborn, as long as you follow the TICKS positioning rules and keep your baby's hips in the M-position.
 
 But the carrier market can be confusing. Wraps, ring slings, soft structured carriers, meh dais -- each type has distinct advantages, and the right choice depends on your baby's age, your body type, and your lifestyle. This guide walks you through every carrier type, safety essentials, ergonomic best practices, and practical recommendations to help you find the perfect fit from your baby's first weeks through toddlerhood.
 
-> 📌 **Key Takeaway:** According to Consumer Product Safety Commission (CPSC) data, over 60% of crib-related injuries involve unsafe sleep setups, not crib defects. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [best baby monitors guide](/blog/best-baby-monitors-guide/).
+> 📌 **Key Takeaway:** The two safety rules that matter most are airway and hips: keep your baby's face visible and close enough to kiss with the chin off the chest (TICKS), and seat them knees-above-bottom in the M-position to protect hip development. Stretchy wraps max out around 20 pounds, so plan to move to a woven wrap, meh dai, or SSC by 4 to 6 months. For a related deep dive, see our guide on [best baby monitors guide](/blog/best-baby-monitors-guide/).
 
 ## When Can You Start Babywearing?
 

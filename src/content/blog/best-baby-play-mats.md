@@ -10,9 +10,9 @@ image: "https://images.pexels.com/photos/3933091/pexels-photo-3933091.jpeg?auto=
 tags: ["play mats", "activity gyms", "tummy time", "baby development", "baby gear", "floor play", "Montessori"]
 ---
 
-From the earliest days of tummy time to the first wobbly steps, a good play mat is one of the most-used pieces of baby gear in your home. Play mats and activity gyms provide a safe, stimulating environment for your baby to explore, develop motor skills, and discover the world around them. In this guide, I will walk you through every type of play mat and activity gym available in 2026, help you understand the developmental benefits, and share what to look for when choosing the right one for your family.
+The best baby play mat for most families is a foam mat at least 0.8 inches (20 mm) thick, paired with an activity gym for the first six months: the gym arch gets your newborn reaching and tracking during tummy time, and the foam base keeps working through crawling and early walking on hard floors. Look for CertiPUR-US certified foam or OEKO-TEX fabrics and a wipeable surface, and save interlocking tiles for once your baby is crawling. Below I walk you through every type of play mat and activity gym available in 2026, the developmental benefits, and what to look for when choosing the right one for your family.
 
-> 📌 **Key Takeaway:** According to Zero to Three research, brain development between 0-3 years forms the foundation for lifelong learning. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [best baby travel gear essentials](/blog/best-baby-travel-gear-essentials/).
+> 📌 **Key Takeaway:** Activity gyms suit birth to about 6 months, foam mats work from birth through the toddler years, and interlocking tiles are for crawlers and up. Choose thickness by stage (0.4 in for newborn tummy time on carpet, 0.8 to 1 in for crawlers and early walkers on hard floors) and start supervised tummy time from day one, working up to about 60 minutes a day by 3 months as the AAP recommends. For a related deep dive, see our guide on [best baby travel gear essentials](/blog/best-baby-travel-gear-essentials/).
 
 ## Types of Baby Play Mats and Activity Gyms
 
