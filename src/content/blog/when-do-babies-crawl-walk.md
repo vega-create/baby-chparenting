@@ -10,13 +10,12 @@ image: "https://images.pexels.com/photos/3661348/pexels-photo-3661348.jpeg?auto=
 tags: ["baby crawling", "baby walking", "gross motor skills", "baby milestones", "first steps", "baby-proofing", "infant mobility", "when do babies walk"]
 ---
 
-# When Do Babies Crawl and Walk? Timeline, Signs, and How to Help
 
 Few milestones generate as much excitement and anticipation as watching your baby become mobile. From those first tentative scoots across the floor to the thrilling moment they take their first independent steps, your baby's journey to mobility is a remarkable process of building strength, coordination, and confidence.
 
 If you are wondering whether your baby is on track or looking for ways to support their physical development, this guide covers everything you need to know about crawling and walking milestones.
 
-> 📌 **Key Takeaway:** According to the CDC milestone tracker, 90% of babies sit without support by 9 months and walk independently by 18 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [when to start solid foods](/blog/when-to-start-solid-foods/).
+> 📌 **Key Takeaway:** Most babies crawl between 7 and 10 months (some skip it and go from sitting to cruising), and most walk around 12 months, with 9 to 18 months all normal; barefoot floor time, cruising between furniture, and push toys help, while sit-in walkers delay walking and cause injuries. Not bearing weight on the legs by 12 months or not walking by 18 months are the points to ask your pediatrician. For a related deep dive, see our guide on [when to start solid foods](/blog/when-to-start-solid-foods/).
 
 ## When Do Babies Start Crawling?
 

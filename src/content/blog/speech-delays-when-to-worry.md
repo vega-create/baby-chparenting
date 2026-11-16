@@ -14,7 +14,7 @@ draft: false
 
 "He's just a late talker — my brother didn't talk until 3 and he's fine now." Maybe. But waiting and hoping isn't always the right call. About 15–25% of toddlers experience some kind of language delay, and early intervention is dramatically more effective than later therapy. This guide helps you tell the difference between normal variation and red flags that warrant evaluation, with age-by-age benchmarks from the American Speech-Language-Hearing Association (ASHA) and the AAP.
 
-> 📌 **Key Takeaway:** According to Zero to Three, responsive caregiving in the first year shapes long-term emotional regulation and learning capacity. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [when to worry about developmental delays](/blog/when-to-worry-about-developmental-delays/).
+> 📌 **Key Takeaway:** Red flags by age: no babbling at 9 months, no words at 15 months, fewer than 6 words at 18 months, no two-word phrases or fewer than 50 words at 24 months, no 3-word sentences at 30 months, and any loss of words at any age. Get hearing tested first, then ask for an early-intervention evaluation; 'wait and see' costs the months when therapy works best. For a related deep dive, see our guide on [when to worry about developmental delays](/blog/when-to-worry-about-developmental-delays/).
 
 ## Speech Delay vs. Language Delay
 

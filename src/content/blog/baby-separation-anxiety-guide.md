@@ -10,11 +10,11 @@ image: https://images.pexels.com/photos/7282328/pexels-photo-7282328.jpeg?auto=c
 tags: ["separation anxiety", "baby development", "attachment", "daycare transition", "object permanence", "infant emotions", "parenting tips"]
 ---
 
-Few things tug at a parent's heart quite like the moment your baby reaches for you with tear-filled eyes as you try to leave the room. Separation anxiety is one of the most emotionally intense phases of early childhood -- for babies and parents alike. But here is the reassuring truth: separation anxiety is not a problem to fix. It is a sign that your baby's brain is developing exactly as it should.
+Separation anxiety starts around 6 to 8 months, when babies grasp that you still exist after you leave the room, peaks between 10 and 18 months, and eases by 2 to 3 years as language lets them understand that you come back. It is a sign of healthy attachment, not something to fix, and the way through is peekaboo and hiding games, short practice separations, a short and consistent goodbye ritual, and never sneaking out. Few things tug at a parent's heart like a baby reaching for you with tear-filled eyes as you leave, so here is what is happening and how to help.
 
 In this comprehensive guide, we will cover everything you need to know about baby separation anxiety -- when it starts, why it happens, and evidence-based strategies to help your child (and you) navigate it with confidence.
 
-> 📌 **Key Takeaway:** According to Harvard Center on the Developing Child, 90% of brain development happens before age 5, with the first 1,000 days being most critical. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [homemade baby food recipes guide](/blog/homemade-baby-food-recipes-guide/).
+> 📌 **Key Takeaway:** A calm, brief goodbye with a predictable return ('Mommy comes back after lunch') builds trust faster than a long drawn-out one; tears that stop within minutes of your leaving are the normal pattern. For a related deep dive, see our guide on [homemade baby food recipes guide](/blog/homemade-baby-food-recipes-guide/).
 
 ## What Is Separation Anxiety?
 

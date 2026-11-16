@@ -10,9 +10,9 @@ image: https://images.pexels.com/photos/3845456/pexels-photo-3845456.jpeg?auto=c
 tags: ["baby hearing", "hearing development", "newborn hearing screening", "hearing milestones", "hearing loss in babies", "baby development", "infant hearing test"]
 ---
 
-Your baby's ability to hear is one of the most critical foundations for language, social bonding, and cognitive development. Long before your newborn utters their first word, their auditory system has been working hard -- starting well before birth. Understanding how hearing develops, what screenings to expect, and which warning signs to watch for empowers you to give your child the best possible start.
+Babies hear from the womb, and 97% of U.S. newborns get a hearing screen before leaving the hospital; a newborn should startle at loud sounds and calm to your voice, a 4-to-6-month-old should turn toward sounds, and a 9-to-12-month-old should respond to their name and babble with varied sounds. Hearing is the foundation for language and bonding, so the goal is to catch any loss early: screened by 1 month, diagnosed by 3, and in intervention by 6 months. Here is how hearing develops, what the screenings involve, and the warning signs to watch for.
 
-> 📌 **Key Takeaway:** According to Zero to Three research, brain development between 0-3 years forms the foundation for lifelong learning. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby cognitive development guide](/blog/baby-cognitive-development-guide/).
+> 📌 **Key Takeaway:** A baby who passed the newborn screen can still lose hearing later after ear infections or illness; a toddler who stops responding to their name, turns the TV up, or whose speech stalls needs a hearing test before anything else. For a related deep dive, see our guide on [baby cognitive development guide](/blog/baby-cognitive-development-guide/).
 
 ## Hearing Development in the Womb
 

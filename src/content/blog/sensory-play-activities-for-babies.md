@@ -10,13 +10,12 @@ image: "https://images.pexels.com/photos/3661263/pexels-photo-3661263.jpeg?auto=
 tags: ["sensory play", "baby activities", "brain development", "sensory bins", "water play", "texture play", "infant play ideas", "developmental activities", "messy play"]
 ---
 
-# Sensory Play for Babies: 25 Age-Appropriate Activities
 
 Sensory play is any activity that engages your baby's senses -- and it is far more than just a fun way to pass the time. When your baby squishes play dough between their fingers, splashes in a basin of water, or listens to the crinkle of tissue paper, their brain is forming millions of neural connections that build the foundation for all future learning.
 
 This guide explains why sensory play matters, breaks down the seven senses involved, and provides 25 specific age-appropriate activities you can try at home with simple, everyday materials.
 
-> 📌 **Key Takeaway:** According to UNICEF early childhood research, children with engaged caregivers in infancy show 25% better language outcomes by age 3. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [best first foods for babies](/blog/best-first-foods-for-babies/).
+> 📌 **Key Takeaway:** Sensory play means letting your baby see, hear, touch, taste, smell, move, and feel their body in new ways, and in the first months that is as simple as high-contrast cards, your voice, different fabrics, and gentle rocking; from 6 months add safe-to-mouth textures, water play, and simple sensory bins, always supervised and with nothing small enough to choke on. For a related deep dive, see our guide on [best first foods for babies](/blog/best-first-foods-for-babies/).
 
 ## What Is Sensory Play and Why Does It Matter?
 

@@ -10,13 +10,12 @@ image: "https://images.pexels.com/photos/7269573/pexels-photo-7269573.jpeg?auto=
 tags: ["fine motor skills", "baby development", "pincer grasp", "baby activities", "hand-eye coordination", "toddler development", "developmental toys", "infant milestones"]
 ---
 
-# Baby Fine Motor Skills: Development Stages and Activities by Age
 
 Fine motor skills -- the small, precise movements of the hands and fingers -- are among the most important abilities your baby will develop during their first two years of life. These skills lay the foundation for virtually everything your child will do with their hands, from feeding themselves to drawing pictures, buttoning their shirt, and eventually writing their name.
 
 Understanding how fine motor skills develop and knowing which activities support that development gives you practical tools to help your baby build these critical abilities through everyday play.
 
-> 📌 **Key Takeaway:** According to La Leche League International, breastfed babies typically nurse 8-12 times in 24 hours during the first weeks. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
+> 📌 **Key Takeaway:** Hands go from a reflexive fist at birth to a whole-hand palmar grasp by 4 to 6 months, raking at 6 to 8 months, and a neat thumb-and-finger pincer grasp by 9 to 12 months, which is the skill that makes self-feeding possible. Hands that stay tightly fisted past the newborn months, or a baby who does not bring hands to the mouth or grasp what is placed in the palm, are reasons to ask your pediatrician. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
 
 ## What Are Fine Motor Skills?
 

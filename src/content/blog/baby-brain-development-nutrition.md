@@ -12,7 +12,7 @@ tags: ["baby brain development", "infant nutrition", "DHA for babies", "iron ric
 
 Your baby's brain is the most rapidly developing organ in their body. In the first three years of life, the brain grows from about 25% of its adult size at birth to nearly 80% by age 2 and 90% by age 3. This extraordinary growth is fueled by two equally important factors: the nutrients your baby consumes and the experiences they have. Understanding how nutrition and environment work together to build your baby's brain gives you the power to set the stage for a lifetime of learning.
 
-> 📌 **Key Takeaway:** According to Zero to Three, responsive caregiving in the first year shapes long-term emotional regulation and learning capacity. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [premature baby development adjusted age](/blog/premature-baby-development-adjusted-age/).
+> 📌 **Key Takeaway:** The brain goes from 25% of adult size at birth to 80% by age 2, and the nutrients that matter most for it are DHA, iron, zinc, choline, iodine, folate, and protein, delivered by breast milk or formula first and by iron-rich solids from 6 months. Food feeds the hardware; face-to-face talk and play wire it, and both matter equally. For a related deep dive, see our guide on [premature baby development adjusted age](/blog/premature-baby-development-adjusted-age/).
 
 ## The Brain Development Timeline
 

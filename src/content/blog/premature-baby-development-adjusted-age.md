@@ -10,9 +10,9 @@ image: https://images.pexels.com/photos/3985170/pexels-photo-3985170.jpeg?auto=c
 tags: ["premature baby", "preemie development", "adjusted age", "corrected age", "NICU", "preemie milestones", "early intervention", "kangaroo care"]
 ---
 
-If your baby arrived earlier than expected, you are likely navigating a world filled with unfamiliar medical terms, adjusted timelines, and a development path that looks different from what the parenting books describe. The reassuring news from the research is this: most preemies grow up to be healthy, thriving children. Understanding how prematurity affects development -- and knowing when to use adjusted age -- will help you track your baby's progress with realistic expectations and less anxiety.
+Judge a premature baby's milestones by adjusted age (chronological age minus the weeks early) until age 2, so a 6-month-old born 8 weeks early is compared to a 4-month-old; most preemies, especially the 70% born at 34 to 36 weeks, catch up by their second birthday. If your baby arrived early, the medical terms and shifted timelines can feel overwhelming, but the research is reassuring: most preemies grow into healthy, thriving children, and here is how to track their development fairly.
 
-> 📌 **Key Takeaway:** According to the CDC milestone tracker, 90% of babies sit without support by 9 months and walk independently by 18 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
+> 📌 **Key Takeaway:** Use adjusted age for milestones and growth charts, but chronological age for vaccines and for starting solids readiness checks; skin-to-skin kangaroo care and the NICU follow-up program are the two things with the strongest evidence for better outcomes. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
 
 ## Understanding Prematurity
 

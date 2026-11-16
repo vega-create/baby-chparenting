@@ -16,7 +16,7 @@ Your toddler ate everything at 11 months. Then around 14 months they started rej
 
 This guide explains why picky eating happens, walks through 7 evidence-based strategies that actually move the needle, and helps you tell the difference between typical pickiness and a feeding problem that needs evaluation.
 
-> 📌 **Key Takeaway:** According to the CDC, 60% of US babies receive some breast milk at 6 months, but only 25% are exclusively breastfed. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [toddler development 12 24 months](/blog/toddler-development-12-24-months/).
+> 📌 **Key Takeaway:** About half of toddlers go through picky eating, usually starting around 14 to 18 months, and the fix is structure, not pressure: you decide what and when, they decide whether and how much; serve one safe food at every meal, keep offering new foods 10 to 20 times, eat the same food with them, and skip bribes and praise. Refusing favorites for weeks or living on 'white foods' for a stretch is normal; dropping off the growth curve is not. For a related deep dive, see our guide on [toddler development 12 24 months](/blog/toddler-development-12-24-months/).
 
 ## Why Toddlers Become Picky
 

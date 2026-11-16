@@ -16,7 +16,7 @@ Crawling is one of the most exciting milestones — and one of the most variable
 
 This guide explains every crawling stage, when each typically appears, and how to support your baby's mobility journey.
 
-> 📌 **Key Takeaway:** According to the CDC milestone tracker, 90% of babies sit without support by 9 months and walk independently by 18 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby food stages explained](/blog/baby-food-stages-explained/).
+> 📌 **Key Takeaway:** Most babies crawl in some form between 6 and 10 months, moving through pivoting on the tummy (5 to 7 months), army crawling (6 to 8), rocking on hands and knees (7 to 9), and the classic cross-crawl (8 to 10); some scoot or skip crawling entirely, which the CDC and AAP no longer treat as a red flag. Daily floor time on the tummy is what builds the shoulder and core strength every version of crawling needs. For a related deep dive, see our guide on [baby food stages explained](/blog/baby-food-stages-explained/).
 
 ## When Do Babies Crawl?
 

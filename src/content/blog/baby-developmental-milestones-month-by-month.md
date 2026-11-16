@@ -10,13 +10,12 @@ image: "https://images.pexels.com/photos/3875089/pexels-photo-3875089.jpeg?auto=
 tags: ["baby milestones", "infant development", "month-by-month development", "CDC milestones", "baby growth", "developmental delays", "pediatric development"]
 ---
 
-# Baby Developmental Milestones: A Month-by-Month Guide (0-12 Months)
 
 Watching your baby grow and develop new skills is one of the most exciting parts of parenthood. From that first social smile to those wobbly first steps, every milestone marks an important leap in your child's development. Understanding what to expect at each stage helps you celebrate your baby's achievements and recognize when something might need attention.
 
 This comprehensive guide walks you through the major developmental milestones from birth to 12 months, organized across five key developmental domains. Keep in mind that every baby develops at their own pace, and the ages listed represent averages rather than strict deadlines.
 
-> 📌 **Key Takeaway:** According to Zero to Three research, brain development between 0-3 years forms the foundation for lifelong learning. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby names by season](/blog/baby-names-by-season/).
+> 📌 **Key Takeaway:** By 2 months most babies smile and hold their head up briefly; by 4 months they push up on their forearms and coo; by 6 months they roll and sit with support; by 9 months they sit alone, babble, and search for hidden toys; by 12 months they pull to stand, wave, and say a first word or two. The CDC's 2022 checklists mark what 75% of babies do by each age, so a few weeks either side is normal; losing a skill they already had is never normal and needs a same-week call to your pediatrician. For a related deep dive, see our guide on [baby names by season](/blog/baby-names-by-season/).
 
 ## Understanding the Five Developmental Domains
 

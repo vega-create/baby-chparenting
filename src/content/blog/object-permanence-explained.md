@@ -16,7 +16,7 @@ If you've ever played peekaboo with a 6-month-old and watched their face light u
 
 This guide explains how object permanence develops, when each stage happens, and the games that help your baby build this foundational thinking skill.
 
-> 📌 **Key Takeaway:** According to the CDC milestone tracker, 90% of babies sit without support by 9 months and walk independently by 18 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby food stages explained](/blog/baby-food-stages-explained/).
+> 📌 **Key Takeaway:** Object permanence develops gradually: before 4 months, out of sight is gone; from 4 to 8 months a partly hidden toy is found; by 8 to 12 months babies search for a fully hidden object, which is also when separation anxiety and peekaboo delight both peak. Hiding games, 'where did it go?' with cups, and rolling a ball behind a barrier are the play that builds it. For a related deep dive, see our guide on [baby food stages explained](/blog/baby-food-stages-explained/).
 
 ## What Is Object Permanence?
 

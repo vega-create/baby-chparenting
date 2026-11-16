@@ -14,7 +14,7 @@ Your baby's brain is the most rapidly developing organ in their body. In the fir
 
 Understanding how cognitive development unfolds gives you the power to support your baby's learning in meaningful, everyday ways -- no flashcards or expensive programs required.
 
-> 📌 **Key Takeaway:** According to Zero to Three, responsive caregiving in the first year shapes long-term emotional regulation and learning capacity. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby hearing development guide](/blog/baby-hearing-development-guide/).
+> 📌 **Key Takeaway:** Babies learn by doing: reflexes in the first month, repeating actions on their own body by 1 to 4 months, making things happen in the world by 4 to 8 months, goal-directed problem solving by 8 to 12 months, 'little scientist' experimenting at 12 to 18 months, and pretend play by 18 to 24 months. The best activities are free: your face, your voice narrating the day, tummy time, and letting them explore. For a related deep dive, see our guide on [baby hearing development guide](/blog/baby-hearing-development-guide/).
 
 ## What Is Cognitive Development?
 

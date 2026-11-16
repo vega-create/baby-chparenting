@@ -10,11 +10,11 @@ image: https://images.pexels.com/photos/3661348/pexels-photo-3661348.jpeg?auto=c
 tags: ["toddler development", "12 to 24 months", "toddler milestones", "toddler behavior", "language development toddler", "toddler tantrums", "toddler independence", "developmental milestones"]
 ---
 
-The period between 12 and 24 months is one of the most exciting -- and most challenging -- stages of your child's life. Your baby is becoming a toddler before your eyes, transforming from a crawling, babbling infant into a walking, talking, opinion-having little person. The developmental leaps during this year are staggering: first steps become confident walking, single words become short sentences, and a growing sense of self leads to both heartwarming moments of affection and the occasional spectacular meltdown.
+Between 12 and 24 months your toddler goes from first steps to running, from one or two words to about 50 by 18 months and two-word phrases by 24, from stacking two blocks to scribbling, and from needing you for everything to insisting on doing it themselves; tantrums, picky eating, and the word 'no' are all part of the same developmental surge. It is one of the most exciting and most exhausting years, turning a crawling, babbling infant into a walking, talking, opinion-having little person, and here is what to expect month by month.
 
 This guide walks you through what to expect in every area of development, what is typical toddler behavior (even when it feels anything but normal), and how you can support your child's growing independence while keeping them safe.
 
-> 📌 **Key Takeaway:** According to the AAP, developmental milestones occur in predictable patterns, but normal range can vary by 4-6 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
+> 📌 **Key Takeaway:** The milestones that most often prompt an evaluation at this age are language ones: no words by 15 months, no two-word phrases by 24 months, or losing words they had. For everything else, the range of normal is wide. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
 
 ## Physical Milestones: From First Steps to Running
 

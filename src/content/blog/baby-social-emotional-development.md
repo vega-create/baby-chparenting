@@ -10,11 +10,11 @@ image: https://images.pexels.com/photos/3875131/pexels-photo-3875131.jpeg?auto=c
 tags: ["social development", "emotional development", "attachment theory", "baby bonding", "temperament", "responsive parenting", "infant emotions", "secure attachment"]
 ---
 
-Long before your baby speaks their first word or takes their first step, they are already engaged in the most complex work of early life: building relationships. From the moment of birth, babies are wired for connection. They study faces, respond to voices, and communicate through cries, coos, and eventually those heart-melting first smiles.
+Secure attachment, which about 60 to 65% of babies have, comes from responding promptly and consistently to your baby's cues: in the first year you cannot spoil a baby by picking them up. Social smiles arrive at 6 to 8 weeks, stranger wariness around 6 to 8 months, parallel play in the second year, and real self-regulation only slowly through age 3. Long before your baby speaks a first word, they are doing the most complex work of early life, building relationships, and here is how that unfolds and how you shape it.
 
 Social and emotional development is the foundation upon which all other learning is built. A baby who feels safe, loved, and understood is a baby whose brain is optimally primed for exploring the world. This guide explores the science of how babies develop socially and emotionally, and how your everyday interactions shape these critical skills.
 
-> 📌 **Key Takeaway:** According to the AAP, developmental milestones occur in predictable patterns, but normal range can vary by 4-6 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
+> 📌 **Key Takeaway:** Temperament (easy, slow-to-warm, or spirited) is inborn and not your doing; what you control is the responsiveness around it, and that is what predicts secure attachment. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
 
 ## Attachment Theory: The Science of Bonding
 

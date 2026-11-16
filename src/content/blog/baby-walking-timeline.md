@@ -16,7 +16,7 @@ First steps are one of the most anticipated milestones — and one of the most v
 
 This guide breaks down every stage from pulling up to stable walking, what each looks like, and how you can support your baby's path to independent mobility.
 
-> 📌 **Key Takeaway:** According to the AAP, developmental milestones occur in predictable patterns, but normal range can vary by 4-6 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby language development timeline](/blog/baby-language-development-timeline/).
+> 📌 **Key Takeaway:** The average first steps come at 12 months, with 9 to 18 months all normal: pulling to stand at 8 to 10 months, cruising furniture at 9 to 12, standing alone at 10 to 13, and confident walking by 13 to 18 months. Barefoot floor time, cruising routes between furniture, and push toys help; sit-in walkers and shoes indoors do not. For a related deep dive, see our guide on [baby language development timeline](/blog/baby-language-development-timeline/).
 
 ## When Do Babies Walk?
 

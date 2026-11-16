@@ -16,7 +16,7 @@ The biggest predictor of potty training success isn't a method, a chart, or spec
 
 This guide walks through 12 signs your toddler is ready to potty train, the typical age range, what to do if you're seeing some signs but not all, and how to begin when the time is right.
 
-> 📌 **Key Takeaway:** According to Zero to Three research, brain development between 0-3 years forms the foundation for lifelong learning. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [sleep training schedule by age](/blog/sleep-training-schedule-by-age/).
+> 📌 **Key Takeaway:** Most children show readiness signs between 18 and 24 months, but actual training usually happens between 2 and 3 years, and a child who stays dry for 2+ hours, has predictable bowel movements, can pull pants up and down, and tells you about a wet diaper will train in days to weeks; a child pushed early takes months. My own two started later than most U.S. charts, in preschool at around 4 and 5, and both got it quickly, which is the whole point: readiness beats the calendar. For a related deep dive, see our guide on [sleep training schedule by age](/blog/sleep-training-schedule-by-age/).
 
 ## When Are Most Toddlers Ready?
 

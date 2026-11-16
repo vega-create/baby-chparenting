@@ -10,11 +10,11 @@ image: https://images.pexels.com/photos/8460049/pexels-photo-8460049.jpeg?auto=c
 tags: ["developmental delays", "baby milestones", "early intervention", "red flags development", "CDC milestones", "developmental screening", "baby development concerns"]
 ---
 
-One of the most common conversations parents have with their pediatrician begins with the words, "Should I be worried?" Every baby develops at their own pace, and the range of "normal" is wide. However, there are certain milestones and patterns that, when absent, warrant a closer look. The good news is that early identification and intervention can make a profound difference in a child's developmental trajectory.
+A delay means a skill is later than the typical range; the red flags that justify an evaluation rather than waiting are: not smiling or holding the head up at 4 months, not rolling or reaching at 6 months, not sitting with support or babbling at 9 months, not standing with support, searching for hidden toys, or saying 'mama' or 'dada' at 12 months, and at any age losing a skill they already had. 'Should I be worried?' is the question pediatricians hear most, and the range of normal is wide, but early identification and intervention change outcomes, so here is how to tell the difference.
 
 This guide walks you through what developmental delays actually mean, what to watch for at each age, and exactly how to take action if something concerns you.
 
-> 📌 **Key Takeaway:** According to the AAP, developmental milestones occur in predictable patterns, but normal range can vary by 4-6 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [speech delays when to worry](/blog/speech-delays-when-to-worry/).
+> 📌 **Key Takeaway:** Ask for the formal developmental screening at the 9-, 18-, and 30-month visits and the autism screen at 18 and 24 months; if you are still concerned, you can refer your child to your state's free early-intervention program yourself without a doctor's referral. For a related deep dive, see our guide on [speech delays when to worry](/blog/speech-delays-when-to-worry/).
 
 ## What Is a Developmental Delay vs. a Developmental Disorder?
 

@@ -16,7 +16,7 @@ The path from a wobbly newborn to a baby who sits independently and reaches for 
 
 This guide walks through that core development path, the muscles involved, what to expect at each stage, and exercises you can do at home to support strong, balanced motor development.
 
-> 📌 **Key Takeaway:** According to the AAP, developmental milestones occur in predictable patterns, but normal range can vary by 4-6 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
+> 📌 **Key Takeaway:** Sitting is built from the top down: head control by 2 months, a 45-degree push-up by 3 months, a propped tripod sit at 4 to 6 months, rolling both ways around 5 months, brief independent sitting at 7 months, and stable sitting with reaching by 8 to 9 months. Tummy time is the starting point for all of it, and a baby who cannot sit with support by 9 months should be seen by a pediatrician. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
 
 ## Why Tummy Time Is the Starting Point
 

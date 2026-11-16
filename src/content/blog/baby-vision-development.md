@@ -10,11 +10,11 @@ image: https://images.pexels.com/photos/3661272/pexels-photo-3661272.jpeg?auto=c
 tags: ["baby vision", "visual development", "baby eyesight", "infant milestones", "eye health", "high contrast cards", "pediatric ophthalmology", "baby development"]
 ---
 
-When your newborn gazes up at you with those wide, searching eyes, it is natural to wonder: what can they actually see? The answer is both less and more than you might expect. While a newborn's vision is blurry and limited, the visual system is developing at a breathtaking pace -- and your baby is seeing enough of you to begin the most important relationship of their life.
+A newborn sees clearly only about 8 to 12 inches away, exactly the distance to your face while feeding, and prefers high-contrast patterns; tracking starts at 1 to 2 months, the social smile at 6 to 8 weeks, full color vision at about 4 months, accurate reaching by 4 to 5 months, and both eyes working together by 6 months. By the first birthday vision is close to adult-level. When your baby gazes up at you with those wide, searching eyes, this is what they can actually see, month by month.
 
 Vision is not just about the eyes. It is a complex brain function that involves focusing, tracking, depth perception, color discrimination, and the ability to interpret visual information. This guide walks you through how your baby's visual world expands month by month, what you can do to support healthy vision development, and when to seek professional help.
 
-> 📌 **Key Takeaway:** According to Zero to Three, responsive caregiving in the first year shapes long-term emotional regulation and learning capacity. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
+> 📌 **Key Takeaway:** Eyes that cross or drift after 4 months, no tracking by 3 months, a white reflection in the pupil in photos, or constant tearing are reasons for an eye exam; the first routine vision check is at 6 to 12 months. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
 
 ## What Newborn Vision Looks Like
 

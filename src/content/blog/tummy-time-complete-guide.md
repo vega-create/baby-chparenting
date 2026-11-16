@@ -10,11 +10,11 @@ image: https://images.pexels.com/photos/3661335/pexels-photo-3661335.jpeg?auto=c
 tags: ["tummy time", "baby development", "motor development", "flat head prevention", "baby exercises", "newborn care", "infant milestones", "physical development"]
 ---
 
-If there is one piece of advice that nearly every pediatrician gives new parents, it is this: make tummy time a daily habit. Yet for many families, tummy time becomes a source of stress -- the baby cries, the parent feels guilty, and the whole exercise feels like a battle rather than a benefit.
+Start tummy time the first day home, 1 to 2 minutes chest-to-chest two or three times a day, and build to about 15 to 30 minutes total a day by 2 to 3 months and 60 minutes by 4 months, spread over short sessions on a firm mat; stop once your baby is crawling and moving on their own. It builds the neck, shoulder, and core strength behind rolling, sitting, and crawling and prevents flat spots on the head. Nearly every pediatrician gives this advice, yet for many families tummy time becomes a battle, so here is how to make it work for a baby who hates it.
 
 Here is the truth: tummy time does not have to be miserable. With the right techniques, timing, and a bit of creativity, you can turn tummy time into one of the most enjoyable parts of your baby's day. This complete guide covers everything from why tummy time matters to specific strategies for babies who seem to despise every second of it.
 
-> 📌 **Key Takeaway:** According to Zero to Three, responsive caregiving in the first year shapes long-term emotional regulation and learning capacity. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [formula feeding complete guide](/blog/formula-feeding-complete-guide/).
+> 📌 **Key Takeaway:** A baby who cries on the floor often tolerates tummy time on your chest, across your lap, or propped on a rolled towel; short and frequent beats long and miserable, and right after a feed is the worst time for a reflux baby. For a related deep dive, see our guide on [formula feeding complete guide](/blog/formula-feeding-complete-guide/).
 
 ## Why Tummy Time Matters
 

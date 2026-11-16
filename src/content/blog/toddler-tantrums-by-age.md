@@ -16,7 +16,7 @@ Toddler tantrums are not a sign of bad parenting or a "bad" child. They are a de
 
 This guide breaks down tantrums by age from 12 months through 3 years, why each looks different, and pediatric-recommended strategies that actually work.
 
-> 📌 **Key Takeaway:** According to the CDC milestone tracker, 90% of babies sit without support by 9 months and walk independently by 18 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [how much milk by age](/blog/how-much-milk-by-age/).
+> 📌 **Key Takeaway:** Tantrums peak between 18 and 24 months at 2 to 4 a day, lasting 5 to 15 minutes, and taper to a few a week by age 3 as language catches up with feelings. In the moment: stay calm, connect before you correct, name the feeling, and hold the limit; tantrums that involve self-injury, last more than 25 minutes, or happen many times a day after age 3 are worth discussing with your pediatrician. For a related deep dive, see our guide on [how much milk by age](/blog/how-much-milk-by-age/).
 
 ## Why Tantrums Happen
 

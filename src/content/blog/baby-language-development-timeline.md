@@ -10,13 +10,12 @@ image: "https://images.pexels.com/photos/3662770/pexels-photo-3662770.jpeg?auto=
 tags: ["baby language development", "speech milestones", "baby first words", "speech delay", "babbling", "language skills", "bilingual baby", "toddler speech"]
 ---
 
-# Baby Language Development: From First Coos to First Words
 
 Language development is one of the most fascinating aspects of your baby's growth. Long before your baby says their first recognizable word, a complex foundation of listening, understanding, and vocalization is being built. From those first adorable coos at two months to stringing two-word phrases together as a toddler, each stage builds on the one before in a beautifully orchestrated progression.
 
 Understanding the typical trajectory of language development helps you appreciate each stage, provides tools for encouraging your baby's communication skills, and alerts you to potential concerns that warrant professional attention.
 
-> 📌 **Key Takeaway:** According to UNICEF early childhood research, children with engaged caregivers in infancy show 25% better language outcomes by age 3. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
+> 📌 **Key Takeaway:** Babies coo at 2 to 3 months, babble from 4 to 6 months, string babble together by 6 to 9 months, say a first word around 9 to 12 months, reach roughly 50 words by 18 months, and combine two words by 24 months, and they understand far more than they say at every stage. The single biggest driver is how much you talk, read, and take turns with them. Both of my children spoke early and clearly, and I credit that less to anything special than to the fact that the adults around them talked to them constantly from day one. For a related deep dive, see our guide on [baby brain development nutrition](/blog/baby-brain-development-nutrition/).
 
 ## How Language Development Works: Receptive vs. Expressive Language
 

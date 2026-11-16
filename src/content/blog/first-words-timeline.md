@@ -12,11 +12,11 @@ image: "https://images.pexels.com/photos/3661263/pexels-photo-3661263.jpeg?auto=
 draft: false
 ---
 
-A baby's first word is a moment that almost every parent records, repeats, and remembers. But behind that single "mama" or "dada" lies a year of communication development — coos, babbles, gestures, and shared attention — that builds the foundation for spoken language.
+Most babies say a real first word between 10 and 12 months, collect words slowly until about 18 months, then take off: roughly 50 words by 18 months and two-word phrases by 24 months. What speeds it up is talking to them constantly, using the sing-song 'parentese,' reading every day, pausing to let them answer, and expanding what they say. Behind that first 'mama' or 'dada' lies a year of coos, babbles, gestures, and shared attention, and here is how to encourage it.
 
 This guide walks through every stage of language development from birth to age 2, what counts as a "real" word, when to expect milestones, and how to encourage talking through everyday play.
 
-> 📌 **Key Takeaway:** According to the CDC milestone tracker, 90% of babies sit without support by 9 months and walk independently by 18 months. This guide gives you evidence-based, practical guidance you can apply today. For a related deep dive, see our guide on [baby walking timeline](/blog/baby-walking-timeline/).
+> 📌 **Key Takeaway:** My own two talked early and spoke well, and the one thing I would tell any parent is that it comes from the adults around them: how much you narrate, answer, and read is the input their language is built from. Fewer than 6 words at 18 months or no two-word phrases at 24 months is the point to ask for an evaluation. For a related deep dive, see our guide on [baby walking timeline](/blog/baby-walking-timeline/).
 
 ## What Counts as a First Word?
 
