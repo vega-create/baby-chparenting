@@ -107,7 +107,7 @@ export const siteConfig = {
       { label: "About Us",     href: "/about/" },
       { label: "For Parents",  href: "/about/" },
       { label: "Faith Notes for Moms ↗", href: "https://faith.chparenting.com/" },
-      { label: "Mommy Startup ↗", href: "https://mommystartup.com/" },
+      { label: "Startup Notes for Moms ↗", href: "https://startup.chparenting.com/" },
     ],
     legal: [
       { label: "Privacy Policy", href: "/privacy/" },
