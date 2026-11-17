@@ -100,6 +100,8 @@ A rainbow baby is a baby born after a miscarriage, stillbirth, or infant loss. T
 
 Some parents choose a name that remembers the child who came before, while others prefer a name that belongs only to this baby. There is no right answer, and you do not owe anyone an explanation for your choice.
 
+One of the oldest stories about a long-awaited child is Hannah's, who named her son Samuel because she had asked God for him. Our sister site Faith Notes for Moms retells it for adults in [Hannah's story](https://faith.chparenting.com/blog/hannah-story-for-grown-ups/).
+
 ## How to Choose a Name with This Meaning
 
 **Decide how visible you want the meaning to be.** Miracle and Blessing say it out loud. Theodore and Beatrice carry the same idea quietly, and your child can share the story when they choose to.

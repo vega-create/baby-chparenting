@@ -125,6 +125,8 @@ For more options in this style, see our [gender-neutral baby names](/blog/gender
 
 **Naming customs differ between communities.** Ashkenazi Jewish families traditionally name a child after a relative who has passed away, while many Sephardi families name after living grandparents. If the name is meant to honor your heritage, it is worth asking your family which custom they follow.
 
+For the biblical names on this list, our sister site Faith Notes for Moms has a [Christian baby names tool](https://faith.chparenting.com/tools/christian-baby-names/) that gives the meaning, origin, and the Bible passage where each name first appears.
+
 ## FAQ
 
 ### What are popular Hebrew baby names right now?

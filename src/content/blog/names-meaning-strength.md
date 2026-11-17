@@ -95,6 +95,8 @@ Selecting a name is deeply personal. Consider how the name sounds with your surn
 
 Use our [Baby Name Generator](/tools/name-generator/) to explore more options or check the latest popularity data on our [Name Trends](/tools/name-trends/) page.
 
+If you are leaning toward a biblical name on this list, the verse most often paired with the idea of strength is Joshua 1:9, "be strong and courageous." Our sister site Faith Notes for Moms explains [what Joshua 1:9 means in context](https://faith.chparenting.com/blog/joshua-1-9-meaning/).
+
 ## FAQ
 
 ### What is the most popular baby name meaning strength?

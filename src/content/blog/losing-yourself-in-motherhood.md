@@ -64,6 +64,8 @@ The [daily affirmation](/tools/daily-affirmation-for-moms/) is deliberately not 
 
 The goal isn't to subtract motherhood and get the old you back. It's to build a self where the mother and the person both have room. Some things you loved won't come back, and new things will take their place. The woman who used to spend Saturday mornings at the climbing gym might become the one who takes her kid hiking and discovers she likes that more. That's not loss. That's matrescence finishing its work.
 
+Two threads that other moms have picked up: if faith is part of your life, our sister site Faith Notes for Moms collects [Bible verses about motherhood](https://faith.chparenting.com/blog/bible-verses-about-motherhood/) written for the week when nothing is left; and if having something that earns a little and is entirely yours appeals, [Startup Notes for Moms](https://startup.chparenting.com/blog/best-side-hustles-for-stay-at-home-moms-2026/) ranks side hustles by what the author has actually done, not what sounds good.
+
 ## A 30-day thread plan
 
 If you want somewhere to start, here's a month that asks almost nothing of you:

@@ -71,6 +71,8 @@ Burned-out moms often hold themselves to a standard nobody else is enforcing: a 
 
 Burnout lies to you about progress. A week of quick entries in the [mood journal](/tools/mood-journal/) will show you whether the plan is working, which is far more useful than how you feel at 5 p.m. on a Tuesday.
 
+If faith is part of how you cope, our sister site Faith Notes for Moms has a short list of [Bible verses about strength](https://faith.chparenting.com/blog/bible-verses-about-strength/) chosen for exactly this kind of week.
+
 ## What to say when someone says "but you get to stay home"
 
 You will hear it, from a relative, a working friend, sometimes your own partner. You don't owe anyone a defense, but a prepared sentence keeps the comment from landing in the guilt pile. A few that work:

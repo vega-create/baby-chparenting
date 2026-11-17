@@ -114,6 +114,8 @@ This makes them a practical choice for a child with grandparents in two countrie
 
 Try first and middle combinations in our [Baby Name Generator](/tools/name-generator/), or browse more [middle name ideas](/blog/best-middle-name-ideas/).
 
+If the meaning matters to you as much as the sound, our sister site Faith Notes for Moms has a plain-language note on what ["my grace is sufficient for you"](https://faith.chparenting.com/blog/gods-grace-is-enough/) actually meant in its original setting.
+
 ## FAQ
 
 ### What girl name means grace?

@@ -119,6 +119,8 @@ Today, biblical names remain among the most popular choices for parents worldwid
 
 > 💡 **Tip:** The most popular biblical baby names right now include Noah, Elijah, and Ethan for boys, and Naomi, Hannah, and Abigail for girls. If you want a biblical name that stands out, consider lesser-known gems like Asher, Selah, or Tobias. Use our [Name Generator](/tools/name-generator/) to find the perfect match, or check [Name Trends](/tools/name-trends/) to see how these names have ranked over the decades.
 
+If you want the story behind a name before you commit to it, our sister site Faith Notes for Moms has a [Christian baby names tool](https://faith.chparenting.com/tools/christian-baby-names/) that lists 179 biblical names with the meaning and the passage each one comes from, plus [Bible stories retold for kids](https://faith.chparenting.com/bible-stories/) so you can read your child the story of their name.
+
 ## FAQ
 
 ### Are biblical names only for religious families?

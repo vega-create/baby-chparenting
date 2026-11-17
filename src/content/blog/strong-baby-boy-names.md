@@ -137,6 +137,8 @@ Many strong names trace back thousands of years. According to Behind the Name an
 
 A name with roots that deep carries a different kind of weight than a trendy pick.
 
+If you choose one of the biblical names above, our sister site Faith Notes for Moms has those stories retold for young children, starting with [David and Goliath](https://faith.chparenting.com/blog/david-and-goliath-story-for-kids/) and [Daniel in the lions' den](https://faith.chparenting.com/blog/daniel-in-the-lions-den-story-for-kids/).
+
 ## Combining Strong First and Middle Names
 
 Pairings to consider:

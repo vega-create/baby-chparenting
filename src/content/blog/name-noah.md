@@ -35,6 +35,8 @@ Parents who love the peaceful feeling of Noah may also appreciate our collection
 - **Hebrew:** NO-akh (with a soft guttural ending)
 - **Common mispronunciations:** Rarely mispronounced in English, though the Hebrew version has a different final sound
 
+If you want to read the story behind the name to the child who ends up carrying it, our sister site has [Noah's Ark retold for kids ages 3 to 8](https://faith.chparenting.com/blog/noahs-ark-story-for-kids/), with questions to talk about at bedtime.
+
 ## Popularity History
 
 Noah's popularity trajectory is a textbook example of a biblical name finding perfect resonance with modern naming trends.
